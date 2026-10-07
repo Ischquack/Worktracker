@@ -1,0 +1,52 @@
+name: NAV job feed
+
+# Pulls NAV's official job feed and commits active Oslo ads to data/nav-ads.json.
+# Jobbjakt's morning run (07:50 Oslo time) reads that file.
+# GitHub cron is UTC and often runs late, so it refreshes every two hours
+# through the day; 03:17 UTC is the run that matters for the morning.
+on:
+  schedule:
+    - cron: "17 3-21/2 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Days to look back"
+        default: "8"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nav-feed
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull NAV feed
+        env:
+          NAV_FEED_TOKEN: ${{ secrets.NAV_FEED_TOKEN }}
+          MUNICIPALITIES: ${{ vars.NAV_MUNICIPALITIES || 'OSLO' }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '8' }}
+          OUTPUT: data/nav-ads.json
+        run: python scripts/nav_feed.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "jobbjakt-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/nav-ads.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "NAV feed: $(python -c "import json;print(json.load(open('data/nav-ads.json'))['count'])") active ads"
+            git push
+          fi
