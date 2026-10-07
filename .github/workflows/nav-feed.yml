@@ -1,7 +1,7 @@
 name: NAV job feed
 
 # Pulls NAV's official job feed and commits active Oslo ads to data/nav-ads.json.
-# Jobbjakt's morning run (07:50 Oslo time) reads that file.
+# Jobbjakt's morning run reads that file.
 # GitHub cron is UTC and often runs late, so it refreshes every two hours
 # through the day; 03:17 UTC is the run that matters for the morning.
 on:
