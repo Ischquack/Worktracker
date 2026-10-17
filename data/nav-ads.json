@@ -1,12 +1,37 @@
 {
- "generatedAt": "2026-10-17T16:24:11+00:00",
+ "generatedAt": "2026-10-17T19:23:14+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 393,
+ "count": 394,
  "ads": [
+  {
+   "id": "nav-47d87759-ae80-4539-83d9-e98bdb493ba9",
+   "uuid": "47d87759-ae80-4539-83d9-e98bdb493ba9",
+   "title": "Drosjesjåfør ",
+   "jobtitle": "Drosjesjåfør",
+   "employer": "Ledo Drive As",
+   "location": "OSLO",
+   "postalCode": null,
+   "published": "2026-10-17T19:31:08+02:00",
+   "updated": "2026-10-17T19:31:48.595552+02:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "2026-11-30",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/47d87759-ae80-4539-83d9-e98bdb493ba9",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Transport og lager / Tog-, sporvogn- og vegtrafikk"
+   ],
+   "description": "Vi søker en seriøs og motivert drosjesjåfør som ønsker en stabil og forutsigbar arbeidshverdag. Stillingen er som sjåfør på fast bil i Oslo. Erfaring er en fordel, men ikke et krav.\n\nHva vi ser etter\n\nVi ser etter en person som:\n\n• \nEr punktlig og ansvarsbevisst\n\n• \nEr serviceinnstilt og profesjonell\n\n• \nKan arbeide selvstendig og være pålitelig\n\n• \nTar vare på bilen\n\n• \nEr opptatt av å gi kundene en trygg og hyggelig opplevelse\n\n• \nØnsker en stabil og langsiktig jobb i et godt arbeidsmiljø\n\nKvalifikasjoner:\n\n• \nFørerkort klasse B\n\n• \nGyldig kjøreseddel for drosje\n\nArbeidsoppgaver\n\n• \nTransportere kunder trygt og effektivt i Oslo og omegn\n\n• \nGi god kundeservice og skape en hyggelig opplevelse for passasjerene\n\n• \nTa vare på bilen og utføre daglig kontroll før og etter skift\n\n• \nFølge interne rutiner og bidra til et godt samarbeid med kollega\n\n• \nDelta i opplæring ved behov og holde seg oppdatert på regler for persontransport\n\nVi tilbyr\n\n• \nFast og stabil bil\n\n• \nKonkurransedyktige og ryddige betingelser\n\n• \nGode inntjeningsmuligheter\n\n• \nOpplæring og støtte ved behov\n\n• \nFleksibilitet og god kommunikasjon\n\n• \nLangsiktig samarbeid for den rette personen"
+  },
   {
    "id": "nav-b85e8664-0cc6-4daa-ba3f-07b7b1aa2e4e",
    "uuid": "b85e8664-0cc6-4daa-ba3f-07b7b1aa2e4e",
