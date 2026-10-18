@@ -1,12 +1,60 @@
 {
- "generatedAt": "2026-10-17T23:07:20+00:00",
+ "generatedAt": "2026-10-18T08:00:52+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 394,
+ "count": 393,
  "ads": [
+  {
+   "id": "nav-ec439afb-7c8d-4525-a613-a9c3fe4d4b60",
+   "uuid": "ec439afb-7c8d-4525-a613-a9c3fe4d4b60",
+   "title": "Ledig stilling som barnehagelærer",
+   "jobtitle": "Barnehagelærer",
+   "employer": "Haugenstua Skoles Barnehage B/a",
+   "location": "OSLO, OSLO",
+   "postalCode": "0981",
+   "published": "2026-10-18T08:57:48+02:00",
+   "updated": "2026-10-18T08:58:35.355878+02:00",
+   "expires": "2026-10-24T00:00:00+02:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ec439afb-7c8d-4525-a613-a9c3fe4d4b60",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Utdanning / Barnehagelærer"
+   ],
+   "description": "Vil du være med på å gjøre en forskjell i barnas hverdag?\n\nEr du en varm, tydelig og engasjert barnehagelærer som brenner for gode relasjoner, barns utvikling og et godt arbeidsmiljø? Da kan du være den vi leter etter!\n\nHva vi ser etter\n\nVi ønsker oss en barnehagelærer som:\n\n• \nEr en varm, trygg og tydelig voksen som møter barna med respekt, anerkjennelse og gode forventninger.\n\n• \nHar forståelse for den autoritative voksenrollen og ønsker å utvikle denne i praksis.\n\n• \nEr aktivt til stede i barnas lek, utforskning og læring.\n\n• \nEr opptatt av å styrke barnas mestringstro gjennom støtte, oppmuntring og gode mestringsopplevelser.\n\n• \nHar et bevisst forhold til språk, kommunikasjon og samspill.\n\n• \nEr faglig engasjert, reflektert og nysgjerrig på egen praksis.\n\n• \nTar initiativ, ser løsninger og bidrar aktivt i hverdagen.\n\n• \nEr en god lagspiller som tar ansvar for både egne oppgaver og fellesskapet.\n\n• \nTør å gi og ta imot konstruktive tilbakemeldinger.\n\n• \nBidrar til et godt arbeidsmiljø gjennom respekt, samarbeid, humor og arbeidsglede.\n\n• \nHar tro på egen kompetanse, men også ydmykhet for at vi alltid har noe å lære.\n\nArbeidsoppgaver\n\nDu vil være en del av et team sammen med en pedagogisk leder og en pedagogisk medarbeider. Stillingen er som barnehagelærer uten leder- og personalansvar, men med en viktig faglig rolle i det pedagogiske arbeidet på avdelingen.\n\n• \nDelta aktivt i det daglige pedagogiske arbeidet på avdelingen.\n\n• \nBidra til planlegging, gjennomføring, dokumentasjon og vurdering av pedagogiske aktiviteter i samarbeid med pedagogisk leder.\n\n• \nLegge til rette for lek, læring, språkutvikling og mestring.\n\n• \nBidra til et trygt, inkluderende og utviklende barnehagemiljø.\n\n• \nDelta aktivt i faglige refleksjoner og barnehagens utviklingsarbeid.\n\n• \nBidra til et godt foreldresamarbeid.\n\n• \nTa medansvar for et positivt og inkluderende arbeidsmiljø.\n\nVi tilbyr\n\n• \nEn liten og oversiktlig barnehage med et stort hjerte.\n\n• \nEt mangfoldig fellesskap med engasjerte kolleger.\n\n• \nEn arbeidsplass som setter arbeidsmiljø, trivsel og gode relasjoner høyt.\n\n• \nEt profesjonsfellesskap der vi bygger kompetanse og mestringstro sammen.\n\n• \nMulighet til å utvikle deg gjennom refleksjon, faglige samtaler og samarbeid.\n\n• \nEn nær og tilgjengelig daglig leder.\n\n• \nMulighet til å bruke din pedagogiske kompetanse tett på barna.\n\n• \nLønns- og arbeidsvilkår etter gjeldende PBL-tariffavtale."
+  },
+  {
+   "id": "nav-9c1bf530-fe51-4432-b896-2ec68dff392e",
+   "uuid": "9c1bf530-fe51-4432-b896-2ec68dff392e",
+   "title": "Tech Lead (hands-on) – bygg revisjonsverktøyet fra første kodelinje",
+   "jobtitle": "Tech Lead",
+   "employer": "Equip Capital AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0166",
+   "published": "2026-10-18T08:00:00+02:00",
+   "updated": "2026-10-18T08:00:00.363593+02:00",
+   "expires": "2026-11-16T00:00:00+01:00",
+   "applicationDue": "2026-11-15",
+   "applicationUrl": "https://app.notion.com/p/ed63a66cf1e346c5b32c161d6e5bbeaa",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/9c1bf530-fe51-4432-b896-2ec68dff392e",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [],
+   "description": "Ti revisjonsselskaper. 180 ansatte. 7 000 kunder. Rundt 400 MNOK i omsetning – og ennå ikke én linje kode i verktøyet vi skal bygge.\n\nRAFT søker en hands-on Tech Lead som skal skrive den første linjen kode – og eie alt som kommer etter.\n\nProblemet du skal løse\n\nRevisorene våre jobber i dag slik bransjen har gjort i tjue år. De logger inn i regnskapssystemet til hver enkelt kunde – Tripletex, PowerOffice, Finago og flere – laster ned filer, jobber i Excel og dokumenterer til slutt i et eldre fagsystem.\n\nMesteparten av tiden går ikke til revisjon, men til å hente og flytte data. Det er ikke mangel på data. Det er mangel på verktøy. Det er der du kommer inn.\n\nArbeidsoppgaver\n\n• Bygge RAFTs interne revisjonsplattform fra bunnen av – fra hosting og database til backend, frontend og drift\n• Velge stack og arkitektur selv\n• Starte med en smal MVP der gevinsten er størst, og utvide derfra\n• Iterere i korte runder sammen med et fast testpanel av revisorer\n• Bygge integrasjoner mot regnskapssystemer og bruke historikk fra tusenvis av revisjonsoppdrag\n• Bruke AI aktivt i måten du utvikler på\n\nKvalifikasjoner\n\n• Du koder selv hver dag og er senior nok til å ta tekniske valg alene\n• Du har tatt minst én løsning fra tom mappe til brukere i produksjon, og har erfaring med hele stacken: hosting, database, backend, frontend og drift\n• Du har en etablert AI-arbeidsflyt, for eksempel med Claude Code, Codex eller tilsvarende, med tester og kodegjennomgang rundt\n• Du trives med brukere som ikke er teknologer, og liker å sitte sammen med dem for å forstå hvor det butter\n• Du er selvdreven og komfortabel med å være eneste tekniske person i en periode\n• Du snakker og skriver flytende norsk – brukerne er revisorer over hele landet\n\nStort pluss: erfaring med integrasjoner, fintech, ERP eller regnskap, bakgrunn fra startup eller små team, og god forståelse for datasikkerhet. Revisjon handler om noen av de mest sensitive dataene en bedrift har.\n\nRevisjon kan læres. Vi forventer ikke at du kan faget fra dag én, men at du er nysgjerrig og kaster deg over det.\n\nHvem du jobber med\n\n• Tommy Benum, CEO – statsautorisert revisor og tidligere partner i BDO\n• Frederic Asheim, CFO – bakgrunn fra Akers investeringsteam, EY og Deloitte, og har selv bygget flere av gruppens interne systemer\n\nKontoret deles med Alpha Revisjon, et av selskapene i gruppen, med over 20 revisorer. Brukerne dine sitter bokstavelig talt ved siden av deg.\n\nDet du bør vite tidlig\n\n• Du er alene som teknisk ressurs i starten. Teamet bygges videre når det gir mening.\n• Det finnes ingen kodebase, IT-avdeling, produktleder eller designer. Det er friheten – og det er jobben.\n• Rollen er utforskende, og vi vet ikke nøyaktig hvordan den ser ut om tolv måneder.\n\nVi tilbyr\n\n• Et blankt ark uten legacy – og ekte brukere fra dag én\n• Fast stilling med startup-tempo, uten de vanlige startup-risikoene. Kundene, omsetningen og brukerne finnes allerede.\n• Korte beslutningslinjer direkte med CEO og CFO, og kort vei til eier\n• En sterk eier: Equip Capital forvalter rundt 9 milliarder kroner og eier ca. 20 selskaper med rundt 4 000 ansatte\n• Konkurransedyktig totallønn med bonus knyttet til fremdrift, brukeradopsjon og realisert effektivitetsgevinst\n• En betydelig, langsiktig kompensasjonskomponent knyttet til suksessen til løsningene du bygger. Modellen utformes sammen med riktig kandidat.\n• Kontor sentralt i Oslo, ved Slottsparken\n\nSøknad\n\nSøk via søknadsskjemaet og last opp CV. Alle søknader behandles konfidensielt. Søknader vurderes fortløpende, og stillingen kan bli besatt før fristen.\n\nSpørsmål om rollen eller ønske om en uforpliktende prat? Kontakt Christoffer Dragøy i Your Headway på ctd@yourheadway.no.\n\nRekrutteringen gjennomføres av Your Headway – se flere ledige stillinger på yourheadway.no."
+  },
   {
    "id": "nav-47d87759-ae80-4539-83d9-e98bdb493ba9",
    "uuid": "47d87759-ae80-4539-83d9-e98bdb493ba9",
@@ -5689,7 +5737,7 @@
    "location": "OSLO, OSLO",
    "postalCode": "0257",
    "published": "2026-10-13T07:58:57+02:00",
-   "updated": "2026-10-13T13:36:52.821243+02:00",
+   "updated": "2026-10-18T01:32:07.07426+02:00",
    "expires": "2026-10-18T00:00:00+02:00",
    "applicationDue": "2026-10-18",
    "applicationUrl": "",
@@ -9822,7 +9870,7 @@
    "location": "OSLO",
    "postalCode": null,
    "published": "2026-10-10T12:55:42+02:00",
-   "updated": "2026-10-12T08:25:11.020508+02:00",
+   "updated": "2026-10-18T01:32:05.609282+02:00",
    "expires": "2026-10-18T00:00:00+02:00",
    "applicationDue": "2026-10-18",
    "applicationUrl": "",
@@ -9837,82 +9885,6 @@
     "Helse og sosial / Rådgivere innen sosiale fagfelt"
    ],
    "description": "Barnevernskonsulent til bydel Frogner, Oslo\n\nEmploi søker barnevernspedagoger og sosionomer til oppdrag som konsulent i barneverntjenesten i bydel Frogner. Du blir en del av en travel førstelinjetjeneste i indre Oslo vest, og jobber med undersøkelser, tiltak og løpende saksbehandling. Varighet 3 mnd\n\nArbeidsoppgaver\n\nGjennomføre undersøkelser etter bekymringsmeldinger, innenfor barnevernslovens frister\n\nSamtaler med barn, foreldre og nettverk, og innhenting av opplysninger fra skole, barnehage, helsestasjon og andre instanser.\n\nVurdere, iverksette og følge opp hjelpetiltak, og utarbeide og evaluere tiltaksplaner\n\nFølge opp barn og familier i tiltak\n\nLøpende saksbehandling og dokumentasjon i Modulus Barn.\n\nBidra i saksforberedelse til barneverns- og helsenemnda ved behov.\n\nKrav\n\nUtdanning som barnevernspedagog eller sosionom, med vitnemål på fullført utdanning\n\nErfaring med saksbehandlingssystemet Modulus Barn er et krav.\n\nGyldig politiattest, ikke eldre enn tre måneder, eller bekreftelse på at den blir fremlagt.\n\nØnsket\n\nErfaring fra kommunal barneverntjeneste, gjerne fra undersøkelse og tiltak.\n\nVidereutdanning innen barnevern eller relevant fagfelt\n\nGod skriftlig fremstillingsevne og trygghet i samtaler med barn og foreldre i krevende situasjoner\n\nVi tilbyr\n\nEt faglig krevende og meningsfullt oppdrag i Oslo\n\nKonkurransedyktige betingelser\n\nTett oppfølging fra Emploi gjennom hele oppdraget\n\nSøknad\n\nSosionomer med videreutdanning eller erfaring fra barneverntjenestens førstelinje er også velkommen til å ta kontakt. Send CV og en kort beskrivelse av erfaringen din til lp@emploi.no."
-  },
-  {
-   "id": "nav-2c174b99-2863-4844-8f25-f8631a16e9a6",
-   "uuid": "2c174b99-2863-4844-8f25-f8631a16e9a6",
-   "title": "Release Manager",
-   "jobtitle": "",
-   "employer": "Six Robotics",
-   "location": "OSLO, OSLO",
-   "postalCode": "0010",
-   "published": "2026-10-10T00:03:40.148+02:00",
-   "updated": "2026-10-12T08:26:28.844577+02:00",
-   "expires": "2027-04-11T00:00:00+02:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://thehub.io/jobs/6ac980dcf97db3707b21cd4a",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2c174b99-2863-4844-8f25-f8631a16e9a6",
-   "sourceurl": "https://thehub.io/jobs/6ac980dcf97db3707b21cd4a",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "IT / Utvikling",
-    "IT / Ledere av IKT-enheter"
-   ],
-   "description": "About Six Robotics\nAt Six Robotics, we build intelligent software that gives Unmanned Aerial Vehicles (UAVs) the ability to collaborate, adapt on the fly, and execute missions that were previously impossible.\nFrom our base in Oslo, our team of 90+ engineers, researchers, and defence specialists develops our autonomy and swarm platform, used by both government and industry. Working closely with the Norwegian Defence Research Establishment (FFI) and end users, we move quickly from ideas to field deployment, solving problems where software meets the real world.\nThe challenges we work on don’t come with existing playbooks. They demand deep technical thinking, close collaboration across disciplines, and the ability to learn quickly as both the technology and the company evolve.\nAt Six Robotics, every person executes with precision, adapts to changing conditions, and strengthens the team. If you’re excited about building systems that matter and growing alongside talented people that push boundaries every day, you’ll find no better place to deliver real-world impact.\n\nAbout The Role\nWe are looking for a dedicated Release Manager to own the execution and coordination of our quarterly releases, from the first planning session until the software is ready to be shipped to our customers.\nThis role is needed as the organization grows, and so does the complexity of our product development and engineering work. The Engineering teams are organised by discipline rather than by feature, which means deliveries depend on cross-team collaboration across Engineering, design, and testing. Until now, release coordination has been handled alongside other roles. As we scale, we need one person in Engineering who owns the release, sees the full picture and makes sure every team knows what it needs from the others to deliver on time and agreed quality.\nYou will make sure our releases are realistically scoped, that dependencies between teams surface early, and that code freeze, branch-off and backporting run smoothly. You will be the bridge between Product, who defines what we want to build, and Engineering, who knows what is possible. Going forward, you will also bring Operations, Customer Success and other stakeholders into a more structured release process.\nYour impact in the first year. You will turn release coordination into a clear, repeatable system. Team Leads will know what they depend on and when. Stakeholders will have real-time visibility into progress and risks. Engineering teams will work towards goals that are predictable and achievable, without unsustainable pressure.\n\nWhat success looks like after 6–12 months:\n• Public releases ship on time and with high quality\n\n• Delivery risks and issues are identified and addressed early\n\n• Stakeholders have clear visibility into progress, scope changes and risks\n\n• Engineering teams experience predictable goals, and internal roadmaps become a source of motivation\n\n• Release processes are structured and scalable, and cross-team alignment has measurably improved\n\n• Release cadence is reduced to two months, without increased total overhead or decreased delivery quality\n\nWhat You Will Do\n• Own the release end to end: Plan and run our quarterly public releases, from scoping to handover to Operations and Mission Readiness.\n\n• Make plans realistic: Work with stakeholders from Product and Engineering in the planning phase to turn requirements into scoped, achievable delivery plans that match engineering capacity.\n\n• Map and drive dependencies: Highlight inter-team dependencies across all engineering teams, design, test and Field Application Engineers.\n\n• Run the execution rhythm: Hold status meetings with Team Leads, track what is ahead of and behind schedule, and create action plans to avoid delay.\n\n• Manage risk and trade-offs: Identify risks and bottlenecks early, show the consequences of scope changes and delays, recommend mitigations and escalate when needed. You act as the buffer before change requests reach the engineering teams.\n\n• Create visibility and structure: Give leadership, Engineering, Product, and Operations clear reporting on progress and risks, and build release processes that scale as we grow.\n\nWhat we are looking for\nWe are looking for a specialised technical project manager to be a dedicated Release Manager. You will sit in Engineering and work closely with the CTO, VP Engineering, Chief of Staff, Team Leads, Product, and Operations. You need to understand engineers well enough to sense how serious a problem is when they raise it, but you are not the technical owner of the deliverables and you won't dive deep into technical problem-solving. This role is currently standalone in ownership and highly collaborative in execution, without any director reports, however the function and team might expand over time.\n• Efficient and clear communicator\n\n• Around 5 years of relevant experience, for example as a technical project manager, development manager or release manager coordinating development across multiple teams in a Software or Product environment\n\n• An engineering or computer science background, ideally from software or combined hardware/software environments\n\n• Solid technical understanding of version control, CI/CD pipelines, development and testing environments, and modern software delivery processes, and confidence working in Jira\n\n• Highly structured and organised, with a proven ability to set up processes, plan, and manage risk across many stakeholders\n\n• Proactive by nature: you spot and fill gaps, and when one release is out, you are already planning the next\n\n• Strong people skills and clear communication, both written and verbal, with the ability to stay positive and light-hearted when things get stressful\n\n• Motivated by owning a critical function in a fast-moving startup and comfortable operating in ambiguity\n\nIt is a plus if you have hands-on experience with Git, a software engineering background, or experience from defence or innovation-driven product development. Experience from management or strategy consulting can also be highly relevant if combined with strong technical understanding.\n\nWhy You Should Join\n• Build at the edge of what’s possible: You’ll work on problems the industry hasn’t solved yet, alongside people who are pushing the boundaries of autonomy, AI, and robotics.\n\n• Grow as fast as the company: We believe that chance favours those in motion. The role you’re hired into is just the starting point. As Six Robotics evolves, so will your scope, your responsibilities, and your opportunities.\n\n• Work with exceptional people: Surround yourself with people who raise your own standards. You’ll join a team of ambitious engineers and operators who care deeply about the quality of their work. Expectations are high, but so is the willingness to help each other improve.\n\n• Ship work that matters. The things you build don't stay in a demo environment. They get deployed, tested, and used where reliability and performance genuinely matter.\n\n• Supported by great benefits. Alongside meaningful work, we offer competitive compensation, equity potential, strong pension and insurance plans, gadget budgets, modern equipment, panoramic offices, and the flexibility you need to do your best work.\n\nOur Recruitment Process\nWe want hiring to be transparent and respectful of your time. We aim to move with momentum while making thoughtful hiring decisions - because every new team member matters.\nOur process typically includes:\n• Initial phone screening (30 min): A conversation about your background, motivation, and the role.\n\n• First interview (45 min): Meet the hiring team, learn more about Six Robotics, and discuss your experience.\n\n• Second interview (60–90 min): A technical discussion, typically including a take-home assignment or case presentation.\n\n• Final interview (45 min): Meet members of our leadership team to align expectations and answer any remaining questions.\n\nReference checks are conducted bef"
-  },
-  {
-   "id": "nav-e885ef50-c32b-4d50-8a53-de3200541886",
-   "uuid": "e885ef50-c32b-4d50-8a53-de3200541886",
-   "title": "Sykepleiere til spennende oppdrag ved legevakt i Oslo",
-   "jobtitle": "Erfarne legevaktsykepleiere",
-   "employer": "Nordlys Vikar",
-   "location": "OSLO, OSLO",
-   "postalCode": "0185",
-   "published": "2026-10-10T00:00:01+02:00",
-   "updated": "2026-10-12T08:26:06.995601+02:00",
-   "expires": "2026-11-30T23:59:59+01:00",
-   "applicationDue": "2026-11-30",
-   "applicationUrl": "https://apply.recman.page/job_post.php?id=489713&path=nav&sub_id=838",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e885ef50-c32b-4d50-8a53-de3200541886",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Sykepleier"
-   ],
-   "description": "Nordlys Vikar søker legevaktsykepleier til oppdrag i Oslo\nVil du kombinere faglig utvikling i vakre Oslo. Vi søker en sykepleier til spennende vikariat i et område kjent for natur, varme og godt arbeidsmiljø. \n\nOm oppdraget\nDu blir en del av et sterkt team som jobber for å skape trygghet, kvalitet og gode opplevelser for beboerne. Oppstart er snarest og oppdraget varer til ut november, og du vil få en variert arbeidshverdag med både selvstendige oppgaver og tett samarbeid med kollegaer.\n\nKvalifikasjoner\n• Norsk autorisasjon som sykepleier\n• Minimum 2 års erfaring som sykepleier\n• Gode norskkunnskaper, både muntlig og skriftlig\n• Erfaring fra legevakt\n• Evne til å jobbe selvstendig og i team\nVi tilbyr\n• Oppdrag i naturskjønne omgivelser\n• Boligstøtte og reiseordning ved behov\n• Profesjonell oppfølging og faglig støtte\n• Konkurransedyktige betingelser og gode vilkårer\nTiltredelse: Snarest\nVil du bidra med din kompetanse i et lokalsamfunn som verdsetter helsepersonell høyt? \n\nSend oss din interessemelding og CV – vi gleder oss til å høre fra deg!\n\nKontaktperson:\nMona Forsberg\nE-post: mona@nordlysvikar.no\nTlf: 919 01 087"
-  },
-  {
-   "id": "nav-96f1736b-7d72-4570-88bd-381d1970076a",
-   "uuid": "96f1736b-7d72-4570-88bd-381d1970076a",
-   "title": "Rådgiver/Seniorrådgiver, Virksomhetsjuridisk enhet, 30038652 og 30031903",
-   "jobtitle": "Rådgiver/Seniorrådgiver, Virksomhetsjuridisk enhet 30038652 og 30031903",
-   "employer": "Utenriksdepartementet",
-   "location": "OSLO, OSLO",
-   "postalCode": "0030",
-   "published": "2026-10-10T00:00:00+02:00",
-   "updated": "2026-10-13T13:04:29.967361+02:00",
-   "expires": "2026-11-01T00:00:00+01:00",
-   "applicationDue": "2026-11-01T00:00:00",
-   "applicationUrl": "https://jobseeker.jobbnorge.no/apply/309896",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/96f1736b-7d72-4570-88bd-381d1970076a",
-   "sourceurl": "https://jobbnorge.no/ledige-stillinger/stilling/309896",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
-   ],
-   "description": "Om stillingen\nVirksomhetsjuridisk enhet bistår Utenriksdepartementet og utenriksstasjonene i juridiske spørsmål. Enheten er ansvarlig for å ivareta, utvikle og tolke rettsområder som gjelder nasjonal privat og offentlig rett, herunder forvaltningsrett, offentleglova, kontraktsrett, tilskuddsforvaltning, statsstøtteregelverket, forsikring, helse, skatt, trygd, særavtaler for utsendte, personvern og erstatningsrett. Ansvarsområdet omfatter også bistand i større lovrevisjoner, regelverksarbeid og forhandlingsprosesser, samt klagesaker og rettslige prosesser.\nEnheten ble etablert høsten 2024 og består i dag av sju saksbehandlere og én enhetsleder, organisert i samme seksjon som Enhet for informasjonsforvaltning og Enhet for innsyn og offentlighet. Seksjon for virksomhetsjuridiske spørsmål og informasjonsforvaltning er en av seks seksjoner i Avdeling for Mennesker og organisasjon i Utenriksdepartementet.\n\nDette er to stillinger. En fast stilling og en midlertidig stilling med varighet to (2) år\n\nAnsvars- og arbeidsområder\nVi søker to engasjerte og kompetente jurister med interesse for utenrikstjenestens samfunnsoppdrag. For de rette kandidatene er dette en faglig utfordrende og spennende rolle hvor en får innsikt i departementsarbeid og et bredt spekter av juridiske fagfelt. Oppgaver vil være innenfor enhetens ansvarsområde og vil bli tillagt stillingen avhengig av kompetanse. Leder kan endre stillingens innhold ved behov. \n\nKvalifikasjoner\nMå ha juridisk embetseksamen/master i rettsvitenskap med godt resultat\nMå ha god skriftlig og muntlig fremstillingsevne på norsk og engelsk\nRelevant arbeidserfaring med juridiske spørsmål innenfor enhetens fagområder vil være en fordel\n\nPersonlige egenskaper\nGode analytiske evner\nPlanlegge og organisere: setter tydelige mål, planlegger effektivt og følger opp for å nå mål\nHandlekraft: Tar initiativ og ansvar, gir raske, klare anbefalinger og har evne til selvstendig arbeid \nFølge prinsipper og verdier: Opptrer profesjonelt og med høy standard, fremmer likestilling, inkludering og samarbeid\n\nAndre forhold\nDersom det er kvalifiserte søkere med funksjonsnedsettelse, hull i CV eller innvandrerbakgrunn, vil vi innkalle minst én søker i hver av disse gruppene til intervju. For å bli vurdert som søker i nevnte grupper må du oppfylle visse krav. Les mer om dette på https://arbeidsgiver.difi.no/positivsaerbehandling.\nVi oppfordrer deg til å krysse av i jobbsøkerportalen dersom du har funksjonsnedsettelse, hull i CV eller innvandrerbakgrunn. Avkrysningene dine vil inngå i anonymisert statistikk i alle statlige virksomheters årsrapporter.\n\nVilkår/betingelser\nSøkere må være norske statsborgere.\nAnsettelse i stillingen forutsetter sikkerhetsklarering på nivå HEMMELIG og NATO SECRET på tiltredelsestidspunktet.\nStillingen avlønnes som rådgiver/seniorrådgiver (stillingskode 1436/ 1364) med bruttolønn pr. år fra kr 665 900 – 920 000 jf.\nHovedtariffavtalene i staten.\nUtlysningen gjelder en fast stilling og en midlertidig stilling for to år. Den midlertidige stillingen lyses ut iht. statsansatteloven § 9 første ledd, bokstav a).\nDu blir en del av et sterkt fagmiljø med engasjerte og dyktige kolleger. Vi legger vekt på å gi selvstendig ansvar, men også å gi veiledning og oppfølgning etter behov. God pensjonsordning gjennom Statens pensjonskasse. Fleksitid og sommertid.\n\nKontaktinformasjon\nUnderdirektør/Enhetsleder Kathrina Ramberg, kathrina.ramberg@mfa.no, tlf. 92852204\nAvdelingsdirektør Siri Veseth Meling, siri.veseth.meling@mfa.no, tlf. 93427485\nEnhet for rotasjon og rekruttering: (spørsmål om rekrutteringsprosessen) Seniorrådgiver Kari Lien Aaberg, Kari.Lien.Aaberg@mfa.no, tlf.\n92414664"
   }
  ]
 }
