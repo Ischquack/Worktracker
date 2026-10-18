@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-18T19:25:34+00:00",
+ "generatedAt": "2026-10-18T23:11:12+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 393,
+ "count": 391,
  "ads": [
   {
    "id": "nav-eecadd36-1fde-49f0-bb60-f2a2e331bb3a",
@@ -5827,57 +5827,6 @@
     "Håndverkere / Elektriker/elektro"
    ],
    "description": "Ønsker du å jobbe med spennende næringsprosjekter? Vil du ha en stabil arbeidshverdag med gode utviklingsmuligheter? Da kan dette være muligheten for deg - søk i dag!\n\nI rollen som elektriker hos Datek Installasjon vil du jobbe med varierte oppgaver innen service og større prosjekter i næringsmarkedet. Arbeidsområdet vil i hovedsak være i Oslo.\n\nDine hovedsakelige arbeidsoppgaver:\n\n• \nServiceoppdrag for profesjonelle kunder, hvor du får stor grad av selvstendighet og kundekontakt\n\n• \nDeltakelse i større og komplekse prosjekt, blant annet innen sykehus, kontorbygg og andre næringseiendommer\n\n• \nInstallasjon og tekniske løsninger - ofte som del av moderne og teknisk avanserte bygg\n\n• \nFeilsøking og forbedring av eksisterende anlegg, hvor din kompetanse virkelig kommer til nytte\n\nFor å lykkes i rollen tror vi at du har:\n\n• \nMinimum 2 års erfaring som elektriker\n\n• \nNorsk fagbrev gruppe L\n\n• \nGode skandinaviske språkferdigheter, muntlig og skriftlig\n\nVi ser etter deg som er ansvarsfull, lærevillig og stolt av faget ditt, og som trives med å samarbeide i team og bidra til et godt arbeidsmiljø.\n\nDatek Installasjon tilbyr deg:\n\n• \nSpennende og varierte prosjekter, blant annet innen sykehus og verneverdige bygg\n\n• \nGode utviklingsmuligheter i en solid og etablert virksomhet\n\n• \nEt sosialt og inkluderende arbeidsmiljø med aktiviteter og arrangementer\n\nHøres dette interessant ut? Da vil vi gjerne høre mer om deg - søk i dag!\n\nDatek Installasjon samarbeider med rekrutteringsfirmaet Jobway i denne prosessen. Vi vurderer søknader fortløpende, og din søknad vil bli behandlet konfidensielt. Har du spørsmål, er du velkommen til å kontakte rekrutteringskonsulent Tiril Lundell Grande på e-post: tiril.grande@jobway.no eller telefon: +47 994 73 474."
-  },
-  {
-   "id": "nav-ce7f0154-4579-478a-8903-c992b1c7cec1",
-   "uuid": "ce7f0154-4579-478a-8903-c992b1c7cec1",
-   "title": "2 Part-time position as a Kitchen Employee",
-   "jobtitle": "Kjøkkenarbeider",
-   "employer": "Big Beefy As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0257",
-   "published": "2026-10-13T07:58:57+02:00",
-   "updated": "2026-10-18T01:32:07.07426+02:00",
-   "expires": "2026-10-18T00:00:00+02:00",
-   "applicationDue": "2026-10-18",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ce7f0154-4579-478a-8903-c992b1c7cec1",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "2026-10-15",
-   "occupations": [
-    "Reiseliv og mat / Reiseliv, hotell og overnatting"
-   ],
-   "description": "🍔 Kitchen Staff -- Part-time Position\n\nThis job is perfect for someone who wants extra work during the weekends.\n\nGrills Ville at Frogner Veien 9, Oslo, is looking for a dedicated and energetic Kitchen Employee to join our team!\n\n🔥****We're looking for someone who:\n\n• \nWorks fast and efficiently\n\n• \nIs a team player and loyal\n\n• \nIs reliable and hard-working\n\n• \nHas education or experience from restaurants\n\n• \nCan speak and understand English\n\n🍟****We offer:\n\n• \nFull training and supervision\n\n• \nA nice and friendly work environment\n\n• \nA modern and newly equipped workplace\n\n• \npart-time position\n\n📍 Location: Grills Ville, Frogner Veien 9, 0257 Oslo\n\n📞 Phone: 47 97 97 97 06\n\n📧 How to apply:\n\nSend a short application with CV to\n\n👉 grill's-ville@hotmail.com"
-  },
-  {
-   "id": "nav-1b2dfcab-a73a-4d27-b2ff-895ec9707f76",
-   "uuid": "1b2dfcab-a73a-4d27-b2ff-895ec9707f76",
-   "title": "Vil du være med å videreutvikle HMS-arbeidet i en av Norges viktigste virksomheter?",
-   "jobtitle": "Fagleder HMS",
-   "employer": "TINE SA",
-   "location": "OSLO, OSLO",
-   "postalCode": "0950",
-   "published": "2026-10-13T07:46:59.878076041+02:00",
-   "updated": "2026-10-13T07:47:00.061606+02:00",
-   "expires": "2026-10-18T21:59:59+02:00",
-   "applicationDue": "2026-10-18T00:00:00Z",
-   "applicationUrl": "https://tine-sa.contactrh.com/jobs/14035/44479797/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1b2dfcab-a73a-4d27-b2ff-895ec9707f76",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Personal, arbeidsmiljø og rekruttering",
-    "Kontor og økonomi / Ledelse, administrasjon og rådgivning"
-   ],
-   "description": "Vi søker fagleder HMS til vår konsernfunksjon for HMS i TINE Gruppa!Er du en faglig sterk HMS-ressurs med gjennomføringsevne og et brennende engasjement for helse, miljø og sikkerhet? Ønsker du å bidra til lavere sykefravær, færre skader og en sterk HMS-kultur i hele organisasjonen? Da kan dette være muligheten for deg! \n Du får en nøkkelrolle i et kompetent og engasjert fagmiljø innen kvalitet og HMS. Her vil du være med på å videreutvikle vårt HMS-arbeid, støtte ledere og HMS- og kvalitetsledere i TINE og våre datterselskaper, samt sikre at vi har effektive rutiner og systemer som støtter våre mål på området. For å være tett på og støtte våre anlegg og døtre på en best mulig måte, vil noe reisevirksomhet måtte påregnes.\n I rollen vil du blant annet:• Være en pådriver for videreutvikling av det systematiske HMS-arbeidet.\n• Planlegge og gjennomføre opplæring og kompetansehevende tiltak innen HMS.\n• Støtte linjeledere og HMS-ansvarlige i faglige spørsmål, risikovurderinger og avviksbehandling\n• Støtte arbeid med å granske uønskede hendelser og bidra til forebygging og forbedring.\n• Gjøre analyser, følge opp nøkkeltall for HMS og foreslå korrigerende tiltak ved behov.\n• Være med på å drive digital utvikling og forvaltning av HMS-systemer i samarbeid med HR og IT\n• Delta i arbeidet med å utarbeide, oppdatere og effektivisere rutiner og prosedyrer\n• Være en del av revisjonsteamet som utfører HMS internrevisjoner \n\nVi ser etter deg som har• Relevant bachelorgrad og HMS-faglig utdanning som HMS-verneingeniør eller tilsvarende\n• Minimum 3- 5 års erfaring med HMS-arbeid i større industrivirksomheter\n• God kjennskap til norsk HMS-regelverk, standarder og beste praksis\n• Erfaring med gransking av uønskede hendelser\n• Erfaring med HMS-verktøy og digitale støttesystemer\n• Dokumentert erfaring fra prosjektledelse og utvikling av opplæringsmateriell\n• Evne til å kombinere analytisk innsikt med gode og effektive løsninger\n• Evne til å kommunisere pedagogisk, klart og effektivt på norsk og engelsk \n\nVi tilbyr• Muligheten til å jobbe med noen av landets sterkeste merkevarer\n• En spennende og utfordrende rolle i en herlig kompleks verdikjede fra jord til bord\n• Mulighet for personlig og faglig utvikling\n• Konkurransedyktige betingelser og gode arbeidsvilkår\n• Et støttende og inkluderende arbeidsmiljø\n\nEr du klar for å gjøre en forskjell og forme fremtidens HMS-arbeid sammen med oss? Da vil vi gjerne høre fra deg! Send inn din søknad og CV i dag. \n\nOm oss\nI TINE vil vi at våre ansatte skal utvikle seg og skape resultater gjennom å bli tatt vare på og å få muligheter. Derfor er arbeidsdagen preget av mening, mestring, spennende utfordringer, samarbeid, raushet, gjensidig tillit og kompetanseutvikling.\n\nSynes du dette høres interessant ut, så søk gjerne på denne stillingen. Har du spørsmål, ta gjerne kontakt med en av kontaktpersonene under. I forkant av ansettelse vil det kunne bli foretatt en bakgrunnssjekk for å verifisere opplysninger som fremgår av CV og tilgjengelig dokumentasjon. Bakgrunnssjekken er tilpasset stillingens karakter og gjennomføres etter samtykke fra aktuelle søkere. Nærmere informasjon vil bli gitt.\n\nKontaktperson: \nLeder \nVidar Udnæseth\nvidar.udnaseth@tine.no\n(0047) 95268732\n\nKontaktperson:\nHR leder\nInger Johanne Lekang Hjellseth\nInger-Johanne.Hjellseth@tine.no\n(0047) 93409096"
   },
   {
    "id": "nav-aac22816-ba49-4c20-8e0c-3b30e956b662",
