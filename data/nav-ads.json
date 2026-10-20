@@ -1,12 +1,37 @@
 {
- "generatedAt": "2026-10-20T19:15:46+00:00",
+ "generatedAt": "2026-10-20T22:20:15+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 431,
+ "count": 426,
  "ads": [
+  {
+   "id": "nav-5f62d266-a34f-419d-8ef1-009925df37a1",
+   "uuid": "5f62d266-a34f-419d-8ef1-009925df37a1",
+   "title": "Vi søker 3 bilmekanikere for lette kjøretøy – bli med på laget!",
+   "jobtitle": "Bilmekaniker",
+   "employer": "Alna Service As",
+   "location": "OSLO, OSLO",
+   "postalCode": "0667",
+   "published": "2026-10-20T23:29:07+02:00",
+   "updated": "2026-10-20T23:29:51.272024+02:00",
+   "expires": "2026-10-31T00:00:00+01:00",
+   "applicationDue": "2026-10-31",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/5f62d266-a34f-419d-8ef1-009925df37a1",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "2026-11-01",
+   "occupations": [
+    "Håndverkere / Mekaniker"
+   ],
+   "description": "Er du glad i bilfaget og trives med varierte oppgaver? Vi søker tre bilmekanikere for lette kjøretøy som vil bidra med fagkunnskap, godt samarbeid og kvalitet i arbeidet. Hos oss får du jobbe med ulike bilmerker og utvikle deg sammen med engasjerte kolleger.\n\nHva vi ser etter\n\nVi ser etter deg som er glad i bilfaget, arbeider nøyaktig og ønsker å bidra til gode kundeopplevelser. Du trives med å løse tekniske utfordringer og jobber godt både selvstendig og sammen med andre.\n\nVi ønsker at du:\n\n• \nHar fagbrev som bilmekaniker for lette kjøretøy. Relevant erfaring kan kompensere for manglende fagbrev (min. 4 år relevant erfaring).\n\n• \nHar erfaring med service, reparasjoner og feilsøking.\n\n• \nEr komfortabel med å bruke diagnoseutstyr og digitale arbeidsverktøy.\n\n• \nEr pålitelig, ansvarsbevisst og opptatt av kvalitet.\n\n• \nBidrar til orden, sikkerhet og et godt arbeidsmiljø.\n\n• \nEr motivert for å lære og utvikle kompetansen din.\n\nVi oppfordrer både nyutdannede og erfarne mekanikere til å søke.\n\nArbeidsoppgaver\n\nVi søker tre bilmekanikere til varierte arbeidsoppgaver innen service, vedlikehold og reparasjon av personbiler og lette varebiler.\n\nDine viktigste arbeidsoppgaver blir:\n\n• \nUtføre service og mekaniske reparasjoner på ulike bilmerker.\n\n• \nFeilsøke og diagnostisere mekaniske, elektroniske feil.\n\n• \nReparere og vedlikeholde motor, drivverk, bremser og understell.\n\n• \nRuteskift\n\n• \nKontrollere bilenes tilstand og vurdere behov for reparasjoner.\n\n• \nBruke diagnoseutstyr og dokumentere utført arbeid.\n\n• \nSamarbeide med kolleger for å sikre god kvalitet og effektiv gjennomføring av oppdragene.\n\n• \nBidra til orden, sikkerhet og et godt arbeidsmiljø.\n\nDu vil få en variert arbeidshverdag der du arbeider både selvstendig og sammen med andre, med fokus på faglig kvalitet og gode kundeopplevelser.\n\nVi tilbyr\n\nHos oss får du en variert arbeidshverdag med spennende oppgaver på ulike bilmerker. Vi ønsker å skape en arbeidsplass der du trives, utvikler deg og får brukt kompetansen din.\n\nVi tilbyr:\n\n• \nLønn etter kvalifikasjoner og erfaring.\n\n• \nEt godt og inkluderende arbeidsmiljø med tett samarbeid mellom kolleger.\n\n• \nVarierte oppgaver innen service, feilsøking og reparasjoner.\n\n• \nMulighet for faglig utvikling og relevant opplæring.\n\n• \nMulighet til å påvirke egen arbeidshverdag og bidra til utviklingen av verkstedet."
+  },
   {
    "id": "nav-0e2ca91f-3d14-4e1c-b506-df1f8bd661ec",
    "uuid": "0e2ca91f-3d14-4e1c-b506-df1f8bd661ec",
@@ -5590,31 +5615,6 @@
    "description": "Vil du bidra til at flere barn og unge får oppleve tilhørighet, mestring og fellesskap gjennom fritidsaktiviteter? I Bydel Frogner søker vi en engasjert ALLEMED-koordinator som skal styrke samarbeidet mellom bydelens tjenester, frivilligheten, idretten og andre lokale aktører. Gjennom koordinering, nettverksbygging og utviklingsarbeid skal du bidra til å redusere barrierer for deltakelse og sikre at flere barn og unge får tilgang til meningsfulle fritidsarenaer. ALLEMED- koordinatoren er organisert under enheten Helse, barn og unge og i tjenesten fysioterapi for barn og unge. Deler av stillingen vil være knyttet opp til behandling og oppfølging av barn og unge som trenger fysioterapi i skolehelsetjenesten. Vi søker en fysioterapeut som har interesse for og kompetanse innen helsefremmende og forebyggende arbeid i tillegg til erfaring fra å jobbe som fysioterapeut for barn 0-18 år fra kommune eller bydel. Kjennskap til folkehelsearbeid, prosjektarbeid, tidlig innsats og tverrfaglig samarbeid for å styrke barns utvikling, mestring og deltakelse vil bli tillagt vekt.\n\nArbeidsoppgaver\nKoordinere og videreutvikle ALLEMED-arbeidet i bydelen.\nBygge og vedlikeholde samarbeid med skoler, frivillige organisasjoner, idrettslag og andre relevante aktører.\nKartlegge barrierer for deltakelse i fritidsaktiviteter og bidra til å finne løsninger.\nPlanlegge, gjennomføre og følge opp møter, nettverk og samarbeidsarenaer.\nInformere om og synliggjøre fritidstilbud for barn, unge og familier.\nBidra til kompetanseheving og erfaringsdeling om inkludering og deltakelse.\nFølge opp mål, aktiviteter og rapportering knyttet til prosjektet.\nMedvirke i utvikling av tiltak som fremmer inkludering, tilhørighet og mestring for barn og unge.\nUtføre fysioterapeutiske undersøkelser, vurderinger og oppfølging av barn og unge 0-20 år.\nDrive forebyggende og helsefremmende fysioterapifaglig arbeid i helsestasjon- og skolehelsetjenesten.\nVeilede foreldre, foresatte og samarbeidspartnere om barns motoriske utvikling, aktivitet og mestring.\nKvalifikasjoner\nRelevant høyere utdanning innen helse-, sosial-, pedagogiske eller samfunnsfaglige fagområder.Autorisasjon som fysioterapeut i Norge\nErfaring med fysioterapi for barn og unge, gjerne fra helsestasjon, skolehelsetjeneste, habilitering eller tilsvarende tjenester.\nErfaring med tverrfaglig samarbeid og samhandling mellom ulike aktører.\nGod skriftlig og muntlig fremstillingsevne på norsk.\nGod digital kompetanse. \nØnskelig med erfaring med prosjektarbeid, koordinering eller utviklingsarbeid.\nKunnskap om frivillig sektor, idrett og fritidstilbud for barn og unge.\nErfaring med helsefremmende og forebyggende arbeid rettet mot barn, unge og familier.\nKjennskap til offentlig forvaltning og kommunale tjenester.\nErfaring med nettverksbygging og samarbeid på tvers av sektorer.\nPersonlige egenskaper\nStrukturert og selvgående. Personlig egnethet vektlegges\nGode samarbeids- og relasjonsbyggende ferdigheter.\nInitiativrik og løsningsorientert.\nEvne til å samle og motivere ulike aktører mot felles mål.\nEngasjement for inkludering, deltakelse og oppvekstvilkår for barn og unge.Vi tilbyr\nEn meningsfull og samfunnsviktig stilling hvor du bidrar til å fremme inkludering og deltakelse blant barn og unge.\nMulighet til å påvirke og utvikle et viktig satsingsområde i samarbeid med kommunale tjenester, frivillighet og lokalmiljø.\nEt engasjert og tverrfaglig arbeidsmiljø med høy kompetanse.\nVarierte og selvstendige arbeidsoppgaver med stort handlingsrom.\nFaglig utvikling gjennom deltakelse i nettverk, samarbeid og kompetansehevende tiltak.\nFleksibel arbeidshverdag.\nGode pensjons-, forsikrings- og velferdsordninger i Oslo kommune.\nLønn etter avtale i henhold til Oslo kommunes lønnsregulativ ltr.43Kontaktinformasjon\nToril Holdorf, 21802180\n\nArbeidssted\nDrammensveien 60\n\n0271 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5190512470\n\nStillingsprosent: 100%\n\nProsjektstilling\n\nStartdato: 01.12.2027\n\nSluttdato: 31.12.2027\n\nSøknadsfrist: 02.11.2026"
   },
   {
-   "id": "nav-b9ed726d-46d4-4a7a-aa65-b0f31cad5f01",
-   "uuid": "b9ed726d-46d4-4a7a-aa65-b0f31cad5f01",
-   "title": "Fast helgestilling i 30%",
-   "jobtitle": "Sykepleier ",
-   "employer": "Bestum, Oslo kommune, Bydel Ullern",
-   "location": "OSLO, OSLO",
-   "postalCode": "0377",
-   "published": "2026-10-16T00:00:00+02:00",
-   "updated": "2026-10-16T08:11:40.736434+02:00",
-   "expires": "2026-10-20T00:00:00+02:00",
-   "applicationDue": "2026-10-20T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5192359974&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b9ed726d-46d4-4a7a-aa65-b0f31cad5f01",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Deltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Sykepleier"
-   ],
-   "description": "Er du autorisert sykepleier og på utkikk etter en fast deltidsstilling?\n\nHjemmetjenesten i Bydel Ullern er organisert med tre geografiske avdelinger, herunder Hoff, Bestum og Lilleaker - samt en egen nattjeneste. Vi yter tjenester til hjemmeboende i alle livets faser, og kan tilby en variert hverdag. Vårt kontor ligger sentralt i bydelen, 5 minutters gange fra Smestad T-banestasjon.\n\nTverrfaglighet er viktig i tjenesten, og du vil samarbeide med andre sykepleiere, spesialsykepleiere, helsefagarbeidere, ergo- og fysioterapeut, velferdsteknolog og saksbehandlere. Vi jobber etter BOB-modellen med fokus på brukermedvirkning og mestring, og har et sterkt fagmiljø med egne team for alvorlig syke, psykiatrisk sykepleie og velferdsteknologi.\n\nVi er i en spennende utviklingsfase, der vi tilpasser tjenestene våre til morgendagens behov. Velferdsteknologi og digitale løsninger er viktige verktøy i arbeidet med å fremme hverdagsmestring og sikre at brukerne kan leve gode liv hjemme – så lenge som mulig.\n\nSynes du det høres spennende ut å jobbe i andres hjem, hvor ingen dag er lik og behovene er sammensatte? Da passer du perfekt hos oss! Vi ser etter deg som er faglig trygg, engasjert, positiv og samarbeidsvillig – enten du er sykepleier, helsefagarbeider, sykepleierstudent eller ufaglært med stor fleksibilitet og kapasitet. Som ekstravakt hos oss får du muligheten til å bidra der det trengs – og gjøre en forskjell for innbyggerne i bydelen.\n\nArbeidsoppgaver\n• Utføre helse - og omsorgstjenester til brukere i alle aldre i samsvar med gjeldende lovverk, forskrifter, kvalitetskrav og vedtak.\n• Tverrfaglig samarbeid med de ulike faggruppene i avdelingen.\n• Tett samarbeid og dialog med brukere, pårørende og andre instanser.\n• Rapportering og dokumentasjon i Gerica i henhold til gjeldende lovverk. \n• Samarbeide med ansvarlig sykepleier på vakt.\n• Oppgaver etter delegasjon ut ifra den ansattes kompetanse.\nKvalifikasjoner\n• Norsk autorisasjon som sykepleier.\n• Gode IKT-kunnskaper og evne til å ta i bruk digitale arbeidsverktøy.\n• Erfaring med Gerica er en fordel.\n• Erfaring fra hjemmetjeneste, kommunehelsetjeneste eller annet relevant klinisk arbeid er ønskelig, men ikke et krav.\n• Videreutdanning innen relevante fagområder som demensomsorg, sårbehandling, palliasjon, geriatri, psykisk helse eller lignende er en fordel.\n• Interesse for fagutvikling og vilje til å holde seg faglig oppdatert.\n• Meget gode norskkunnskaper, muntlig og skriftlig, tilsvarende minimum nivå B2.\n• Gyldig politiattest må fremlegges før tiltredelse.\n• Førerkort klasse B er en forutsetning.\n\nPersonlige egenskaper\n• Positiv, selvstendig og ansvarsbevisst.\n• Gode samarbeidsevner og løsningsorientert holdning.\n• Interessert i fag- og egenutvikling.\n• Fleksibel og tilpasningsdyktig.\n• Evne og kunnskap til å avdekke og imøtekomme individuelle behov hos brukeren. \n• Stor arbeidskapasitet og evne til å til tider meste høyt arbeidstempo.\n• Personlig egnethet vil bli vektlagt.\nVi tilbyr\n• Et hyggelig og inkluderende arbeidsmiljø.\n• Opplæring og veiledning.\n• Dyktige og engasjerte kollegaer.\n• En meningsfylt arbeidshverdag med selvstendige arbeidsoppgaver og spennende utfordringer.\n• Gode forsikringer og pensjonsordninger i Oslo Pensjonsforsikring.\n• Bedriftsavtale med SATS.\nKontaktinformasjon\nNina Tonstad, Avdelingsleder , nina.tonstad@bun.oslo.kommune.no\n\nArbeidssted\nHoffsveien 48\n\n0377 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5192359974\n\nStillingsprosent: 30%\n\nFast\n\nSøknadsfrist: 20.10.2026"
-  },
-  {
    "id": "nav-1d7f916f-cc1d-4f3f-b585-e3e4ad86dedc",
    "uuid": "1d7f916f-cc1d-4f3f-b585-e3e4ad86dedc",
    "title": "Intensivsykepleier/sykepleier",
@@ -9802,31 +9802,6 @@
    "description": "Etterretningstjenesten – Viten om verden for vern av Norge\nEtterretningstjenesten har som oppdrag å samle inn informasjon og varsle om forhold i utlandet som kan true Norge og norske interesser. Vi søker nå etter utviklere til vårt IMINT-miljø. Som medarbeider i Etterretningstjenesten vil du bidra i vårt viktige samfunnsoppdrag, samt være en del av et miljø kjennetegnet av høy kompetanse og sterkt engasjement for fagfeltet.\nIMINT (Imagery Intelligence) handler om å trekke kritiske observasjoner og analyser ut fra bilder. Her får du jobbe i skjæringspunktet mellom satellittbilder, maskinlæring og store datamengder.\nI vårt utviklerteam jobber vi med en moderne stack som inkluderer blant annet Angular, NodeJs, Postgres, RabbitMQ, Kubernetes, Python og GDAL, samt computer vision. For å møte økende behov og videreutvikle våre systemer, ser vi etter deg som enten er en sterk fullstack-utvikler, eller som har spisskompetanse og lidenskap for spesifikke deler av stacken.\nVi tilbyr en spennende og variert hverdag i et inkluderende arbeidsmiljø med gode utviklingsmuligheter. Vi oppfordrer både nyutdannede og erfarne utviklere til å søke.\nVi er avhengige av mangfold i perspektiver og erfaringer for å løse våre oppdrag. Derfor ønsker vi å rekruttere medarbeidere fra ulike bakgrunner, med ulike livserfaringer til å jobbe hos oss.\nKvinner oppfordres til å søke stillingen.\n\nArbeidsoppgaver\nHovedoppgaven din blir å utvikle og innovere systemene og verktøyene våre for bildeanalyse, som er helt avgjørende for våre IMINT-analytikere.\nDette innebærer:\n• Utvikling og videreutvikling av løsninger for prosessering og databehandling\n• Utvikle funksjonalitet for å fremvise og interagere med data innenfor IMINT og remote sensing\nKvalifikasjoner\nStillingen har følgende krav som må innfris for å bli vurdert som aktuell søker:\nOveringeniør: \nBachelorgrad eller utdanning på tilsvarende nivå (cand.-grader, tidl. Ingeniørutdanninger o.l.) eller omfang innen relevant fagområde. Flerårig relevant erfaring med god resultatoppnåelse vil kunne kompensere for utdanningskravet\nSenioringeniør: \nMastergrad eller utdanning på tilsvarende nivå (hovedfag, profesjonsstudier o.l.) eller omfang innen relevant fagområde. Flerårig relevant erfaring med god resultatoppnåelse vil kunne kompensere for utdanningskravet\nFor begge: \n• God teknisk innsikt og sikkerhetsforståelse \n\n• God skriftlig og muntlig fremstillingsevne på norsk og engelsk \n\n• Erfaring innenfor ett eller flere av disse områdene:• Programmering med Typescript, Rust og/eller Python\n• Moderne webutvikling med fortrinnsvis Angular, React, Vue eller Svelte\n• Moderne backend-rammeverk og patterns \n• SQL og databaser som f.eks. Postgres\n\nI tillegg er det ønskelig om du har:\n• Erfaring med moderne DevOps/CICD/Kubernetes \n\n• Erfaring med teamarbeid innenfor programmering/utvikling \n• Erfaring og kunnskap innenfor remote sensing\nSærskilte krav for stilling i Etterretningstjenesten: \nSøkere må tilfredsstille kravene til høyeste sikkerhetsklarering. \nFor ansettelse i Etterretningstjenesten kan man ikke ha annet enn norsk statsborgerskap ved ansettelsestidspunktet. \nStillingen er underlagt beordringsplikt, jf. forsvarsloven og forsvarstilsatteforskriften, som innebærer at du kan beordres til internasjonale operasjoner. Dette skjer normalt på grunnlag av villighet. Beordringsplikt medfører krav til medisinsk og fysisk skikkethet og grunnleggende engelskkunnskaper. Dersom du ikke oppfyller kravene har du mulighet til å søke dispensasjon.\nPersonlige egenskaper\nPersonlig egnethet for en stilling i Etterretningstjenesten vil bli ilagt stor vekt: • Holdninger og pålitelighet: Etterretningstjenesten krever høy faglig- og personlig integritet, pålitelighet og lojalitet av sine medarbeidere.\n• Lærelyst og planmessighet: Vi søker personer som ivrer for sitt fagfelt, og som møter arbeidsdagen med lærelyst og et ønske om å levere.\n• Samspill og samarbeid: I Etterretningstjenesten er vi opptatt av å ha et godt arbeidsmiljø. God lagånd, respekt og toleranse i møte med andre er av stor betydning.\n• Stressmestring: Det er en forutsetning at våre medarbeidere har evnen til å stå i periodevis stor arbeidsbelastning.\nI tillegg ønsker vi at du:\n• Er initiativrik\n• Er kreativ \n• Er sikkerhetsbevissthet\nVi tilbyr\nHos oss får du en spennende og samfunnsviktig jobb hvor du vil kunne utgjøre en forskjell. \n\nEtterretningstjenesten er opptatt av å øke kompetansen hos de ansatte, og det vil satses både på deg som person og din faginteresse. \n\nVåre ansatte har fleksitid, mulighet for trening i arbeidstiden, samt gunstige lån- og pensjonsordninger gjennom Statens pensjonskasse. \nDu vil få en årslønn innenfor spennet kr 690 000 – 830 000 i stillingen som overingeniør (kode: 1087) eller kr 785 000 – 980 000 i stillingen som senioringeniør (1181) iht. gjeldende Hovedtariffavtale. Endelig lønnsplassering og stillingskode avhenger av kvalifikasjoner.\nKontaktinformasjon\nHR, 23 09 43 26\n\nFAG, 23 09 53 09\n\nArbeidssted\nLutvannsveien\n\n0676 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Etterretningstjenesten\n\nReferansenr.: 5194100714\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 05.11.2026"
   },
   {
-   "id": "nav-f54df898-313b-479a-8397-9279ec8ab3a6",
-   "uuid": "f54df898-313b-479a-8397-9279ec8ab3a6",
-   "title": "Seniorrådgiver Data og innsikt ",
-   "jobtitle": "Seniorrådgiver Digitalisering og innsikt ",
-   "employer": "Plan, Ruter As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0154",
-   "published": "2026-10-13T00:00:00+02:00",
-   "updated": "2026-10-14T08:13:35.439889+02:00",
-   "expires": "2026-10-20T00:00:00+02:00",
-   "applicationDue": "2026-10-20T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5187671357&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f54df898-313b-479a-8397-9279ec8ab3a6",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Ledelse, administrasjon og rådgivning"
-   ],
-   "description": "Plan bestemmer hva kollektivtilbudet i Oslo og Akershus skal være, fra neste ruteendring til tilbudet i 2040. Nær 60 medarbeidere har deltatt i en grundig kartlegging av oppgaver, hindringer og databehov. Resultatet er rundt 80 mulige tiltak.\nNå trenger vi en teknolog som får det til å skje. Du skal gjøre data, innsikt, digitalisering og KI til en naturlig del av arbeidsprosessene i hele Plan, med løsninger som faktisk tas i bruk.\n\nStillingen er ny og rapporterer til plandirektør.\n\nHva du skal jobbe med\n• Være teknologisk sparringspartner for ledergruppen og hjelpe den å prioritere tiltakene. Det innebærer blant annet å gi hvert tiltak en tydelig eier der effekten skal skapes.\n• Finne områder der KI kan effektivisere arbeidsprosessene, og innføre løsninger som gir varige forbedringer. Dette gjør du sammen med forretning, analyse og teknologi.\n• Støtte ledergruppen i å bygge kompetanse og en kultur der KI, data og innsikt brukes systematisk for å skape bedre resultater.\n• Oversette Plans behov til tydelige prioriteringer og krav som teknologimiljøene kan levere på.\nHvem vi ser etter\nDu har teknologisk bakgrunn og flere års erfaring med å lede digitaliseringsprosjekter fra behov til gjennomføring, for eksempel etablering av porteføljestyring eller utvikling av leveransestrukturer. Du har dokumentert gode resultater med å omsette forretningsbehov til teknologiske løsninger, systemforbedringer eller forbedringstiltak.\nDu kjenner mulighetene KI gir for å effektivisere arbeidsprosesser, og gjør andre trygge på å ta nye verktøy i bruk. Du har relevant høyere utdanning, for eksempel innen teknologi, informatikk eller industriell økonomi.\n\nKunnskap om kollektivtrafikk er ikke et krav, men erfaring fra transport, logistikk eller distribusjon er en fordel. Du trives tett på dem som skal bruke løsningene, og får gjennomslag uten linjeansvar.\n\nUtfordringen som venter\nRollen er ikke ferdig rigget. Noen team er langt fremme, mens andre har hatt lite tid til å utforske hva KI og ny teknologi kan gjøre for dem. \nMange ønsker konkurrerer om oppmerksomheten.\n\nTil gjengjeld former du din egen rolle, med nærhet til ledelsen og mandat til å utfordre etablerte arbeidsformer.\n\nOm denne muligheten\n• Du påvirker hvordan en hel enhet tar i bruk KI, data og digitalisering.\n• Du starter ikke fra null: kartleggingen er gjort.\n• Du jobber ikke selv med ruteendringer eller elektrifisering, men med prosessene som gjør begge deler bedre. Det gjelder et tilbud med nesten 400 millioner reiser i året, 16 000 bussavganger daglig og 8 000 holdeplasser.\n\nVi tilbyr:\n• Et sterkt fagmiljø i et selskap med et særdeles viktig samfunnsoppdrag \n• Kunnskapsrike og engasjerte kolleger med stor interesse for faget\n• En unik mulighet til å bidra i spennende utvikling av kollektivtrafikken i hovedstadsregionen. \n• Sentrale lokaler ved Jernbanetorget i Oslo \n• Konkurransedyktige betingelser, gode pensjons- og forsikringsordninger\n• Fleksibel arbeidstid, og mulighet for hjemmekontor\n• Fri reise med T-bane, trikk, buss og båt i Oslo og Akershus iht. skatteregler. \n\nI henhold til offentleglova kan opplysninger om søkere bli offentliggjort selv om søkeren har bedt om å bli unntatt fra offentlig søkerliste. Dersom ønsket om unntak ikke tas til følge, vil søkeren bli varslet før søkerlisten offentliggjøres. Vi benytter Semac bakgrunnssjekk i noen av våre rekrutteringer. \n\nHar du spørsmål til stillingen eller prosessen, ta gjerne kontakt med Petter Fafalios (se kontaktinformasjon)\nVi behandler søknader fortløpende. I vurdering av kandidatur vektlegges CV og innhold i denne mer enn søknadsbrev.\n\nKontaktinformasjon\nPetter Fafalios, Rådgiver / Partner, +47 95947273\n\nArbeidssted\nDronningens gate 40\n\n0154 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Ruter As\n\nReferansenr.: 5187671357\n\nStillingsprosent: 100%\n\nFast"
-  },
-  {
    "id": "nav-a5e2b6c4-3fce-40bf-8b27-f22c2c8d18e2",
    "uuid": "a5e2b6c4-3fce-40bf-8b27-f22c2c8d18e2",
    "title": "Webredaktør",
@@ -10759,106 +10734,6 @@
     "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
    ],
    "description": "Vil du bruke din kompetanse til å hjelpe kvinner nærmere arbeid og utdanning? \nVi søker en initiativrik og målrettet prosjektmedarbeider som trives med oppfølging av mennesker, bygger gode relasjoner og har tro på at alle har ressurser som kan utvikles og tas i bruk.\nNav Stovner har ca. 140 ansatte fordelt på sju avdelinger. Vi har nå ledig en midlertidig stilling som prosjektmedarbeider i Jobbsjansen for kvinner. Stillingen er et svangerskapsvikariat med ønsket tiltredelse så snart som mulig og foreløpig varighet ut 2027. Stillingen er knyttet til avdeling for Ungdom og prosjekt. \nHovedmålet med Jobbsjansen er å øke sysselsettingen blant hjemmeværende innvandrerkvinner som står langt fra arbeidsmarkedet og har behov for grunnleggende kvalifisering. Tilbudet er delfinansiert av tilskuddsmidler fra Integrerings- og mangfoldsdirektoratet (IMDi). Jobbsjansen benytter blant annet metodikken Supported Employment og har fokus på empowerment, utdanning og nettverksbygging. Prosjektet tilbyr deltakerne et spennende og variert kursinnhold, og skal i 2026 ha 50 deltakere.\nI denne rollen vil du følge opp og veilede deltakere på veien mot arbeid eller utdanning. Vi ser etter deg som evner å motivere andre, ser muligheter fremfor begrensninger og ønsker å bidra til økt inkludering og deltakelse i arbeidslivet.\nNav Stovner er en spennende arbeidsplass med høyt kvalifiserte og motiverte medarbeidere. Vi er et Nav-kontor i stadig faglig og organisatorisk utvikling. Bydel Stovner er en grønn bydel lengst nord i Groruddalen med vel 34 000 innbyggere, og vi skal være et inkluderende lokalsamfunn som innbyr til aktivitet, engasjement og dialog.\nVil du være med på laget? Da ønsker vi å høre fra deg.\n\nArbeidsoppgaver\n• Kartlegging av nye deltakere\n• Tett og tilpasset individuell oppfølging av egen portefølje, fra inntak til utskrivning\n• Råd og veiledning mot arbeid- eller utdanning\n• Saksbehandling i ulike fagsystemer hos Nav\n• Jobbe ut mot arbeidsmarkedet, skaffe praksisplasser, jobbmuligheter, tiltaksmatching med mer \n• Samarbeide med relevante aktører, som arbeidsgivere, utdanningsetater m.fl.\n• Undervisning i norsk arbeidslivs- og samfunnskunnskap \n• Jobbe opp mot IMDIs målkrav, inkludert en måloppnåelse på 70% overgang til arbeid og utdanning \n• Stillingen innebærer både individuelle samtaler, gruppeaktiviteter og utadrettet samarbeid med arbeidsgivere og andre samarbeidspartnere\n• Du blir en del av et tverrfaglig team med kompetanse innen veiledning, kvalifisering og arbeidsinkludering\nKvalifikasjoner\nKrav (MÅ være oppfylt): \n• Minimum 3-årig høyere utdanning (bachelorgrad) fra høyskole eller universitet. Relevant utdanning er innen pedagogikk eller sosialfaglig. \n• Minst 1 års erfaring fra Nav-kontor, innen arbeidsrettet oppfølging \n• Erfaring med arbeid knyttet til målgruppen innvandrerkvinner, dvs. kompetanse på flerkulturell forståelse og kunnskap om migrasjon\n• Erfaring med veiledning, motivasjonsarbeid og relasjonsbygging, gjerne med innvandrerkvinner som målgruppe\n• Meget god skriftlig og muntlig fremstillingsevne på norsk\n• Du må evne å holde kurs og fagsamlinger mot målgruppen og samarbeidspartnere \n• Gode IT-kunnskaper og evne til å sette deg raskt inn i nye fagsystemer\nDet er en fordel om du også har:\n• Kjennskap til arbeidsmarkedet i Oslo og omegn\n• Kunnskap om utdanningsinstitusjoner, utdanningsmuligheter for voksne, samt karriereveiledning \n• Kjennskap til Integreringsloven\n\nPersonlige egenskaper\n• Du liker å arbeide med mennesker og kan fremme menneskers ressurser\n• Du motiverer og skaper gode relasjoner både til deltakere og samarbeidspartnere\n• Du trives med å jobbe i team, men kan også jobbe selvstendig\n• Du har stor arbeidskapasitet og er kvalitetsbevisst\n• Du har gode kommunikative ferdigheter, og snakker og skriver godt norsk\n• Du er initiativrik, kreativ og løsningsorientert\nVi tilbyr\n• En meningsfull hverdag der du utgjør en reell forskjell for innvandrerkvinner på Stovner og er en nøkkelspiller i å bekjempe utenforskap og barnefattigdom \n• Bli en del av et kompetent og engasjert team som jobber målrettet med arbeidsinkludering og stadig søker nye metoder for å lykkes\n• Gode muligheter for personlig og profesjonell utvikling gjennom faglige samlinger og tett samarbeid på tvers av fagfelt\n• Stor grad av fleksibilitet og mulighet til å forme din egen arbeidshverdag innen de rammer og retningslinjer som gjelder i vår tjeneste\n• Vi har fokus på ansattes helse med én time ukentlig trening i arbeidstiden\n• Stilling som sosialkonsulent i lønnsramme 2208 i Oslo kommunes regulativ. Lønnstrinn 35-44 - kr 643 000-752 700 pr år - etter ansiennitet\n• Fleksibel arbeidstid\n• Gode låne-, tjenestepensjons- og forsikringsordninger i Oslo pensjonsforsikring. Som ansatt i Oslo kommune betaler arbeidsgiver i tillegg hele pensjonspremien din etter nettolønnsordningen, dvs. at det ikke trekkes 2 % av din brutto lønn til pensjonsinnskudd. \nKontaktinformasjon\nLene Bore Gauslaa, avdelingsleder, 47 33 65 08\n\nArbeidssted\nStovner Senter 17\n\n0985 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5181119579\n\nStillingsprosent: 100%\n\nVikariat\n\nStartdato: 01.12.2026\n\nSluttdato: 31.12.2027\n\nSøknadsfrist: 27.10.2026"
-  },
-  {
-   "id": "nav-e14f956f-a04d-4664-952c-56fbc2f12753",
-   "uuid": "e14f956f-a04d-4664-952c-56fbc2f12753",
-   "title": "Oppdragsansvarlig regnskapsfører - S.A.M TAX A/S - Oslo/hjemmekontor",
-   "jobtitle": "Statsautorisert regnskapsfører",
-   "employer": "S.a.m Tax A/s",
-   "location": "OSLO, OSLO",
-   "postalCode": "0301",
-   "published": "2026-10-12T21:41:29+02:00",
-   "updated": "2026-10-13T10:24:23.754473+02:00",
-   "expires": "2026-12-31T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e14f956f-a04d-4664-952c-56fbc2f12753",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Kontor og økonomi / Økonomi, statistikk og regnskap"
-   ],
-   "description": "Statsautorisert regnskapsfører søkes til S.A.M TAX A/S\n\nHva vi ser etter\n\nVi søker en erfaren og selvstendig statsautorisert regnskapsfører med solid erfaring fra regnskapsbransjen.\n\nVi ser etter deg som:\n\n• \nHar statsautorisasjon som regnskapsfører og solid erfaring med norsk regnskaps- og skattelovgivning.\n\n• \nHar god erfaring med oppdragsansvar\n\n• \nBehersker Sticos, Tripletex og Fiken godt og har god digital systemforståelse.\n\n• \nEr faglig sterk og trives med å være en ressursperson som veileder og støtter kollegaer.\n\n• \nEr fleksibel, løsningsorientert og komfortabel med å jobbe selvstendig fra hjemmekontor.\n\n• \nTrives med å samarbeide i et internasjonalt team med ulike faglige og kulturelle bakgrunner.\n\n• \nKommuniserer godt på både norsk og engelsk, skriftlig og muntlig, da begge språk benyttes internt.\n\n• \nEr positiv til digitale samarbeidsformer og regelmessige nettmøter.\n\nViktig: Du må kunne håndtere flere oppgaver og kommunikasjonskanaler parallelt, prioritere effektivt og organisere arbeidsdagen slik at du til enhver tid har god oversikt over oppgaver, frister og oppfølginger.\n\n• \nArbeider selvstendig og systematisk, tar eierskap til egne ansvarsområder og sørger for at oppgaver blir fulgt opp og fullført.\n\nArbeidsoppgaver\n\n• \nVære oppdragsansvarlig regnskapsfører for egen kundeportefølje, med oppdragsansvaret fordelt mellom deg og daglig leder.\n\n• \nVære en faglig ressursperson for vårt interne team og bistå med regnskapsfaglige spørsmål og problemstillinger.\n\n• \nKontrollere regnskap, MVA-meldinger, årsregnskap og skattemeldinger.\n\n• \nFølge opp kunder og sikre god kvalitet og overholdelse av frister.\n\n• \nSikre etterlevelse av regnskapsførerloven, GRFS og hvitvaskingsregelverket.\n\n• \nBidra til utvikling og forbedring av interne rutiner, kvalitetskontroll og arbeidsprosesser.\n\n• \nSamarbeide tett med daglig leder om faglige vurderinger og oppfølging av kundeoppdrag.\n\nVi tilbyr\n\nVi tilbyr\n\n• \n100 % fleksibelt hjemmekontor -- du kan arbeide fra hvor du ønsker, så lenge arbeidstiden er tilpasset norsk tidssone og virksomhetens behov.\n\n• \nStor frihet og fleksibilitet til å organisere egen arbeidshverdag.\n\n• \nKonkurransedyktige betingelser og gode vilkår for den rette kandidaten.\n\n• \nEn sentral faglig rolle med oppdragsansvar og mulighet til å påvirke utviklingen av selskapet.\n\n• \nEt internasjonalt og inkluderende arbeidsmiljø med et etablert backoffice-team.\n\n• \nJevnlige digitale teammøter for faglig samarbeid, erfaringsutveksling og oppfølging.\n\n• \nFysiske samlinger ved hovedkontoret i Oslo 1--2 ganger i året for samarbeid og videreutvikling.\n\n• \nVarierte arbeidsoppgaver, selvstendighet og mulighet for faglig utvikling.\n\nHos S.A.M TAX A/S får du muligheten til å kombinere faglig ansvar med en fleksibel arbeidshverdag. Vi verdsetter kompetanse, tillit og selvstendighet, og ønsker å skape et langsiktig og godt samarbeid med den rette kandidaten."
-  },
-  {
-   "id": "nav-f5539ea6-b03d-4313-8b65-2d395c6bca85",
-   "uuid": "f5539ea6-b03d-4313-8b65-2d395c6bca85",
-   "title": "Thor Consulting på Skøyen søker Regnskapsfører til spennende kundeoppdrag (Søk uten CV og søknadsbrev)",
-   "jobtitle": "Regnskapsfører",
-   "employer": "Ansettr AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0251",
-   "published": "2026-10-12T21:25:00+02:00",
-   "updated": "2026-10-13T09:12:50.503637+02:00",
-   "expires": "2026-11-02T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://thorconsulting.ansettr.no/ledige-stillinger/skoyen/regnskapsforer/?utm_source=arbeidsplassen&utm_medium=arbeidsplassen&utm_id=arbeidsplassen#sok-jobb",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f5539ea6-b03d-4313-8b65-2d395c6bca85",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Kontor og økonomi / Økonomi, statistikk og regnskap"
-   ],
-   "description": "Thor Consulting er regnskapsbyrået som blir engasjert til de spennende oppdragene. Nå trenger vi flere hender og ser etter deg som vil inn i rollen som regnskapsfører hos oss.\n\nNår controllere, økonomisjefer eller regnskapssjefer går ut i permisjon, blir vi i Thor Consulting ofte engasjert for å sikre kontinuitet. Nå ser vi etter deg som har erfaring innen regnskap, og som ønsker å ta ansvar for din egen kundeportefølje, i tillegg til å være med på spennende kundeoppdrag.\n\nThor Consulting er et voksende regnskapsbyrå, som leverer ulike tjenester innen økonomi, regnskap og administrasjon. Vi jobber med bedrifter i alle størrelser, i forskjellig bransjer, og oppdragene varierer fra årsoppgjør, tradisjonelle regnskapsoppgaver til økonomi- og HR-funksjoner. Når virksomheter står overfor store endringsprosesser, har midlertidige behov, eller ansatte går ut i permisjon, blir våre rådgivere ofte engasjert til konsulentoppdrag ute hos kundene.\n\nVi er opptatt av å ha et hyggelig og godt arbeidsmiljø, og arrangerer blant annet Fredag med Thor, med mat og drikke, samt faglig og sosialt påfyll.\n\nMer om stillingen\n\nTil vår avdeling på Skøyen søker vi deg som vil ha ansvar for regnskapet til din egen kundeportefølje. I rollen som regnskapskonsulent i Thor Consulting får du ansvar for regnskapsføring og rådgivning til din egne portefølje av små og mellomstore virksomheter.\n\nArbeidsoppgaver:\n\n• \nRegnskap fra A til Å på din egen kundeportefølje\n\n• \nLønnskjøring\n\n• \nLøpende regnskapskontroll\n\n• \nAvstemming og rapportering\n\n• \nRådgivning og analyser\n\n• \nBistand ved årsoppgjør\n\nHvem ser vi etter?\n\nVi ser etter deg som har erfaring med regnskap, og som ønsker å bidra som regnskapskonsulent hos oss.\n\nVi kan tilby:\n\n• \nEt sterkt fagmiljø som støtter deg og deler kompetanse når du trenger det\n\n• \nModerne kontorer på Skøyen med personalrestaurant, gastrobar, kaffebar, konferansesenter og sosiale soner\n\n• \nDaglig varm lunsj i personalrestaurant\n\n• \nGode forsikringsordninger (behandling, helse og fritidsulykke)\n\n• \nGratis tilgang til treningssenter i Skøyen Atrium\n\nSøk uten CV og søknadsbrev ved å klikke på Søk her-knappen."
-  },
-  {
-   "id": "nav-3279ede2-da7b-4190-ad30-23894bd1134c",
-   "uuid": "3279ede2-da7b-4190-ad30-23894bd1134c",
-   "title": "Lyst til å jobbe med AI i et av Nordens største mediekonsern? Amedia søker AI Engineer (Søk uten CV og søknadsbrev)",
-   "jobtitle": "Senior Backendutvikler",
-   "employer": "Ansettr AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0191",
-   "published": "2026-10-12T21:16:47+02:00",
-   "updated": "2026-10-13T09:23:01.763894+02:00",
-   "expires": "2026-11-02T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://amediano.ansettr.no/ledige-stillinger/oslo-sentrum/ai-engineer/?utm_source=arbeidsplassen&utm_medium=arbeidsplassen&utm_campaign=arbeidsplassen#sok-jobb",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3279ede2-da7b-4190-ad30-23894bd1134c",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "IT / Utvikling"
-   ],
-   "description": "Lyst til å jobbe med AI i et av Nordens største mediekonsern? Amedia befinner seg midt i en spennende fase, der vi skal utforske hvordan AI kan brukes til å gjøre våre produkter og tjenester enda bedre. I den anledning ser vi etter vår neste AI Engineer.\n\nAmedia er landets største utgiver av redaktørstyrte medier og et av Nordens ledende mediekonsern med 111 aviser og medievirksomheter i Norge og Danmark.\n\nSom vår neste AI Engineer får du en sentral rolle i å utforske, utvikle og realisere nye muligheter innen AI og ML. Du vil jobbe med hele bredden av AI-teknologi, fra klassisk maskinlæring til generativ AI, store språkmodeller (LLM-er) og agentbaserte systemer.\n\nEt konkret og sentralt prosjekt du raskt vil ta del i, er knyttet til våre abonnementsløsninger. Her skal du blant annet være med på å utvikle dynamisk tilgangskontroll, der AI hjelper oss med å avgjøre hvem som får tilgang til hvilket innhold.\n\nVi jobber primært i Python og på Google Cloud Platform, og har et tydelig prinsipp om å ta i bruk og videreutvikle det beste som allerede finnes, fremfor å bygge alt fra bunnen av.\n\nArbeidsoppgaver:\n\n• \nUtvikle, sette i produksjon og videreutvikle AI- og ML-løsninger som skaper verdi for Amedias produkter og tjenester.\n\n• \nBygge og integrere løsninger basert på maskinlæring, LLM-er og eksterne AI-tjenester.\n\n• \nDele kunnskap og bidra til at vi holder oss oppdatert på den nyeste utviklingen innen AI.\n\n• \nHa ansvar for drift, overvåking og videreutvikling av modeller og AI-tjenester gjennom gode MLOps-prinsipper.\n\n• \nSamarbeide tett med produktteam, utviklere og data scientists for å forstå behov og omsette disse til robuste tekniske løsninger.\n\n• \nBidra til utvikling og forvaltning av felles AI-tjenester og plattformkomponenter som kan brukes på tvers av organisasjonen.\n\n• \nEvaluere ny teknologi og bidra til gode teknologivalg innen AI og maskinlæring.\n\n• \nOptimaliserer ytelse, kost og sikkerhet på våre løsninger, inkludert kostnads- og latenshensyn ved bruk av store språkmodeller.\n\nVi tilbyr:\n\n• \nEn virkelig spennende stilling der du får være med å forme hvordan et av Nordens største mediekonsern jobber med AI.\n\n• \nEn arbeidsplass med engasjement, tillit og korte beslutningsveier.\n\n• \nEn flat struktur og et sterkt fagmiljø.\n\n• \nFantastiske kontorer i nye lokaler med kort vei til kollektivtransport.\n\n• \nSosiale aktiviteter som sommerfest, kick-off, julebord og firmatur.\n\n• \nDeilig varm lunsj i personalrestauranten.\n\n• \nGode utviklingsmuligheter, inkludert konferanser og andre relevante eventer.\n\n• \nKonkurransedyktige betingelser, helseforsikring og høy pensjon.\n\nVi ser etter deg som har:\n\n• \nErfaring med utvikling av software for dataprodukter og maskinlæring i Python.\n\n• \nSoftware-engineer-kvalifikasjoner, med +3 års erfaring fra utvikling/drift, DevOps/MLOps, CI/CD.\n\n• \nErfaring med teknologi for dataprosessering.\n\n• \nGod oversikt over et AI-landskap i stadig endring, inkludert utviklingen innen LLM-er og agentbaserte systemer.\n\n• \nErfaring med å bygge løsninger med LLM-er: prompt-design/evaluering, RAG (retrieval-augmented generation), vektordatabaser, agentrammeverk (f.eks. LangChain, LlamaIndex eller tilsvarende) og finjustering/tilpasning av modeller.\n\n• \nErfaring med Kubeflow og PyTorch.\n\n• \nErfaring med Google Cloud-produkter som BigQuery, Cloud Run, Vertex AI (eller tilsvarende fra andre leverandører), samt LLM-plattformer som Anthropic/OpenAI-APIer.\n\n• \nAndre verktøy/dataspråk som kan være relevante, men ikke nødvendige: Go, Node.js, SQL.\n\nSøk uten CV og søknadsbrev ved å trykke på \"Søk her\"-knappen."
-  },
-  {
-   "id": "nav-a9534065-f4f9-44bd-94a5-5c54d60d18ea",
-   "uuid": "a9534065-f4f9-44bd-94a5-5c54d60d18ea",
-   "title": "Anleggsgartnerassistent - Utearbeid i all slags vær - Oslo-Nordre Follo-ÅS",
-   "jobtitle": "Anleggsgartnerassistent",
-   "employer": "Anleggsgartnerfirma Jansbo As",
-   "location": "OSLO, OSLO",
-   "postalCode": "1068",
-   "published": "2026-10-12T21:11:24+02:00",
-   "updated": "2026-10-13T09:19:31.460376+02:00",
-   "expires": "2026-11-02T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/a9534065-f4f9-44bd-94a5-5c54d60d18ea",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Prosjekt",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Natur og miljø / Skogbruk, gartnerarbeid og hagebruk"
-   ],
-   "description": "Utearbeid i all slags vær\n\nHva vi ser etter\n\nVi søker en person som liker å arbeide ute, for å gjøre utearaler trivelig for beboere.og som liker å se resultater av eget arbeid\n\nArbeidsoppgaver\n\nVariert fysisk arbeid for private, borettslag og sameier\n\nVi tilbyr\n\nSøker må ha relevant arbeidserfaring. Stillingen er selvstendig.\n\nGod lønn, basert på kunnskap og erfaring fra tilsvarende arbeid"
   }
  ]
 }
