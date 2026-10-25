@@ -1,12 +1,112 @@
 {
- "generatedAt": "2026-10-25T13:42:31+00:00",
+ "generatedAt": "2026-10-25T18:24:16+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 391,
+ "count": 394,
  "ads": [
+  {
+   "id": "nav-1302fc61-f4b4-4b6b-965c-3c679fb65123",
+   "uuid": "1302fc61-f4b4-4b6b-965c-3c679fb65123",
+   "title": "Selvstendig frisør søkes til Studio Riell på Grünerløkka",
+   "jobtitle": "Frisør",
+   "employer": "Studio Riell AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0551",
+   "published": "2026-10-25T19:02:06+01:00",
+   "updated": "2026-10-25T19:02:50.371164+01:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "2026-11-30",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1302fc61-f4b4-4b6b-965c-3c679fb65123",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Selvstendig næringsdrivende",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Salg og service / Frisør og velvære"
+   ],
+   "description": "Vil du bli en del av Studio Riell?\n\nStudio Riell er et nyetablert frisørstudio på Grünerløkka i Oslo, skapt med en visjon om å kombinere hår, kunst, design og kreativitet i inspirerende omgivelser.\n\nNå ønsker jeg å utvide studioet og ser etter dyktige, selvstendige frisører som ønsker å drive sin egen virksomhet, samtidig som de er en del av et fellesskap.\n\nStudio Riell er mer enn en tradisjonell frisørsalong. Ambisjonen er å skape et sted hvor kreativitet, kvalitet og personlig utvikling står i sentrum. Et miljø hvor vi inspirerer hverandre, deler kunnskap og bygger noe fint sammen.\n\nHvem ser jeg etter?\n\nJeg ser etter deg som er faglig engasjert, selvstendig og har en genuin lidenskap for frisørfaget. Du er opptatt av kvalitet, gode kundeopplevelser og ønsker å utvikle deg videre.\n\nDu trives med å jobbe selvstendig, men setter samtidig pris på å være en del av et sosialt, kreativt og inkluderende arbeidsmiljø.\n\nHva kan Studio Riell tilby?\n\n• \nStolutleie i et nyetablert og gjennomført frisørstudio\n\n• \nEt inspirerende og kreativt arbeidsmiljø\n\n• \nFrihet til å styre din egen arbeidshverdag\n\n• \nMuligheten til å utvikle din egen virksomhet\n\n• \nEt fellesskap med fokus på faglig utvikling, samarbeid og kreativitet\n\n• \nEn unik salong hvor hår, kunst og design møtes\n\nHøres dette ut som noe for deg?\n\nJeg tar gjerne en uforpliktende kaffeprat for å bli bedre kjent og fortelle mer om konseptet.\n\nTa kontakt på Instagram @studio.riell eller via nettsiden www.studioriell.no.\n\nGleder meg til å høre fra deg!\n\nStudio Riell -- Grünerløkka, Oslo"
+  },
+  {
+   "id": "nav-8166a141-d5f1-49dc-9521-21b713b9998a",
+   "uuid": "8166a141-d5f1-49dc-9521-21b713b9998a",
+   "title": "Systemadministrator",
+   "jobtitle": "Systemadministrator",
+   "employer": "TINE SA",
+   "location": "OSLO, OSLO",
+   "postalCode": "0950",
+   "published": "2026-10-25T16:16:40.491697+01:00",
+   "updated": "2026-10-25T16:16:44.738682+01:00",
+   "expires": "2026-11-08T22:59:59+01:00",
+   "applicationDue": "2026-11-08T00:00:00Z",
+   "applicationUrl": "https://tine-sa.contactrh.com/jobs/14035/44531641/nb_NO",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/8166a141-d5f1-49dc-9521-21b713b9998a",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "IT / Drift, vedlikehold"
+   ],
+   "description": "Vil du være med og styre driften i det som kanskje er et av Norges største kjøleskap? \nTINE Kalbakken søker en proaktiv systemadministrator til OP-sentralen, vår sentrale funksjon for styring og overvåking av logistikkdriften. Vi ser etter deg som synes kombinasjonen av teknologi, operativ drift og forbedringsarbeid er spennende, og som ønsker å bidra til TINE Logistikk ambisjon om å bli verdens beste innenfor vårt felt.\n\nHos oss får du en fast stilling med varierte og utfordrende oppgaver i et moderne lager på 40 000 m², med rundt 1 200 varelinjer og 200 ansatte. Arbeidet foregår hovedsakelig fra OP-sentralen, hvor vi overvåker, styrer og forbedrer den daglige driften.\n\nLageret har en høy grad av automasjon, så interesse for teknologi, systemer og effektive arbeidsprosesser er viktig. Samtidig blir du en del av et hyggelig, ungt og sosialt arbeidsmiljø.\n\nStillingen inngår per i dag i en 2-skiftsordning, og søknader behandles fortløpende.\n\nArbeidsoppgaver\n • Systemmessig drift av lageret på daglig basis\n• Være support for Lagerdrift Oslo på lagerstyring, M3 og andre relevante system knyttet mot drift \n• Sikre at WMS-parametre til enhver tid er optimalt innstilt\n• Sikre at grunndata i WMS og M3 er korrekt\n• Ansvar for oppfølging av teknisk operatørutstyr og etikettprintere\n• Rutine/rapportskriving og dokumentasjon knyttet til drift av anlegget\n• Fungere som informasjonskanal på tvers av avdelinger\n• Søke og drive forbedringsarbeid/prosjekter\n• Sikre korrekt lagersaldo og følge opp kvalitetskostnader på daglig basis\n• Bistå Driftsleder ved sentralen etter behov \n\nKvalifikasjoner\n • Bachelor i logistikk, men relevant erfaring kan kompensere for krav til utdannelse\n• Erfaring med drift og support av ERP og WMS-system\n• Inngående erfaring med SQL\n• Inngående erfaring med Excel\n• Erfaring med forbedringsarbeid (PDCA, Lean)\n\nPersonlige egenskaper \n • Forbedringsfokusert\n• Strukturert\n• Evne til å prioritere\n• Engasjert\n• Nytenkende\n• Sterke samarbeidsevner\n• Sterke problemløsningsevner\n• Sterke analytiske ferdigheter / god tallforståelse\n• Evne til å omsette teoretiske funn i praktisk gjennomførbare forbedringer\n• Evne til å ha «flere baller i luften» \n• Gode språkkunnskaper norsk og engelsk \n\nVi tilbyr\n • Litago og andre TINE varer i kjøleskapet på avdelingen i arbeidstiden \n• Treningsrom\n• God arbeidserfaring til fremtidige jobbmuligheter\n• Gode utviklingsmuligheter i et stort konsern\n• Godt arbeidsmiljø\n\nSynes du stillingen virker interessant? Ta gjerne kontakt med Driftsleder, Sebastian tlf: 93433636 for en uforpliktende og konfidensiell prat, eller søk i dag ved å sende søknad og CV via Webcruiter.\nRelevante attester og vitnemål må legges ved søknaden elektronisk.\n\nI forkant av ansettelsen vil det bli foretatt en bakgrunnsjekk av søkere for å verifisere opplysninger som fremgår av cv og tilgjengelig dokumentasjon. Bakgrunnsjekken er tilpasset stillingens karakter og gjennomføres ikke uten samtykke av søkeren. Aktuelle søkere vil motta nærmere informasjon i intervju."
+  },
+  {
+   "id": "nav-4b07c52e-152c-45f2-ac83-01c944a0a343",
+   "uuid": "4b07c52e-152c-45f2-ac83-01c944a0a343",
+   "title": "Vil du tjene godt og bygge karriere i Telecom-bransjen?",
+   "jobtitle": "Salgskonsulent, Business-to-Business",
+   "employer": "Salent på vegne av samarbeidspartner",
+   "location": "OSLO, OSLO",
+   "postalCode": "0484",
+   "published": "2026-10-25T15:56:21+01:00",
+   "updated": "2026-10-25T15:57:05.252897+01:00",
+   "expires": "2026-11-08T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4b07c52e-152c-45f2-ac83-01c944a0a343",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Kontor og økonomi / Megling"
+   ],
+   "description": "Salgskonsulent - B2B\n\nVil du kickstarte karrieren din innen salg og bli en del av et ledende Telecom-selskap i Norge?\n\nVi søker nå etter ambisiøse og dyktige salgskonsulenter som ønsker å bli en del av vårt salgsteam i Oslo. Enten du har et friår fra skolen og ønsker å tjene penger, eller du er en naturlig relasjonsbygger med lidenskap for salg -- dette kan være den perfekte muligheten for deg!\n\nHva tilbyr vi deg?\n\n• \nVeldig god lønn basert på provisjons- og bonusordning uten tak for inntjeningen, med solid grunnlønn i bunn. Hvis du leverer enligt budsjett, vil du kunne tjene godt -- mange av våre ansatte tjener 50.000kr/mnd og oppover.\n\n• \nFelles jobbing med oppslag og varme leads, som gir deg et godt utgangspunkt for å lykkes.\n\n• \nSalg av Norges mest fremoverlente Telecom-løsninger fra Unifon -- en bransje som alle \"har et forhold til\" og vil være mulige kunder av.\n\n• \nProfesjonell opplæring, coaching og kontinuerlig oppfølging fra erfarne salgsledere som vet hva som skal til for å lykkes i bransjen.\n\n• \nKarrieremuligheter både internt og eksternt -- våre salgsledere har selv startet på samme måte som deg og bygd sine karrierer hos oss.\n\n• \nEt motiverende, hyggelig og dedikert arbeidsmiljø, med kollegaer du vil like å \"gå i krigen\" sammen med, og kanskje ta en fortjent fredagspils etter en god uke!\n\n• \nModerne kontorfasiliteter i Nydalsveien 36 B, 0484 Oslo, med delikate lokaler og et miljø som legger til rette for både trivsel og produktivitet.\n\nHva ser vi etter i deg?\n\n• \nDu har en positiv innstilling og er motivert til å ta fatt på nye utfordringer.\n\n• \nMotivert av å påvirke egen lønn gjennom provisjon, og er selvgående nok til å styre din egen hverdag.\n\n• \nDu er over 18 år og behersker norsk meget godt, både skriftlig og muntlig.\n\n• \nTidligere salgserfaring kan være en fordel, men er ikke et krav -- innsatsvilje og motivasjon veier tyngre enn erfaring!\n\nArbeidstid og arbeidsplass:\n\nMandag -- fredag fra kl 09:00 -- 16:00 på kontoret i Nydalsveien 36 B, 0484 Oslo.\n\nHøres dette ut som noe for deg?\n\nKult! Send din CV/søknad i dag, så finner vi ut om dette er en god match!\n\nVi behandler alle henvendelser konfidensielt og fortløpende.\n\nFor ytterligere informasjon eller spørsmål:\n\nTa kontakt med: Rasmus Johansson\n\nEpost: rj@salent.no\n\nMobil: +47 46 30 54 32"
+  },
+  {
+   "id": "nav-429a727f-58bd-43fe-bc40-c2172ed62fa0",
+   "uuid": "429a727f-58bd-43fe-bc40-c2172ed62fa0",
+   "title": "Har du lyst å jobbe med gode ledere, tjene godt og ta karrieren din til neste nivå?",
+   "jobtitle": "Key Account Manager B2B",
+   "employer": "Salent på vegne av samarbeidspartner",
+   "location": "OSLO, OSLO",
+   "postalCode": "0483",
+   "published": "2026-10-25T15:55:57+01:00",
+   "updated": "2026-10-25T15:56:35.023459+01:00",
+   "expires": "2026-11-08T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/429a727f-58bd-43fe-bc40-c2172ed62fa0",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Salg og service / Salg, butikk- og varehandel"
+   ],
+   "description": "Bedriftsrådgiver\n\nHei der! På vegne av en god samarbeidspartner, søker vi deg som vil bli en viktig del av salgsteamet i Oslo. Du vil få muligheten å jobbe i et utrolig spennende marked med stort potensial.\n\nSom bedriftsrådgiver vil du få en variert arbeidshverdag hvor du selv får avtale og gjennomføre kundemøter og ha full kontroll over hele salgsprosessen. Vi selger Norges mest fremoverlente Telecom-løsninger, og du vil ha store inntjeningsmuligheter og mulighet for personlig utvikling.\n\nVi gir deg en god og profesjonell opplæring for å gjøre deg trygg og sikker i rollen. Du vil også få fortløpende coaching og salgstrening og vi vil gjerne hjelpe deg og støtte deg i dine kundemøter underveis, slik at du kan tjene godt og samtidig lære og utvikle deg.\n\nDu vil ha en flott kontorplass i et hyggelig arbeidsmiljø og jobbe sammen med noen av bransjens beste salgsledere som vil bistå deg i din reise. Vi legger stor vekt på at du skal trives i teamet og at vi skal ha et godt arbeidsmiljø. Vi vil at du gleder deg til å komme på jobb og yte ditt beste.\n\nHos oss vil du bli en fullt utlært bedriftsrådgiver og få en følelse av mestring, selvtillit og en flott meritt for karrieren din både internt og eksternt - våre salgsledere har selv startet på samme måte som deg og bygd sine karrierer hos oss.\n\nHvis du vil jobbe i et fint firma og miljø, tjene godt og lære og utvikle deg gjennom noen av bransjens beste salgsledere - så tror vi at dette er en veldig god plass for deg.\n\nVi tilbyr deg:\n\n• Veldig god lønn basert på provisjons og bonusordning, uten tak for inntjeningen, med solid grunnlønn i bunn\n• Hvis du leverer enligt budsjett vil du tjene sa 50.000kr/mnd, med mange som tjener 100.000kr/mnd og oppover\n• Mye konkurranser og premier - for at du skal få en ekstra gulerot og bonus når du gjør det bra\n• Salg av Norges mest fremvoerlente Telecom-løsninger fra Unifon, en bransje som alle \"har et forhold til\" og vil være mulige kunder av,\n• Et høyst motiverende, hyggelig og dedikert arbeidsmiljø\n• Hyggelige kollegaer du vil like å \"gå i krigen\", drikke kaffe, eller ta en fortjent fredagspils - sammen med\n• En flat organisasjon med raske besluttninger og kommandolinjer\n• Grunnermentalitet i alle kriker og kroker\n• Delikate og moderne kontorfasiliteter, inklusive treningsstudio i bottenplan\n• Profesjonell salgsopplæring, coaching og oppfølging - fra salgsledere som vet hva som skal til for å lykkes i bransjen\n• Karrieremuligheter internt, våre ledere har startet presis som deg og bygd seg oppover\n• Karrieremuligheter eksternt, hvis du bemestrer denne jobben vil du bli en stjerne videre i karrieren og i de fleste bransjer/jobber fremover\n• Arbeidstid er mandag til fredag kl 08.00-16.00, med en filosofi om \"frihet under ansvar\" når du er godt i gang\n\nKrav:\n\n• Flytende norsk - siden våre kunder er norske bedrifter\n\nHøres dette ut som noe for deg?\n\nKult, du kan ta kontakt eller sende CV/søknad så finner vi ut hvis dette er en god match.\n\nFor ytterligere informasjon eller spørsmål:\n\nTa kontakt med meg, så hjelper jeg til.\n\nKontaktinformasjon\n\nEpost: rj@salent.no, eller mobil: +47 46 30 54 32"
+  },
   {
    "id": "nav-c63424d9-30f5-4e14-bda7-0829c7333ec1",
    "uuid": "c63424d9-30f5-4e14-bda7-0829c7333ec1",
@@ -2524,6 +2624,31 @@
    "description": "Vi søker rørleggere til prosjekter over hele Norge\n\nVi søker dyktige rørleggere til oppdrag med snarlig oppstart. Arbeidet vil foregå på prosjekter flere steder i landet.\nEr dette aktuelt for deg? Send søknad eller ta kontakt på e-post: bjorn@personellgruppen.no\n\nØnskede kvalifikasjoner:\n• Fagbrev som rørlegger er en fordel, men lang erfaring kan kompensere for manglende fagbrev\n• Erfaring fra arbeid i Norge er en stor fordel\n• Erfaring med installasjon, service og vedlikehold av VVS-anlegg\n• Evne til å jobbe selvstendig og effektivt\n• Gode kommunikasjonsevner og forståelse av norsk og/eller engelsk\n\nVi tilbyr:\n• Et godt arbeidsmiljø med hyggelige kolleger\n• Oppdrag med gode muligheter for forlengelse\n• Gode betingelser, forsikringer og pensjonsordning\n• Hjelp til å skaffe bolig ved behov\n\nSøk snarest – ansettelser skjer fortløpende.\n\nPersonellgruppen ansetter kontinuerlig kandidater til flere typer stillinger og prosjekter over hele landet. Dersom du har erfaring fra tekniske fag eller prosjektarbeid, oppfordrer vi deg til å ta kontakt.\n\nJoin our job board on WhatsApp: Link\n_______________\n\nWe are hiring Plumbers for projects across Norway\n\nWe are looking for skilled plumbers for projects with immediate start. The work will take place on projects in different locations across Norway.\nInterested? Send your application or contact us by email: bjorn@personellgruppen.no\n\nDesired qualifications:\n• Trade certificate as a plumber is an advantage, but long experience can compensate for lack of formal certification\n• Experience working in Norway is a strong advantage\n• Experience with installation, service, and maintenance of plumbing and HVAC systems\n• Ability to work independently and efficiently\n• Good communication skills and understanding of Norwegian and/or English\n\nWe offer:\n• A good working environment with friendly colleagues\n• Projects with good possibilities for extension\n• Competitive conditions, insurance, and pension scheme\n• Assistance with accommodation if needed\n\nApply as soon as possible – hiring takes place on an ongoing basis.\n\nPersonellgruppen continuously recruits candidates for several types of positions and projects across Norway. If you have experience in technical trades or project-based work, we encourage you to get in touch.\n\nJoin our job board on WhatsApp: Link"
   },
   {
+   "id": "nav-f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
+   "uuid": "f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
+   "title": "Vil du være en viktig rådgiver innen virksomhets- og økonomistyring? ",
+   "jobtitle": "rådgiver",
+   "employer": "Jernbanedirektoratet",
+   "location": "OSLO, OSLO",
+   "postalCode": "0185",
+   "published": "2026-10-22T00:00:00+02:00",
+   "updated": "2026-10-25T17:45:40.653918+01:00",
+   "expires": "2026-11-10T00:00:00+01:00",
+   "applicationDue": "2026-11-10T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5194651098&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Vikariat",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
+   ],
+   "description": "Jernbanedirektoratet har en viktig rolle i arbeidet med å utvikle dagens og morgendagens jernbane. Vi jobber for at stadig flere skal velge å reise kollektivt og for at flere næringsaktører skal velge bane fremfor vei til å frakte gods. Fremtidens jernbane skal være effektiv, bærekraftig og sikker – det er kjernen i vårt samfunnsoppdrag.\n\nJernbanedirektoratet skal ivareta den strategiske, helhetlige og overordnede koordineringen og planleggingen av jernbanesektoren. En viktig oppgave er å samordne alle aktørene i jernbanesektoren, samt jernbane og øvrig kollektivtransport. Vi har også ansvar for å inngå avtaler om kjøp av materiell og tjenester som til sammen utgjør et godt jernbanetilbud. Sentralt i direktoratets arbeid står innovasjon, bærekraft og kunnskapsutvikling som grunnlag for faglige råd og anbefalinger om fremtidens jernbane. Vi er et relativt ungt direktorat under utvikling, samtidig som vi har en lang og stolt jernbanehistorie.\nI økonomi- og virksomhetsstyringsseksjonen har vi ansvaret for direktoratets virksomhet- og økonomistyring. Vi koordinerer arbeidet med direktoratets virksomhetsplan, følger opp den interne rapporteringen, og utarbeider budsjetter og prognoser for direktoratets budsjetter. \nSeksjonen ivaretar direktoratets regnskapsfunksjoner og lønnsutbetaling, og har ansvaret for regnskapsrapportering internt og til departementet. I vårt arbeid inngår utvikling og forvaltning av systemer, rutiner og strukturer for god virksomhets- og økonomistyring. Du vil delta i et team som arbeider med å utvikle og forvalte retningslinjer for god intern styring, samtidig som vi bistår med råd og kompetanse innenfor mål- og resultatstyring til resten av organisasjonen. \n\nDu vil bli en del av et kompetansemiljø hvor vi deler erfaringer, og bidrar til å gjennomføre og forbedre styringen i Jernbanedirektoratet. Du vil jobbe tett opp mot ledere og ansatte i andre avdelinger, hvor du bistår med regnskapsoppgaver, lønnskontroller og andre viktige oppgaver innenfor økonomistyring som budsjetter og prognoser. Vi søker derfor deg som liker å jobbe i et proaktivt og engasjert miljø, og som er opptatt av høy kvalitet i leveransene. Du jobber systematisk, er nøyaktig, liker å utvikle gode systemer, samt bygge kultur som bidrar til at vi lykkes sammen\nStillingen er et vikariat med varighet frem til oktober 2027, med muligheter for forlengelse.\n\nArbeidsoppgaver\n• regnskap og rapportering internt og eksternt, dette inkluderer etterkontroller \n• avsetninger og andre oppgaver knyttet til statlig regnskapsstandard i staten (SRS) \n• utarbeide budsjetter og bistå avdelingene med budsjettprognoser herunder lønnsbudsjetter \n• andre driftsoppgaver i seksjonene knyttet til rapportering, regnskap og budsjetter\nKvalifikasjoner\nDu må ha\n• høyere utdanning innen relevante fagområder \n• interesse og kunnskap om økonomistyring, regnskap og og rapportering \n• svært gode Excel ferdigheter, og gode ferdigheter i bruk av Office verktøy \n• god skriftlig og muntlig fremstillingsevne på norsk\nDet er en fordel om du har \n• erfaring fra regnskap og budsjettarbeid i statlig sektor\n• erfaring med å utarbeide analyser og gode beslutningsgrunnlag\n• erfaring med bruk av PowerBI el. lignende verktøy\n• kjennskap til styrings- og beslutningsprosesser i staten\nNyutdannede kan søke.\nPersonlige egenskaper\n• nøyaktig, strukturert og planmessig, og med god gjennomføringsevne \n• faglig engasjert og løsningsorientert, med blikk for både helhet og detaljer \n• initiativrik og selvstendig, samtidig som du samarbeider godt med andre \n\nVi legger stor vekt på personlig egnethet for stillingen.\nJernbanedirektoratet bruker Unit4 (Agresso) innenfor regnskap og budsjettering og SAP innenfor HR og lønn. Vi er benytter oss av grunntjenestene til DFØ, og kjennskap til systemene er en fordel, men ikke en forutsetning for stillingen.\nArbeidet innebærer mye samhandling med andre i direktoratet. Du må derfor være imøtekommende og tillitsskapende, med en serviceorientert tilnærming til kollegaer og ledere.\nVi tilbyr\nBli en del av Jernbanedirektoratet – hvor vi sammen skaper fremtidens jernbane med verdiene våre: nytenkende, åpen, modig og kompetent.\n\nHos oss får du muligheten til å bidra til et viktig samfunnsoppdrag som fremme en bærekraftig utvikling av samferdselssektoren i Norge. Du vil jobbe med samfunnsaktuelle problemstillinger som har betydning for både enkeltmennesker og samfunnet som helhet.\n\nDu blir en del av et kompetent og engasjert fagmiljø, i en organisasjon i utvikling, og et inkluderende arbeidsmiljø med godt samhold og fellesskap.\nLes mer om hvordan det er å jobbe i Jernbanedirektoratet. \n\nSom ansatt får du gode rammer som legger til rette for balanse mellom jobb og fritid. Du får fleksitid, sommertid, betalt overtid og mulighet for hjemmearbeid når arbeidsoppgavene tilsier at det lar seg gjøre.\n\nDu får også gode pensjons- og forsikringsordninger gjennom Statens pensjonskasse, og mulighet for boliglån med gunstige vilkår. Les mer på spk.no. Det trekkes 2 % av lønnen i lovpålagt pensjonsinnskudd.\n\nDu blir ansatt som rådgiver (stillingskode 1434), i lønnsspennet kr 540 000 - 750 000 avhengig av kvalifikasjoner. Høyere lønn kan vurderes for særskilt kvalifiserte kandidater. \n\nArbeidssted: Oslo\n\nVi er opptatt av mangfold og inkludering, og søker deg med relevant kompetanse, spennende fagkombinasjoner, livserfaring og nye perspektiver.  Har du hull i CV-en din, funksjonsnedsettelse eller innvandrerbakgrunn vil vi oppfordre deg til å krysse av for dette når du søker stilling hos oss. Det gir deg mulighet for å få positiv særbehandling. Vi kaller inn minst én kvalifisert søker fra hver av disse gruppene til intervju.\n\nVitnemål og attester må følge søknaden. Vi ber om at du henter vitnemål fra Vitnemålsportalen direkte i Webcruiter når du søker stillingen. Dersom du har tatt hele eller deler av utdanningen din i utlandet, ber vi om en autorisert oversettelse av papirer og vitnemål, og godkjenning fra Direktoratet for høyere utdanning og kompetanse. (https://hkdir.no/utdanning-fra-utlandet). Godkjenningen må legges ved søknaden. \n\nNår du søker jobb hos oss, vil navnet ditt stå på en offentlig søkerliste. Ønsker du å bli unntatt denne søkerlisten, må du begrunne hvorfor, og vi vurderer om vi kan innvilge unntak. Du hører fra oss hvis vi ikke kan det.\nI våre rekrutteringsprosesser gjennomfører vi personlighetstest- og evnetester.\n\nVi bruker Semac bakgrunnssjekk. På enkelte stillinger kan det være behov for utvidet sjekk og individuell helhetsvurdering i forkant av ansettelse.\nKontaktinformasjon\nKathinka Røvig, seksjonsleder, +47 97950071\n\nArbeidssted\nBiskop Gunnerusgate 14\n\n0185 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Jernbanedirektoratet\n\nReferansenr.: 5194651098\n\nStillingsprosent: 100%\n\nVikariat\n\nSøknadsfrist: 10.11.2026"
+  },
+  {
    "id": "nav-a5ed1678-2365-4fb7-a907-d8958eaab21e",
    "uuid": "a5ed1678-2365-4fb7-a907-d8958eaab21e",
    "title": "Rådgiver/seniorrådgiver, Seksjon for krisehåndtering, UDs operative senter - turnusstilling",
@@ -2624,31 +2749,6 @@
     "IT / Utvikling"
    ],
    "description": "Vil du bruke data, kunstig intelligens og ny teknologi til å gjøre Forsvaret mer datadrevet?\nI Forsvaret jobber vi med å bli mer datadrevne. I Cyberforsvarets IT-avdeling forvalter og videreutvikler vi en av Norges mest omfattende SAP-løsninger. Det gir tilgang til store datamengder og komplekse problemstillinger. Samtidig bygger vi opp en ny dataplattform, nye tjenester og ny kompetanse som skal bidra til å gjøre Forsvaret mer datadrevet.\nVi har ledig stilling som senior utvikler og ser etter deg som trives med å omsette idéer til løsninger. Hos oss får du utforske nye muligheter innen skyteknologi, kunstig intelligens, maskinlæring og automatisering. Du får stor frihet til å påvirke retning og utvikle teknologiske løsninger som skaper verdi for virksomheten. Vi legger til rette for utforsking av nye ideer gjennom blant annet prototyping, fagdager og hackathons.\nVi benytter smidige arbeidsmetoder og jobber tett sammen i tverrfaglige team. Neste fase er å gjøre data mer tilgjengelig og anvendbar på tvers av organisasjonen, slik at den kan skape større verdi for virksomheten. Her får du mulighet til å bidra til at Forsvaret blir mer datadrevet. Kan du tenke deg å bli med oss på laget? \nVelkommen som søker.\n\nArbeidsoppgaver\n• utforske, utvikle, teste og implementere løsninger basert på kunstig intelligens, maskinlæring, semantisk teknologi og annen relevant teknologi\n\n• utvikle og forvalte data- og informasjonsmodeller og datagrunnlag som sikrer god datakvalitet, felles begrepsforståelse og effektiv bruk av data\n\n• bidra i innføringen og videreutviklingen av SAP S/4HANA og BW/4HANA\n\n• samarbeide tett med brukere og fagmiljøer for å forstå behov, identifisere forbedringsmuligheter og omsette disse til robuste og brukervennlige løsninger\nKvalifikasjoner\n• Utdanning på bachelornivå, fortrinnsvis innen IT, økonomi, HR, logistikk eller SCM (supply chain management)\n• annen utdanning og lang relevant erfaring kan etter vurdering kompensere for manglende formell utdanning\n\n• Minimum 3 års erfaring innen utvikling av datavarehusløsninger / styringsløsninger\n\n• Meget god muntlig og skriftlig fremstillingsevne på norsk\n\n• God engelsk forståelse / leseferdigheter\n\n• Kunne sikkerhetsklareres til HEMMELIG og NATO SECRET før tiltredelse (for mer informasjon om sikkerhetsklarering, se www.nsm.no)\nØnskelige kvalifikasjoner\n• Erfaring med kunstig intelligens, maskinlæring, statistikk eller avansert dataanalyse\n\n• Erfaring med SQL og utvikling i analyse- eller dataplattformmiljø\n• Erfaring med data engineering, data governance eller skybaserte dataplattformer\n• Mastergrad innen relevante fagområder\n• Erfaring med ERP-løsninger og virksomhetsprosesser, særlig innen økonomi, logistikk eller HR\n• Erfaring med SAP BW/4HANA eller tilsvarende løsninger for datavarehus og analyse\nEn godt utfylt CV hjelper oss å få oversikt over dine kvalifikasjoner. \nLegg ved attester, vitnemål og annen relevant dokumentasjon når du søker. Har du fullført høyere utdanning utenfor Norge, må denne være godkjent av Direktoratet for høyere utdanning og kompetanse (tidligere NOKUT). Godkjenning må dokumenteres. \nPersonlige egenskaper\nVi tror du vil trives hos oss dersom du:\n• Er nysgjerrig, lærevillig og opptatt av kontinuerlig faglig utvikling\n• Samarbeider godt med andre og deler gjerne kunnskap\n• Tar initiativ og er opptatt av å skape verdi gjennom gode løsninger\n• Har forståelse for samspillet mellom teknologi, data og virksomhet\n\nVi tilbyr\n• et miljø hvor gode ideer kan tas fra skisse til løsning og brukes i praksis\n• stor frihet til å utforske nye problemstillinger og utvikle nye løsninger\n• muligheten til å jobbe med utfordringer innen analyse, AI, maskinlæring, automatisering og beslutningsstøtte\n• en sentral rolle i videreutviklingen av SAP BW4HANA og innføringen av SAP S/4HANA\n• arbeid med store datamengder og komplekse problemstillinger i en av Norges største virksomheter\n• muligheten til å følge løsningene fra idé til produksjon og videreutvikling\n• et sterkt fagmiljø med erfarne kolleger innen SAP, analyse og virksomhetsstyring\n• fleksibel arbeidstid\n• attraktive lokaler med sentral beliggenhet i Oslo\n• mulighet for inntil to timer trening i arbeidstiden per uke\n• medlemskap i Statens pensjonskasse med gode pensjons-, forsikrings- og låneordninger\nDu vil få stilling som seniorrådgiver (stillingskode 1364), med lønn fra kr. 800 000 til kr. 1 000 000 per år, avhengig av kvalifikasjoner. For spesielt godt kvalifiserte søkere kan høyere lønn vurderes. Av lønnen trekkes 2% lovbestemt innskudd til Statens pensjonskasse.\nØnsker du å bidra til Forsvarets videre utvikling? Da oppfordrer vi deg til å søke. Vi ser frem til å motta din søknad!\nKontaktinformasjon\nBugge, Astrid, Avdelingssjef CIT DRIV RO ØS, +47 980 03 736, asbugge@mil.no\n\nArbeidssted\nDrammensveien 175\n\n0277 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Forsvaret\n\nReferansenr.: 5195593357\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 12.11.2026"
-  },
-  {
-   "id": "nav-f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
-   "uuid": "f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
-   "title": "Vil du være en viktig rådgiver innen virksomhets- og økonomistyring? ",
-   "jobtitle": "rådgiver",
-   "employer": "Jernbanedirektoratet",
-   "location": "OSLO, OSLO",
-   "postalCode": "0185",
-   "published": "2026-10-22T00:00:00+02:00",
-   "updated": "2026-10-23T08:29:23.149497+02:00",
-   "expires": "2026-11-10T00:00:00+01:00",
-   "applicationDue": "2026-11-10T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5194651098&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f0f39793-ec45-422c-a8a1-c0c05dbca2e7",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
-   ],
-   "description": "Jernbanedirektoratet har en viktig rolle i arbeidet med å utvikle dagens og morgendagens jernbane. Vi jobber for at stadig flere skal velge å reise kollektivt og for at flere næringsaktører skal velge bane fremfor vei til å frakte gods. Fremtidens jernbane skal være effektiv, bærekraftig og sikker – det er kjernen i vårt samfunnsoppdrag.\n\nJernbanedirektoratet skal ivareta den strategiske, helhetlige og overordnede koordineringen og planleggingen av jernbanesektoren. En viktig oppgave er å samordne alle aktørene i jernbanesektoren, samt jernbane og øvrig kollektivtransport. Vi har også ansvar for å inngå avtaler om kjøp av materiell og tjenester som til sammen utgjør et godt jernbanetilbud. Sentralt i direktoratets arbeid står innovasjon, bærekraft og kunnskapsutvikling som grunnlag for faglige råd og anbefalinger om fremtidens jernbane. Vi er et relativt ungt direktorat under utvikling, samtidig som vi har en lang og stolt jernbanehistorie.\nI økonomi- og virksomhetsstyringsseksjonen har vi ansvaret for direktoratets virksomhet- og økonomistyring. Vi koordinerer arbeidet med direktoratets virksomhetsplan, følger opp den interne rapporteringen, og utarbeider budsjetter og prognoser for direktoratets budsjetter. \nSeksjonen ivaretar direktoratets regnskapsfunksjoner og lønnsutbetaling, og har ansvaret for regnskapsrapportering internt og til departementet. I vårt arbeid inngår utvikling og forvaltning av systemer, rutiner og strukturer for god virksomhets- og økonomistyring. Du vil delta i et team som arbeider med å utvikle og forvalte retningslinjer for god intern styring, samtidig som vi bistår med råd og kompetanse innenfor mål- og resultatstyring til resten av organisasjonen. \n\nDu vil bli en del av et kompetansemiljø hvor vi deler erfaringer, og bidrar til å gjennomføre og forbedre styringen i Jernbanedirektoratet. Du vil jobbe tett opp mot ledere og ansatte i andre avdelinger, hvor du bistår med regnskapsoppgaver, lønnskontroller og andre viktige oppgaver innenfor økonomistyring som budsjetter og prognoser. Vi søker derfor deg som liker å jobbe i et proaktivt og engasjert miljø, og som er opptatt av høy kvalitet i leveransene. Du jobber systematisk, er nøyaktig, liker å utvikle gode systemer, samt bygge kultur som bidrar til at vi lykkes sammen\nStillingen er et vikariat med varighet frem til oktober 2027, med muligheter for forlengelse.\n\nArbeidsoppgaver\n• regnskap og rapportering internt og eksternt, dette inkluderer etterkontroller \n• avsetninger og andre oppgaver knyttet til statlig regnskapsstandard i staten (SRS) \n• utarbeide budsjetter og bistå avdelingene med budsjettprognoser herunder lønnsbudsjetter \n• andre driftsoppgaver i seksjonene knyttet til rapportering, regnskap og budsjetter\nKvalifikasjoner\nDu må ha\n• høyere utdanning innen relevante fagområder \n• interesse og kunnskap om økonomistyring, regnskap og og rapportering \n• svært gode Excel ferdigheter, og gode ferdigheter i bruk av Office verktøy \n• god skriftlig og muntlig fremstillingsevne på norsk\nDet er en fordel om du har \n• erfaring fra regnskap og budsjettarbeid i statlig sektor\n• erfaring med å utarbeide analyser og gode beslutningsgrunnlag\n• erfaring med bruk av PowerBI el. lignende verktøy\n• kjennskap til styrings- og beslutningsprosesser i staten\nNyutdannede kan søke.\nPersonlige egenskaper\n• nøyaktig, strukturert og planmessig, og med god gjennomføringsevne \n• faglig engasjert og løsningsorientert, med blikk for både helhet og detaljer \n• initiativrik og selvstendig, samtidig som du samarbeider godt med andre \n\nVi legger stor vekt på personlig egnethet for stillingen.\nJernbanedirektoratet bruker Unit4 (Agresso) innenfor regnskap og budsjettering og SAP innenfor HR og lønn. Vi er benytter oss av grunntjenestene til DFØ, og kjennskap til systemene er en fordel, men ikke en forutsetning for stillingen.\nArbeidet innebærer mye samhandling med andre i direktoratet. Du må derfor være imøtekommende og tillitsskapende, med en serviceorientert tilnærming til kollegaer og ledere.\nVi tilbyr\nBli en del av Jernbanedirektoratet – hvor vi sammen skaper fremtidens jernbane med verdiene våre: nytenkende, åpen, modig og kompetent.\n\nHos oss får du muligheten til å bidra til et viktig samfunnsoppdrag som fremme en bærekraftig utvikling av samferdselssektoren i Norge. Du vil jobbe med samfunnsaktuelle problemstillinger som har betydning for både enkeltmennesker og samfunnet som helhet.\n\nDu blir en del av et kompetent og engasjert fagmiljø, i en organisasjon i utvikling, og et inkluderende arbeidsmiljø med godt samhold og fellesskap.\nLes mer om hvordan det er å jobbe i Jernbanedirektoratet. \n\nSom ansatt får du gode rammer som legger til rette for balanse mellom jobb og fritid. Du får fleksitid, sommertid, betalt overtid og mulighet for hjemmearbeid når arbeidsoppgavene tilsier at det lar seg gjøre.\n\nDu får også gode pensjons- og forsikringsordninger gjennom Statens pensjonskasse, og mulighet for boliglån med gunstige vilkår. Les mer på spk.no. Det trekkes 2 % av lønnen i lovpålagt pensjonsinnskudd.\n\nDu blir ansatt som rådgiver (stillingskode 1434), i lønnsspennet kr 540 000 - 750 000 avhengig av kvalifikasjoner. Høyere lønn kan vurderes for særskilt kvalifiserte kandidater. \n\nArbeidssted: Oslo\n\nVi er opptatt av mangfold og inkludering, og søker deg med relevant kompetanse, spennende fagkombinasjoner, livserfaring og nye perspektiver.  Har du hull i CV-en din, funksjonsnedsettelse eller innvandrerbakgrunn vil vi oppfordre deg til å krysse av for dette når du søker stilling hos oss. Det gir deg mulighet for å få positiv særbehandling. Vi kaller inn minst én kvalifisert søker fra hver av disse gruppene til intervju.\n\nVitnemål og attester må følge søknaden. Vi ber om at du henter vitnemål fra Vitnemålsportalen direkte i Webcruiter når du søker stillingen. Dersom du har tatt hele eller deler av utdanningen din i utlandet, ber vi om en autorisert oversettelse av papirer og vitnemål, og godkjenning fra Direktoratet for høyere utdanning og kompetanse. (https://hkdir.no/utdanning-fra-utlandet). Godkjenningen må legges ved søknaden. \n\nNår du søker jobb hos oss, vil navnet ditt stå på en offentlig søkerliste. Ønsker du å bli unntatt denne søkerlisten, må du begrunne hvorfor, og vi vurderer om vi kan innvilge unntak. Du hører fra oss hvis vi ikke kan det.\nI våre rekrutteringsprosesser gjennomfører vi personlighetstest- og evnetester.\n\nVi bruker Semac bakgrunnssjekk. På enkelte stillinger kan det være behov for utvidet sjekk og individuell helhetsvurdering i forkant av ansettelse.\nKontaktinformasjon\nKathinka Røvig, seksjonsleder, +47 97950071\n\nArbeidssted\nBiskop Gunnerusgate 14\n\n0185 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Jernbanedirektoratet\n\nReferansenr.: 5194651098\n\nStillingsprosent: 100%\n\nVikariat\n\nSøknadsfrist: 10.11.2026"
   },
   {
    "id": "nav-e0423c7f-be22-4c50-82f9-3f4c9bed5c27",
@@ -9838,31 +9938,6 @@
     "Transport og lager / Tog-, sporvogn- og vegtrafikk"
    ],
    "description": "Vi søker en seriøs og motivert drosjesjåfør som ønsker en stabil og forutsigbar arbeidshverdag. Stillingen er som sjåfør på fast bil i Oslo. Erfaring er en fordel, men ikke et krav.\n\nHva vi ser etter\n\nVi ser etter en person som:\n\n• \nEr punktlig og ansvarsbevisst\n\n• \nEr serviceinnstilt og profesjonell\n\n• \nKan arbeide selvstendig og være pålitelig\n\n• \nTar vare på bilen\n\n• \nEr opptatt av å gi kundene en trygg og hyggelig opplevelse\n\n• \nØnsker en stabil og langsiktig jobb i et godt arbeidsmiljø\n\nKvalifikasjoner:\n\n• \nFørerkort klasse B\n\n• \nGyldig kjøreseddel for drosje\n\nArbeidsoppgaver\n\n• \nTransportere kunder trygt og effektivt i Oslo og omegn\n\n• \nGi god kundeservice og skape en hyggelig opplevelse for passasjerene\n\n• \nTa vare på bilen og utføre daglig kontroll før og etter skift\n\n• \nFølge interne rutiner og bidra til et godt samarbeid med kollega\n\n• \nDelta i opplæring ved behov og holde seg oppdatert på regler for persontransport\n\nVi tilbyr\n\n• \nFast og stabil bil\n\n• \nKonkurransedyktige og ryddige betingelser\n\n• \nGode inntjeningsmuligheter\n\n• \nOpplæring og støtte ved behov\n\n• \nFleksibilitet og god kommunikasjon\n\n• \nLangsiktig samarbeid for den rette personen"
-  },
-  {
-   "id": "nav-b85e8664-0cc6-4daa-ba3f-07b7b1aa2e4e",
-   "uuid": "b85e8664-0cc6-4daa-ba3f-07b7b1aa2e4e",
-   "title": "Kokk med lidenskap for italiensk mat",
-   "jobtitle": "Kjøkkensjef",
-   "employer": "Felloni & Piersante Sofienberg",
-   "location": "OSLO, OSLO",
-   "postalCode": "0562",
-   "published": "2026-10-17T15:57:21+02:00",
-   "updated": "2026-10-19T07:54:38.438538+02:00",
-   "expires": "2026-11-30T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b85e8664-0cc6-4daa-ba3f-07b7b1aa2e4e",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Reiseliv og mat / Kokk"
-   ],
-   "description": "Felloni & Piersante på Sofienberg søker dyktig kokk med lidenskap for italiensk mat!\n\nFelloni & Piersante Sofienberg er en italiensk delikatesse og gastronomi, og vi ser nå etter en engasjert og erfaren kokk som kan bidra med produksjon av ekte italiensk mat til vår disk.\n\nVi ser etter deg som har lidenskap for italiensk matkultur, gode råvarer og tradisjonelle smaker.\n\nOm stillingen\n\nVi ser etter deg som har:\n\n• \nMinimum 3-5 års erfaring fra kjøkken\n\n• \nGod kunnskap om italiensk mat og tradisjoner\n\n• \nErfaring med sør-europeisk mat er også relevant - opplæring i italiensk mat kan gis til den rette kandidaten\n\n• \nEvne til å jobbe effektivt, ryddig og selvstendig\n\n• \nEn positiv og løsningsorientert holdning\n\n• \nØnske om å bidra til et profesjonelt og hyggelig arbeidsmiljø\n\nArbeidet vil hovedsakelig bestå av produksjon av mat til vår delikatesse/gastronomi, med fokus på italienske retter, ferske produkter og høy kvalitet.\n\nVi tilbyr\n\n• \nEn 80 % stilling, med gode muligheter for utvidelse til 100 %\n\n• \nEn spennende jobb i et etablert konsept i utvikling\n\n• \nMulighet til å sette ditt preg på utvalget\n\n• \nEt hyggelig og lidenskapelig arbeidsmiljø\n\n• \nKonkurransedyktige betingelser\n\n• \nLønn etter erfaring\n\nEr du den rette for oss?\n\nFor å søke på stillingen må du være bosatt i Norge. Send CV og en kort søknad til jobb@fellonispekehus.no, så tar vi kontakt for en prat."
   }
  ]
 }
