@@ -1,12 +1,87 @@
 {
- "generatedAt": "2026-11-01T00:07:03+00:00",
+ "generatedAt": "2026-11-01T10:26:39+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 429,
+ "count": 432,
  "ads": [
+  {
+   "id": "nav-9323c7ff-8b19-4230-8e68-89e7216ce9b1",
+   "uuid": "9323c7ff-8b19-4230-8e68-89e7216ce9b1",
+   "title": "Sikkerhetskonsulent Inhouse - Varme leads - Oslo",
+   "jobtitle": "Sikkerhetskonsulent",
+   "employer": "Sky Rekruttering As",
+   "location": "OSLO, OSLO",
+   "postalCode": "0485",
+   "published": "2026-11-01T01:11:16+01:00",
+   "updated": "2026-11-01T01:12:02.676734+01:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "https://snapperjobb.no/kandidatbase/annonse?id=ea728d1d-6488-4a4e-9cfb-1238a9ee7e93",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/9323c7ff-8b19-4230-8e68-89e7216ce9b1",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Sikkerhet og beredskap / Vakt-, sikrings- og kontrollarbeid"
+   ],
+   "description": "Vil du jobbe med varme leads?\n\nNå søker vi en ny kollega til Sector Alarms Inhouse-team i Oslo. De er et ledende selskap innen sikkerhetsløsninger, kjent for deres innovative tilnærming og høy kundetilfredshet.\n\nDette er ikke en rolle vi rekrutterer til ofte. Teamet leverer sterke resultater, har lav turnover og består av dyktige selgere som trives og utvikler seg sammen.\n\nHar du erfaring med salg og ønsker å jobbe med varme leads, rådgivende salg og et produkt som skaper reell verdi for kundene? Da kan dette være muligheten for deg.\n\nHva innebærer rollen?\n\nSom HQ Sales Representative, Inhouse jobber du med salg av Sectors alarm- og sikkerhetsløsninger over telefon.\n\nDet som skiller rollen fra mange andre salgsstillinger er at du jobber med varme leads. Kundene du kontakter har allerede vist interesse for Sectors tjenester og ønsker mer informasjon. Gjennom gode salgssamtaler kartlegger du behov, bygger tillit og hjelper kunden med å finne den trygghetsløsningen som passer best. Du følger opp potensielle kunder og bidrar til sterke resultater både individuelt og som en del av teamet.\n\nDerfor vil du trives hos Sector Alarm:\n\nSector Alarm holder til sentralt i Oslo med gode t-bane, trikk og buss forbindelser. Hos Sector får du jobbe med et produkt som betyr noe for kundene, samtidig som du utvikler deg i et sterkt salgsmiljø.\n\nSector tilbyr fast ansettelse med fastlønn, provisjon og bonusordning, slik at du i stor grad kan påvirke egen inntekt. Du blir en del av et erfarent og inkluderende team med fokus på kunnskapsdeling, utvikling og gode resultater.\n\nI tillegg får du delta på sosiale arrangementer, salgskonkurranser og nasjonale og internasjonale reiser. På hovedkontoret har de også kantine med varm lunsj.\n\n﻿Lønnen i denne stillingen baseres på fastlønn, provisjon og bonus.\n\nHvem ser vi etter?\n\nVi tror du vil lykkes hos Sector dersom du:\n\n• \nHar minimum ett års erfaring fra salg i call center eller annen telefonbasert salgsrolle og trives med telefon som primært arbeidsverktøy\n\n• \nMotiveres av mål, resultater og muligheten til å påvirke egen lønn\n\n• \nBygger raskt tillit og gode relasjoner\n\n• \nKommuniserer godt på norsk, både muntlig og skriftlig\n\n• \nJobber strukturert og tar ansvar for egne resultater\n\nSky Rekruttering håndterer rekrutteringsprosessen på vegne av Sector Alarm.\n\nVi vurderer kandidater fortløpende og anbefaler derfor at du sender inn søknaden din så snart som mulig.\n\nHar du spørsmål om stillingen eller rekrutteringsprosessen, er du velkommen til å ta kontakt med Mats-Alexander Bragstad mobil: 984 11 667 mail: mats-alexander@skyrekruttering.no"
+  },
+  {
+   "id": "nav-7a38d3b1-49b3-48d9-b968-d68a249c8827",
+   "uuid": "7a38d3b1-49b3-48d9-b968-d68a249c8827",
+   "title": "Salgshelt for Team Robin – Provisjon uten tak – Oslo",
+   "jobtitle": "Salgskonsulent, Business-to-Business",
+   "employer": "Sky Rekruttering As",
+   "location": "OSLO, OSLO",
+   "postalCode": "0663",
+   "published": "2026-11-01T01:10:26+01:00",
+   "updated": "2026-11-01T01:11:05.880334+01:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "https://snapperjobb.no/kandidatbase/annonse?id=ec6fbe54-960c-4afa-994f-c703010b1c30",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7a38d3b1-49b3-48d9-b968-d68a249c8827",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Kontor og økonomi / Megling"
+   ],
+   "description": "Team ROBIN -- BLI MED PÅ ET AV OSLOS MEST SPENNENDE SALGSTEAM!\n\nEr du en energisk telefonselger som elsker å bygge relasjoner og skape resultater? Drømmer du om en jobb der innsatsen virkelig lønner seg -- samtidig som du har det gøy på jobb?\n\nHos Team Robin får du en hverdag fylt med fart, fokus og fellesskap. Vi tilbyr provisjon uten tak, høy grunnlønn og ledere som jobber målrettet med å utvikle deg som selger.\n\nSom selger hos Robin blir du stemmen og ansiktet utad for Gule Sider. Du tar kontakt med både nye og eksisterende bedriftskunder via telefon, bygger sterke relasjoner og hjelper kundene med å finne de beste digitale løsningene for deres behov.\n\nRobin hjelper små og mellomstore bedrifter med å bli synlige på nett gjennom tjenester som:\n\nNettsider\n\nSEO\n\nGoogle Ads\n\nSosiale medier\n\nDigitale katalogoppføringer\n\nBedriftsprofiler\n\nMålet er å gjøre det enkelt for bedrifter å nå ut til kundene sine på en effektiv måte.\n\nJobb i hjertet av Helsfyr -- et av Oslos mest spennende utviklingsområder!\n\nKontoret ligger sentralt til på Helsfyr med kort vei til kollektivtransport, treningssentre, restauranter og alt Oslo har å by på. Her blir du en del av et moderne arbeidsmiljø med høy energi og sterke utviklingsmuligheter.\n\nDette får du hos Robin:\n\nKonkurransedyktig grunnlønn + provisjon uten tak\n\nModerne og inspirerende kontorlokaler sentralt i Oslo\n\nGrundig opplæring og tett oppfølging fra erfarne salgsledere\n\nTo sterke salgsteam som motiverer og løfter hverandre\n\nSpennende produkter innen digital synlighet og markedsføring\n\nEn variert arbeidshverdag med høyt tempo og gode utviklingsmuligheter\n\nSosialt og inkluderende arbeidsmiljø med fokus på trivsel og resultater\n\nEn typisk arbeidsdag:\n\nDagen starter med et energifylt morgenmøte hvor teamet samles for motivasjon, målsetting og fokus. Deretter går man ut på telefon for å skape nye relasjoner, følge opp kunder og bygge resultater.\n\nGjennom dagen har teamet korte statusmøter og sparringsrunder slik at du alltid har støtte og utvikling rundt deg. Her jobber man målrettet -- samtidig som man har det gøy sammen.\n\nVi ser etter deg som:\n\nHar erfaring med telefonsalg eller B2B-salg\n\nMotiveres av mål, resultater og konkurranse\n\nHar høy arbeidsmoral og sterk gjennomføringsevne\n\nEr sosial, utadvendt og god på relasjonsbygging\n\nTrives med telefon som arbeidsverktøy\n\nForstår at konsistens og innsats skaper suksess\n\nHos Team Robin får du ikke bare en jobb -- du får en arena for utvikling, mestring og store muligheter.\n\nVil du bli en del av teamet? Vi ønsker å høre fra deg!\n\nSky Rekruttering AS assisterer Robin i denne rekrutteringsprosessen.\n\nAlle henvendelser bes rettes til:\n\nMats-Alexander Bragstad\n\nRekrutteringsrådgiver\n\n984 11 667\n\nmats-alexander@skyrekruttering.no"
+  },
+  {
+   "id": "nav-a89a6ded-67a4-4db0-a81b-4b124d933dc7",
+   "uuid": "a89a6ded-67a4-4db0-a81b-4b124d933dc7",
+   "title": "Sikkerhetsrådgiver med konkurranseinstinkt - Oslo",
+   "jobtitle": "Salgskonsulent",
+   "employer": "Sky Rekruttering As",
+   "location": "OSLO, OSLO",
+   "postalCode": "0485",
+   "published": "2026-11-01T01:05:02+01:00",
+   "updated": "2026-11-01T01:05:48.604661+01:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "https://snapperjobb.no/kandidatbase/annonse?id=f93d4bdf-8d72-4a38-bdd2-4b8add27b320",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/a89a6ded-67a4-4db0-a81b-4b124d933dc7",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Salg og service / Salg, butikk- og varehandel"
+   ],
+   "description": "Salgskonsulent Portefølje - defence\n\nRekrutteres av Sky Rekruttering på vegne av Sector Alarm\n\nPå vegne av Sector Alarm søker vi en engasjert Salgskonsulent Portefølje - defence til å jobbe med kunder på vei ut av selskapet (Defence). Kunden vår ser etter en kollega med sterke kommunikasjonsferdigheter, overtalelsesevner og en lidenskap for salg, sikkerhet og trygghet!\n\nDin arbeidsdag:\n\n• Du vil jobbe med kunder som av ulike årsaker vurderer å avslutte sitt boligalarm-abonnement. Din oppgave blir å forstå deres behov, gi dem den beste rådgivningen og vise verdien av våre løsninger på en profesjonell og overbevisende måte.\n\nHvem ser vi etter?\n\n• \nEn kollega som er ambisiøs, målrettet og trives med å jobbe mot resultater. Du kommuniserer tydelig og overbevisende, og er flink til å tilpasse deg ulike kunder og situasjoner.\n\nFor å lykkes i rollen bør du ha:\n\n• \nErfaring med salg, telefonsalg eller Call Center\n\n• \nDokumenterte gode salgsresultater\n\n• \nGode kommunikasjonsferdigheter i norsk, både muntlig og skriftlig\n\n• \nMotivasjon og et sterkt konkurranseinstinkt\n\nHva Sector Alarm tilbyr\n\n• \nKonkurransedyktige betingelser med fastlønn, provisjon og bonus\n\n• \nSolid opplæring og muligheter for karriereutvikling - ﻿i 2025 ble 67 % av våre lederroller besatt internt\n\n• \nArbeidstid fra 08:45 til 16:45\n\nOm Sector Alarm\n\nSector Alarm har hatt en sterk vekst over flere år og er i dag en ledende aktør innen sikkerhetstjenester i Europa. #30yearsofexcellence - I over 30 år har Sector Alarm levert trygghet til våre kunder og det skal vi forsette med! Sector Alarm er en av Europas ledende leverandører av sikkerhetsløsninger med over 730 000 fornøyde kunder. Med fokus på kvalitet, innovasjon og medarbeiderutvikling, har selskapet etablert seg som en markedsleder i åtte land.\n\nInteressert?\n\nSend søknad i dag! Kontakt Mats-Alexander Bragstad på mats-alexander@skyrekruttering.no eller +47 984 11 667 for spørsmål."
+  },
   {
    "id": "nav-6f149881-5603-4bf3-a2ec-15686128c81c",
    "uuid": "6f149881-5603-4bf3-a2ec-15686128c81c",
@@ -8669,7 +8744,7 @@
    "location": "OSLO, OSLO",
    "postalCode": "0257",
    "published": "2026-10-26T12:09:07+01:00",
-   "updated": "2026-10-26T14:24:37.814784+01:00",
+   "updated": "2026-11-01T01:32:13.08655+01:00",
    "expires": "2026-11-01T00:00:00+01:00",
    "applicationDue": "2026-11-01",
    "applicationUrl": "",
