@@ -1,12 +1,37 @@
 {
- "generatedAt": "2026-11-07T10:05:34+00:00",
+ "generatedAt": "2026-11-07T16:50:12+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 529,
+ "count": 523,
  "ads": [
+  {
+   "id": "nav-859b53c6-58ce-4b0c-a0e1-9134874f21dc",
+   "uuid": "859b53c6-58ce-4b0c-a0e1-9134874f21dc",
+   "title": "Erfaren maler søkes til fast stilling — Oslo",
+   "jobtitle": "Maler",
+   "employer": "Farger & Strøk AS",
+   "location": "OSLO",
+   "postalCode": null,
+   "published": "2026-11-07T15:15:53+01:00",
+   "updated": "2026-11-07T15:16:35.393187+01:00",
+   "expires": "2026-12-04T00:00:00+01:00",
+   "applicationDue": "2026-12-04",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/859b53c6-58ce-4b0c-a0e1-9134874f21dc",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "2026-12-04",
+   "occupations": [
+    "Håndverkere / Maler"
+   ],
+   "description": "Farger & Strøk AS er en ung malerbedrift i Oslo med full ordrebok gjennom vinteren. Vi søker en erfaren maler — fast stilling, konkurransedyktig lønn, bonusordninger, og en bedrift hvor du blir hørt.\n\nHva vi ser etter\n\n• \nFagbrev i malerfaget og/eller dokumentert erfaring fra malerarbeid\n\n• \nSnakker norsk flytende --- skriftlig og muntlig\n\n• \nFørerkort klasse B (B96 er et pluss, men ikke krav)\n\n• \nHyggelig og imøtekommende i møte med kunder\n\n• \nEnergisk og fleksibel --- du trives i et lite, voksende team\n\n• \nKomfortabel med å bli filmet og fotografert til våre sosiale medier\n\n• \nMotivert for å lære, og å lære bort ferdigheter og kunnskap\n\n• \nPålitelig, selvstendig og kvalitetsbevisst\n\n• \nDu vil bygge noe --- ikke bare gå på jobb\n\nArbeidsoppgaver\n\n• \nInnendørs og utendørs malerarbeid på leiligheter, hus og næringslokaler\n\n• \nSparkling, grunning, sliping, teiping og etterbehandling\n\n• \nDirekte kundedialog underveis i prosjekt --- vi mener maleren også er fagpersonen kunden snakker med\n\n• \nBidra til Farger & Strøks tilstedeværelse på sosiale medier (foto/video fra prosjekter, korte historier fra arbeidshverdagen) --- vi har bonusordning for jevnlig bidrag\n\n• \nVariert oppdragsportefølje, alt fra små leiligheter til større rehabprosjekter\n\nVi tilbyr\n\n• \nTimelønn 220--280 kr etter erfaring og fagbrev\n\n• \nFast ansettelse med trygg oppdragsmengde gjennom høsten 2026 og 2027\n\n• \nLovpålagte ytelser: feriepenger, pensjon (OTP), yrkesskadeforsikring\n\n• \nUng og ambisiøs arbeidsplass --- to grunnleggere som jobber sammen med deg i feltet\n\n• \nReell faglig innflytelse fra dag én --- vi er små, og du blir hørt\n\n• \nMulighet for å være med å bygge en bedrift fra start"
+  },
   {
    "id": "nav-9c66a10c-279e-43dc-b860-f783c3cae857",
    "uuid": "9c66a10c-279e-43dc-b860-f783c3cae857",
@@ -81,6 +106,31 @@
     "Industri og produksjon / Trevarearbeid og –foredling"
    ],
    "description": "Arbeidsoppgaver\n\n• \nMontering og kvalitetsjekking av produkter.\n\n• \nMontering av kjøkken, garderober, bad og øvrig interiør.\n\n• \nKontrollmål av prosjekter i forkant av produksjonsstart.\n\n• \nFokus på forbedringsarbeid fortløpende i hverdagen.\n\nKvalifikasjoner:\n\n• \nMange års erfaring kan veie opp mot fagbrev\n\n• \nSnakker Norsk eller Engelsk flytende\n\n• \nKan ta ansvar og styre mindre prosjekter\n\n• \nFørerkort klasse B\n\n• \nHar gode referanser og kan vise til tidligere prosjekter\n\n• \nPersonlige egenskaper:\n\n• \nDu er utadvendt og en lagspiller\n\n• \nFaglig dyktighet og ekte entusiasme for tømrerfaget\n\n• \nMå kunne jobbe nøyaktig og selvstendig\n\n• \nPositiv og godt humør\n\n• \nÆrlig og lojal\n\nVi tilbyr:\n\n• \nKonkurransedyktige betingelser\n\n• \nEt meget godt arbeidsmiljø\n\n• \nEt faglig sterkt miljø med gode utviklingsmuligheter\n\n------------------\n\nTasks\n\n• \nAssembly and quality checking of products.\n\n• \nInstallation of kitchens, wardrobes, bathrooms and other interiors.\n\n• \nControl goals of projects prior to production start.\n\n• \nFocus on improvement work continuously in everyday life.\n\nQualifications:\n\n• \nCertificate of apprenticeship and/or minimum five (5) years of experience\n\n• \nSpeaks Norwegian or English fluently\n\n• \nCan take responsibility and manage smaller projects *\n\n• \nClass B driver's license\n\n• \nHas good references and can refer to previous projects\n\n• \nPersonal characteristics:\n\n• \nYou are outgoing and a team player *\n\n• \nProfessional skill and genuine enthusiasm for carpentry\n\n• \nMust be able to work accurately and independently\n\n• \nPositive and good mood\n\n• \nHonest and loyal\n\nWe offer:\n\n• \nCompetitive conditions\n\n• \nA very good working environment\n\n• \nA professionally strong environment with good development opportunities"
+  },
+  {
+   "id": "nav-c8befc02-ae57-4ac8-8ad1-b97c7e9d7335",
+   "uuid": "c8befc02-ae57-4ac8-8ad1-b97c7e9d7335",
+   "title": "Pedagogisk leder, 3. gangs utlysning ",
+   "jobtitle": "Pedagogisk leder",
+   "employer": "Furustien barnehage, Oslo kommune, Bydel Alna",
+   "location": "OSLO, OSLO",
+   "postalCode": "1051",
+   "published": "2026-11-07T00:00:00+01:00",
+   "updated": "2026-11-07T14:22:36.579179+01:00",
+   "expires": "2026-11-21T00:00:00+01:00",
+   "applicationDue": "2026-11-21T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5205371086&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c8befc02-ae57-4ac8-8ad1-b97c7e9d7335",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Utdanning / Barnehagelærer"
+   ],
+   "description": "Vi søker en engasjert pedagogisk leder som vil være med på å skape en inkluderende barnehage hvor alle barn får likeverdige muligheter og medborgerskap. Hos oss vil du oppleve spennende dager i et stort faglig fellesskap med 24 barnehager. \nDette er en fast 100% stilling.\nFurustien barnehage\n\nFurustien barnehage er en barnehage med fire avdelinger, rett ved Furuset senter som er knutepunkt for både T-bane og buss.\nPå Furustien er vi 14 engasjerte ansatte som hver dag jobber for å skape en trygg, utviklende og inkluderende hverdag for barna. Barnehagen er en tradisjonell avdelings-barnehage. Vi har felles tema for hele barnehagen, slik at det er gjenkjennelig for både store og små barn. I Furustien er det et godt arbeidsmiljø, som preges av samarbeid, faglig refleksjon og ansatte som er tilstede for barna. Vi har nå en ledig stilling som pedagogisk leder, og søker deg som ønsker å bidra til videre utvikling av vårt pedagogiske arbeid. Hos oss får du muligheten til å være en del av et engasjert team, med rom for faglig vekst og påvirkning. \n\nOm Alna barnehageenhet\nVår visjon: «En inkluderende barnehage: sammen for likeverdige muligheter og medborgerskap.»\nVi verdsetter mangfold og ulike perspektiver, og ønsker søkere som vil bidra til en barnehagehverdag av høy kvalitet.\nVi jobber etter en felles pedagogisk plattform: Anerkjennende praksis. Barnehagebarn skal møte ansatte med høy kompetanse og tid til å følge opp det enkelte barn. Derfor har Alna barnehageenhet definert en kjernetid på inntil 5 timer hver dag. \nVåre satsinger i Alna barnehageenhet\nSpråksterk 1–6: Alle de kommunale barnehagene har/eller er på vei inn i forsknings- og utviklingsprosjektet Språksterk 1–6. Språksterkmodellen fokuserer på god språkutvikling gjennom temaarbeid og mentor- og kollegaveiledning. Furustien barnehage har implementert modellen i sin drift.\n\nØkt bemanning: Vi er en av seks bydeler som er tildelt nasjonalt tilskudd til økt bemanning i levekårsutsatte områder. Furustien barnehage er med i satsingen og har 2 ansatte i økt bemanning. \nTOPI: Vi bruker det digitale verktøyet TOPI (tidlig oppsporing og innsats) for å styrke og kvalifisere det forebyggende arbeidet. \n\nArbeidsoppgaver og utviklingsmuligheter\nSom pedagogisk leder har du ansvar for planlegging, gjennomføring og evaluering av det pedagogiske arbeidet i barnegruppen. Du leder det daglige arbeidet i samarbeid med øvrige ansatte og bidrar til et godt samarbeid med foreldre og foresatte.\nDu får mulighet til å utvikle deg faglig gjennom deltakelse i satsinger som Språksterk, veiledning, kurs og samarbeid i tverrfaglige team.\n\nArbeidsoppgaver\n• Hovedansvar for planlegging, utforming og oppfølging av pedagogiske planer for barnegruppa og enkeltbarn\n• Ansvar for ledelse av vurderings- og dokumentasjonsarbeidet på avdelingen/basen\n• Ansvar for å opparbeide, utvikle og ivareta god samhandling og samarbeid med foreldre\n• Være en del av barnehagens pedagogiske lederteam og delta i felles faglig utvikling av barnehagen\n• Pådriver i det systematiske språkarbeidet\n• Sørge for individuell oppfølging og pedagogisk veiledning av personalet innenfor eget ansvarsområde\n• Tverrfaglig samarbeid med eksterne instanser som fagsenter, styrket innsats, barnevern og PPT\n• Aktiv bidragsyter i å utvikle et godt arbeidsmiljø\nKvalifikasjoner\n• Godkjent barnehagelærer eller tilsvarende etter barnehageloven\n• Gode leder- og samarbeidsevner\n• Gode muntlige og skriftlige kommunikasjonsevner\n• Grunnleggende digital kompetanse og evne til å ta i bruk digitale verktøy i pedagogisk arbeid og dokumentasjon.\n• Gyldig politiattest må fremlegges før tiltredelse\n• Ved godkjent utenlandsk utdanning, kreves dokumentasjon på bestått norsk på nivå B2\nPersonlige egenskaper\nDu må ha en anerkjennende praksis: Kunne møte barn, foreldre og kollegaer på en forståelsesfull måte og ta opplevelsene, tankene og følelsene deres på alvor\nDu må ha høy arbeidskapasitet og god gjennomføringsevne: Være fleksibel og tilpasningsdyktig. Ta beslutninger.\nDu ser deg selv og barnehagen som et ledd i en lærende organisasjon: Kunne se ting på nye måter og perspektiver. Reflektere over egen og andres praksis.\nLeken og lærende: Være nysgjerrig, undrende og skapende i møte med barn.\nLøsningsorientert, initiativrik og fleksibel: Positiv forpliktet til arbeidsoppgavene, se muligheter og ta ledelse.\nØnske om å gjøre en forskjell i barns hverdag: Være en voksen som barna setter pris på og som gir barna mange gode opplevelser.\nØnske om faglig og personlig utvikling: Oppdatere deg faglig og et ønske om å lære mer innenfor ulike temaer som er aktuelle for å styrke barnehagen.\nDu må være modig på barns vegne: Kunne stå i ubehagelige situasjoner og fronte barnets beste der det er behov for det.\nDu må være en aktiv voksen som ser hvert enkelt barn: Kunne være en som gir barna god støtte og forutsigbarhet i hverdagen og i overganger. Kunne fange opp lysglimt og se behovene til enkeltbarn.\nVære en proaktiv leder.\nVi tilbyr\n• Gode lønns- og pensjonsvilkår.\n- Lønnstrinn 32-45 i henhold til ansiennitet. Pedagogisk leder med minimum 30 eller 60 studiepoeng fra etter-/videreutdanning i barnehagefaglige studieretninger vil bli lønnet etter høyere lønnstrinn. \n- 2% av innskudd til pensjon dekket av arbeidsgiver.\n• Enhetlig faglig fokus, mål og retning.\n• Veiledning for nyutdannede og nyansatte i gruppe og individuelt.\n• Kurs og opplæring i tråd med bydelens satsningsområder.\n• Mulighet til å lære, vokse og lykkes.\n• Felles faglige fora på tvers av barnehagene og bydel.\n• Fem planleggingsdager i året, hvorav en felles for alle ansatte i barnehageenheten\n• Vi har bedriftsavtale med SATS.\nKontaktinformasjon\nLaila Mahir Amin, 48298573\n\nArbeidssted\nTrygve Lies plass 4\n\n1051 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5205371086\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 21.11.2026"
   },
   {
    "id": "nav-cbc53112-7047-4067-be05-927e3fd7e260",
@@ -13135,207 +13185,6 @@
     "Kontor og økonomi / Juridisk arbeid"
    ],
    "description": "Er du nyutdannet jurist (eller i sluttfasen av studiet) og ønsker praktisk erfaring med klientkontakt og saksbehandling? Eller ønsker du å være advokatfullmektig med reelle muligheter for å oppfylle prosedyrekrav?\n\nEt lite advokatfirma søker en motivert jurist, saksbehandler eller advokatfullmektig. Hos oss får du gradvis mer ansvar, tett oppfølging og veiledning fra erfaren advokat.\n\nVi tilbyr et godt arbeidsmiljø der dine innspill blir tatt på alvor, og reelle muligheter for faglig og profesjonell utvikling. Stillingen passer både for deg som ønsker en trygg inngang til advokatbransjen, og for deg som ønsker å bli advokatfullmektig.\n\nArbeidsoppgaver\n\n• \nRettskildesøk og juridiske utredninger\n\n• \nSaksforberedelse: innhenting og systematisering av dokumentasjon, kronologi og oversikter\n\n• \nKommunikasjon med klienter, motparter og offentlige instanser\n\n• \nLøpende saksoppfølging, friststyring og enkle adminoppgaver\n\n• \nUtkast til brev, klager, tilsvar og prosesskriv (under veiledning)\n\nTillegg for advokatfullmektig:\n\n• \nAnsvar for egen saksmengde og kundeportefølje (under veiledning)\n\n• \nMøter med klienter og forhandlinger\n\n• \nUavhengig saksbehandling under oppsyn\n\nKvalifikasjoner\n\nObligatorisk:\n\n• \nFullført mastergrad i rettsvitenskap ved norsk studieinstitusjon eller i sluttfasen av studiet eller juristtittel godkjent av Advokattilsynet\n\n• \nSvært god norsk muntlig og skriftlig (B2 eller høyere)\n\n• \nGode ferdigheter i polsk\n\n• \nGod digital forståelse (MS Office, Outlook, vanlige saksstyringssystemer)\n\nØnskelig:\n\n• \nGode ferdigheter i engelsk\n\n• \nGode ferdigheter i andre språk\n\n• \nErfaring fra advokatbransjen\n\nPersonlige egenskaper\n\n• \nHøy integritet og god rolleforståelse (konfidensialitet)\n\n• \nGode samarbeids- og kommunikasjonsevner\n\n• \nSelvstendig, strukturert, pålitelig og løsningsorientert\n\n• \nMotivert for læring og utvikling\n\nVi tilbyr\n\n• \nEt lite og kompetent fagmiljø med tett samarbeid\n\n• \nVarierte saker og bred erfaring\n\n• \nIndividuell opplæring og faglig veiledning\n\n• \nKonkurransedyktige betingelser (etter kvalifikasjoner)\n\nSlik søker du\n\nVi vurderer søknader fortløpende. Send:\n\n• \nKort søknad og CV\n\n• \nVitnemål/karakterutskrift (og attester om tilgjengelig)\n\nSendes til: ig@golabek.no\n\nEmne: Skriv <<Saksbehandler>> eller <<Advokatfullmektig>>\n\nVi oppfordrer deg til å søke\n\nUsikker på om dette passer for deg? Send søknad likevel!\n\nVi vurderer kandidater bredt og er fleksible på løsninger.\n\nEr du polsktallende jurist men norskkunnskapene er under utvikling? Søk! Vi kan tilpasse opplæring og oppgaver, og gi erfaringsmessig veiledning."
-  },
-  {
-   "id": "nav-c40f7153-e33c-43c9-8e7e-4cbf1bf38504",
-   "uuid": "c40f7153-e33c-43c9-8e7e-4cbf1bf38504",
-   "title": "Salgsingeniør / teknisk rådgiver (50–100 %)",
-   "jobtitle": "Salgsrepresentant teknisk salg",
-   "employer": "Filtnor AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0379",
-   "published": "2026-10-30T15:52:41+01:00",
-   "updated": "2026-11-02T07:55:58.614947+01:00",
-   "expires": "2026-11-30T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c40f7153-e33c-43c9-8e7e-4cbf1bf38504",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Har du ingeniørutdanning eller solid teknisk erfaring, og ønsker å jobbe tettere med industrikunder og praktiske løsninger?\n\nVi opplever økende aktivitet og søker en salgsingeniør / teknisk rådgiver i 50--100 % fast stilling. Stillingsprosenten avtales ut fra dine ønsker og våre behov.\n\nVi ser etter deg som kan forstå kundens tekniske utfordringer, vurdere aktuelle løsninger og følge opp fra første henvendelse til tilbud og bestilling. Du kan være ingeniør, ha teknisk fagskole eller ha opparbeidet solid kompetanse gjennom praktisk arbeid i industrien.\n\nDu trenger ikke å ha jobbet med salg tidligere. Vi ønsker først og fremst en teknisk kompetent person som liker kundekontakt og har lyst til å utvikle seg innen rådgivning og salg.\n\nOm rollen\n\nHos oss kombinerer du teknisk arbeid med kundeoppfølging og salg. Du vil ha kontakt med operatører, vedlikeholdspersonell, ingeniører og innkjøpere, og bidra til å finne løsninger som passer kundens prosess og utstyr.\n\nEn henvendelse kan for eksempel handle om å identifisere en reservedel til en eldre filterpresse, vurdere en pumpe til en bestemt prosess eller kartlegge behov for utskifting og forbedringer på et anlegg. Din oppgave blir å forstå behovet, innhente nødvendige tekniske avklaringer og følge opp med et konkret tilbud.\n\nArbeidsoppgavene vil blant annet være:\n\n• \nTeknisk rådgivning og oppfølging av nye og eksisterende industrikunder\n\n• \nOppsøkende kontakt med potensielle kunder og utvikling av nye forretningsmuligheter\n\n• \nKartlegging av kundens prosess, utstyr og behov\n\n• \nVurdering og valg av utstyr, komponenter og reservedeler i samarbeid med våre tekniske ressurser og produksjonspartnere\n\n• \nKundebesøk, befaringer, oppmåling og inspeksjon av utstyr\n\n• \nBistand ved feilsøking og vurdering av forbedringsmuligheter\n\n• \nUtarbeidelse og oppfølging av tekniske tilbud\n\n• \nStrukturert oppfølging av kunder, tilbud og salgsaktiviteter i CRM\n\nRollen har et tydelig salgsansvar. Det innebærer at du tar initiativ til kundekontakt, avdekker behov og følger opp tilbud frem mot bestilling. Teknisk forståelse og god faglig dialog er grunnlaget for dette arbeidet.\n\nHvem ser vi etter?\n\nVi ser gjerne at du har ingeniørutdanning innen maskin, prosess, automasjon eller tilsvarende. Teknisk fagskole eller fagbrev kombinert med relevant industrierfaring er også en god bakgrunn.\n\nDu kan for eksempel ha erfaring fra prosjektering, teknisk drift, vedlikehold, service eller arbeid med industrielt prosessutstyr.\n\nVi legger særlig vekt på at du:\n\n• \nHar god teknisk forståelse og kan sette deg inn i mekaniske og prosessrelaterte problemstillinger\n\n• \nKan forstå og bruke teknisk dokumentasjon, tegninger og spesifikasjoner\n\n• \nLiker å diskutere tekniske løsninger og formidle dem på en forståelig måte\n\n• \nHar interesse for kundekontakt, rådgivning og salg\n\n• \nEr komfortabel med å besøke industrielle anlegg og undersøke utstyr i praksis\n\n• \nArbeider selvstendig og følger opp henvendelser og oppgaver på en strukturert måte\n\n• \nKommuniserer godt på norsk, svensk eller dansk, samt engelsk, både muntlig og skriftlig\n\n• \nHar førerkort klasse B\n\nErfaring med filterpresser, pumper, ventiler, pneumatikk, hydraulikk, rørsystemer, instrumentering eller automasjon er en fordel, men du trenger ikke å kjenne alle våre produktområder fra før. Du får opplæring i produktene, løsningene og salgsarbeidet.\n\nHvordan er det å jobbe hos oss?\n\nFiltnor er et lite selskap der du får arbeide tett på både kunder, leverandører og kollegaer. Du får varierte oppgaver og mulighet til å følge saker fra den første tekniske avklaringen til kunden har fått en løsning.\n\nVi tror du vil trives hos oss dersom du er teknisk nysgjerrig, tar initiativ og liker å finne praktiske løsninger. Du bygger tillit gjennom faglig forståelse, ryddig kommunikasjon og ved å følge opp det du lover.\n\nHva vi tilbyr\n\n• \nFast stilling i 50--100 %, med stillingsprosent etter avtale\n\n• \nEn variert arbeidshverdag med teknisk rådgivning, salg og kundeoppfølging\n\n• \nMulighet til å bruke og videreutvikle din tekniske kompetanse\n\n• \nOpplæring i våre produkter, løsninger og salgsarbeid\n\n• \nTett samarbeid med erfarne tekniske fagmiljøer og produsenter\n\n• \nStor grad av frihet og ansvar i et lite selskap\n\n• \nVariasjon mellom kontorarbeid, kundemøter og besøk på industrielle anlegg\n\n• \nKonkurransedyktige betingelser tilpasset erfaring og kompetanse\n\nArbeidssted: Husebybakken 28B, Oslo.\n\nNormal arbeidstid er kl. 08:00--16:00 mandag til fredag. Ved deltidsstilling avtaler vi fordelingen av arbeidstiden. Noe reisevirksomhet i forbindelse med kundebesøk og befaringer må påregnes.\n\nInteressert?\n\nSend oss en søknad med CV og noen ord om din tekniske bakgrunn og hvorfor rollen virker interessant. Oppgi gjerne hvilken stillingsprosent du ønsker.\n\nVi hører gjerne fra deg enten du allerede jobber med teknisk salg, eller ønsker å ta steget fra en teknisk rolle til en mer kunderettet arbeidshverdag."
-  },
-  {
-   "id": "nav-96f80d1f-97b4-40b4-b6ee-acfe31d9cbf6",
-   "uuid": "96f80d1f-97b4-40b4-b6ee-acfe31d9cbf6",
-   "title": "Vil du bidra til å styrke styring, internkontroll og anskaffelser i en av statens viktigste IT-organisasjoner?",
-   "jobtitle": "Rådgiver/seniorrådgiver virksomhetsstyring og internkontroll",
-   "employer": "DIREKTORATET FOR FORVALTNING OG ØKONOMISTYRING",
-   "location": "OSLO, OSLO",
-   "postalCode": "0580",
-   "published": "2026-10-30T15:31:50.1968+01:00",
-   "updated": "2026-11-02T08:13:57.816877+01:00",
-   "expires": "2026-11-15T22:59:59+01:00",
-   "applicationDue": "2026-11-15T00:00:00Z",
-   "applicationUrl": "https://direktoratet.contactrh.com/jobs/14035/44543446/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/96f80d1f-97b4-40b4-b6ee-acfe31d9cbf6",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
-   ],
-   "description": "Direktoratet for forvaltning og økonomistyring (DFØ) er blant Norges største leverandører av virksomhetskritiske fellestjenester og skyløsninger til statlig sektor. Våre løsninger understøtter utbetalinger på over 1 000 milliarder kroner årlig, og vi leverer en bred portefølje av tjenester som bidrar til digitalisering av offentlig sektor. DFØ har blant annet ansvar for statsregnskapet og den statlige utlysningsportalen Doffin. Gjennom våre tjenester støtter og digitaliserer vi virksomhetskritiske prosesser for over 90 prosent av statsforvaltningen.\n\nIT-divisjonen har ansvar for DFØs IT- og digitaliseringsagenda, tverrgående teknologiutvikling og sentrale IT-funksjoner. Divisjonen utvikler, forvalter og drifter digitale løsninger som understøtter både DFØs egne tjenester og oppdragene til våre fagdivisjoner.\n\nVi søker nå en rådgiver eller seniorrådgiver som vil få en sentral rolle i arbeidet med å videreutvikle internkontroll, virksomhetsstyring og anskaffelsesprosesser i IT-divisjonen. Rollen passer for deg som har erfaring med, eller interesse for, virksomhetsstyring, kvalitetsarbeid, internkontroll eller offentlige anskaffelser, og som er dyktig til å utvikle og følge opp rutiner, styrende dokumenter og styringsprosesser. For IT-divisjonen handler internkontroll primært om oppfølging av krav og føringer, styringsprosesser, risikovurderinger og etterlevelse av interne og eksterne krav. Du vil samarbeide tett med divisjonsledelsen og fagmiljøene i IT-divisjonen, og bidra til at vi har gode prosesser, tydelige styringsmekanismer og dokumentert etterlevelse av krav, retningslinjer og rutiner.\n Arbeidsoppgaver\n\nDu vil blant annet:• koordinere og følge opp IT-divisjonens arbeid med styring, risikovurderinger og etterlevelse av krav og føringer\n• følge opp tiltak, forbedringsaktiviteter og krav knyttet til divisjonens tjenester og arbeidsprosesser\n• bistå ved gjennomføring og oppfølging av offentlige anskaffelser og avrop i tråd med regelverk og interne rutiner\n• utarbeide, vedlikeholde og videreutvikle styrende dokumenter, rutiner og prosessbeskrivelser\n• bidra til risikovurderinger, planarbeid, rapportering og øvrige styringsprosesser\n• koordinere og kvalitetssikre bidrag til høringer, undersøkelser og andre tverrgående leveranser\n• samarbeide tett med ledere og fagmiljøer for å sikre helhetlig styring og etterlevelse\n• bidra i utviklings- og forbedringsarbeid i IT-divisjonen\n• bidra til øvrige oppgaver og utviklingsinitiativer som ligger til IT-stabens ansvarsområde\n\n Kvalifikasjoner\n\nDu må ha• relevant høyere utdanning på minimum bachelornivå. Relevant erfaring kan kompensere for utdanningskravet\n• erfaring med koordinering, prosessarbeid eller tilsvarende\n• meget god skriftlig og muntlig fremstillingsevne på norsk\n\n For å bli ansatt som seniorrådgiver vil det i tillegg legges vekt på erfaring med å drive forbedrings- og utviklingsarbeid, samt evne til å arbeide selvstendig med komplekse problemstillinger. \n\nDet er en fordel om du har• erfaring med virksomhetsstyring eller risikostyring\n• kvalitetsarbeid eller internkontroll\n• kjennskap til offentlige anskaffelser\n• erfaring med å utarbeide rutiner, prosessbeskrivelser eller styrende dokumenter\n• erfaring fra offentlig sektor\n\nPersonlige egenskaper\nVi ser etter deg som:• arbeider strukturert og systematisk\n• har god gjennomføringsevne\n• evner å se helhet og sammenhenger\n• er nøyaktig, analytisk og løsningsorientert\n• bygger gode relasjoner og samarbeider godt med ulike fagmiljøer\n• tar initiativ og følger opp saker på en selvstendig måte\n\nPersonlig egnethet vil bli tillagt stor vekt.\n Vi tilbyr deg \n• interessante og varierte arbeidsoppgaver i en virksomhet med et viktig samfunnsoppdrag \n• et godt faglig og sosialt arbeidsmiljø \n• gode muligheter for faglig utvikling gjennom kurs, kompetansetiltak og relevante sertifiseringer \n• fleksibel arbeidstid (inkludert sommertid), gode velferdsordninger og mulighet for trening i arbeidstiden \n• moderne lokaler i Økern Portal, med bærekraftprofil, gode restauranttilbud og Nord-Europas største takhage \n• medlemskap i Statens pensjonskasse (SPK) med svært gode pensjons-, forsikrings- og låneordninger \n\nDu får mange goder av å jobbe i staten. Mer om dem kan du finne på våre nettsider: Jobb i DFØ (www.dfo.no/om-dfo/jobb-i-dfo)\n Betingelser\n\nStillingen lønnes som rådgiver fra kr 650 000 til kr 800 000, eller som seniorrådgiver fra kr 750 000 til kr 950 000, avhengig av din kompetanse og erfaring. For spesielt godt kvalifiserte søkere kan vi vurdere noe høyere lønn. Det er 6 måneder prøvetid. Den som blir tilbudt stillingen må legge frem en utvidet politiattest. \n Har du spørsmål?\n\nTa kontakt med avdelingsdirektør, IT-stab Saliha Tughra Khaleeq på telefon +47 470 69 940.\nDu finner mer informasjon om DFØ på dfo.no. Velkommen som søker hos oss i DFØ!\n Mangfold i DFØ\n\nI DFØ tror vi at mangfold gir oss bredere perspektiver, og at medarbeidere med ulik livserfaring og bakgrunn gjør oss i stand til å skape enda bedre løsninger i samfunnsoppdraget vårt. Derfor oppfordrer vi alle til å søke jobb hos oss.\n\nDersom du har en funksjonsnedsettelse, innvandrerbakgrunn eller hull i CV-en, så kan du bli positivt særbehandlet dersom du krysser av for dette når du søker på stillingen. Vi inviterer alltid minst én kvalifisert søker fra hver av disse gruppene til intervju. Du kan lese mer om positiv særbehandling her: http://arbeidsgiver.difi.no/positivsaerbehandling. \n Søkerlister \n\nNår søknadsfristen har gått ut lager vi offentlig søkerliste. Dersom du ønsker å reservere deg fra å bli oppført på denne, må du krysse av for og begrunne dette i søknaden din. Vi tar kontakt med deg hvis vi ikke kan imøtekomme ønsket ditt om å ikke bli oppført på søkerlista."
-  },
-  {
-   "id": "nav-c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "uuid": "c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "title": "BPA rådgiver",
-   "jobtitle": "BPA rådgiver",
-   "employer": "Aberia Omsorg & Assistanse AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0250",
-   "published": "2026-10-30T13:06:47.380143+01:00",
-   "updated": "2026-10-30T15:09:08.459478+01:00",
-   "expires": "2026-11-30T00:00:00+01:00",
-   "applicationDue": "30.11.2026",
-   "applicationUrl": "https://jobs.mojob.io/48738/?utm_id=34804&utm_campaign=34804&utm_medium=job_share&utm_source=nav&utm_term=BPA+r%C3%A5dgiver&utm_content=48738",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "sourceurl": "https://jobs.mojob.io/48737/",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Miljøarbeidere"
-   ],
-   "description": "Vi søker en BPA-rådgiver til et seks måneders vikariat, med oppstart så snart som mulig.\n\nHva som møter deg hos oss? En jobb med mennesker. Mange mennesker. Arbeidsledere, assistenter, kolleger og samarbeidspartnere. Du får «egne» BPA-ordninger å følge opp og ansvar innen blant annet personal, kvalitet, bemanning, økonomi og drift.\n\nDu får også kolleger som kommer til å blande seg inn. På den gode måten. For hos oss skal du ikke sitte alene med utfordringene. Vi deler kunnskap, sparrer, utfordrer og hjelper hverandre. Vi spiller hverandre gode, feirer når vi lykkes og har lav terskel for både spørsmål og latter. Best sammen er ikke ment som pynt på en vegg. Det skal merkes i arbeidsdagen.\nDu trenger ikke kunne alt fra dag én – men du har god kjennskap til BPA. Du liker ansvar, du er god med mennesker, du er strukturert - og du leter etter løsningen når noe ikke går helt etter planen.\nVikariatet varer i utgangspunktet i seks måneder. Det kan bli aktuelt med forlengelse, men vi lover ikke mer enn det vi vet vi kan holde. Og - vi kan love at du blir ordentlig med på laget mens du er her.\nSkal vi holde av en plass til deg?\nPersonlige egenskaper\n• Strukturert med høy gjennomføringsevne\n\n• Ansvarsfull\n\n• Fleksibel\n\n• Problemløser\n\n• Tålmodig\n\n• Kunne yte service og være fleksibel\n\n• Jobbe i team, samtidig som du trives med å jobbe selvstendig\n\nVi tilbyr\n• En spennende og utfordrende stilling i et dynamisk selskap i vekst.\n\n• En mulighet til å være en del av et selskap og arbeidsgruppe som strekker seg langt for at våre arbeidsledere og assistenter skal få den beste hjelp og støtte.\n\n• Konkurransedyktige betingelser.\n\nGyldig politiattest må leveres før tiltredelse."
-  },
-  {
-   "id": "nav-37767731-ed48-497f-b67a-6aea9788a183",
-   "uuid": "37767731-ed48-497f-b67a-6aea9788a183",
-   "title": "Produktleder for mattilsynet.no og innholdsplattform",
-   "jobtitle": "Produktleder for mattilsynet.no og innholdsplattform",
-   "employer": "Mattilsynet",
-   "location": "OSLO, OSLO",
-   "postalCode": "0170",
-   "published": "2026-10-30T13:04:10.251111+01:00",
-   "updated": "2026-10-30T13:55:04.038181+01:00",
-   "expires": "2026-11-12T22:59:59+01:00",
-   "applicationDue": "2026-11-12T00:00:00Z",
-   "applicationUrl": "https://direktoratet-for-forvaltn.contactrh.com/jobs/14035/44542942/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/37767731-ed48-497f-b67a-6aea9788a183",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Utdanning / Forskningsarbeid"
-   ],
-   "description": "Vil du lede utviklingen av en innholdsplattform som brukes av hele Mattilsynet? \nProduktteamet bak mattilsynet.no har ansvar for Mattilsynets viktigste digitale kanal og innholdsplattformen som ligger bak. Plattformen brukes av ansatte på tvers av Mattilsynet til å publisere informasjon og veiledning, og av andre produktteam til å presentere tjenester og data. \nNå søker vi en produktleder som vil sette retning for den videre utviklingen. Sammen med produktteamet skal du gjøre plattformen enklere å bruke, legge til rette for mer gjenbruk og selvbetjening og sørge for at den utvikles som en robust, sikker og skalerbar grunnmur for Mattilsynets digitale tjenester. \nDette er rollen for deg som liker å balansere ulike brukerbehov, langsiktig plattformutvikling og løpende forbedringer, og som motiveres av å lede et teknisk produkt med stor betydning for samfunnsoppdraget vårt. \n\nOm rollen \nSom produktleder får du et tydelig mandat til å sette retning og prioritere teamets kapasitet. Plattformen brukes av ansatte som publiserer innhold, av andre produktteam som presenterer tjenester og data, og av publikum som skal finne og bruke informasjon og digitale tjenester. Du skal balansere behovene deres med krav til sikkerhet, universell utforming, stabilitet, kostnader og langsiktig teknisk bærekraft. \nSammen med utviklere, designer og andre fagpersoner utforsker du problemer, tester antakelser og følger forbedringer fra innsikt til levering, måling og læring. Du får også en sentral rolle i samarbeidet med team innholdsdesign og andre produktteam.\n\nDu vil blant annet • utvikle og formidle produktretningen for mattilsynet.no og innholdsplattformen \n• omsette strategiske mål og brukerbehov til prioriterte problemområder, ønskede effekter og målbare resultater \n• lede teamets kontinuerlige utforsking og produktutvikling, fra innsikt og testing til levering, måling og forbedring \n• prioritere teamets kapasitet på tvers av brukerbehov, teknisk utvikling, drift, sikkerhet og langsiktig bærekraft \n• utvikle plattformen som et internt produkt og gjøre det enklere for andre team å ta i bruk felles komponenter, innhold, data og integrasjoner \n• bygge gode samarbeidsformer, tillit og felles retning i teamet og med ledelse, fagmiljøer og andre produktteam \n\nOm oss \nI produktteamet blir du kollega med tre utviklere og en designer som liker å løse vanskelige problemer sammen. Vi er nysgjerrige, direkte og rause med hverandre, og har stor takhøyde for å stille spørsmål, utfordre etablerte sannheter og teste nye ideer. Vi deler kunnskap, ber om hjelp når vi trenger det og lærer av det som ikke virker. \nVi har ansvar for løsningene våre fra idé til drift og korte veier fra brukerbehov til beslutning og forbedring. Teamet har stor frihet til å påvirke retning, prioriteringer, teknologi og arbeidsform. Som produktleder blir du en del av dette samarbeidet. Du skaper tydelighet om hva vi skal oppnå og legger til rette for at teamets ulike fagperspektiver former både problemforståelsen og løsningene. \nVi er en del av et sterkt fagmiljø innen digitalisering, med rundt 100 utviklere, designere og produktledere. Her er det gode muligheter for faglig utvikling og kunnskapsdeling gjennom blant annet læringstorsdag, fagdager og avdelingssamlinger. \nDet som motiverer oss, er å lage løsninger som gjør en reell forskjell. Vi er stolte av samfunnsoppdraget vårt og visjonen «Sammen trygger vi framtiden for mennesker, dyr og natur». Hos oss får du jobbe i et ambisiøst og raust miljø med stor åpenhet, høy faglig standard og godt humør. \n\nVi ser etter deg som • har høyere relevant utdanning. Lang og relevant erfaring kan kompensere for manglende formell utdanning \n• har minst tre års erfaring som produktleder eller tilsvarende ansvar for digitale produkter \n• har ledet kontinuerlig produktutvikling i tverrfaglige team \n• bruker innsikt, data og virksomhetsmål til å prioritere og følge opp effekt \n• har teknologiforståelse \n• kommuniserer godt skriftlig og muntlig på norsk \n\nDet er en fordel om du har erfaring med eller interesse for • plattformprodukter eller interne produkter som brukes av flere team og fagmiljøer \n• CMS-er, innholdsplattformer, API- eller integrasjonsplattformer \n• offentlig sektor eller andre komplekse og regelstyrte virksomheter \n\nHvem er du som person? \nVi tror du • skaper tydelig retning samtidig som teamet får handlingsrom til å utforske problemer og finne løsninger \n• skaper godt samarbeid på tvers av fagmiljøer og organisatoriske enheter \n• er nysgjerrig og søker innsikt før du konkluderer, samtidig som du er komfortabel med usikkerhet og kan ta beslutninger uten at alle svar foreligger \n• kommuniserer tydelig, bygger tillit og får ulike fagperspektiver til å møtes \n• klarer å prioritere når behovene er mange, interessentene engasjerte og kapasiteten begrenset \n• lærer av det som tas i bruk og justerer retning når innsikten tilsier det \n\nVi legger stor vekt på personlig egnethet. \n\nVi tilbyr • fast stilling som seniorrådgiver (stillingskode 1364) med lønn etter avtale, avhengig av utdanning, erfaring og kompetanse. For tiden fra kr 900 000 til kr 1 100 000 for tilsvarende stillinger i Mattilsynet. For spesielt kvalifiserte søkere kan høyere lønn vurderes \n• gode arbeidstidsordninger med fleksibel arbeidstid, sommer- og vintertid og mulighet for inntil to dager hjemmekontor i uken \n• fritt valg mellom arbeidsverktøy, Windows eller Mac \n• fine og moderne kontorlokaler på Holberg Terrasse i Oslo, med treningsfasiliteter, sykkelparkering og kantine \n• medlemskap i Statens pensjonskasse med gode låne-, pensjons- og forsikringsordninger \n\nKontaktinformasjon \nOm dette høres spennende ut, så ikke nøl med å ta kontakt med oss! Ta gjerne kontakt med seksjonssjef Henrik Hellerøy på mobil 99550102 hvis du har spørsmål om stillingen. \n\nSlik søker du \nSøknader mottas kun elektronisk. Vi ber om at du laster opp vitnemål via Vitnemålsportalen. Dette sikrer en enkel og sikker overføring av dine dokumenter. For mer informasjon om hvordan du bruker Vitnemålsportalen, besøk vitnemålsportalen.no. Søkere som ikke har mulighet for det, legger inn attester og vitnemål som vedlegg til søknade.\n\nSammen trygger vi framtiden for mennesker, dyr og natur\nDet er både visjonen vår og et uttrykk for hvordan vi jobber sammen for å løse det viktige samfunnsoppdraget vårt. Vi utvikler organisasjonen og løsningene vi leverer, med utgangspunkt i behovene til brukerne våre.\n\nI Mattilsynet er vi over 1 200 kolleger over hele landet, med kompetanse på mange fagfelt. Vi er blant annet veterinærer, biologer, jurister, teknologer og medarbeidere med bakgrunn innen næringsmiddelproduksjon og forvaltning. Sammen bidrar vi blant annet til trygg mat og trygt drikkevann, god dyrehelse og dyrevelferd og god plantehelse.\n\nMattilsynet er et statlig forvaltningsorgan og rapporterer til Landbruks- og matdepartementet, Helse- og omsorgsdepartementet og Nærings- og fiskeridepartementet. Du kan lese mer om oss på mattilsynet.no.\n\nInkludering og mangfold er en styrke for Mattilsynet. Vi ønsker oss medarbeidere med ulik kompetanse, fagkombinasjoner, livserfaringer og perspektiver – fordi det gjør at vi kan løse oppgavene våre enda bedre.\nHar du funksjonsnedsettelse, hull i CV‑en og/eller innvandrerbakgrunn, oppfordrer vi deg til å krysse av for dette når du søker jobb hos oss. Vi kaller inn minst én kvalifisert søker fra hver av disse gruppene til intervju. Får du jobben, legger vi til rette for deg. Avkrysningene brukes kun i rekrutteringsprosessen og til anonymisert statistikk."
-  },
-  {
-   "id": "nav-244d40fe-2fa6-4538-98e5-69a0e0cc2824",
-   "uuid": "244d40fe-2fa6-4538-98e5-69a0e0cc2824",
-   "title": "Vil du forbedre hverdagen for brukere som jobber i grenseland?",
-   "jobtitle": "UX-designer",
-   "employer": "Tolletaten",
-   "location": "OSLO, OSLO",
-   "postalCode": "0152",
-   "published": "2026-10-30T12:32:10.03433289+01:00",
-   "updated": "2026-10-30T12:32:10.120306+01:00",
-   "expires": "2026-11-15T22:59:59+01:00",
-   "applicationDue": "2026-11-15T00:00:00Z",
-   "applicationUrl": "https://dfo-notolletaten.contactrh.com/jobs/14035/44539729/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/244d40fe-2fa6-4538-98e5-69a0e0cc2824",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "IT / Interaksjonsdesign"
-   ],
-   "description": "Tolletatens samfunnsoppdrag er en balanseøvelse. Hver dag beskytter vi samfunnet mot farlige og ulovlige varer, samtidig som vi muliggjør internasjonal handel og verdiskaping. For å lykkes med dette trenger vi digitale tjenester som er brukervennlige, pålitelige og utviklet med helheten i mente.\nVi ønsker derfor å styrke vårt designmiljø og søker en erfaren og engasjert UX designer. Hos oss får du en sentral rolle i å utvikle løsninger som gjør en forskjell — både for ansatte, næringslivet og reisende. Du forstår brukere og arbeidsprosesser, omsetter innsikt til funksjonelle konsepter og skaper gode opplevelser i samarbeid med andre fagpersoner. Du deler kunnskap, bidrar aktivt i fagmiljøet og trives i tverrfaglige produktteam.\n\nArbeidsoppgaver vil være:• Utvikle gode og helhetlige brukeropplevelser i tett samarbeid med brukerne og teamene\n• Lage skisser, prototyper og konsepter i Figma, og gjennomføre brukertesting\n• Bidra til å adoptere Designsystemet, og videreutvikle komponenter og mønstre for våre brukerflater\n• Sikre god designdrevet utvikling gjennom strukturert bruk av designprosesser\n• Bidra til å videreutvikle et sterkt fagmiljø med fokus på brukerinvolvering, verdiskapning og en helhetlig opplevelse på tvers av løsninger\n\nVi ser etter deg som: • Har erfaring med å lede innovasjons- og designprosesser i tverrfaglige miljøer\n• Evner å sette deg raskt inn i nye problemstillinger og omsette innsikt til realiserbare løsninger\n• Holder deg oppdatert på beste praksis innen UX og deler gjerne kunnskapen din med andre\n• Er god til å visualisere og formidle ideer, konsepter og innsikt på en tydelig måte\n• Har interesse for teknologi og ser muligheter i hvordan den kan skape verdi\n• Er åpen, nysgjerrig, kreativ og selvstendig — og samtidig en god lagspiller\n• Jobber helhetlig og alltid med brukernes behov i sentrum\n\nKvalifikasjoner: • Bachelorgrad innen design, interaksjonsdesign, informatikk eller annen relevant utdanning\n• Minimum 3 års relevant erfaring med UX‑design eller produktdesign\n• Erfaring med å lede og gjennomføre designprosesser fra innsikt til ferdige løsninger\n• Erfaring med designsystemer og moderne designverktøy - vi bruker Designsystemet og Figma\n• Solid erfaring med brukerinnsikt og metodevalg (intervjuer, observasjon, testing m.m.)\n• Erfaring med smidig utvikling i tverrfaglige team\n• Svært gode skriftlige og muntlige kommunikasjonsevner på norsk\n\nDet er en fordel om du også har:• Erfaring fra arbeid med komplekse prosesser eller regelverk\n• Erfaring fra offentlig sektor eller samfunnskritiske tjenester\n\nVi gjør oppmerksom på at ansettelse i stillingen forutsetter at du leverer en tilfredstillende politiattest. \n\nLegg gjerne ved en portefølje med utvalgte arbeider som viser hvordan du jobber fra problemforståelse til løsning og effekt.\n\nVi tilbyr: • Lønn som seniorrådgiver, kr 750 000-900 000 avhengig av kvalifikasjoner. For særlig godt kvalifiserte søkere kan høyere lønn vurderes. \n• Mulighet for faglig utvikling og kursing gjennom fagforum og konferanser som Yggdrasil- og Y-konferansen.\n• Utfordrende oppgaver og et spennende fagmiljø med mulighet for å gjøre en forskjell\n• Godt kollegialt og sosialt miljø med flere uformelle møtepunkter gjennom året\n• Pensjons-, forsikrings- og låneordninger i Statens pensjonskasse\n• Gode arbeidstidsordninger som fleksitid, sommertid, mulighet for hjemmekontor og inntil 1 time trening i arbeidstiden hver uke\n\nTil deg som søker jobb i Tolletaten\nDu må fylle ut feltene «Utdannelse» og «Arbeidserfaring» og laste opp relevante vitnemål og eventuelle attester.\n\nMangfold gjør oss bedre! For å løse samfunnsoppdraget vårt trenger vi medarbeidere med ulike erfaringer og perspektiver. Derfor oppfordrer vi alle kvalifiserte kandidater til å søke – særlig deg med funksjonsnedsettelse, innvandrerbakgrunn eller hull i CV-en. Ved å krysse av for dette i søknaden, kan du ha rett på positiv særbehandling. Les mer om dette på arbeidsgiverportalen.\n\nVær oppmerksom på at navnet ditt kan bli offentliggjort på en offentlig søkerliste, i tråd med gjeldende regelverk. Vi benytter Semac bakgrunnssjekk i forbindelse med våre ansettelser."
-  },
-  {
-   "id": "nav-916da78a-f9a0-4dcc-a74b-0f8280b5a186",
-   "uuid": "916da78a-f9a0-4dcc-a74b-0f8280b5a186",
-   "title": " HIJA BI søker en engasjert butikkmedarbeider med lidenskap for mote og modest fashion - Oslo",
-   "jobtitle": "Butikkmedarbeider klesbutikk",
-   "employer": "Hija Bi As",
-   "location": "OSLO, OSLO",
-   "postalCode": "1281",
-   "published": "2026-10-30T11:37:57+01:00",
-   "updated": "2026-10-30T15:14:04.410803+01:00",
-   "expires": "2026-11-20T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/916da78a-f9a0-4dcc-a74b-0f8280b5a186",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Vikariat",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "2026-11-02",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Er du glad i mote, styling og modest fashion? HIJA BI søker en positiv og engasjert butikkmedarbeider som brenner for god kundeservice. Bli en del av vårt team og bidra til å skape en inspirerende og hyggelig handleopplevelse for våre kunder!\n\nHva vi ser etter\n\nVi i HIJA BI ser etter en positiv, serviceinnstilt og engasjert butikkmedarbeider som:\n\n• \nHar interesse for mote og modest fashion.\n\n• \nEr blid, imøtekommende og elsker å hjelpe kunder.\n\n• \nEr ansvarsbevisst, pålitelig og punktlig.\n\n• \nEr selvstendig, fleksibel og tar initiativ.\n\n• \nHar gode kommunikasjonsevner og er salgsorientert.\n\n• \nTrives med å jobbe både selvstendig og i team.\n\n• \nEr kreativ og har øye for styling og presentasjon av klær.\n\nErfaring fra butikk eller salg er en fordel, men ikke et krav. Vi legger størst vekt på personlighet, motivasjon og vilje til å lære.\n\nArbeidsoppgaver\n\n• \nGi god kundeservice og veilede kunder i valg av klær og tilbehør.\n\n• \nBetjene kasse og håndtere salg.\n\n• \nPakke ut, merke og fylle på varer.\n\n• \nHolde butikken ryddig, ren og innbydende.\n\n• \nBidra til vareeksponering og styling.\n\n• \nTa initiativ og bidra til et positivt arbeidsmiljø.\n\nVi tilbyr\n\n• \nEt hyggelig, inkluderende og inspirerende arbeidsmiljø.\n\n• \nMulighet til å jobbe med mote og modest fashion.\n\n• \nGod opplæring og muligheter for personlig utvikling.\n\n• \nVarierte arbeidsoppgaver og ansvar.\n\n• \nEt positivt og engasjert team.\n\n• \nMulighet til å utvikle erfaring innen salg og kundeservice."
-  },
-  {
-   "id": "nav-1f9c6a04-cd1b-4330-9753-0a530e63a8a6",
-   "uuid": "1f9c6a04-cd1b-4330-9753-0a530e63a8a6",
-   "title": "Kantinemedarbeider og kokk søkes til Kristiansand",
-   "jobtitle": "Kantinemedarbeider og kokk",
-   "employer": "Eterni Norge AS avd. Service",
-   "location": "OSLO, OSLO",
-   "postalCode": "0663",
-   "published": "2026-10-30T10:56:40.137961+01:00",
-   "updated": "2026-10-30T12:28:25.09236+01:00",
-   "expires": "2027-01-15T01:00:00+01:00",
-   "applicationDue": "",
-   "applicationUrl": "https://secure.webtemp.no/WebtempCVPortal/startsession.aspx?page=stillingsingle&k=96&id_utleie=3004118",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1f9c6a04-cd1b-4330-9753-0a530e63a8a6",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "15.01.2027",
-   "occupations": [
-    "Reiseliv og mat / Reiseliv, hotell og overnatting",
-    "Reiseliv og mat / Kokk"
-   ],
-   "description": "På vegne av våre kunder i Kristiansand søker vi kvalitetsbevisste kantinemedarbeidere og kokker. Vi søker deg som liker å jobbe med mennesker, er tilpasningsdyktig, samtidig som du er selvstendig og strukturert. Oppdragene vil variere i både lengde og tidspunkt og du må kunne stille på kort varsel. Som tilkallingsvikar vil du ha en variert og spennende hverdag, du vil få mulighet til å vise deg frem for flere av våre kunder og opparbeide deg en variert erfaring fra bransjen. Vi ser etter deg som er fleksibel når det gjelder arbeidsplass og arbeidstid.\n\nHar du erfaring fra storkjøkken, hotell eller restaurant, trives med varierte arbeidsoppgaver? Da kan det være deg vi ser etter!\n\nArbeidsoppgaver\n\n• Tilberede kalde og varme retter\n• Oppvask og renhold\n• Kasse-håndtering og kundebehandling\n• Andre viktig oppgaver \n\nØnskede kvalifikasjoner for kokker\n\n• Erfaring fra storkjøkken, hotell eller restaurant\n• Fagbrev som kokk, lang erfaring kan kompensere for utdannelse\n• Erfaring fra varebestilling, sette opp menyer og andre administrative oppgaver er det en fordel\n• Kjennskap til IK-mat/HACCP og merking av allergener\n• Gode språkkunnskaper i ett nordisk språk eller engelsk\n• Erfaring med kassearbeidTrives i et hektisk miljø\n• Blid og positiv person \n\nØnskede kvalifikasjoner for kantinemedarbeidere\n\n• Erfaring fra storkjøkken, hotell eller restaurant\n• Kjennskap til IK-mat/HACCP og merking av allergener\n• Gode språkkunnskaper i ett nordisk språk eller engelsk\n• Erfaring med kassearbeid\n• Trives i et hektisk miljø\n• Blid og positiv person \n\nVi tilbyr\n\n• Konkurransedyktig lønn\n• Godt og inkluderende arbeidsmiljø\n• Muligheten til å skape nye relasjoner innen bransjen\n• God oppfølging av din Eterni konsulent \n\nVi håper å høre fra deg så snart som mulig.\n\nSyns du dette høres ut som noe for deg? Send inn din CV og søknad gjennom vår søknadsportal."
-  },
-  {
-   "id": "nav-cd6b849d-bc80-415b-98f4-70d3d0cf1f8e",
-   "uuid": "cd6b849d-bc80-415b-98f4-70d3d0cf1f8e",
-   "title": "Client Lead (Growth) – kundeansvar og vekst i Oslo og omegn",
-   "jobtitle": "Salgskonsulent, Business-to-Business",
-   "employer": "SALT Digital AS",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-10-30T10:19:40+01:00",
-   "updated": "2026-10-30T14:52:49.64121+01:00",
-   "expires": "2027-02-01T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd6b849d-bc80-415b-98f4-70d3d0cf1f8e",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Kontor og økonomi / Megling"
-   ],
-   "description": "Vil du eie kundedialogen fra første møte til videre vekst? SALT Digital søker Client Lead (Growth) i Oslo og omegn. Fast heltid med hjemmekontor og 20 % løpende provisjon etter direkte kostnader, uten fastlønn.\n\nHva vi ser etter\n\nDu har erfaring med B2B-salg, kundeansvar eller rådgivning. Du er trygg i dialog med beslutningstakere og liker å følge kunder over tid. Du kombinerer kommersiell forståelse med evne til å lytte, prioritere og koordinere.\n\nDu kommuniserer godt på norsk, følger opp det du lover og kan forklare hvordan digitale tjenester støtter kundens mål. Erfaring fra byrå, markedsføring eller teknologitjenester er en fordel. Rollen omfatter også aktivt nysalg.\n\nVi ønsker særlig søkere fra Oslo og omegn. Send CV og et kort eksempel på en kunderelasjon du har utviklet eller en salgsprosess du har drevet.\n\nArbeidsoppgaver\n\nSom Client Lead kombinerer du nysalg med løpende kundeansvar. Du skal skape sammenheng mellom kundens mål, tilbudet og det vi leverer.\n\n• Skaffe nye bedriftskunder i Oslo og omegn.\n\n• Gjennomføre behovsmøter og avklare mål, prioriteringer og beslutningsprosess.\n\n• Utforme tilbud sammen med relevante fagpersoner.\n\n• Koordinere overlevering fra salg til leveranse med tydelige løfter og avgrensninger.\n\n• Følge opp egen kundeportefølje, ta initiativ til statusmøter og håndtere forventninger.\n\n• Identifisere relevante tilleggstjenester og videreutvikle samarbeidet.\n\n• Holde struktur på avtaler, oppfølging og avtalte neste steg.\n\nVi tilbyr\n\nFast heltidsansettelse (100 %) med hjemmekontor. Vi ønsker særlig søkere fra Oslo og omegn. Rollen er rettet mot bedriftsmarkedet i denne regionen.\n\nLønn: 100 % provisjonsbasert, uten fastlønn eller garantert minsteinntekt. Du opptjener 20 % løpende provisjon av faktisk innbetalte inntekter fra kunder du selv skaffer, etter fradrag for direkte leveransekostnader. Slike kostnader omfatter blant annet annonsebudsjett, foto/video og kreativ produksjon, eksterne leverandører og relevante programvarekostnader. Beregningsgrunnlaget presiseres skriftlig i arbeidsavtalen.\n\nProvisjonen følger kjøpene til din egen kundeportefølje så lenge ansettelsesforholdet varer og kundene gir provisjonsgrunnlag. Kundene og kundeavtalene tilhører SALT Digital AS. Du opptjener feriepenger av provisjonen. Oppstart etter avtale.\n\nDu får tilgang til produkthefter, salgsmanual, behovskartlegging, salgskalkyle og maler for tilbud og overlevering."
   }
  ]
 }
