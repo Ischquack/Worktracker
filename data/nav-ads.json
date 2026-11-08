@@ -1,12 +1,37 @@
 {
- "generatedAt": "2026-11-08T10:19:54+00:00",
+ "generatedAt": "2026-11-08T17:03:11+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 520,
+ "count": 523,
  "ads": [
+  {
+   "id": "nav-658a7ec3-7c89-4b5d-b651-3b68412ad473",
+   "uuid": "658a7ec3-7c89-4b5d-b651-3b68412ad473",
+   "title": "Tilkallingsvikar innen renhold – Orivan AS",
+   "jobtitle": "Renholder",
+   "employer": "Orivan As",
+   "location": "OSLO",
+   "postalCode": null,
+   "published": "2026-11-08T14:57:38+01:00",
+   "updated": "2026-11-08T14:58:17.381399+01:00",
+   "expires": "2027-02-01T00:00:00+01:00",
+   "applicationDue": "Snarest",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/658a7ec3-7c89-4b5d-b651-3b68412ad473",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Engasjement",
+   "extent": "Deltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Salg og service / Renholdere og renovasjon"
+   ],
+   "description": "Orivan AS søker en pålitelig og fleksibel tilkallingsvikar innen renhold i Oslo og omegn. Erfaring er en fordel, men ikke et krav.\n\nHva vi ser etter\n\nVi ser etter deg som er pålitelig, punktlig, fleksibel og nøye. Du må kunne arbeide selvstendig. Erfaring fra renhold er en fordel, men ikke et krav. Du må kunne kommunisere på norsk eller engelsk. Førerkort er ikke nødvendig.\n\nArbeidsoppgaver\n\nUtføre renhold hosprivate kunder og bedrifter . Arbeidsoppgavene omfatter vanlig renhold, hovedrengjøring og flyttevask. Sikre godkvalitet og sørge for at kundene er fornøyde.\n\nVi tilbyr\n\nVi tilbyr fleksible arbeidsmuligheter, varierte arbeidsoppgaver, hyggelige kollegaer og en timelønn på 236,54 NOK brutto. Arbeid etter behov og avtale."
+  },
   {
    "id": "nav-3200967b-a17f-472a-b520-7f23746c9609",
    "uuid": "3200967b-a17f-472a-b520-7f23746c9609",
@@ -56,6 +81,131 @@
     "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
    ],
    "description": "Dette er ikke en klassisk dørselger-jobb. Du selger ingenting – du booker gratis og uforpliktende befaringer for AT Ventilasjon hos boligeiere i Oslo. Fast timelønn 250 kr + inntil 500 kr daglig bonus. Kveldsjobb som passer perfekt ved siden av studier.\n\nHva vi ser etter\n\nVi ser etter deg som:\n\n• \nFylt 18 år\n\n• \nSnakker flytende norsk\n\n• \nEr komfortabel med å prate med nye mennesker\n\n• \nEr positiv, pålitelig og møter opp når du skal\n\n• \nTåler litt vær og vind\n\nDu trenger ingen erfaring fra salg -- vi lærer deg alt du trenger. Det viktigste er at du er trygg på deg selv og liker å snakke med folk. Passer perfekt for deg som studerer og vil ha en fast kveldsjobb ved siden av.\n\nArbeidsoppgaver\n\nSom møtebooker er jobben din enkel og konkret: du oppsøker boligeiere i Oslo og tilbyr dem en gratis og uforpliktende befaring av ventilasjonen i boligen. Passer det, booker du et tidspunkt -- så tar fagfolkene våre resten. Ingen salg, ingen signering, ingen press på dørstokken.\n\n• \nGå dør til dør i faste områder sammen med teamet ditt\n\n• \nHa korte, hyggelige samtaler om inneklima og energisparing\n\n• \nBooke tidspunkt for gratis befaring med boligeiere\n\n• \nRegistrere avtalene fortløpende\n\nArbeidstid: kl. 14.00--21.00/21.30, mandag--fredag. Fri hver helg.\n\nVi tilbyr\n\n• \nFast timelønn 250 kr -- uansett resultat, ingen ren provisjon\n\n• \nInntil 500 kr ekstra i bonus hver dag -- en god kveld gir opptil ca. 350 kr/t\n\n• \nArbeidstid kl. 14.00--21.00/21.30, mandag--fredag -- fri hver helg\n\n• \nFull opplæring fra dag én -- du trenger ingen salgserfaring\n\n• \nSalgserfaring som ser bra ut på CV-en\n\n• \nMulighet for mer ansvar og videre karriere i selskapet"
+  },
+  {
+   "id": "nav-5019d795-f893-4daa-a161-e0785eb05af6",
+   "uuid": "5019d795-f893-4daa-a161-e0785eb05af6",
+   "title": "Tannlege 100% vikariat ved Majorstuen tannklinikk.",
+   "jobtitle": "Tannlege ",
+   "employer": "Oslo kommune, Helseetaten",
+   "location": "OSLO, OSLO",
+   "postalCode": "0369",
+   "published": "2026-11-08T00:00:00+01:00",
+   "updated": "2026-11-08T17:44:53.82325+01:00",
+   "expires": "2026-11-23T00:00:00+01:00",
+   "applicationDue": "2026-11-23T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5207300067&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/5019d795-f893-4daa-a161-e0785eb05af6",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Vikariat",
+   "extent": "Heltid",
+   "sector": "Offentlig",
+   "starttime": "2027-02-01",
+   "occupations": [
+    "Helse og sosial / Tannhelse/-pleie"
+   ],
+   "description": "Tannlege 100 % svangerskapsvikariat ved Majorstuen tannklinikk:\n\nVil du jobbe som tannlege i en moderne og velutstyrt tannklinikk, samtidig som du bidrar til et viktig samfunnsoppdrag?\n\nVi søker en engasjert og faglig dyktig tannlege til et 100 % svangerskapsvikariat ved Majorstuen tannklinikk.\n\nSom tannlege i Tannhelsetjenesten i Oslo møter du pasientgrupper med ulike og sammensatte behov. Dette gir en spennende og meningsfull klinisk hverdag, hvor du får brukt hele bredden av din kompetanse og samtidig utviklet deg faglig. Hos oss er samarbeid, kvalitet og pasientfokus grunnleggende verdier i arbeidet med å gi hele Oslos befolkning et godt tannhelsetilbud.\n\nOm Majorstuen tannklinikk:\nMajorstuen tannklinikk åpnet i nye lokaler i 2023 og er en stor og moderne klinikk med 15 behandlingsrom. Klinikken ligger sentralt med kort vei til T-bane, trikk og buss.\nKlinikken betjener også en biklinikk ved St. Hanshaugen omsorgssenter, og noe arbeid der kan være aktuelt.\nHos oss blir du en del av et kompetent og inkluderende fagmiljø bestående av:\n8 tannleger\n8 tannpleiere\n9 tannhelsesekretærer\n\nVi er opptatt av godt samarbeid, både internt på klinikken, på tvers av klinikkene i tannhelsetjenesten og med andre samarbeidspartnere.\n\nVi søker deg som:\nHar norsk autorisasjon som tannlege\nEr faglig engasjert og ønsker å utvikle deg videre.\nHar gode samarbeidsevner og bidrar positivt til arbeidsmiljøet.\nEr serviceinnstilt og kommuniserer godt med pasienter, kollegaer og samarbeidspartnere\nEr fleksibel, strukturert og løsningsorientert.\nHar gode norskkunnskaper, både muntlig og skriftlig\nVi tilbyr:\nEn spennende klinisk hverdag med stor faglig bredde\nEt inkluderende arbeidsmiljø med erfarne og engasjerte kollegaer\nModerne lokaler og godt utstyrt klinikkMulighet for faglig utvikling og kompetanseheving\nGode pensjons- og forsikringsordninger gjennom Oslo kommune.\n\nI intervjuet vil vi legge vekt på faglig refleksjon gjennom dialog og drøfting av kliniske problemstillinger og pasientcaser.\n\nVed første gangs ansettelse i Oslo kommune gjelder prøvetid på inntil seks måneder.\nAnsettelse forutsetter politiattest i henhold til helsepersonelloven § 20 a første og andre ledd.\nHusk å oppgi HPR-nummer i søknaden og legge ved relevante attester.\n\nArbeidsoppgaver\n• Deltakelse i alle fellesoppgaver på klinikken og \n• Samarbeide godt med de andre kollegaene på tannklinikken, i tannhelsetjenesten, samt med våre samarbeidspartnere i helsevesenet, barnevernet og andre offentlige innstanser.\n• Behandling av alle pasientgrupper i henhold til gjeldende faglige retningslinjer.\n• Bidra til et godt odontologisk fagmiljø på klinikken.\n• Delta og bidra positivt til en målrettet og god klinikkdrift\n\nKvalifikasjoner\n• Du må ha norsk autorisasjon som tannlege\n• Du må kunne legge frem gyldig politiattest før tiltredelse\n• Det stilles krav om at du må kunne kommunisere godt på norsk både muntlig og skriftlig. Du må ha norskferdigheter tilsvarende nasjonal norskprøve på nivå C1.\n• Det er en fordel med erfaring fra elektronisk journalsystem og generelt god datakunnskap\n• Du må kunne vise til en faglig forståelse knyttet til utførelse av arbeidsoppgavene\n• Det er ønskelig at du har en bred klinisk erfaring fra arbeid som tannlege. Det er ytterligere en fordel med erfaring fra offentlig tannhelsetjeneste\nPersonlige egenskaper\n• Liker en hverdag med høyt aktivitetsnivå og varierte arbeidsoppgaver.\n• Er faglig trygg og tar selvstendige, gode kliniske beslutninger.\n• Arbeider strukturert, er pålitelig og har høy gjennomføringsevne.\n• Møter mennesker med omsorg, trygghet, respekt og profesjonalitet.\n• Kommuniserer tydelig og samarbeider godt med kollegaer og andre faggrupper.\n• Formidler informasjon på en god og forståelig måte til pasienter, pårørende og samarbeidspartnere.\n• Viser engasjement for fellesskapet og har en positiv og løsningsorientert holdning.\n• Holder deg faglig oppdatert og deler kunnskap med kollegaer.\n• Tar initiativ og følger opp egne og felles oppgaver på en systematisk måte.\n• Evner å jobbe både selvstendig og i team.\n• Er fleksibel og bidrar til en effektiv drift og god pasientflyt.\n• Personlig egnethet og gode samarbeidsevner vil bli vektlagt. \nVi tilbyr\n• Varierte arbeidsoppgaver med et bredt klinisk spenn.\n• En meningsfull jobb med et stort og viktig samfunnsoppdrag.\n• Vi legger til rette for faglig utviklings gjennom erfaringsdeling, kurs og samarbeid, også på tvers av klinikkene.\n• Moderne og godt utstyrte klinikker\n• Helseetaten er en røykfri arbeidsplass.\n• Forutsigbare arbeidsforhold og ordnede ansettelsesvilkår.\n• Godt samarbeid, inkluderende og trivelig arbeidsmiljø med hyggelige og støttende kollegaer.\n• Gode tjenestepensjons- og forsikringsordninger i Oslo pensjonsforsikring\n\n• Arbeidstid : 36 timer per uke på dagtid på hverdager.\n• Helseetaten har lokal lønnsdannelse(LOK) for tannleger. Minstelønn for tannleger er kroner 630 000 i årslønn i 100% stilling. Lønnsfastsettelse baseres på erfaring og kompetanse og fastsettes ved ansettelse.\nKontaktinformasjon\nSiv Eline Glomsrød, klinikksjef, 22955290, siv.eline.glomsrod@hel.oslo.kommune.no\n\nArbeidssted\nSørkedalsveien 10C\n\n0369 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5207300067\n\nStillingsprosent: 100%\n\nVikariat\n\nStartdato: 01.02.2027\n\nSøknadsfrist: 23.11.2026"
+  },
+  {
+   "id": "nav-2fe6face-88d5-4e06-8269-373bc115fa39",
+   "uuid": "2fe6face-88d5-4e06-8269-373bc115fa39",
+   "title": "Brenner du for barns oppvekst og vil jobbe med engasjerte kolleger i et godt arbeidsmiljø? Bli vår nye kollega!",
+   "jobtitle": "Pedagogisk leder",
+   "employer": "Veslefrikk Kanvas-barnehage",
+   "location": "OSLO, OSLO",
+   "postalCode": "0450",
+   "published": "2026-11-08T00:00:00+01:00",
+   "updated": "2026-11-08T15:05:18.854995+01:00",
+   "expires": "2026-11-29T00:00:00+01:00",
+   "applicationDue": "2026-11-29T00:00:00",
+   "applicationUrl": "https://www.kanvas.no/ledige-stillinger/?rmpage=apply&rmjob=579&ref=nav.no&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2fe6face-88d5-4e06-8269-373bc115fa39",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Utdanning / Barnehagelærer"
+   ],
+   "description": "Er du utdannet barnehagelærer som ønsker å jobbe i et godt arbeidsmiljø og skape gode, trygge barnehagedager for barna våre? Da kan dette være stillingen for deg!\n\nHos oss får du mulighet til å bidra til å bygge kultur, praksis og fellesskap i trygge omgivelser, sammen med engasjerte kolleger. Barnehagen har fire avdelinger, et fantastisk uteområde med klatretrær, sykkelvei, kjøkkenhage og masse grønt, og vi er en matpakkefri barnehage. Vi har egen kjøkkenhjelp som lager lunsj fire dager i uken, og maten lages fra bunnen av ekte råvarer. Hos oss er «Alle barn er alles barn», og vi jobber mot visjonen «Den rause barnehage». Vi tror at du er faglig trygg, trives med ansvar og har overskudd, pågangsmot og handlekraft. Vi håper du evner å samle mennesker rundt felles mål, skape retning og bygge gode relasjoner – med barn, ansatte og foreldre.\n\nVi holder til på Ullevål, midt i sykehusområdet til Oslo Universitetssykehus og har fine uteområder. Vi bruker blant annet Bjølsenparken, den grønne oasen Geitmyra og fine plasser i Brekkeskogen.\n\nSom ideell stiftelse har vi tydelige verdier og høye faglige ambisjoner. I Kanvas blir du del av et sterkt, faglig fellesskap. Vi tilbyr lederutviklingsprogram for pedagogiske ledere (KUL) og 2 års veiledningsprogram for nyutdannede barnehagelærere. Høsten 2026 arrangerer Kanvas en faglig storsamling over to dager for alle ansatte.\n\nVi tilbyr gode pensjons- og forsikringsordninger, og lønn fra kr 626.900,- til kr 717.300,- (fra 0 til 16 års ansiennitet). Eventuell videreutdanning gir lønnstillegg fra 15.000,- (30 stp) til kr. 42.000,- (master).\n\nVi ønsker oss både erfarne og nyutdannede barnehagelærere, med lyst og energi til å bidra til at barnehagen fyller sitt samfunnsmandat på best mulig måte. Du må være utdannet barnehagelærer. Hvis du har utenlandsk yrkeskvalifikasjon (med unntak av skandinavisk), må du ha norsk godkjenning.\n\nSøknader vurderes fortløpende, så søk gjerne i dag.\n\nVil du bli med og bygge «den rause barnehagen» på Ullevål? Velkommen til oss!\n\nKanvas ble stiftet som et foreldreinitiativ i 1986, og er i dag Norges største barnehagestiftelse med ideelle formål. Vi har over 60 barnehager i 11 kommuner i Norge. Kanvas har ingen eiere, og et eventuelt overskudd fra barnehagedriften føres tilbake til stiftelsen - til det beste for barna og de ansatte i våre barnehager.Kanvas' ideelle formål er todelt. Vi skal bidra til å bedre barns oppvekstsvilkår og foreldrenes hverdag gjennom drift av gode barnehager. Samtidig skal vi øke kvaliteten og statusen i barnehagesektoren gjennom nytenking og kompetanseutvikling som deles internt og eksternt. Slik bidrar Kanvas til å videreutvikle barnehagesektoren. \n\nLes mer om Kanvas her."
+  },
+  {
+   "id": "nav-e23f476a-e6e2-46bb-b42e-de85a6c209f0",
+   "uuid": "e23f476a-e6e2-46bb-b42e-de85a6c209f0",
+   "title": "Prosjektleder",
+   "jobtitle": "Prosjektleder",
+   "employer": "Universitetet i Oslo",
+   "location": "OSLO, OSLO",
+   "postalCode": "0313",
+   "published": "2026-11-08T00:00:00+01:00",
+   "updated": "2026-11-08T14:53:53.27543+01:00",
+   "expires": "2026-11-29T00:00:00+01:00",
+   "applicationDue": "2026-11-29T00:00:00",
+   "applicationUrl": "https://jobseeker.jobbnorge.no/apply/311408",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e23f476a-e6e2-46bb-b42e-de85a6c209f0",
+   "sourceurl": "https://jobbnorge.no/ledige-stillinger/stilling/311408",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Offentlig",
+   "starttime": "",
+   "occupations": [
+    "Kontor og økonomi / Ledelse, administrasjon og rådgivning"
+   ],
+   "description": "Om stillingen\nSeksjon for prosjekt arbeider med anskaffelse, planlegging og gjennomføring av universitetets bygge- og investeringsprosjekter. Dette inkluderer prosjektledelse for både verdibevaring og brukerinitierte byggeprosjekter. Nå søker vi etter en kollega til vårt dedikerte prosjektledermiljø.\nVåre prosjekter omfatter alt fra mindre oppgraderinger og vedlikeholdsprosjekter med høy teknisk kompleksitet, til svært omfattende prosjekter med stor interesse både fra fagmiljøene og fra samfunnet generelt.\n Vår prosjektportefølje inkluderer alt fra rehabilitering av fontener, etablering av nye laboratorier og undervisningsarealer, til store fasadeprosjekter og oppgradering/rehabilitering av museer.\nEnten du trives i de tekniske detaljene, eller foretrekker å se de større linjene i prosjektet så har vi trolig oppgaver som kan passe deg.\nUavhengig av din bakgrunn mener vi den ideelle kandidaten har noe erfaring fra prosjektledelse, men vil gjerne høre fra deg selv om denne erfaringen ikke er lang. Det som er viktig er at du klarer og liker å håndtere komplekse prosjekter i et stort miljø med mange interessenter.\n\nDine arbeidsoppgaver vil i hovedsak være \n• Ledelse av prosjekter på vegne av byggherre\n• Lede og styre mot prosjektets mål innenfor besluttede rammer\n• Kontraktsoppfølging for å sikre at UiO får de produktene og leveransene som er avtalt og bestilt\n• Være ansvarlig for og sikre et godt og effektivt samarbeid i prosjektteamet, samt med prosjektets leverandører og interessenter\n\nHvilken kompetanse er viktig i denne rollen?\nFor denne stillingen må du ha\n• Relevant utdanning masternivå. Realkompetanse med relevans for de aktuelle oppgavene kan kompensere for deler av utdanningskravet\n• Erfaring med prosjektledelse, herunder budsjettoppfølging, prognoser og rapportering. \n• Svært god muntlig og skriftlig fremstillingsevne på norsk og engelsk\n Fordel å ha\n• Erfaring fra eiendoms- og byggebransjen\n• Erfaring fra offentlig sektor\n\nDette ser vi etter hos deg\nVi søker deg som er ryddig, har gode kommunikasjonsevner og er punktlig, strukturert og samarbeidsorientert. Det er videre viktig for oss at du er proaktiv, selvstendig i din jobbutførelse og har høy gjennomføringsevne.\nEvne til tverrfaglig samarbeid er helt sentralt i stillingen og det er derfor viktig at du har en konstruktiv måte å samarbeide på. Arbeidsoppgavene er varierte, krever fleksibilitet og evne til å variere mellom høy gjennomføringsevne og saksbehandling.\nPersonlig egnethet vil bli tillagt vekt.\n\nVi trenger ulike perspektiver i vårt arbeid \nUiO er et åpent og internasjonalt breddeuniversitet, og vil være en inkluderende og mangfoldig arbeidsplass og studiested. Les mer om UiOs arbeid for likestilling, inkludering og mangfold på uio.no.\nVi løser vårt samfunnsoppdrag best når vi tar i bruk våre ulike erfaringer, bakgrunner og perspektiver. Vi vil gjerne ha flere gode kolleger – kanskje den neste er deg? \nVi vil tilrettelegge dersom du har behov for det. Aktuell tilrettelegging kan for eksempel være endring av arbeidstid, tilpasning av arbeidsoppgaver, digital, teknisk, eller fysisk tilrettelegging eller andre praktiske tilpasninger.\n Har du innvandrerbakgrunn, funksjonsnedsettelse eller hull i CV-en, oppfordrer vi deg til å krysse av for dette i jobbsøkerportalen. Vi kaller alltid inn minst én kvalifisert søker fra hver gruppe til intervju. Med funksjonsnedsettelse menes her en søker som oppgir å ha en funksjonsnedsettelse som vil medføre tilrettelegging på arbeidsplassen eller i arbeidsforholdet. Les mer om kravene på Arbeidsgiverportalen.\nAvkrysningene i jobbsøkerportalen blir brukt til anonymisert statistikk som alle statlige virksomheter rapporterer i sine årsrapporter.\nVi håper at du søker på stillingen hos oss. \n\nHvorfor skal du velge oss?\n• Du får spennende og meningsfylte arbeidsoppgaver i en virksomhet med et viktig samfunnsoppdrag.\n• Engasjerte kollegaer i et godt arbeidsmiljø med gode utviklingsmuligheter\n• Gode velferdsordninger\n• Mulighet for inntil 1,5 time i uken med trening i arbeidstiden\n• Medlemskap i Statens Pensjonskasse, som er en av Norges beste pensjonsordninger med gunstige boliglån og gode forsikringsordninger\n• Lønn i stilling som prosjektleder, innplassert i SKO 1087 Overingeniør/1434 Rådgiver, alternativt SKO 1181 Senioringeniør/1364 Seniorrådgiver i lønnsspenn kr 780 000 - 840 000, alternativt 820 000 - 880 000, avhengig av kompetanse og erfaring. Fra lønnen trekkes 2 prosent i lovfestet innskudd til Statens Pensjonskasse.\nFor å tilsettes i seniorstilling kreves utdanning på masternivå og minst fem års relevant erfaring.\n\nSøknad\nSøknaden skal inneholde:\n• CV\n• Søknadsbrev\n• Vitnemål og attester\nDin CV må registreres i Jobbnorges CV-skjema, og kan ikke kun legges ved som vedlegg. Ordningen skal sikre korrekt dokumentasjon og journalføring i tråd med forskrift til forvaltningsloven § 15.\nSøknad med vedlegg må sendes inn via vårt rekrutteringssystem Jobbnorge, klikk “Søk stillingen”.\nNår du søker på stillingen, ber vi deg hente utdanningsresultatene dine fra Vitnemålsportalen.no. Om utdanningsresultatene dine ikke er tilgjengelige via Vitnemålsportalen, ber vi deg laste opp kopier av vitnemålene eller karakterutskriftene dine. All dokumentasjon må være på engelsk eller et skandinavisk språk.\n\nGenerell informasjon\nVennligst merk at vi ikke kan legge til dokumentasjon etter søknadsfristen. Ettersom fristen er lik for alle søkere, skal denne praksisen sikre likebehandling gjennom hele rekrutteringsprosessen. Hvis du opplever problemer med å laste opp dokumenter i Jobbnorge, ber vi deg kontakte deres kundeservice. \n\nDen primære kommunikasjonsformen gjennom prosessen vil være e-poster og meldinger via Jobbnorge. Når du mottar varsel om en melding i Jobbnorge, ber vi deg logge inn for å lese den, da den kan inneholde viktig informasjon.\n\nAktuelle søkerne vil bli invitert til intervju.\nSøkerlister kan bli offentliggjort iht. Offentleglova § 25 andre ledd. Når du søker jobb hos oss vil navnet ditt stå på den offentlige søkerlisten. Det er mulig å be om å bli unntatt denne listen. Du må begrunne hvorfor du ønsker unntak fra offentliggjøring og vi tar deretter stilling til om vi kan innvilge ønsket ditt. Kan vi ikke det vil du høre fra oss."
+  },
+  {
+   "id": "nav-3ffc2489-936d-4622-ac7e-1fde3ef34911",
+   "uuid": "3ffc2489-936d-4622-ac7e-1fde3ef34911",
+   "title": "Seksjonsleder for forretningsmessig styring",
+   "jobtitle": "Seksjonsleder for forretningsmessig styring",
+   "employer": "Statens pensjonskasse",
+   "location": "OSLO, OSLO",
+   "postalCode": "0277",
+   "published": "2026-11-08T00:00:00+01:00",
+   "updated": "2026-11-08T14:34:38.152426+01:00",
+   "expires": "2026-11-22T00:00:00+01:00",
+   "applicationDue": "2026-11-22T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5203251333&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3ffc2489-936d-4622-ac7e-1fde3ef34911",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Offentlig",
+   "starttime": "",
+   "occupations": [
+    "Utdanning / Ledere av undervisning og utdanning"
+   ],
+   "description": "Vi ser etter deg som liker faglige utfordringer og synes pensjon er spennende! \nVi forventer at du har lyst til å være med å sikre pensjonsrettighetene til medlemmene i POA, og vil bidra til videre utvikling og profesjonalisering av både investerings-virksomheten og pensjonsordningen som helhet. Som leder for forretningsmessig styring får du et bredt ansvarsområde og en variert og spennende arbeidshverdag. \nVi forventer at du vil motivere egne medarbeidere til å levere i tråd med ordningens mål, og at du vil bidra til et godt samarbeid med nøkkelressurser på ulike nivåer på tvers av SPKs organisasjon. Vi ser etter deg som tør å varsle om forbedringsområder, utfordre etablerte sannheter, og som evner å være en støttespiller for daglig leder. \n\nVi mener at inkludering og mangfold er en styrke. Vi ønsker medarbeidere med ulike kompetanser, fagkombinasjoner, livserfaring og perspektiver for å bidra til enda bedre oppgaveløsning. Vi vil tilrettelegge for medarbeidere som har behov for det. Aktuell tilrettelegging kan for eksempel være tekniske hjelpemidler, tilpasning av møbler eller endring av rutiner, arbeidsoppgaver og arbeidstid.\n\nArbeidsoppgaver\nPensjonsordningen for Apotekvirksomhet (POA) er en lovfestet pensjonsordning for ansatte ved apotek. Med nesten 31 000 medlemmer og over 18 milliarder til forvaltning er vi blant Norges største pensjonskasser. Ordningen driftes gjennoms Statens Pensjonskasse (SPK), og alle vesentlige driftsfunksjoner forvaltes internt. POA forvalter over 70 prosent av pensjonsmidlene internt og har en egen dedikert investeringsvirksomhet som både omfatter et forvalterteam og en investeringsstøtteoperasjon. \nSeksjon for forretningsmessig styring har en viktig rolle i å sikre en god og forsvarlig forvaltning av POA. Seksjonens ansvarsområde omfatter blant annet risikostyring og compliance, økonomi og målstyring, regnskap, analyse og rapportering. Investeringsstøtte knyttet til egen investeringsvirksomhet inngår som en betydelig del av ansvarsområdet til seksjonen og omfatter blant annet oppgjør, registrering, kontroll, prising og regnskapsføring av handler. Leder for seksjon forretningsmessig styring leder en seksjon som i dag teller fire medarbeidere og inngår i ledergruppen til POA.\n\nKvalifikasjoner\n• Du må ha høyere utdanning (mastergrad) innen økonomi/finans med gode resultater\n• Du må ha svært god kunnskap om finansielle instrumenter og risikostyring tilknyttet investeringsvirksomhet. Søkere som i tillegg har kunnskap om sentrale risikodrivere knyttet til pensjonsvirksomhet vil bli foretrukket. Det er også en fordel om du har noe kunnskap om regnskap og bokføring\n• Du må ha 5-10 års erfaring fra arbeide i finansvirksomhet. Søkere med erfaring fra pensjonsvirksomhet vil bli foretrukket. Du bør ha erfaring med personalledelse, og det vil være en fordel å ha praktisk kjennskap fra investeringsstøttevirksomhet\n• Du bør ha god kunnskap om regelverket som regulerer private og offentlige pensjonsordninger samt regelverk knyttet til verdipapirhandel. Det er også fint om du kjenner til virksomhetsregelverket for statlig sektor\n• Du må ha gode IT-kunnskaper og interesse for praktisk anvendelse av teknologi. Gode ferdigheter i excel er et krav. Det vil være en fordel om du har praktisk kjennskap til bruk av Bloomberg, og porteføljeforvaltningssystemer (POA bruker FA Solutions)\n• Du må kommunisere godt både skriftlig og muntlig på norsk og engelsk, og evne å tilpasse kommunikasjonen til ulike målgrupper\n\nPersonlige egenskaper\n• Du er positiv, omgjengelig og evner å samarbeide med ulike mennesketyper på tvers av nivåer og formell organisering\n• Du arbeider strukturert og har god gjennomføringsevne. Du leverer som avtalt og evner å drive prosesser fremover i tråd med plan\n• Du har sterke analytiske evner og høyt fokus – men når det kreves av deg har du også evne å dykke ned i detaljerte problemstillinger\n• Du har stå-på evne og høy arbeidskapasitet\n• Du har høy integritet\n\nVi tilbyr\n• Kolleger som vil at du skal trives og lykkes\n• Sterkt faglig og sosialt miljø med gode utviklingsmuligheter\n• En trygg og forutsigbar arbeidsplass med lite byråkrati\n• En jobb der du bidrar til et viktig samfunnsoppdrag\n• En av Norges beste pensjonsordninger, gode forsikringsordninger og mulighet for gunstig boliglån.\n• Gode og fleksible løsninger for hjemmekontor (hybrid)\n• Sentral plassering i moderne lokaler på Skøyen med kort vei til buss, trikk og tog\n• Kontorløsning med universell utforming og heis i bygget\n• Eget idrettslag, firmahytte og treningsrom\n• Sommertid\nSom ansatt hos oss vil du bli medlem i Statens pensjonskasse, som gir deg mange goder i tillegg til livsvarig alderspensjon og AFP. Du kan ha rett til økonomisk støtte hvis du blir syk eller ufør, familien din kan ha rett til økonomisk støtte når du dør, du blir forsikret mot yrkesskade eller yrkessykdom, og du får gode betingelser på boliglån. Du kan lese mer om ansattgodene dine på spk.no/medlemskap-i-spk.\nGenerell informasjon\n\nVi gjennomfører bakgrunnssjekk i utvalgte rekrutteringer. Bakgrunnssjekken gjennomføres av Semac AS, og blir utført etter samtykke fra deg som søker. Aktuelle søkere vil motta nærmere informasjon om dette.\nI enkelte rekrutteringer gjennomfører vi evne- og/eller personlighetstest. Aktuelle kandidater vil motta nærmere informasjon om dette. \nVi ber om at du legger ved alle relevante attester og vitnemål når du søker. \n\nI henhold til offentlighetsloven gjør vi oppmerksom på at om søkeren kan bli offentliggjort selv om søkeren har bedt om ikke å bli oppført på søkerlisten. Vedkommende vil i tilfelle bli varslet om dette på forhånd. \nKontaktinformasjon\nLiv Jorid Ødegård, Daglig leder POA, 918 35 785\n\nNøkkelinformasjon:\nArbeidsgiver: Statens pensjonskasse\n\nReferansenr.: 5203251333\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 22.11.2026"
+  },
+  {
+   "id": "nav-5f25bf35-da50-4d13-8fc8-fb9e737b465f",
+   "uuid": "5f25bf35-da50-4d13-8fc8-fb9e737b465f",
+   "title": "Har du solid erfaring med risikostyring, compliance eller internkontroll?",
+   "jobtitle": "Har du solid erfaring med risikostyring, compliance eller internkontroll?",
+   "employer": "Statens pensjonskasse",
+   "location": "OSLO, OSLO",
+   "postalCode": "0277",
+   "published": "2026-11-08T00:00:00+01:00",
+   "updated": "2026-11-08T14:31:37.514245+01:00",
+   "expires": "2026-11-24T00:00:00+01:00",
+   "applicationDue": "2026-11-24T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5206737028&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/5f25bf35-da50-4d13-8fc8-fb9e737b465f",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Offentlig",
+   "starttime": "",
+   "occupations": [
+    "Håndverkere / Platearbeider og sveiser"
+   ],
+   "description": "Vi vil ha deg med på laget!\nVil du være med å bygge et sterkt lag i en nyopprettet andrelinjeenhet i SPK? Vårt samfunnsoppdrag krever høy tillit, tydelige prioriteringer og god styring, og vår nye enhet vil ha en sentral plass i virksomheten.\nVi søker to ressurser som har god erfaring med ett, gjerne flere, av følgende områder: Risikostyring, compliance og internkontroll, og som vil bidra til en operativ og verdiskapende andrelinjefunksjon. Du vil arbeide tett med ledere og medarbeidere på tvers av virksomheten for å sikre at relevante risikoer identifiseres, vurderes og håndteres, og at virksomheten etterlever gjeldende regelverk og interne krav.\n\nVår andrelinjefunksjon skal bidra til en helhetlig tilnærming til internkontroll, risikostyring, compliance og sikkerhet og ressursene i teamet vårt skal bidra på tvers over disse områdene. \n\nVi mener at inkludering og mangfold er en styrke. Vi ønsker medarbeidere med ulike kompetanser, fagkombinasjoner, livserfaring og perspektiver for å bidra til enda bedre oppgaveløsning. Vi vil tilrettelegge for medarbeidere som har behov for det. Aktuell tilrettelegging kan for eksempel være tekniske hjelpemidler, tilpasning av møbler eller endring av rutiner, arbeidsoppgaver og arbeidstid.\n\nArbeidsoppgaver\n• Forvalte og videreutvikle helhetlige, rammeverk, prosesser og verktøy for hele virksomheten innen risikostyring, compliance, internkontroll og sikkerhet, med vekt på praktisk anvendbarhet og god integrasjon i virksomhetsstyringen.\n• Gjennomføre risikoanalyser og risikovurderinger på både overordnet virksomhetsnivå og på operativt nivå, og bidra til at vurderingene gir et godt grunnlag for prioriteringer og beslutninger.\n• Følge opp internkontroll og risikoreduserende tiltak, herunder vurdere om etablerte kontroller er hensiktsmessige og bidra til forbedring der det er behov. \n• Gjennomføre kontrollaktiviteter og etterlevelsesvurderinger innen relevante regelverksområder, identifisere svakheter og bidra til at forbedringsbehov blir fulgt opp.\n• Rådgi og støtte ledere og operative fagmiljøer i praktisk anvendelse av krav til risikostyring, internkontroll og etterlevelse.\n\nKvalifikasjoner\n• Relevant høyere utdanning, fortrinnsvis på mastergradsnivå (innen f.eks. jus, økonomi eller IT-sikkerhet). Relevant erfaring og solid faglig tyngde kan veie opp for manglende mastergrad.\n• Dokumentert erfaring innen minimum ett av følgende omtåder: Risikostyring, compliance, internkontroll eller sikkerhetsarbeid.\n• God forretningsforståelse og evne til å raskt sette seg inn i operative prosesser.\n• Fordel med kjennskap til praktisk anvendelse trelinjemodellen.\n• Innsikt i produktorganisering av utviklingsarbeid er en fordel, da dette er en sentral arbeidsform i SPK.\n\nPersonlige egenskaper\n• Du er målrettet, initiativrik, strukturert og løsningsorientert.\n• Du har god forståelse for formelle og uformelle beslutningsprosesser, og navigerer lett mellom ulike fagmiljøer og bidrar til god samhandling på tvers av \n• organisasjonen.\n• Du er nysgjerrig, lærevillig og deltar i kontinuerlig faglig utvikling.\n• Du har gode kommunikasjonsevner, skriftlig og muntlig, og klarer å formidle komplekse problemstillinger på en forståelig måte.\n• Du samarbeider godt med ulike fagpersoner, og du deler gjerne din kunnskap med andre.\nVi tilbyr\n• Kolleger som vil at du skal trives og lykkes\n• Sterkt faglig og sosialt miljø med gode utviklingsmuligheter\n• En jobb der du bidrar til et viktig samfunnsoppdrag\n• En trygg og forutsigbar arbeidsplass med lite byråkrati\n• En av Norges beste pensjonsordninger, gode forsikringsordninger og mulighet for gunstig boliglån.\n• Gode og fleksible løsninger for hjemmekontor (hybrid)\n• Sentral plassering i nye, moderne lokaler på Skøyen med kort vei til buss, trikk og tog\n• Kontorløsning med universell utforming og heis i bygget\n• Eget idrettslag, firmahytte \n• Sommertid\n\nSom ansatt hos oss vil du bli medlem i Statens pensjonskasse, som gir deg mange goder i tillegg til livsvarig alderspensjon og AFP. Du kan ha rett til økonomisk støtte hvis du blir syk eller ufør, familien din kan ha rett til økonomisk støtte når du dør, du blir forsikret mot yrkesskade eller yrkessykdom, og du får gode betingelser på boliglån. Du kan lese mer om ansattgodene dine på spk.no/medlemskap-i-spk.\nGenerell informasjon\nVi gjennomfører bakgrunnssjekk i utvalgte rekrutteringer. Bakgrunnssjekken gjennomføres av Semac AS, og blir utført etter samtykke fra deg som søker. Aktuelle søkere vil motta nærmere informasjon om dette.\nI enkelte rekrutteringer gjennomfører vi evne- og/eller personlighetstest. Aktuelle kandidater vil motta nærmere informasjon om dette. \nVi ber om at du legger ved alle relevante attester og vitnemål når du søker. \n\nI henhold til offentlighetsloven gjør vi oppmerksom på at om søkeren kan bli offentliggjort selv om søkeren har bedt om ikke å bli oppført på søkerlisten. Vedkommende vil i tilfelle bli varslet om dette på forhånd. \n\nKontaktinformasjon\nCecilie Kjelland, Direktør for etterlevelse og internkontroll, 911 54 946\n\nNøkkelinformasjon:\nArbeidsgiver: Statens pensjonskasse\n\nReferansenr.: 5206737028\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 24.11.2026"
   },
   {
    "id": "nav-c3a6082d-38fe-4c8f-95f2-f86ef30b1d95",
@@ -5481,31 +5631,6 @@
    "description": "Idura is looking for a Norway-based Sales Development Representative to join our team. Demand for our eID (electronic identity) solutions is growing fast, and there’s a big opportunity to help organizations integrate secure logins and digital signatures using eIDs. We want an ambitious salesperson to help us capture it.\n\nAbout Idura\nWe help organizations securely verify users and support digital signing through eID integrations. As an official MitID broker in Denmark, we also support additional European eIDs like BankID, FTN and more. Our solutions are KYC-compliant, user-friendly and aligned with standards such as PAdES and eIDAS.\nIn September 2024, Idura was acquired by Stø (formerly BankID BankAxept), strengthening Stø’s position in European digital identity. Stø is owned by the Norwegian banks through Vipps Holding AS. That means you get the backing of a major player, with the pace and ownership of a growing company in its early stages.\n\nThe role\nAs our SDR in Norway, you’ll be at the front of our growth in the Norwegian market. You’ll handle inbound leads, hunt for new ones and support the sales cycle from first contact to signed deal. You’ll be a key part of the sales team, making sure every customer gets a great experience with Idura.\nYou’ll also help build Idura’s presence in Norway and support the sales team with administrative tasks when needed. You’ll report to our VP of Sales, Lars Mørch, and work day to day with our Norwegian Country Manager, Håkon Tveita.\n\nWhat you’ll do\n• Discover new industries, find leads, book meetings and grow the pipeline\n\n• Drive Idura’s growth and expansion in the Norwegian market\n\n• Support the sales team with administrative tasks\n\nWhat we’re looking for\n• 2+ years of experience in B2B Sales or Busiess Development\n\n• An ambitious, self-motivated person who wants to grow with the company\n\n• Strong business understanding\n\n• Fluent in Norwegian and English\n\n• Experience with APIs and other technical integrations is a plus\n\n• Experience from a similar role is a plus\n\nReady to apply?\nWe’re reviewing applications on an ongoing basis and are ready to move fast with the right candidates. If this sounds like you, don’t wait. Send in your application today. We’d love to hear from you!"
   },
   {
-   "id": "nav-e311a897-ae7f-4f2a-b493-5e255f3cc2c5",
-   "uuid": "e311a897-ae7f-4f2a-b493-5e255f3cc2c5",
-   "title": "Restaurantmedarbeider",
-   "jobtitle": "Restaurantmedarbeider",
-   "employer": "Nabo Kitchen & Bar",
-   "location": "OSLO, OSLO",
-   "postalCode": "0368",
-   "published": "2026-11-04T09:38:12+01:00",
-   "updated": "2026-11-04T13:16:04.398307+01:00",
-   "expires": "2026-11-25T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e311a897-ae7f-4f2a-b493-5e255f3cc2c5",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Annet",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Restaurantmedarbeider\n\nKrav til kompetanse\n\n• Trives i et hektisk arbeidsmiljø\n\nPersonlige egenskaper\n\n• Har gode samarbeidsevner og evne til å kunne jobbe selvstendig"
-  },
-  {
    "id": "nav-5e8086d8-c184-4ae9-bfe9-b798d2afb247",
    "uuid": "5e8086d8-c184-4ae9-bfe9-b798d2afb247",
    "title": "Renholder deltid.",
@@ -10776,31 +10901,6 @@
    "description": "Vi søker en engasjert og dyktig kokk til vår personalrestaurant på Sixa i Bjørvika. På Sixa blir du en del av et etablert og inkluderende team på 16 medarbeidere som sammen sørger for gode matopplevelser og høy kvalitet på våre tjenester.\nVi ser etter deg som har interesse for mat, trives i et hektisk arbeidsmiljø og liker å jobbe sammen med andre. Du vil få en variert arbeidshverdag med oppgaver knyttet til både varm- og kaldmatproduksjon, servering og gjennomføring av arrangementer.\nStillingen passer for deg som er faglært kokk, men relevant arbeidserfaring kan kompensere for manglende fagbrev.\n\nArbeidsoppgaver\n• Tilberedning og produksjon av varm og kald mat til personalrestauranten.\n\n• Planlegging, klargjøring og gjennomføring av daglig matproduksjon.\n\n• Bidra til en innbydende presentasjon og god kvalitet på maten som serveres.\n\n• Servering og oppfølging av gjester i personalrestauranten.\n\n• Produksjon og servering av overtidsmat.\n\n• Bidra ved møter, catering, selskaper og andre arrangementer.\n\n• Følge rutiner for IK-mat, hygiene, renhold og matsikkerhet.\n\n• Bidra til god vareflyt, råvareutnyttelse og kontroll på matsvinn.\n\n• Delta i daglig drift og øvrige oppgaver som naturlig faller inn under kokkeyrket.\n\nArbeidstid og fleksibilitet\nStillingen har i hovedsak arbeidstid på dagtid. Som en del av stillingen inngår du i en turnus for overtidsmatservering. Disse vaktene har arbeidstid fra kl. 11:00 til 19:00. Vi gjennomfører også arrangementer og selskaper både på hverdager og i helger. Det vil derfor enkelte ganger være behov for å bidra med arbeid utenfor ordinær arbeidstid. Vi søker deg som er fleksibel og positiv til en variert arbeidshverdag.\n\nKvalifikasjoner\n• Fagbrev som kokk er ønskelig. Relevant erfaring fra restaurant, kantine eller storkjøkken kan kompensere for manglende fagbrev.\n\n• Interesse for mat, råvarer og gode matopplevelser.\n\n• Kjennskap til IK-mat og gjeldende hygienekrav.\n\n• Gode samarbeidsevner og evne til å jobbe selvstendig.\n\n• Strukturert, effektiv og løsningsorientert.\n\n• Behersker norsk eller engelsk godt nok til å kommunisere i arbeidshverdagen.\n\nPersonlige egenskaper\n• Vi ser etter deg som: Er positiv, serviceinnstilt og opptatt av gode gjesteopplevelser.\n\n• Trives med å jobbe i team og bidrar til et godt arbeidsmiljø.\n\n• Tar initiativ og liker å ta ansvar.\n\n• Er fleksibel og håndterer en variert og til tider hektisk arbeidshverdag.\n\n• Har stolthet for faget og ønsker å levere kvalitet i alle ledd.\n\nVi tilbyr\n• En spennende arbeidsplass i moderne lokaler på Sixa i Bjørvika.\n\n• Et godt arbeidsmiljø og et etablert team på 16 medarbeidere.\n\n• Varierte arbeidsoppgaver innen personalrestaurant, catering og arrangementer.\n\n• Mulighet til å utvikle seg faglig og bidra med egne ideer.\n\n• En arbeidshverdag med hovedvekt på dagtid.\n\n• Ordnede arbeidsforhold i Compass Group Norge.\n\nSøknadsfrist: 22.november. Vi behandler søknader fortløpende.\n\nVil du bli en del av teamet vårt på Sixa? Vi gleder oss til å høre fra deg!"
   },
   {
-   "id": "nav-792f738b-9a00-40e7-a643-7d815f4cadee",
-   "uuid": "792f738b-9a00-40e7-a643-7d815f4cadee",
-   "title": "Heltid/deltid servitør stilling hos Tullins cafe",
-   "jobtitle": "Servitør",
-   "employer": "Tullins Cafe As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0166",
-   "published": "2026-11-02T09:37:49+01:00",
-   "updated": "2026-11-02T11:23:44.12098+01:00",
-   "expires": "2026-11-23T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/792f738b-9a00-40e7-a643-7d815f4cadee",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Reiseliv og mat / Restaurant"
-   ],
-   "description": "Vi søker nåen heltids eller en deltidsservitør til vårt team.\n\nOm stillingen:\n\n• \nArbeidstid vil variere mellom dag- og kveldsvakter\n\n• \nStillingen innebærer vanlig servering, kundebehandling og samarbeid med kjøkkenet\n\nSend din CV til babarjaved@hotmail.com\n\nVIKTIG! - ikke ring eller komme selv med CV'en."
-  },
-  {
    "id": "nav-1044637d-c8ef-459e-a5ca-d231a5a03fd2",
    "uuid": "1044637d-c8ef-459e-a5ca-d231a5a03fd2",
    "title": "Vil du være med på å bygge fremtidens digitale infrastruktur?",
@@ -13084,31 +13184,6 @@
     "Helse og sosial / Helsefagarbeider"
    ],
    "description": "Dette en spennende jobb i en avdeling som aldri er utdatert. \n\nVelkommen som søker til stilling som nattevakt i Ambulerende natt team i seksjon Vest, i avdeling for Tilrettelagte tjenester og psykisk helse i bydel Nordstrand. Vi søker en nattevakt som brenner for faget, trives med nattarbeid, gir trygghet og omsorg. \nAmbulerende natt team består av tre faste ansatte og noen få vikarer. Turnusen innebærer 10-timers nattevakter, samt arbeid hver tredje helg.\nTeamet samarbeider godt med informasjonsdeling, og høyt nærvær gjenspeiler god trivsel. I teamet jobber du alene, men har støtte i kollegaer som har stedlig nattevakt på noen av bofellesskapene. \nRollen innebære å ha tilsynsrunder på noen av bofellesskapene i avdelingen og sørge for at innbyggerne har det godt og trygt på natten. Rollen har også ansvar for å følge opp velferdsteknologi i form av trygghetsalarm og passeringsalarm, samt medikamenthåndtering. \nSeksjon Vest består av seks bofelleskap; Symra bofelleskap, Lambertseter bofelleskap, Gisle-/Sandstuvei bofelleskap, Miljøterapitjenesten, Glimmerveien bofellesskap og Krystallen bofellesskap. Det er fire teamledere med personal- og økonomiansvar i disse bofellesskapene. Seksjonen har to vernepleiekonsulenter i veiledningsrolle, med utvidet fagansvar.\n\nSom ansatt i Tilrettelagte tjenester og psykisk helse blir en du en del av et aktivt fagmiljø hvor det legges vekt på å være faglig oppdatert og i utvikling. Du får dyktige, inspirerende kollegaer og ledere som alle er med på å gi brukerne gode tjenester. Vi har faglige og sosiale sammenkomster på tvers av tjenestesteder, slik at du får et stort og ikke minst hyggelig nettverk. Vi kan tilby en spennende og lærerik arbeidsplass. Selv om denne rollen innebærer nattarbeid så er det viktig at du holder deg oppdatert gjennom å delta på personalmøter og fagsamlinger. \n\nVi står foran endringer i organiseringen av Oslo kommune, og det kan innebære tilpasninger i organiseringen, tjenestesteder og ansvarsområder. Vi søker derfor en person som håndterer omstilling med trygghet, tydelighet og evne til å se muligheter i endring.\n\nHvis dette er deg er du velkommen til å sende inn søknad som koordinator. Vi behandler kun elektroniske søknader.\n\nArbeidsoppgaver\n• Delta i direkte miljøarbeid, personlig stell hvis behov. \n\n• Utøve gode helse-og omsorgstjenester til innbyggerne.\n• Stillingen innebærer selvstendig faglig ansvar for innbyggerne. Dette inkluderer blant annet medisinsk oppfølging.\n• Faglig innspill og samarbeid med tjenesteansvarlig og leder knyttet til behovsstyrtbemanning (BOB).\n• Samarbeid med pårørende og øvrige instanser hvis behov.\n• Tilsynsrunder gjennom natten. Tjenestebil er tilgjengelig.\nKvalifikasjoner\n• Helse- sosialfaglig utdannelse\n• Erfaring fra arbeid med mennesker med funksjonsnedsettelser.\n• Kunnskap om målrettet miljøarbeid (atferdsanalyse).\n• God kunnskap om og erfaring fra arbeid med Lov om kommunale helse- og omsorgstjenester, kap. 9.\n• Gode datakunnskaper, gjerne erfaring med systemene Gerica, Gat.\n• God norsk muntlig og skriftlig fremstillingsevne\n• Vi krever fremleggelse av gyldig politiattest for å kunne tiltre stillingen.\n• Personlig egnethet vektlegges. \n• Førerkort klasse B.\n• Du må ta kurs som en del av opplæringen, blant annet legemiddelhåndtering og innføring i bruk av kommunens digitale verktøy.\nPersonlige egenskaper\n• Du har en god evne til å lytte og kommunisere, skape trygghet og ro.\n• Du har praktisk sans og kan ta i et tak når det trengs.\n• Du er selvstendig og løsningsorientert.\n• Du tar initiativ til utviklingsarbeid hvis du ser at det er behov. \n• Du ønsker å tilegne deg fagkunnskap og har gode samarbeidsevner\n• Du arbeider selvstendig og tar avgjørelser innenfor gitte rammer\n• Du er en positiv kultur- og holdnings bærer.\nVi tilbyr\n• En mulighet til å bruke din evne til å gjøre en forskjell for beboere og ansatte.\n• Utviklende og spennende arbeidsoppgaver.\n• Dyktige kollegaer med høyt faglig fokus.\n• Organisering etter BOB.\n• Interne og eksterne kurs- og opplæringstilbud.\n• Umiddelbar nærhet til kollektivtransport.\n• Gode pensjons-, låne- og forsikringsordninger.\n• Personalhytter på Beitostølen \n• Bedriftsavtale med SATS\n• Stillingen ligger på lønnstrinn 18 - 28 (utgjør fra kr 512 750 - til kr 562 800 per år i 100 % stilling). Turnus tillegg kommer i tillegg.\nKontaktinformasjon\nSilje Falchenberg, Seksjonsleder, 90854091, silje.falchenberg@bns.oslo.kommune.no\n\nArbeidssted\nCecilie Thoresens vei 20\n\n1153 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5198342394\n\nStillingsprosent: 66%\n\nFast\n\nSøknadsfrist: 15.11.2026"
-  },
-  {
-   "id": "nav-1266e875-4815-4d0d-b915-bf90b69a9c5d",
-   "uuid": "1266e875-4815-4d0d-b915-bf90b69a9c5d",
-   "title": "Ønsker du å jobbe med Norges mest innovative Telecom-løsninger?",
-   "jobtitle": "Markedskonsulent/Møtebooker B2B",
-   "employer": "Salent på vegne av samarbeidspartner",
-   "location": "OSLO, OSLO",
-   "postalCode": "0483",
-   "published": "2026-10-31T12:58:03+01:00",
-   "updated": "2026-11-02T08:09:55.911996+01:00",
-   "expires": "2026-11-15T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1266e875-4815-4d0d-b915-bf90b69a9c5d",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Vil du kickstarte din karriere innen salg og bli en del av et ledende Telecom-selskap i Norge?\n\nVi søker nå etter en ambisiøs og dyktig møtebooker som ønsker å bli en del av vårt salgsteam i Oslo. Du vil jobbe med å booke møter for våre erfarne selgere, og dermed spille en viktig rolle i salgsprosessen.\n\nSom møtebooker vil du få mulighet til å utvikle deg og tjene godt i et pulserende marked med stort potensial. Du vil være en del av salgsteamet som selger fremoverlente Telecom-løsninger, og ha spennende og varierte arbeidsdager hvor du selv avtaler kundemøter og har full kontroll over bookingen.\n\nTidligere salgserfaring kan være en fordel for deg, men er absolutt ikke et krav fra vår side. Vi tror sterkt på å gi folk en sjanse til å lykkes, uavhengig av tidligere erfaring. Du vil få grundig opplæring, coaching og salgstrening, og støtte fra våre erfarne salgsledere for å gjøre deg trygg og sikker i rollen.\n\nSom en del av vårt team vil du få muligheten til å bygge en lønnsom karriere, både internt og eksternt. Det finnes også muligheter for å vokse inn i en rolle som senior bedriftsselger på sikt.\n\nVi legger stor vekt på å skape et trivelig arbeidsmiljø og et hyggelig team, slik at du vil glede deg til å komme på jobb hver dag.\n\nVi tilbyr deg en unik mulighet til å utvikle deg, tjene godt og jobbe i et veldig godt firma og miljø. Du vil få lære av noen av bransjens beste salgsledere og bli en viktig del av salgsteamet vårt.\n\nEr du klar for å utvikle deg, tjene godt og jobbe i et veldig godt firma og miljø, mens du samtidig blir en del av salgsteamet som selger Norges mest fremoverlente Telecom-løsninge?\n\nVi tilbyr deg:\n\n• \nVeldig god lønn basert på provisjons og bonusordning, med stabil grunnlønn i bunn.\n\n• \nMye konkurranser og premier - for at du skal få en ekstra gulerot og bonus når du gjør det bra\n\n• \nJobb med Norges mest fremvoerlente Telecom-løsninger, en bransje som alle \"har et forhold til\" og vil være mulige kunder av,\n\n• \nEt høyst motiverende, hyggelig og dedikert arbeidsmiljø\n\n• \nHyggelige kollegaer du vil like å \"gå i krigen\", drikke kaffe, eller ta en fortjent fredagspils - sammen med\n\n• \nEn flat organisasjon med raske besluttninger og kommandolinjer\n\n• \nGrunnermentalitet i alle kriker og kroker\n\n• \nDelikate og moderne kontorfasiliteter, inklusive treningsstudio i bottenplan\n\n• \nProfesjonell salgsopplæring, coaching og oppfølging - fra salgsledere som vet hva som skal til for å lykkes i bransjen\n\n• \nKarrieremuligheter internt, våre ledere har startet presis som deg og bygd seg oppover\n\n• \nKarrieremuligheter eksternt, hvis du bemestrer denne jobben vil du bli en stjerne videre i karrieren og i de fleste bransjer/jobber fremover\n\n• \nArbeidstid er mandag til fredag kl 08.00-16.00, med en filosofi om \"frihet under ansvar\" når du er godt i gang.\n\nHøres dette ut som noe for deg?\n\nKult, du kan ta kontakt eller sende CV/søknad så finner vi ut hvis dette er en god match.\n\nFor ytterligere informasjon eller spørsmål:\n\nTa kontakt med meg, så hjelper jeg til.\n\nKontaktinformasjon\n\nEpost: rj@salent.no, eller mobil: +47 46 30 54 32"
   }
  ]
 }
