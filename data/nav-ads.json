@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-14T10:23:58+00:00",
+ "generatedAt": "2026-11-14T17:06:15+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 413,
+ "count": 410,
  "ads": [
   {
    "id": "nav-d3c47ec1-f3e1-443b-b6ad-88dab46f6808",
@@ -31,6 +31,56 @@
     "Transport og lager / Logistikk, lagerarbeid og innkjøp"
    ],
    "description": "Vi har behov for lagermedarbeidere med truckførerbevis T1 - T4 for oppdrag i Oslo med snarlig oppstart.\n\nDu må være pålitelig, arbeidsom, nøye og kunne jobbe både selvstendig og i team. Du må være i god fysisk form da dette er en jobb med krevende arbeidsoppgaver.\n\nTa kontakt med Richard Flores på telefon 40556555 for ytterligere informasjon.\n\nVed innsending av søknad/CV samtykker du herved i at dine personopplysninger registreres og behandles i forbindelse med rekruttering.\n\nOpplysningene som blir gitt vil være tilgjengelige for HR og rekrutterende personer innenfor selskapet i henhold til Europaparlaments- og rådsforordning (EU) 2016/679 av 27. april 2016 (personvernforordningen/GDPR)"
+  },
+  {
+   "id": "nav-919e9923-4b4c-4caa-b573-6770a4bc4529",
+   "uuid": "919e9923-4b4c-4caa-b573-6770a4bc4529",
+   "title": "FLEX -SJÅFØRER FOR UBER, BOLT OG VIP-KJØRING",
+   "jobtitle": "",
+   "employer": "KINGO AI",
+   "location": "OSLO, OSLO",
+   "postalCode": "0150",
+   "published": "2026-11-14T01:18:45+01:00",
+   "updated": "2026-11-14T14:34:43.54678+01:00",
+   "expires": "2026-12-14T13:33:44+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://careers.kingoai.ai/no/jobs/8744022-flex-sjaforer-for-uber-bolt-og-vip-kjoring/applications/new?promotion=2296151-nav-no",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/919e9923-4b4c-4caa-b573-6770a4bc4529",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Transport og lager / Tog-, sporvogn- og vegtrafikk"
+   ],
+   "description": "Vi søker sjåfører som vil kjøre for Uber og Bolt hos KINGO RIDES. Du kan jobbe heltid eller deltid, og du velger selv når du vil kjøre.\n• ✅ Fast stilling – heltid 100 % eller deltid 50 %\n\n• ✅ Oppstart etter avtale\n\n• ✅ Arbeidsspråk: norsk og engelsk\n\n• ✅ Fleksibelt arbeid – jobb når det passer deg\n\n• ✅ Ekstrainntekt eller hovedinntekt – du bestemmer\n\n• ✅ Jobben starter der du er – start dagen i nærheten av hjemmet ditt\n\nArbeidstid\nDu velger selv skiftene dine og legger dem inn i skiftplanen. Du jobber innenfor vaktene under, alle dager i uken:\n• Dagtid: 05:00–17:00\n\n• Kveld: 17:30–23:00\n\n• Natt: 23:30–04:30 (neste dag)\n\nHva vi ser etter\n🚨 Viktig: Du må ha gyldig kjøreseddel for drosje før du kan kjøre. Har du den ikke ennå? Søk likevel – vi sender deg en guide om hvordan du får den.\nArbeidsområder\nØvre Romerike: Gardermoen, Nannestad og Jessheim\nNedre Romerike: Lørenskog, Lillestrøm, Skedsmokorset, Skjetten og Strømmen\nØvrige: Oslo, Drammen, Bærum og Asker\nArbeidsoppgaver\nDu henter og leverer passasjerer – fra A til B\n• Uber: du får turen i appen, henter kunden og kjører til adressen\n\n• Bolt: samme måte, via Bolt-appen\n\n• Faste avtaler og VIP-kjøring: turer vi setter opp på forhånd. Du henter kjendiser, politikere, tech-gründere og andre viktige personer.\n\nVi tilbyr\nJobb når det passer deg! Vi tilbyr et fleksibelt bookingsystem og egen app. Du velger selv hvor mye og når du vil jobbe.\n• ✅ Se kartet og finn tilgjengelige biler\n\n• ✅ Book en bil, kjør og lever den tilbake\n\n• ✅ Enkelt, fleksibelt og morsomt\n\nOm bedriften\nKINGO RIDES AS er et fullt lisensiert norsk drosjeselskap som samarbeider med Uber og Bolt for å levere transporttjenester av høy kvalitet. Vi tilbyr drosjetjenester i Oslo og omegn, både til privatpersoner og premiumkunder, inkludert bedriftskunder."
+  },
+  {
+   "id": "nav-037361a4-7187-470a-ba5f-989a6a52b7ff",
+   "uuid": "037361a4-7187-470a-ba5f-989a6a52b7ff",
+   "title": "Støttekontakt",
+   "jobtitle": "Støttekontakt",
+   "employer": "Team habilitering, Oslo kommune, Bydel Østensjø",
+   "location": "OSLO, OSLO",
+   "postalCode": "0694",
+   "published": "2026-11-14T00:00:00+01:00",
+   "updated": "2026-11-14T17:12:15.515259+01:00",
+   "expires": "2026-12-14T00:00:00+01:00",
+   "applicationDue": "2026-12-14T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5210429862&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/037361a4-7187-470a-ba5f-989a6a52b7ff",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Engasjement",
+   "extent": "Deltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Utdanning / Barnehage- og skolefritidsassistenter"
+   ],
+   "description": "Har du litt ekstra tid og liker å være sammen med andre?\nSeksjon psykisk helse trenger støttekontakter til personer med psykiske helseutfordringer. Vi trenger støttekontakter til både barn og voksne. \nNoen trenger litt ekstra motivering og trygging for å komme seg ut i hverdagen, andre trenger støtte til å håndtere å være rundt andre mennesker. Som støttekontakt bistår du personer med psykiske helseutfordringer som føle eller bistand til at de får kommet seg ut på sosiale aktiviteter, gjennomføre praktiske gjøremål, utvide sitt nettverk og være i fysisk aktivitet. \nÅ være støttekontakt er et givende oppdrag, der du bidrar til at andre kan få en aktiv meningsfylt fritid. \n\nArbeidsoppgaver\nBidra til at tjenestemottaker opplever økt mestring i sin egen fritid\nGi mulighet for gode opplevelser, aktiviteter og sosialt samvær\nHjelpe med å bygge nettverk\nFinne fram til, og bistå med å delta, på fritidsaktiviteter med utgangspunkt i tjenestemottakers interesser og ressursser \nKvalifikasjoner\nDet kreves ikke formell utdannelse eller kompetanse for å jobbe som støttekontakt. Har du erfaring fra arbeid med personer med ulike hjelpebehov er dette er bonus. \nDu kan ha oppdrag som støttekontakt selv om du har 100% stilling et annet sted. \nDet kreves gyldig politiattest.\n\nPersonlige egenskaper\nDet er en fordel om du har interesse for psykisk helse, liker å jobbe med ulike mennesker og er trygg i møte med mennesker i en vanskelig livssituasjon.\nÅ være støttekontakt passer godt for studenter og folk som jobber deltid. \nDu må ha en stabil livssituasjon og mulighet til å stå i oppdraget over tid. ordningen fungerer oftest best om du kan forplikte deg til faste ukentlige avtaler. \nDu må snakke godt norsk. \nPersonlig egnethet vektlegges. \nVi tilbyr\nStøttekontaktsarbeid lønnes etter Oslo Kommunes lønnstabell etter alder.:\n16-17 år lte 1\n18-26 år ltr. 3 \n27-30 år ltr. 5\nOver 30år ltr. 7\nKontaktinformasjon\nHana Pullmannova, Førstekonsulent \n\nOle Tomas Ruud, Førstekonsulent\n\nDaniella Romina Segura, Førstekonsulent\n\nArbeidssted\nOlaf Helsets vei 6\n\n0694 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5210429862\n\nStillingsprosent: 10%\n\nKontraktsarbeid\n\nSøknadsfrist: 14.12.2026"
   },
   {
    "id": "nav-5070705e-2624-410f-b87f-779761066c21",
@@ -104,6 +154,31 @@
    "starttime": "",
    "occupations": [],
    "description": "I Bane NOR bygger vi mer enn jernbane. Vi bygger forbindelser mellom mennesker, byer og regioner, og skaper løsninger som skal fungere i generasjoner. Det stiller høye krav til hvordan vi gjennomfører prosjekter, samarbeider med leverandører og forvalter samfunnets tillit.\n\nVi søker nå en engasjert og analytisk seniorrådgiver som vil være med på å videreutvikle compliance-området i en av Norges mest spennende og samfunnskritiske virksomheter.\n\nSom seniorrådgiver Compliance får du en sentral rolle i arbeidet med å styrke integritet, ansvarlig virksomhetsstyring og etterlevelse i hele konsernet. Du vil arbeide i skjæringspunktet mellom risiko, regelverk, forretning og teknologi, og bidra til at Bane NOR møter både dagens og morgendagens krav til ansvarlig virksomhet.\n\nDette er en rolle for deg som ønsker å kombinere strategisk arbeid med operative problemstillinger, og som motiveres av å skape resultater gjennom gode analyser, faglige råd og tett samarbeid med ledere og fagmiljøer på tvers av organisasjonen.\n\nCompliance er mer enn å følge regler. Det handler om å bygge tillit, redusere risiko og bidra til at viktige samfunnsoppgaver løses på en ansvarlig måte. Hos oss får du muligheten til å påvirke hvordan dette arbeidet utvikles i en virksomhet som forvalter store verdier, komplekse leverandørkjeder og et kritisk samfunnsoppdrag.\n Hvorfor velge å jobbe i Bane NOR?\n\nI Bane NOR blir du en del av et sterkt fagmiljø med høy kompetanse og et viktig samfunnsoppdrag. Vi gir våre medarbeidere rom til å påvirke, utvikle seg og ta ansvar.\n\nHos oss får du muligheten til å:\n • spille en viktig rolle i videreutviklingen av compliance-arbeidet i et av Norges største statlige selskaper\n• arbeide med problemstillinger innen antikorrupsjon, tredjepartsrisiko, menneskerettigheter, åpenhetsloven og virksomhetsstyring\n• samarbeide tett med ledere, spesialister og beslutningstakere i hele konsernet\n• bidra til utvikling og bruk av digitale verktøy og datadrevne arbeidsmetoder\n• påvirke prioriteringer, arbeidsformer og faglig retning innen compliance\n\nVi tilbyr:\n • moderne og sentrale lokaler i Oslo\n• treningsfasiliteter og sykkelparkering i bygget\n• personalrestaurant og betalt lunsjpause\n• fleksibel arbeidstid og mulighet for å jobbe noe hjemmefra\n• svært gode pensjons- og forsikringsordninger\n• personalbillett på tog\n\n Hva kommer du til å jobbe med?\n\nSom Seniorrådgiver Compliance vil du:\n • videreutvikle compliance-funksjonens rolle, metoder og leveranser i tråd med konsernets strategi og mål\n• styrke og videreutvikle rammeverket for tredjepartsrisiko og integritetsvurderinger av leverandører og samarbeidspartnere\n• gjennomføre risikovurderinger og Integrity Due Diligence-undersøkelser av virksomheter og forretningsforbindelser\n• identifisere og vurdere risiko knyttet til korrupsjon, økonomisk kriminalitet, sanksjoner, menneskerettigheter og andre compliance-relaterte forhold\n• gi faglige anbefalinger som understøtter gode og risikobevisste beslutninger\n• bidra til etterlevelse av gjeldende og kommende regelverk, herunder åpenhetsloven og relevante internasjonale standarder\n• lede eller bistå i kartlegginger og undersøkelser ved mistanke om kritikkverdige forhold\n• være en strategisk rådgiver og sparringspartner for ledere, staber og fagmiljøer på tvers av konsernet\n• bidra til økt bevissthet, læring og kultur for integritet og ansvarlighet i organisasjonen\n\nCompliance har mandat fra styret og bidrar igjennom Complianceprogrammet til høy integritet, respekt for menneskerettigheter og nulltoleranse for økonomisk kriminalitet. Vi jobber tett på og samarbeider med ulike fagmiljøer og ledergrupper for å sikre en sterk integritetskultur i all vår aktivitet. Arbeidshverdagene er varierte og har faglige utfordringer fordi virksomheten er kompleks og samfunnsmessig forhold internasjonalt påvirker risikobildet.\n\n Hvem er du?\n\nVi tror du lykkes i rollen dersom du kombinerer sterk faglig kompetanse med gode samarbeidsevner og en genuin interesse for ansvarlig virksomhetsstyring.\n\nVi ser gjerne at du har:\n • høyere relevant utdanning innen eksempelvis økonomi, revisjon, jus, samfunnsvitenskap eller tilsvarende\n• erfaring fra compliance, internrevisjon, gransking, økonomisk kriminalitet, risikostyring eller lignende fagområder\n• erfaring med risikovurderinger, tredjepartskontroller og integritetsundersøkelser\n• god forståelse for regulatoriske krav, etterlevelse og virksomhetsstyring\n• interesse for teknologi, analyseverktøy og digitalisering av compliance-prosesser\n• evne til å omsette komplekse problemstillinger til tydelige råd og anbefalinger\n\nPersonlig tror vi du:\n • arbeider strukturert og analytisk\n• tar initiativ og driver prosesser fremover\n• bygger tillit gjennom integritet, profesjonalitet og god kommunikasjon\n• håndterer sensitive saker med høy grad av diskresjon\n• skaper gode relasjoner og samarbeider godt på tvers av fagområder\n\nFor denne stillingen vil Bane NOR gjennomføre en vurdering av søkerens sikkerhetsmessige skikkethet, herunder tilknytning til høyrisikoland og bakgrunnssjekk. Vær oppmerksom på at utfallet av slike vurderinger kan påvirke rekrutteringsprosessen og muligheten for ansettelse.\n Kjekt å vite\n\nÅ søke jobb i Bane NOR skal være enkelt. Du trenger ikke skrive søknadsbrev – en godt utfylt CV og dine svar i søknadsprosessen er det vi trenger. \n\nBane NOR samarbeid med Semac for å gjennomføre bakgrunnssjekk av aktuelle kandidater. Bakgrunnssjekken utføres etter samtykke fra deg, og innebærer verifisering av CV og annen søknadsdokumentasjon.Ta gjerne kontakt om du har spørsmål før du søker"
+  },
+  {
+   "id": "nav-7479b0d8-148e-4eca-b538-4c46cba5ee3c",
+   "uuid": "7479b0d8-148e-4eca-b538-4c46cba5ee3c",
+   "title": "CRO-ansvarlig i Huseierne – gjør veien fra besøkende til medlem enklere",
+   "jobtitle": "",
+   "employer": "Cruit AS",
+   "location": "OSLO",
+   "postalCode": null,
+   "published": "2026-11-13T15:00:45+01:00",
+   "updated": "2026-11-14T12:06:24.962495+01:00",
+   "expires": "2026-12-28T17:37:47.172+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd7db78f51avgk47vhfwn1a9nd8j50r3?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7479b0d8-148e-4eca-b538-4c46cba5ee3c",
+   "sourceurl": "https://kollegia.no/jobs/qd7db78f51avgk47vhfwn1a9nd8j50r3?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "IT / Utvikling"
+   ],
+   "description": "Norge er et land av boligeiere. Boligen er ofte den største investeringen vi gjør gjennom livet, og rammen rundt hverdagen vår. Samtidig følger det mange spørsmål med å eie bolig. Hva har du ansvar for? Hvilke rettigheter har du? Og hvem kan hjelpe når du trenger råd?\nHuseierne jobber for at boligeiere skal kunne ta gode valg og kjenne seg tryggere i egen bolighverdag. På Huseierne.no finner mange svar på det de lurer på. Nå vil vi at flere også skal forstå verdien av å være medlem.\nDer kommer du inn.\nVi ser etter en CRO-ansvarlig som vil ta eierskap til reisen fra besøkende til medlem. En som er nysgjerrig på hvor folk faller fra, liker å teste hypoteser og klarer å omsette innsikt til forbedringer som merkes.\nVi har fått mye på plass. Nå skal vi få mer ut av det.\nHuseierne jobber daglig med innhold, kampanjer og andre tiltak som får folk inn på nettsidene våre. Vi har sterke fagpersoner på plass og har etablert datapunkter gjennom konverteringstrakten.\nNå trenger vi noen som holder i sammenhengen.\nHva skal til for at en besøkende går fra å lese en nyttig artikkel til å forstå hvorfor medlemskapet er relevant? Hvor oppstår usikkerheten i innmeldingsløpet? Hvilken informasjon mangler på landingssiden? Når er løsningen en liten endring i teksten, og når må vi tenke annerledes om hele reisen?\nDet er slike spørsmål du skal finne svar på.\nDu får ansvar for å sette arbeidet i system, prioritere hypoteser og gjennomføre tester sammen med kolleger innen markedsføring, analyse, innhold, produkt og teknologi. Noen forbedringer kan du gjøre selv. Andre krever at du samler de riktige folkene og får arbeidet videre.\nVi ønsker flere medlemmer som opplever verdien av medlemskapet og blir værende over tid. Derfor skal du se konvertering i sammenheng med forventningene vi skaper, merkevaren vår og medlemmenes videre forhold til Huseierne.\nHos oss skal du blant annet\n• Optimalisere landingssider og bidra til bedre effekt av markedstiltakene våre.\n\n• Eie arbeidet med å forbedre innmeldingsløpet og skjemaene.\n\n• Analysere brukerreiser og finne ut hvor og hvorfor folk faller fra.\n\n• Utvikle konsepter og innhold som gjør verdien av medlemskapet tydeligere.\n\n• Bygge og gjennomføre en løpende testplan, fra hypotese til evaluering og neste beslutning.\n\n• Kombinere A/B-testing og nettanalyse med brukertesting og kvalitativ innsikt.\n\n• Gjøre mindre innholdsendringer selv og samarbeide med produkt og teknologi om større forbedringer.\n\n• Utforske hvordan personalisering kan gjøre brukerreisene mer relevante.\n\n• Dele funn og læring, og bidra til at vi blir bedre til å teste og prioritere sammen.\n\nHvem ser vi etter?\nVi ser etter deg som har jobbet med konverteringsoptimalisering i praksis, og som trives i skjæringspunktet mellom analyse, brukeropplevelse, kommunikasjon og forretning.\nDu vil forstå problemet før du foreslår løsningen. Samtidig liker du å komme videre, ta en beslutning og teste om det du tror, faktisk stemmer. Du vet at også en test uten positiv effekt kan gi nyttig læring, så lenge den er godt gjennomført og resultatene blir brukt.\nDu er trygg nok i faget til å se hva som bør gjøres uten å få en ferdig oppgaveliste. Og du er god til å samarbeide med folk som kan andre ting enn deg, enten det handler om innhold, markedsføring, design eller utvikling.\nKanskje kommer du fra et digitalbyrå. Kanskje har du jobbet med e-handel, abonnement eller medlemskap. Kanskje har du vært med på å bygge gode testprosesser i et internt fagmiljø.\nDet viktigste er at du kan vise hvordan du har brukt innsikt og testing til å forbedre digitale brukerreiser.\nVi tror du vil lykkes godt hos oss hvis du har\n• Solid erfaring med konverteringsoptimalisering og A/B-testing.\n\n• God forståelse av nettanalyse og statistikk, og evne til å vurdere når en test gir tilstrekkelig grunnlag for handling.\n\n• Erfaring med å kombinere data med brukertesting og kvalitativ innsikt.\n\n• Forståelse for hvordan innhold, brukeropplevelse og tydelig formidling påvirker konvertering.\n\n• Evne til å prioritere tiltak og formidle funn og anbefalinger på en forståelig måte.\n\n• Erfaring med tverrfaglig samarbeid og med å drive arbeid fremover selvstendig.\n\n• Bred interesse for digitale analyseverktøy, martech og CMS.\n\n• Svært gode kommunikasjonsevner på norsk og evne til å samarbeide med leverandører på engelsk.\n\nVi bruker blant annet Agillic, Tealium, Google Analytics, Optimizely og Sanity. Du trenger ikke å kjenne alle verktøyene fra før, men du bør forstå mulighetene i verktøykassen og være nysgjerrig på hva som kan gjøre oss bedre.\nRelevant utdanning er fint. Erfaring, faglig vurderingsevne og dokumenterte resultater veier tyngst.\nDette kan Huseierne være for deg\nDette er en mulighet til å bygge videre på noe som allerede har et solid fundament.\nDu blir en del av vekstteamet i avdelingen Merkevare, kommunikasjon og markedsføring, og rapporterer til avdelingsleder Lillian Vatnøy. Rundt deg får du kolleger med kompetanse på alt fra markedsføring og analyse til innhold og kommunikasjon, og et produkt- og teknologimiljø du skal samarbeide tett med.\nRollen er ny. Det gir deg stort handlingsrom til å forme arbeidsmåten og være med på å bygge en tydelig testkultur. Du kommer også til en organisasjon i utvikling, med høyt tempo og stor oppmerksomhet på læring og faglig påfyll.\nHos oss får du blant annet:\n• Ansvar for et fagområde med stor betydning for Huseiernes vekst.\n\n• Mulighet til å gjøre viktige tjenester lettere tilgjengelige for landets boligeiere.\n\n• Et bredt fagmiljø og kolleger som er avhengige av hverandres kompetanse.\n\n• Stor tillit og frihet til å finne gode løsninger.\n\n• Gode muligheter for faglig utvikling, kurs og faglige samlinger.\n\n• Moderne lokaler i Posthuset i Oslo sentrum og fleksibilitet for hjemmekontor etter avtale.\n\n• Sommertid fra mai til september.\n\n• Gode pensjons- og forsikringsordninger, firmahytte, dekning av bredbånd og gratis trening i bygget.\n\nVi er opptatt av at arbeidshverdagen skal fungere sammen med livet ellers. Her får du ledere og kolleger som gir rom for det, samtidig som vi har ambisjoner for det vi skal få til sammen.\nHøres dette interessant ut?\nVil du bruke analyse, testing og gode brukeropplevelser til å gjøre verdien av Huseierne tydeligere for flere? Da håper vi å høre fra deg.\nVi tror ulike perspektiver og erfaringer gjør oss bedre, og oppfordrer alle kvalifiserte kandidater til å søke.\nHar du spørsmål om rollen eller Huseierne, ta kontakt med vår rekrutteringsrådgiver i Cruit: Sindre Ræder, sindre@cruit.no, 992 25 039\nVi vurderer søknader fortløpende. Oppstart etter avtale."
   },
   {
    "id": "nav-84014cae-eda0-4d93-934e-b9abb20ec20f",
@@ -1731,6 +1806,31 @@
    "description": "Vi søker flere tilkallingsvikarer i vårt team! \nLillomarka bosenter er en døgnbemannet bolig som yter tjenester innenfor praktisk bistand og opplæring i hjemmet til innbyggere med utviklingshemming. Grad av bistandsbehov er individuelt og varierer. \nLillomarka ligger i et område på Ammerud som grenser til marka. Det er kort avstand til offentlig kommunikasjon og et bredt utvalg av fasiliteter. \nTjenesteyterne ved boligen består av motiverte og engasjerte 3-årige miljøterapeuter, helsefagarbeidere og miljøarbeidere. Boligen har en ledende miljøterapeut med lang erfaring som er ansvarlig for den faglige oppfølgingen. \n\nPrinsipper for målrettet miljøarbeid, selvbestemmelse, beslutningstøtte, aktivisering, likhet og deltakelse er sentrale begreper i arbeidet med brukergruppen.\nEr du en engasjert og dyktig miljøarbeider som vil jobbe for å gi gode tjenester til målgruppen? Da vil vi gjerne høre fra deg! \n\nArbeidsoppgaver\nDirekte miljøarbeid \nDokumentasjon i journalsystemet Gerica \nHåndtering av utfordrende atferd og inngripen med skadeavvergende tiltak\nStell og pleie \nMotta faglig oppfølging og veiledning \nSamarbeid med kollegaer på boligen \nHolde orden i leilighetene til beboerne \nKvalifikasjoner\nErfaring fra arbeid med målgruppen \nKjennskap til helse- og omsorgstjenesteloven (HOL) kap. 9 \nErfaring med utfordrende atferd og skadeavvergende tiltak\nErfaring med epilepsi, sondeernæring og autisme er en fordel. \nMeget god skriftlig og muntlig fremstillingsevne på norsk, språkkravet er minimum på nivå B2 \nGode IKT-kunnskaper \nFørerkort klasse B er ønskelig \nGodkjent politiattest må fremlegges før tiltredelse jf. Helse og omsorgstjenesteloven § 5-4, ikke eldre enn 3 mnd. \nPersonlige egenskaper\nStor interesse og engasjement for å jobbe med målgruppen \n\nEvne til å jobbe selvstendig og i team \n\nInneha evne til fleksibilitet, takle uforutsette hendelser og endringer \n\nHåndterer og mottar tilbakemeldinger og veiledning, med et ønske om å lære og utvikle seg \n\nPersonlig egnethet, holdninger og motivasjon vektlegges Vi tilbyr\nEn personalgruppe som består av engasjerte, inkluderende og faglig sterke tjenesteytere og en ledende miljøterapeut som har det daglige faglige ansvaret. \n\nInteressante og lærerike arbeidsoppgaver.\nKurs i HAVA\nGode tjenestepensjons- og forsikringsordninger i Oslo Pensjonsforsikring.\nLønn i lønnstrinn 4-16( kr 483 550-528 550 pr år i 100% stilling) henhold til Oslo Kommunes lønnsregulativ avhengig av lønnsanseinnitet. \nKontaktinformasjon\nKristiane Jøkling Solvang, kristiane.jokling.solvang@bgr.oslo.kommune.no\n\nArbeidssted\nAmmerudveien 45\n\n0958 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5209516146\n\nStillingsprosent: 0%\n\nTilkalling\n\nSøknadsfrist: 02.12.2026"
   },
   {
+   "id": "nav-eeb07b47-f2df-4b90-9d1a-f50d4c7fb68d",
+   "uuid": "eeb07b47-f2df-4b90-9d1a-f50d4c7fb68d",
+   "title": "Er du en butikksjef som setter folk først? Kom til Brilleland – Vi ses!",
+   "jobtitle": "",
+   "employer": "Synoptik Norge - Interoptik & Brilleland",
+   "location": "OSLO, OSLO",
+   "postalCode": "0667",
+   "published": "2026-11-12T23:00:00+01:00",
+   "updated": "2026-11-14T12:06:17.071428+01:00",
+   "expires": "2026-12-19T22:59:59+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd7cbwavx9z6s9rx0np6avghpx8j4cc3?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/eeb07b47-f2df-4b90-9d1a-f50d4c7fb68d",
+   "sourceurl": "https://kollegia.no/jobs/qd7cbwavx9z6s9rx0np6avghpx8j4cc3?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Kultur og kreative yrker / Design, grafisk arbeid og illustrasjon"
+   ],
+   "description": "Kom og gjør en forskjell sammen med oss. Som butikksjef hos oss blir du nøkkelpersonen for både kunder og ansatte. Du får ansvar og muligheten til å skape et varmt og profesjonelt butikkmiljø, hvor alle føler seg ivaretatt. Sammen gir vi folk trygghet for syn og øyehelse.\nMULIGHETER\nI Brilleland er du en del av et arbeidsmiljø som ønsker å gi deg muligheter. God utvikling av deg som leder, spennende karrieremuligheter og et godt og inkluderende arbeidsmiljø er blant våre viktigste prioriteter! Vi elsker at du sammen med oss setter mål for din egen utvikling og samtidig bidrar til at dine medarbeidere får god opplæring og utvikling av sin kompetanse i et trygt og inspirerende arbeidsmiljø. Du vil innse at vi stadig lærer noe nytt og sjelden blir utlært i vår bransje.\nANSVAR I STILLINGEN\nSom butikksjef har du hovedansvar for butikkens resultater, daglig salgsoppfølging og budsjett, personalledelse og utvikling av teamet, samt effektiv og trygg butikkdrift med høy kundetilfredshet. Du leder gjennom tilstedeværelse og er en aktiv del av butikkhverdagen, med arbeidstid tilpasset butikkens åpningstider gjennom en variert turnus. Norsk er hovedspråket i butikken og i kundemøtene, så du må beherske norsk flytende. I tillegg må du kunne forstå og bruke engelsk godt nok til å følge interne kurs og webinarer, siden en økende del av vår opplæring foregår på engelsk.\nSTØTTE I HVERDAGEN\nSalgssjefen din er til enhver tid er en støtte for deg og din butikk, og du har et servicekontor som står på for at det skal være lettere for deg å utføre jobben din. Vi har i tillegg et unikt og godt samarbeide på tvers av butikkene.\nLITT KONKURRANSE ER SUNT\nVi ønsker en butikksjef med nok konkurranseinstinkt og driv til å stadig ønske forbedring. Gjennom lederen i deg forstår du hvordan økonomi, detaljhandel og profesjonell kundeservice fungerer. En god butikksjef skal motivere sine ansatte i travle så vel som rolige dager.\nVi verdsetter mangfold og oppfordrer alle kvalifiserte kandidater til å søke uavhengig av alder, kjønn, etnisitet, nasjonalitet, religion, seksuell orientering eller funksjonsnedsettelse.\nTakk for at du vurderer å bli en del av Brilleland. Vi vurderer kandidater fortløpende, så ikke nøl med å sende inn søknad om du kjenner deg igjen i stillingen! Vi ses!"
+  },
+  {
    "id": "nav-d5bfc027-4bee-482f-b9fd-655007155b76",
    "uuid": "d5bfc027-4bee-482f-b9fd-655007155b76",
    "title": "Resepsjonist i 100 % fast stilling søkes til vårt topp moderne dyresykehus",
@@ -2178,6 +2278,31 @@
     "Kontor og økonomi / Juridisk arbeid"
    ],
    "description": "Advokatfirmaet Auxilium AS har som mål å tilby effektiv og personlig rådgivning av høy kvalitet til alle klienter.\n\nAdvokatfirmaet Auxilium AS er et ungt, framoverlent og moderne drevet advokatfirma. Arbeidsmiljøet skal være uhøytidelig preget av engasjerte mennesker med arbeidsglede og godt humør.\n\nKontorlokalene er \"Barcode\". Vi har lyse, fine og trivelige lokaler med god kantine, treningsrom og takterrasse.\n\nVirksomheten skal være forankret i høye faglige og etiske standarder, og sterkt engasjement for den enkelte sak og klient. Sakstilfanget er bredt med både strafferett og sivile saker\n\nAdvokatfirmaet Auxilium AS er i vekst med økende oppdragsmengde og søker en advokat, og/ eller advokatfullmektig gjerne med egen portefølje. Søkeren bør være faglig solid, ha god arbeidskapasitet og kommersiell sans.\n\nHos Advokatfirmaet Auxilium AS er det er betydelig tilfang av tvistesaker for domstolene, vi tilbyr forøvrig:\n\n• \nSpennende og varierte arbeidsoppgaver\n\n• \nProsedyreerfaring\n\n• \nEt hyggelig og uformelt arbeidsmiljø\n\n• \nKonkurransedyktige betingelser\n\n• \nEn god balanse mellom arbeid og fritid\n\n• \nSosiale sammenkomster\n\nAlle søknader vil bli vurdert fortløpende. Søknadene må inneholde vitnemål, karakterutskrift, CV, og søkerbrev.\n\nVed spørsmål eller om du ønsker en uforpliktende prat, kontakt advokat Ali Reza Afshar på 92 80 29 24."
+  },
+  {
+   "id": "nav-0e8ec27c-e50b-4ac6-abd4-9bf7c764a5dd",
+   "uuid": "0e8ec27c-e50b-4ac6-abd4-9bf7c764a5dd",
+   "title": "Senior prosjektleder – personvern og digital samhandling",
+   "jobtitle": "",
+   "employer": "Sperton Global AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0184",
+   "published": "2026-11-12T06:11:50+01:00",
+   "updated": "2026-11-14T12:06:25.868361+01:00",
+   "expires": "2026-12-27T18:44:31.235+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd71f8qkm3zsnk7ja9qyk8x66d8j2h7a?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/0e8ec27c-e50b-4ac6-abd4-9bf7c764a5dd",
+   "sourceurl": "https://kollegia.no/jobs/qd71f8qkm3zsnk7ja9qyk8x66d8j2h7a?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Engasjement",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "IT / Utvikling"
+   ],
+   "description": "Lokasjon: Oslo, Norge\nOppdragsform: Konsulentoppdrag\nOmfang: Heltid, 100 % – én konsulent\nOppdragsperiode: 4. januar 2027 – 31. desember 2027\nSpråk: Norsk, svært gode muntlige og skriftlige ferdigheter\nSøknadsfrist: 18. november 2026\nOm rollen\nVi søker en erfaren prosjektleder for en av våre kunder til interregionale digitaliseringsinitiativer i helsesektoren.\nOppdraget har særlig vekt på helhetlige personverninnstillinger og krever koordinering mellom regionale helseforetak, helseforetak og nasjonale aktører. Du vil sikre kontinuitet, fremdrift og forankring i komplekse tverrfaglige prosesser.\nRessursen skal primært arbeide med helhetlige personverninnstillinger, men kan også bistå tilgrensende initiativer innen føderert tillit, tilgangsstyring og deling av pasientinformasjon, avhengig av prioriteringer og kapasitet.\nArbeidsoppgaver\n• Lede og koordinere interregionale prosjekter og tilhørende aktiviteter.\n\n• Sikre fremdrift, leveranser, risikohåndtering og nødvendig forankring.\n\n• Lede tverrfaglige prosesser mellom juridiske, kliniske, tekniske og organisatoriske fagmiljøer.\n\n• Koordinere samarbeid mellom regionale helseforetak, helseforetak og nasjonale aktører.\n\n• Utarbeide beslutningsgrunnlag, anbefalinger og styringsdokumentasjon.\n\n• Følge opp tidligere avklaringer og sikre samordning med tilgrensende initiativer.\n\n• Tilpasse oppgaver og prioriteringer mellom initiativene innenfor avtalte rammer.\n\nMå-ha-krav\n• Minimum fem års dokumentert erfaring med prosjektledelse av komplekse digitaliseringsprosjekter.\n\n• Minimum to års erfaring med prosjektledelse innen helse- og omsorgssektoren.\n\n• Minimum to års erfaring med tverrorganisatorisk samarbeid og koordinering mellom regionale og/eller nasjonale aktører.\n\n• Erfaring med å lede minimum to tverrfaglige prosesser og utarbeide beslutningsgrunnlag for ledelse og styringsorganer.\n\n• Svært gode skriftlige og muntlige kommunikasjonsevner på norsk.\n\nØnsket erfaring og kompetanse\n• Erfaring fra nasjonale eller interregionale digitaliseringsprosjekter i helsesektoren.\n\n• God kjennskap til nasjonale aktører, styringsstrukturer og samhandlingsløsninger i helsesektoren.\n\n• Erfaring med personvern, pasientrettigheter og tilgangsstyring ved deling av helseopplysninger.\n\n• Kjennskap til nasjonale samhandlingsløsninger, eksempelvis kjernejournal, Helsenorge og dokumentdeling.\n\n• Erfaring med føderert tillit, identitets- og tilgangsstyring eller tilsvarende samhandlingsproblematikk.\n\n• Erfaring med prosessledelse og avklaringer på tvers av juridiske, kliniske og tekniske fagmiljøer.\n\n• Erfaring med utredninger, beslutningsprosesser og videreføring av komplekse prosjekter.\n\nOm Sperton\nSperton er et globalt rekrutterings- og konsulentselskap med kontorer i Europa, Asia og Amerika. Vi hjelper organisasjoner med å finne og engasjere dyktige fagpersoner gjennom fleksible løsninger innen rekruttering, konsulenttjenester og global mobilitet."
   },
   {
    "id": "nav-baab31cd-5263-496b-ad0a-08d7203f522e",
@@ -3320,6 +3445,31 @@
    "description": "Arbeidssted: Oslo, Norge\nArbeidsform: On-site (0 % fjernarbeid)\nStillingsprosent: 100 %\nOppdragsperiode: 30. november 2026 – 30. april 2027\nSøknadsfrist: 15. november 2026 \nSpråk: Norsk (morsmålsnivå)\n\nOm rollen\nHar du solid erfaring med applikasjonspakking og distribusjon, og ønsker å bidra i utrullingen av en forretningskritisk IT-løsning?\nVi søker en erfaren spesialist innen applikasjonstilrettelegging som skal bidra til implementeringen av Orion 2.0, en ny webbasert løsning for resepthåndtering og kassasystem (POS). Du vil ha en operativ rolle med ansvar for installasjon, konfigurering, testing og distribusjon av løsningen til apotek i regionen.\nProsjektet omfatter testing, pilotering, migrering og produksjonssetting i perioden november 2026 til april 2027. Du må kunne arbeide selvstendig i etablerte tekniske miljøer og bidra effektivt fra oppstart.\n\nArbeidsoppgaver\n• Installere, konfigurere og teste Orion 2.0 og tilhørende komponenter.\n\n• Utføre applikasjonspakking, automatisering og distribusjon av klientprogramvare.\n\n• Sette opp Active Directory-grupper, tilgangsstyring og arbeidsstasjoner.\n\n• Delta i testing, pilotering, migrering og produksjonssetting.\n\n• Feilsøke tekniske problemer og gi teknisk rådgivning og støtte til prosjektets ressurser.\n\n• Utarbeide teknisk dokumentasjon og gjennomføre overlevering til forvaltningsorganisasjonen.\n\n• Utføre andre relevante oppgaver innen fagområdet.\n\nKvalifikasjoner\nMå-krav\n• Minimum 5 års erfaring med applikasjonstilrettelegging, MSI-pakking og applikasjonsdistribusjon.\n\n• Erfaring med applikasjonspakkingsverktøy som MSIX Packaging Tool og Microsoft App-V Sequencer (Microsoft App-V 5.1).\n\n• Erfaring med SCCM 2012.\n\n• Kompetanse innen Ivanti WC/AM og Recast Application Workspace.\n\n• Norsk på morsmålsnivå.\n\n• CV som dokumenterer relevant erfaring og kompetanse innen samtlige må-krav.\n\nØnskede kvalifikasjoner\n• Kjennskap til relevante tjenester, prosesser og tekniske plattformer i større driftsmiljøer.\n\n• Erfaring fra større drifts- og forvaltningsmiljøer.\n\n• Erfaring med applikasjonsutrulling og migrering i komplekse miljøer.\n\n• Erfaring med MSIX.\n\n• Erfaring med Citrix.\n\n• Erfaring med teknisk dokumentasjon og overlevering.\n\nOm Sperton\nSperton er et globalt rekrutterings- og konsulentselskap med kontorer i Europa, Asia og Amerika. Vi hjelper organisasjoner med å finne og engasjere dyktige fagpersoner gjennom fleksible løsninger innen rekruttering, konsulenttjenester og global mobilitet."
   },
   {
+   "id": "nav-f5f31899-1aec-49bd-a2ea-b027b2109186",
+   "uuid": "f5f31899-1aec-49bd-a2ea-b027b2109186",
+   "title": "Facility Manager",
+   "jobtitle": "",
+   "employer": "Four FM AB",
+   "location": "OSLO, OSLO",
+   "postalCode": "0152",
+   "published": "2026-11-11T23:00:00+01:00",
+   "updated": "2026-11-14T12:06:15.365199+01:00",
+   "expires": "2026-12-14T22:59:59+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd742gy5g68agmsv4m4j6wzx0x8j3msh?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f5f31899-1aec-49bd-a2ea-b027b2109186",
+   "sourceurl": "https://kollegia.no/jobs/qd742gy5g68agmsv4m4j6wzx0x8j3msh?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Engasjement",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Kontor og økonomi / Ledelse, administrasjon og rådgivning"
+   ],
+   "description": "Om rollen 🚀\n\nVi søker nå en Facility Manager til en tidsbegrenset stilling hos en av våre internasjonale kunder i Norge. Du vil være basert på kontoret til et globalt selskap innen teknologi og profesjonelle tjenester, i et dynamisk og internasjonalt arbeidsmiljø.\n\nSom Facility Manager vil du ha ansvar for den daglige Facility Management-leveransen på lokasjonen og sørge for at arbeidsplassen fungerer effektivt, sikkert og med høy kvalitet.\n\nDu vil være kundens primære kontaktperson innen Facility Management og samarbeide tett med leverandører, servicepartnere og resten av Four FM-organisasjonen. Lede, støtte og følge opp Facility Coordinator på samme lokasjon og sørge for tydelige prioriteringer, godt samarbeid og høy kvalitet i tjenesteleveransen.\n\nRollen kombinerer operativt ansvar med koordinering av medarbeidere, kundeoppfølging, oppfølging av tjenester og kontinuerlig forbedringsarbeid.\n\nDu vil blant annet: ✨\n\n• Ha ansvar for den daglige Facility Management-driften på lokasjonen.\n\n• Lede, støtte og koordinere Facility Coordinator på lokasjonen.\n\n• Være kundens primære kontaktperson og bygge gode relasjoner med relevante interessenter.\n\n• Koordinere og følge opp leverandører og eksterne servicepartnere.\n\n• Sikre at tjenester leveres i henhold til avtalte kvalitetsstandarder, KPI-er og SLA-er.\n\n• Følge opp kostnader og bidra til god budsjettoppfølging og økonomisk kontroll.\n\n• Sikre etterlevelse av relevante HMS-rutiner, sikkerhetskrav og lokale bestemmelser.\n\n• Håndtere daglige operative utfordringer på en proaktiv og løsningsorientert måte.\n\n• Sikre at avtalte prosesser, rutiner og arbeidsmetoder følges.\n\n• Identifisere og drive kontinuerlige forbedringer for å styrke kvalitet, effektivitet og den totale arbeidsplassopplevelsen.\n\nKort sagt: Du sørger for at arbeidsplassen fungerer godt, at teamet på lokasjonen får støtten og retningen de trenger, og at kunden mottar profesjonelle Facility Management-tjenester av høy kvalitet.\n\nDette er deg! 🎯\n\nDu er en strukturert, serviceinnstilt og løsningsorientert person som trives med å ta ansvar og sørge for at ting fungerer.\n\nDu er komfortabel med å jobbe i et kundenært miljø og kan veksle mellom planlegging, koordinering, oppfølging og håndtering av daglige operative utfordringer. Du liker å støtte andre og kan gi tydelig retning, samtidig som du samarbeider tett med kolleger, leverandører og andre interessenter.\n\nDu kommuniserer godt med mennesker på ulike nivåer og har et naturlig fokus på kvalitet, service og kontinuerlig forbedring.\n\nVi tror at du har:\n\n• Erfaring innen Facility Management, workplace services, eiendomsdrift eller en lignende serviceorientert virksomhet.\n\n• Erfaring med å koordinere, støtte eller lede medarbeidere i et operativt miljø.\n\n• Erfaring med å jobbe tett med kunder og håndtere ulike interessenter.\n\n• Erfaring med å koordinere og følge opp leverandører og servicepartnere.\n\n• God forståelse for HMS og trygge arbeidsmetoder.\n\n• Forståelse for budsjett, kostnadsoppfølging og økonomisk kontroll.\n\n• En strukturert, proaktiv og selvstendig arbeidsform.\n\n• Gode digitale ferdigheter og trygghet i bruk av ulike systemer og verktøy.\n\n• Gode kommunikasjons- og relasjonsbyggende ferdigheter.\n\n• Flytende norsk- og engelskkunnskaper, både skriftlig og muntlig.\n\n• Kunnskap om teknisk Facility Management og grunnleggende forståelse for tekniske bygningssystemer er en fordel.\n\nHvorfor du vil trives hos oss ✨\n\nHos Four FM blir du en del av et selskap hvor du får tillit og reelt ansvar. Vi verdsetter initiativ, kvalitet og samarbeid, og gir medarbeiderne våre mulighet til å forme sine roller og bidra til hvordan vi utvikler tjenestene våre.\n\nVerdiene våre C.A.R.E. – Compassion, Attention, Respect & Excellence – veileder oss i alt vi gjør. Vi bryr oss om mennesker, har fokus på detaljene og er stolte av å levere tjenester av høy kvalitet til kundene våre.\n\nPraktisk informasjon 👩‍🏫\n\nArbeidstid:\n\nHeltid, hovedsakelig innenfor ordinær kontortid, med noe fleksibilitet basert på driftsmessige behov.\n\nAnsettelsesform:\n\nTidsbegrenset ansettelse fra 31. januar til 30. juni 2027.\n\nArbeidssted:\n\nHos kunden på Lysaker.\n\nOppstart:\n\nSå snart som mulig / etter avtale.\n\nSøknad:\n\nSiste søknadsfrist: 14.12.2026\n\nVi gjennomfører utvelgelse og intervjuer fortløpende, så vi oppfordrer deg til å sende inn søknaden din så snart som mulig."
+  },
+  {
    "id": "nav-057effac-3a13-457d-b876-8743a45a95a8",
    "uuid": "057effac-3a13-457d-b876-8743a45a95a8",
    "title": "Business Development Manager ",
@@ -3920,6 +4070,31 @@
     "Salg og service / Salg, butikk- og varehandel"
    ],
    "description": "Hos Kjell & Company handler salg om mer enn å selge produkter. Vi hjelper mennesker med å finne teknologiske løsninger som forenkler hverdagen og skaper verdi i praksis. Det stiller høye krav til service, kunnskap og engasjement, men gjør også jobben både utviklende og variert.\n\nOM ROLLEN\nVi søker nå engasjerte butikkselgere til våre butikker i Oslo.\nSom butikkselger hos oss hjelper du kunder med å finne riktige produkter og løsninger, gir råd om teknologi og skaper gode kundeopplevelser i hvert kundemøte. Du er nysgjerrig på kundens behov og ser muligheter til å anbefale produkter, tjenester og løsninger som gjør en reell forskjell i kundenes hverdag.\nDu blir en del av et engasjert team som sammen skaper en butikk kundene gjerne kommer tilbake til.\n\nDINE ANSVARSOMRÅDER\n• Hjelpe kunder med å finne riktige produkter, tjenester og løsninger basert på deres behov\n\n• Skape positive og profesjonelle kundeopplevelser i hvert kundemøte\n\n• Bidra til butikkens salg gjennom å avdekke kundebehov og anbefale relevante produkter og tjenester\n\n• Sørge for at butikken er inspirerende, godt varepåfylt og innbydende\n\n• Bidra til godt samarbeid og en positiv lagånd i teamet\n\nVI TROR AT DU ER\nDu liker å møte mennesker, brenner for god service og motiveres av å hjelpe kunder med å finne de riktige løsningene. Du trenger ikke å kunne alt om teknologi fra start. Det viktigste er nysgjerrigheten din, viljen til å lære og engasjementet du tar med deg inn i hvert kundemøte.\n• Serviceinnstilt og positiv i møte med andre mennesker\n\n• Interessert i salg og motivert av å finne den riktige løsningen for hver kunde\n\n• Nysgjerrig på teknologi og ønsker å utvikle kunnskapen din\n\n• Ansvarsbevisst og løsningsorientert\n\n• Trives i et høyt tempo og med varierte arbeidsoppgaver\n\n• En lagspiller som bidrar til godt samarbeid og god lagånd\n\nHVORFOR KJELL & COMPANY?\nHos oss blir du en del av en kultur der vi støtter hverandre, utvikler oss sammen og har kort vei til latter. Vi tilbyr en solid introduksjon, løpende opplæring og mulighet til å utvikle deg innen salg, service og teknologi.\nVi verdsetter initiativ, nysgjerrighet og viljen til å lære. Det er også derfor mange av våre ledere har utviklet seg videre fra roller i butikk til nye muligheter internt i selskapet.\nUtover tarifflønn tilbyr vi blant annet bonusordning, helsebidrag, personalrabatt og gode utviklingsmuligheter gjennom interne opplæringsprogrammer.\n\nPRAKTISK INFORMASJON\n• Arbeidstiden er lagt til både hverdager og helger i tråd med butikkens behov.\n\n• Oppstart: Snarest mulig\n\n• Du må ha fylt 18 år for å søke på stillingen\n\nSØK I DAG\nVi behandler søknader fortløpende og kan ansette før søknadsfristen utløper.\nVi ser frem til å høre mer om deg og hvorfor du ønsker å bli en del av Kjell & Company.\n\nVelkommen med din søknad!"
+  },
+  {
+   "id": "nav-9a305299-fd24-40df-af58-c7945a7f0a26",
+   "uuid": "9a305299-fd24-40df-af58-c7945a7f0a26",
+   "title": "Ventilasjonsmontør",
+   "jobtitle": "",
+   "employer": "GK",
+   "location": "OSLO, OSLO",
+   "postalCode": "0679",
+   "published": "2026-11-11T08:17:32+01:00",
+   "updated": "2026-11-14T12:06:21.070928+01:00",
+   "expires": "2026-11-29T22:59:59+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd7bxf9x7spwpjr2nv335wrd198j39kj?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/9a305299-fd24-40df-af58-c7945a7f0a26",
+   "sourceurl": "https://kollegia.no/jobs/qd7bxf9x7spwpjr2nv335wrd198j39kj?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Håndverkere / Rørlegger"
+   ],
+   "description": "GK er en Skandinavisk teknisk entreprenør og servicepartner, og fagarbeiderne er kjernen i virksomheten vår.\nVi søker nå en ventilasjonsmontør som kan autoriseres for arbeid i forsvarsbygg. Du vil jobbe med ventilasjonsmontasje både i forsvarsbygg og i alle andre typer bygg, og får en variert arbeidshverdag med ulike oppdrag.\nHvorfor velge GK?\nHos oss møter du et inkluderende arbeidsmiljø med korte beslutningsveier og stor grad av tillit. Vi ønsker at du skal lykkes og utvikle deg, og tilbyr derfor:\n• faglig utvikling gjennom kurs, opplæring og GK-skolen\n\n• en variert arbeidshverdag med stor påvirkning på egne oppgaver\n\n• et arbeidsmiljø hvor vi spiller hverandre gode og deler kompetanse\n\n• konkurransedyktige betingelser samt gode pensjons- og forsikringsordninger\n\nHos GK skal du kunne være deg selv. Vi verdsetter mangfold og inkludering, og mener at ulike perspektiver gjør oss sterkere. Hvis du kjenner deg igjen i verdiene våre; inkluderende, nysgjerrig og ansvarlig, håper vi du søker.\n\nKvalifikasjoner\nVi ser etter deg som har erfaring med ventilasjonsmontasje. Det viktigste er at du trives med selvstendig arbeid, tar ansvar og finner gode løsninger i hverdagen.\nVi ser etter deg som:\n• har erfaring som ventilasjonsmontør\n\n• har evne til å arbeide selvstendig og strukturert\n\n• har førerkort klasse B\n\n• har gode norskkunnskaper, både muntlig og skriftlig\n\n• kan autoriseres for arbeid i forsvarsbygg\n\n• er villig til å pendle i perioder\n\nHvordan søke?\nSøknadsfrist er 29. november, og arbeidssted er Oslo. Vi behandler søknader etter søknadsfrist. Vi har gjort søknadsprosessen enkel, så det eneste du trenger å gjøre er å svare på noen korte spørsmål og laste opp CV-en din."
   },
   {
    "id": "nav-77bcd7ce-c815-43c7-a113-171fb03d9fcb",
@@ -7469,6 +7644,31 @@
    "description": "Bli en del av det grønne vinnerlaget!\n\nEr du typen som skaper entusiasme og resultater? Trigges du av fornøyde kunder og kolleger? Har du en god porsjon konkurranseinstinkt og ambisjon om en karriere i dagligvarebransjen? Da må du lese videre.\n\nGjennom årene har KIWI vært den soleklare vekstvinneren i det norske dagligvaremarkedet. Hos oss er det kunden som er sjefen, og målet er at hver enkelt KIWI-butikk skal være best i sitt område. Hver eneste medarbeider er viktig i KIWI og gjennom å gjøre hverandre bedre skal vi vinne kundene.\n\nEn assisterende butikksjef inngår i butikkens lederteam og er butikksjefens høyre hånd og stedfortreder. Vi søker en fremoverlent og positiv leder som kan bidra til at butikken fortsetter å levere gode handleopplevelser for kunden.\n\nEr du klar for å bli med på det grønne vinnerlaget, og bidra til å ta oss videre?\n\nSom søker må du ha:\n• Fylt 18 år\n• Gjerne erfaring fra dagligvarebransje\n• Plettfri vandel, blant annet for å få salgsbevilling på alkohol i butikk\n\nFor å lykkes som assisterende butikksjef bør du:\n• Evne å skape entusiasme og trivsel blant dine kolleger\n• Ha stor arbeidskapasitet og trives med en hektisk hverdag\n• Ha kremmerånd, konkurranseinstinkt og vilje til å skape gode resultater\n• Være tydelig, strukturert og positiv i møte med kolleger og kunder\n• Trives med å være synlig overfor kunder, og sikre at de får service utover det de forventer\n\nHva kan du forvente av oss?\n• En sosial og trivelig arbeidsplass med masse hyggelige kolleger\n• Utfordrende og varierte arbeidsoppgaver\n• Grundig opplæring gjennom vår egen skole, KIWIskolen, og tett oppfølging fra butikksjef\n• En dynamisk og uformell organisasjon med kjappe og korte kommunikasjonslinjer\n• Konkurransedyktig lønn\n• Spennende utviklingsmuligheter"
   },
   {
+   "id": "nav-e7280d43-f64e-4c20-8064-a958fb67749f",
+   "uuid": "e7280d43-f64e-4c20-8064-a958fb67749f",
+   "title": "Er du min nye støttespiller i hverdagen?",
+   "jobtitle": "",
+   "employer": "Ecura BPA",
+   "location": "OSLO, OSLO",
+   "postalCode": "0661",
+   "published": "2026-11-09T23:00:00+01:00",
+   "updated": "2026-11-14T12:06:13.736446+01:00",
+   "expires": "2026-12-01T22:59:59+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd7f3m5v1jbkmadzbdsch15kv18j2r4y?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7280d43-f64e-4c20-8064-a958fb67749f",
+   "sourceurl": "https://kollegia.no/jobs/qd7f3m5v1jbkmadzbdsch15kv18j2r4y?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [
+    "Salg og service / Salg, butikk- og varehandel"
+   ],
+   "description": "Er du en trygg, omsorgsfull og fleksibel person som ønsker en meningsfull deltidsjobb? Da har du kommet til riktig sted!\n\nHva er BPA?\nBrukerstyrt personlig assistanse (BPA) er en alternativ måte å organisere tjenestene praktisk og personlig bistand på for mennesker med nedsatt funksjonsevne. BPA er et likestillings- og frigjøringsverktøy, og gjennom bistand fra egne assistenter legges det til rette for at personer med bistandsbehov får et aktivt og mest mulig uavhengig liv.\nOm meg og mitt behov:\nJeg er en humoristisk, eldre dame som bor på Vestli og som trives med både rolige stunder og aktiviteter. Jeg sitter i rullestol, og trenger hjelp til daglige gjøremål. Det kan ta litt tid før jeg blir trygg på nye mennesker, men når tilliten er på plass, får du en nær og god relasjon med meg. Jeg liker å pusle store puslespill, gå på teater, dra på shopping og kafé, og jeg går fast i kirken på søndager, noe som er viktig for meg.\nJeg har BPA både på dagtid og natt, og søker nå etter en fast assistent som kan jobbe fast annenhver mandag i partallsuke fra kl. 13.00 til kl. 19.00, og hvilende natt samme uke fra lørdag natt til tirsdag morgen. Stillingen tilsvarer 39,43%, opplæring vil foregå i januar og du vil tiltre stillingen i februar. Det vil også være gode muligheter for å jobbe ekstra ved planlagt og uforutsett fravær. \nJeg er opptatt av å finne assistenter som ønsker å være hos meg og med meg. Evner du å se mine behov, og er selvstendig, omsorgsfull og initiativrik, tror jeg du vil passe godt inn i mitt team.\nArbeidsoppgavene vil blant annet være:\n• Personlig stell (dusj, toalettbesøk, skifte bleie)\n\n• Forflytninger\n\n• Matlaging\n\n• Husarbeid og renhold\n\n• Handling og ærend utenfor hjemmet\n\n• Følge til avtaler\n\nPersonlige egenskaper:\n• Pliktoppfyllende og positiv\n\n• Trygg, tålmodig og god på å bygge relasjoner\n\n• Pålitelig, ansvarsbevisst og stabil\n\n• Serviceinnstilt\n\n• Ryddig\n\n• Humoristisk\n\n• Ærlig og samvittighetsfull\n\nPersonlig egnethet og kjemi vektlegges.\nKvalifikasjoner:\n• Har gode norskkunnskaper (nivå B2)\n\n• Gyldig politiattest\n\n• Erfaring som BPA er positivt, men vel så viktig er viljen og ønsket om å lære\n\nVi tilbyr:\n• En meningsfull jobb hvor du gjør en forskjell\n\n• God opplæring og veiledning\n\n• Oppfølging og støtte av erfarne rådgivere i Ecura BPA\n\n• Pensjons- og forsikringsordninger\n\n• Lønn etter tariffavtale: for tiden minstelønn kr. 225,4 (gjelder ved turnusarbeid, dvs. arbeidstidsordning med gjennomsnittlig 35,5 timer pr. uke i 100% stilling). For den utlyste stillingen gjelder en gjennomsnittlig arbeidstid med 35,5 timer pr uke (100% stilling).\n\nVed å søke på stillingen, aksepterer du at søknad og CV videreformidles til arbeidsleder i ordningen.\nAktuelle kandidater blir intervjuet fortløpende."
+  },
+  {
    "id": "nav-f1d729a9-62c4-45d7-a7af-724e0acd9ad2",
    "uuid": "f1d729a9-62c4-45d7-a7af-724e0acd9ad2",
    "title": "Penetrasjonstestingkonsulent",
@@ -9711,6 +9911,29 @@
    "description": "20-40% stilling!\n\nHva vi ser etter\n\nVi ser etter deg som har relevant erfaring fra blomsterbransjen.Du behersker norsk, både muntlig og skriftlig. Du er ryddig, selvstendig, kreativ og en god selger med øye for detaljer.\n\nHøres dette ut som deg?\n\nDa vil vi gjerne høre fra deg! Kom gjerne innom butikken og presenter deg, eller send oss en søknad hvor du forteller litt om deg selv med dine egne ord.\n\nArbeidsoppgaver\n\nsalg, stell av planter, varebehandling, kundebehandling,\n\nVi tilbyr\n\nVi tilbyr et godt arbeidsmiljø, varierte arbeidsoppgaver og god opplæring."
   },
   {
+   "id": "nav-36c1fa60-4ac6-4d9d-9069-98ce2d5e4397",
+   "uuid": "36c1fa60-4ac6-4d9d-9069-98ce2d5e4397",
+   "title": "Platform Engineer",
+   "jobtitle": "",
+   "employer": "Sperton Global AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0184",
+   "published": "2026-11-08T20:08:45+01:00",
+   "updated": "2026-11-14T12:06:18.647316+01:00",
+   "expires": "2026-12-27T18:46:21+01:00",
+   "applicationDue": "",
+   "applicationUrl": "https://kollegia.no/jobs/qd75qgy5j5kywnf21pjhwfkf198j20jr?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/36c1fa60-4ac6-4d9d-9069-98ce2d5e4397",
+   "sourceurl": "https://kollegia.no/jobs/qd75qgy5j5kywnf21pjhwfkf198j20jr?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
+   "source": "IMPORTAPI",
+   "engagementtype": "Engasjement",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [],
+   "description": "Stilling: Platform Engineer\nArbeidssted: Fornebu eller Oslo, Norge\nMulighet for hjemmekontor: 50 %\nKrav til fysisk tilstedeværelse: Fornebu, 2–3 dager per uke\nOm rollen:\nVi søker en erfaren fagperson som kan bidra til å etablere og drifte alternativer til dagens samhandlings-, dokumentasjons- og oppgavehåndteringsverktøy, som i dag er basert på Confluence, Jira og Slack.\nDen aktuelle kandidaten vil jobbe i et lite internt team og samarbeide med sentrale nøkkelpersoner utenfor teamet, blant annet innen arkitektur og design.\nKonsulentens hovedansvar vil være det tekniske eierskapet til applikasjonene, og ikke ansvar for prosesser eller arbeidsmetodikk (Ways of Working – WoW).\nRollen vil primært ha ansvar for de strategiske og tekniske aspektene knyttet til valg, utvikling, implementering og drift av samhandlingsverktøy.\nKonsulenten må ha tilstrekkelig kompetanse på plattformens kjøremiljø, spesielt Kubernetes, for å kunne etablere, vedlikeholde og integrere disse applikasjonene.\nVedkommende vil ikke ha ansvar for drift eller vedlikehold av selve Kubernetes-plattformen, men må ha god kompetanse i å bruke den.\n\nKrav til samhandlingsløsningene:\nDe valgte løsningene bør oppfylle følgende kriterier:\n• Sikkerhet og etterlevelse: Være egnet for håndtering av informasjon gradert K (Konfidensielt) i henhold til sikkerhetsloven.\n\n• Moderne og brukervennlige: Tilby intuitive brukergrensesnitt og moderne funksjonalitet.\n\n• Integrasjonsmuligheter: Kunne integreres med andre verktøy og arbeidsprosesser, inkludert kunstig intelligens (KI/AI).\n\n• Skalerbarhet og pålitelighet: Være skalerbare, robuste og driftssikre i produksjonsmiljøer.\n\n• Kostnadseffektivitet: Være kostnadseffektive og bærekraftige over tid.\n\n• Tilpasset utviklingsteam: Oppfylle de spesifikke behovene til utviklings- og produktteam.\n\n• Lav grad av leverandørbinding: Minimere avhengigheten av enkeltleverandører, for eksempel gjennom bruk av åpne standarder.\n\n• Enkel forvaltning: Være enkle å administrere, vedlikeholde og videreutvikle.\n\nKompetanse og kvalifikasjoner:\nFor å lykkes i oppdraget bør kandidaten ha relevant kompetanse og erfaring innen følgende områder:\n• Erfaring med utvikling og drift av applikasjoner på private skyplattform (Titan), inkludert containerisering, Kubernetes, automatisert utrulling, skalering, sikkerhetskopiering og gjenoppretting.\n\n• Kompetanse innen Git, GitHub Actions, automatisering, konfigurasjonsstyring og observability (overvåkning og innsikt i systemenes tilstand).\n\n• Erfaring med etablering og vedlikehold av sikre løsninger, inkludert sårbarhetshåndtering, logging og sikkerhetsoppdateringer, også for eksisterende løsninger.\n\n• Erfaring med Single Sign-On (SSO), autentisering, autorisasjon og integrasjon med virksomhetens katalog- og identitetsløsninger.\n\n• God erfaring med API-er, webhooks, e-postintegrasjoner, varslingssystemer og koblinger til eksisterende interne systemer.\n\n• Kandidaten må kunne sikkerhetsklareres til nivå K (Konfidensielt) i henhold til sikkerhetsloven og være villig til å gjennomgå den nødvendige klareringsprosessen. Aktiv sikkerhetsklarering er en stor fordel.\n\n• Det er en fordel om kandidaten har erfaring med alternative samhandlingsløsninger, for eksempel åpen kildekode (open source), samt kjennskap til beste praksis innen samhandlingsverktøy og samarbeidsplattformer.\n\nRekrutteringspartner: Sperton\nDenne stillingen håndteres av Sperton, en global rekrutteringspartner som kobler dyktige fagpersoner med ledende virksomheter over hele verden."
+  },
+  {
    "id": "nav-3200967b-a17f-472a-b520-7f23746c9609",
    "uuid": "3200967b-a17f-472a-b520-7f23746c9609",
    "title": "Vi søker barnehagelærere som ønsker å jobbe i en barnehage hvor nærhet, lek og gode relasjoner står i sentrum?  ",
@@ -10089,306 +10312,6 @@
     "Utdanning / Barnehagelærer"
    ],
    "description": "Vi søker en engasjert pedagogisk leder som vil være med på å skape en inkluderende barnehage hvor alle barn får likeverdige muligheter og medborgerskap. Hos oss vil du oppleve spennende dager i et stort faglig fellesskap med 24 barnehager. \nDette er en fast 100% stilling.\nFurustien barnehage\n\nFurustien barnehage er en barnehage med fire avdelinger, rett ved Furuset senter som er knutepunkt for både T-bane og buss.\nPå Furustien er vi 14 engasjerte ansatte som hver dag jobber for å skape en trygg, utviklende og inkluderende hverdag for barna. Barnehagen er en tradisjonell avdelings-barnehage. Vi har felles tema for hele barnehagen, slik at det er gjenkjennelig for både store og små barn. I Furustien er det et godt arbeidsmiljø, som preges av samarbeid, faglig refleksjon og ansatte som er tilstede for barna. Vi har nå en ledig stilling som pedagogisk leder, og søker deg som ønsker å bidra til videre utvikling av vårt pedagogiske arbeid. Hos oss får du muligheten til å være en del av et engasjert team, med rom for faglig vekst og påvirkning. \n\nOm Alna barnehageenhet\nVår visjon: «En inkluderende barnehage: sammen for likeverdige muligheter og medborgerskap.»\nVi verdsetter mangfold og ulike perspektiver, og ønsker søkere som vil bidra til en barnehagehverdag av høy kvalitet.\nVi jobber etter en felles pedagogisk plattform: Anerkjennende praksis. Barnehagebarn skal møte ansatte med høy kompetanse og tid til å følge opp det enkelte barn. Derfor har Alna barnehageenhet definert en kjernetid på inntil 5 timer hver dag. \nVåre satsinger i Alna barnehageenhet\nSpråksterk 1–6: Alle de kommunale barnehagene har/eller er på vei inn i forsknings- og utviklingsprosjektet Språksterk 1–6. Språksterkmodellen fokuserer på god språkutvikling gjennom temaarbeid og mentor- og kollegaveiledning. Furustien barnehage har implementert modellen i sin drift.\n\nØkt bemanning: Vi er en av seks bydeler som er tildelt nasjonalt tilskudd til økt bemanning i levekårsutsatte områder. Furustien barnehage er med i satsingen og har 2 ansatte i økt bemanning. \nTOPI: Vi bruker det digitale verktøyet TOPI (tidlig oppsporing og innsats) for å styrke og kvalifisere det forebyggende arbeidet. \n\nArbeidsoppgaver og utviklingsmuligheter\nSom pedagogisk leder har du ansvar for planlegging, gjennomføring og evaluering av det pedagogiske arbeidet i barnegruppen. Du leder det daglige arbeidet i samarbeid med øvrige ansatte og bidrar til et godt samarbeid med foreldre og foresatte.\nDu får mulighet til å utvikle deg faglig gjennom deltakelse i satsinger som Språksterk, veiledning, kurs og samarbeid i tverrfaglige team.\n\nArbeidsoppgaver\n• Hovedansvar for planlegging, utforming og oppfølging av pedagogiske planer for barnegruppa og enkeltbarn\n• Ansvar for ledelse av vurderings- og dokumentasjonsarbeidet på avdelingen/basen\n• Ansvar for å opparbeide, utvikle og ivareta god samhandling og samarbeid med foreldre\n• Være en del av barnehagens pedagogiske lederteam og delta i felles faglig utvikling av barnehagen\n• Pådriver i det systematiske språkarbeidet\n• Sørge for individuell oppfølging og pedagogisk veiledning av personalet innenfor eget ansvarsområde\n• Tverrfaglig samarbeid med eksterne instanser som fagsenter, styrket innsats, barnevern og PPT\n• Aktiv bidragsyter i å utvikle et godt arbeidsmiljø\nKvalifikasjoner\n• Godkjent barnehagelærer eller tilsvarende etter barnehageloven\n• Gode leder- og samarbeidsevner\n• Gode muntlige og skriftlige kommunikasjonsevner\n• Grunnleggende digital kompetanse og evne til å ta i bruk digitale verktøy i pedagogisk arbeid og dokumentasjon.\n• Gyldig politiattest må fremlegges før tiltredelse\n• Ved godkjent utenlandsk utdanning, kreves dokumentasjon på bestått norsk på nivå B2\nPersonlige egenskaper\nDu må ha en anerkjennende praksis: Kunne møte barn, foreldre og kollegaer på en forståelsesfull måte og ta opplevelsene, tankene og følelsene deres på alvor\nDu må ha høy arbeidskapasitet og god gjennomføringsevne: Være fleksibel og tilpasningsdyktig. Ta beslutninger.\nDu ser deg selv og barnehagen som et ledd i en lærende organisasjon: Kunne se ting på nye måter og perspektiver. Reflektere over egen og andres praksis.\nLeken og lærende: Være nysgjerrig, undrende og skapende i møte med barn.\nLøsningsorientert, initiativrik og fleksibel: Positiv forpliktet til arbeidsoppgavene, se muligheter og ta ledelse.\nØnske om å gjøre en forskjell i barns hverdag: Være en voksen som barna setter pris på og som gir barna mange gode opplevelser.\nØnske om faglig og personlig utvikling: Oppdatere deg faglig og et ønske om å lære mer innenfor ulike temaer som er aktuelle for å styrke barnehagen.\nDu må være modig på barns vegne: Kunne stå i ubehagelige situasjoner og fronte barnets beste der det er behov for det.\nDu må være en aktiv voksen som ser hvert enkelt barn: Kunne være en som gir barna god støtte og forutsigbarhet i hverdagen og i overganger. Kunne fange opp lysglimt og se behovene til enkeltbarn.\nVære en proaktiv leder.\nVi tilbyr\n• Gode lønns- og pensjonsvilkår.\n- Lønnstrinn 32-45 i henhold til ansiennitet. Pedagogisk leder med minimum 30 eller 60 studiepoeng fra etter-/videreutdanning i barnehagefaglige studieretninger vil bli lønnet etter høyere lønnstrinn. \n- 2% av innskudd til pensjon dekket av arbeidsgiver.\n• Enhetlig faglig fokus, mål og retning.\n• Veiledning for nyutdannede og nyansatte i gruppe og individuelt.\n• Kurs og opplæring i tråd med bydelens satsningsområder.\n• Mulighet til å lære, vokse og lykkes.\n• Felles faglige fora på tvers av barnehagene og bydel.\n• Fem planleggingsdager i året, hvorav en felles for alle ansatte i barnehageenheten\n• Vi har bedriftsavtale med SATS.\nKontaktinformasjon\nLaila Mahir Amin, 48298573\n\nArbeidssted\nTrygve Lies plass 4\n\n1051 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5205371086\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 21.11.2026"
-  },
-  {
-   "id": "nav-cbc53112-7047-4067-be05-927e3fd7e260",
-   "uuid": "cbc53112-7047-4067-be05-927e3fd7e260",
-   "title": "Join our purchasing team and help strengthen our global supply chain",
-   "jobtitle": "Innkjøper",
-   "employer": "Zenitel Norway",
-   "location": "OSLO, OSLO",
-   "postalCode": "0473",
-   "published": "2026-11-06T14:47:56+01:00",
-   "updated": "2026-11-12T11:58:45.236654+01:00",
-   "expires": "2026-11-15T00:00:00+01:00",
-   "applicationDue": "2026-11-15",
-   "applicationUrl": "https://candidate.jobbsys.no/job/details?jobId=2710070",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cbc53112-7047-4067-be05-927e3fd7e260",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "We are looking for a structured, proactive, and commercially minded Purchaser to join our procurement team. Workplace is Oslo or Horten.\n\nAs a Purchaser at Zenitel, you will play an important role in ensuring the timely and cost-effective supply of components, materials, and products that support our daily operations and long-term business objectives.\n\nWe are a global company operating in the electrical and electronics industry, working with suppliers and manufacturing partners both locally and internationally.\n\nYou will become part of a collaborative team where you will have the opportunity to take ownership of your responsibilities, contribute to continuous improvements, and develop your procurement expertise.\n\nKey responsibilities:\n\n• \nOrder placement and follow up\n\n• \nManage end-to-end procurement processes, including RFQs, purchase orders, inventory management and contract negotiations\n\n• \nKeeping data on own products and suppliers in the ERP system updated\n\n• \nAssist in vendor selection and negotiation processes\n\n• \nSupport sales organization/product management in sourcing activities for new products\n\n• \nMonitor inventory levels and collaborate with planning teams to forecast demand\n\n• \nEnsure timely delivery of components to support production schedules and project timelines\n\n• \nAnalyze purchasing data to identify trends and opportunities for improvement\n\n• \nCollaborate closely with the procurement team and other departments with focus on operations and continuous improvements\n\nDesired qualifications:\n\n• \nBachelor's degree or equivalent within supply chain management, logistics, business administration, or a related field\n\n• \nDocumented work experience within supply chain can compensate for formal education\n\n• \nGood commercial understanding and strong analytical skills\n\n• \nGood communication skills in English and preferably also in Norwegian\n\n• \nExperience with ERP systems, preferably Microsoft Dynamics 365 is an advantage, but not a requirement\n\nWe are looking for you whoare structured, proactive, with a strong sense of responsibility and the ability to manage multiple priorities. You have a commercial mindset, take initiative, and follow through on your tasks. You have strong communication skills, enjoy collaborating with colleagues and suppliers, approach challenges with a solution-oriented mindset, and are motivated to learn and continuously improve.\n\nWe Offer:\n\n• \nAn international working environment, with global suppliers and stakeholders\n\n• \nA varied role with responsibility and the opportunity to make a real impact on our procurement operations\n\n• \nOpportunities for professional development and growth within purchasing and supply chain management\n\n• \nClose collaboration across departments and with international suppliers and partners\n\n• \nCompetitive compensation and benefits\n\n• \nA collaborative and supportive working environment with skilled and dedicated colleagues\n\nCome join our team!\n\nWe encourage you to apply as soon as possible, as applications will be reviewed throughout the recruitment process.\n\nWe conduct background checks on relevant candidates through Semac AS.\n\nZenitel wants to reflect the diversity of society, and encourages qualified candidates with different education, work and life experience to apply for a job with us without regard to ethnicity, religion, gender, age, sexual orientation and disability."
-  },
-  {
-   "id": "nav-458767ea-f22e-4dda-a728-aaa85885ecad",
-   "uuid": "458767ea-f22e-4dda-a728-aaa85885ecad",
-   "title": "RETAIL SPECIALIST –  HOME APPLIANCES",
-   "jobtitle": "",
-   "employer": "WorkShop",
-   "location": "OSLO, OSLO",
-   "postalCode": "0353",
-   "published": "2026-11-06T14:04:16+01:00",
-   "updated": "2026-11-10T12:36:42.106968+01:00",
-   "expires": "2026-11-20T22:59:59+01:00",
-   "applicationDue": "",
-   "applicationUrl": "https://careers.work-shop.com/jobs/8681569-retail-specialist-home-appliances/applications/new?promotion=2288509-nav-no",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/458767ea-f22e-4dda-a728-aaa85885ecad",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "WorkShop is now looking for a Retail Specialist for our client Samsung within the Home Appliances category, covering the Oslo region as well as the rest of Norway. We are looking for someone with a strong passion for retail, sales and technology, who is highly driven and has a natural ability to inspire, engage and motivate others. You enjoy building long-term relationships and have a genuine interest in Samsung and its innovative product range.\nAs a Retail Specialist for Samsung, you will be an important brand ambassador, responsible for strengthening Samsung's position among retailers in your assigned district. You will work closely with retail staff through regular store visits, product and sales training sessions, and various sales-driving activities. An important part of your role is to ensure that retail staff have the right knowledge, confidence and tools to present and sell Samsung's Home Appliances products in the best possible way.\nYou will also be responsible for ensuring that Samsung's products and brand are presented in an attractive and consistent way in stores. This includes making sure that displays and demonstration products are up to date, properly maintained and functioning as intended. Your workplace will vary between different stores and locations, and you will independently plan and manage your daily work in close collaboration with Samsung colleagues and retail staff. In addition to your regular store visits, the role may involve product launches, events, exhibitions and other promotional activities. You will work towards set targets, follow up on your activities and report relevant results and market insights according to established routines.\nKey responsibilities include:\n• Conduct regular and planned store visits to retailers within your assigned district\n\n• Educate, inspire and update retail staff on Samsung's Home Appliances products, product launches and unique selling points (USPs)\n\n• Plan and deliver product and sales training sessions, both individually and in groups\n\n• Motivate and support retail staff to actively recommend and sell Samsung products\n\n• Ensure that Samsung products, displays and demonstration areas are presented to a high standard and follow current guidelines\n\n• Drive sell-out through sales activities, product demonstrations and promotional initiatives\n\n• Participate in product launches, events, exhibitions and other marketing activities\n\n• Gather market insights, monitor competitor activities and identify opportunities for improvement in stores\n\n• Document and report completed activities and results according to established routines\n\nWe believe you are someone who:\n• Have at least two years of experience in retail, field sales or a similar role, preferably within Home Appliances, consumer electronics or a related industry\n\n• Have a genuine interest in technology and Home Appliances, such as washing machines, refrigerators and other kitchen appliances\n\n• Are inspiring and have a natural ability to educate, coach and motivate others\n\n• Have excellent presentation skills and feel comfortable speaking in front of both small and large groups\n\n• Have a strong sales mindset and understand how to drive sales performance in retail\n\n• Are self-driven, structured and proactive, with strong organizational and time management skills\n\n• Are outgoing, service-minded and confident in building strong and long-lasting relationships\n\n• Are flexible, solution-oriented and enjoy a varied role with a fast-paced working environment\n\n• Have good administrative skills and are comfortable with reporting and follow-up\n\n• Have good knowledge of MS Office, particularly Excel, PowerPoint and Word\n\n• Are fluent in Norwegian and English, both verbally and in writing\n\n• Hold a valid B driving licence\n\n• Are able to travel and stay away from home multiple days at the time\n\nWe offer you an exciting and varied role representing one of the world's leading technology brands, in an international and dynamic working environment. We look forward to hearing from you!\nAdditional information\nWorking hours: Full-time, Monday–Friday. Weekend work may occur in connection with events and special activities\nEmployment: Full-time, permanent position with an initial probationary period\nLocation: Oslo area, Norway\nStart date: As soon as possible or by agreement\nThe recruitment process is ongoing, and interviews will be conducted continuously, so we encourage you to apply as soon as possible. Please submit your application through the application link. The last day to apply is 2026-11-20.\nYou will be employed by WorkShop, not by any specific client. Depending on business needs, you may work for different clients throughout your employment with us.\nWe are WorkShop: the Consumer Experience Agency – a leading retail agency in the Nordics, dedicated to creating and delivering innovative customer experience for the world's biggest brands. We do that by offering a complete portfolio of services including data & insights, concept, field marketing and much more – so that we can be a partner to our clients in every step. Join one of our teams around the globe and explore your potential through unique projects, pop-ups, store concepts or our brand ambassador programs!\nLearn more about our company at WorkShop and follow us on Facebook, LinkedIn and Instagram!"
-  },
-  {
-   "id": "nav-113bbdbb-e7d3-4ba7-9ce8-cfef1ff64b98",
-   "uuid": "113bbdbb-e7d3-4ba7-9ce8-cfef1ff64b98",
-   "title": "Seniorkonsulent -administrative oppgaver",
-   "jobtitle": "1363 Seniorkonsulent",
-   "employer": "Konfliktrådet",
-   "location": "OSLO, OSLO",
-   "postalCode": "0183",
-   "published": "2026-11-06T13:46:47.077112+01:00",
-   "updated": "2026-11-09T08:17:05.617297+01:00",
-   "expires": "2026-11-22T22:59:59+01:00",
-   "applicationDue": "2026-11-22T00:00:00Z",
-   "applicationUrl": "https://dfo-no.contactrh.com/jobs/14035/44557524/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/113bbdbb-e7d3-4ba7-9ce8-cfef1ff64b98",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Kontor, forvaltning og saksbehandling"
-   ],
-   "description": "Seniorkonsulent - administrative oppgaver\n\nKonfliktrådet har vokst betydelig de siste årene og vi ser nå etter en fast medarbeider som kan bidra med administrative oppgaver knyttet til intern kompetanse- og kursvirksomhet.\nStillingen ligger for tiden i Stab som har totalt 15 medarbeidere, og ledes av avdelingsdirektør for Stab virksomhetsutvikling- og styring.\n\nArbeidsoppgaver:\nDu vil få ansvaret for bestilling og organisering av administrative oppgaver knyttet til ledersamlinger, mekleropplæring, medarbeidersamlinger, konferanser og kurs og andre administrative oppgaver.\n\nArbeidsoppgavene innebærer:\n • påmeldinger til samlinger, og administrasjon av påmeldinger\n• tilrettelegge for møtevirksomhet og arrangementer\n• bistå inn i større arrangementer og støtte ledere og medarbeider\n• utføre bestillinger eks. kontorrekvisita, blomster, gavekort etc.\n• kontrollere at bestillingene er iht. regelverk og inngåtte avtaler samt sikre sporbarhet\n• tilrettelegge for møtevirksomhet og arrangementer i Sfk\n• bistå ledere med ulike lederoppgaver ved behov\n• andre administrative oppgaver vil kunne bli lagt til stillingen ut fra kompetanse og erfaring\n\nKvalifikasjoner:• fullført bachelorgrad, lang og relevant arbeidserfaring innenfor stillingens arbeidsområder kan kompensere for utdanningskravet\n• minimum to års relevant arbeidserfaring\n• god muntlig og skriftlig fremstillingsevne på norsk\n• gode digitale ferdigheter\n• erfaring innen offentlig anskaffelse vil bli vektlagt\n• det er ønskelig med erfaring innen offentlig saksbehandling\n\nPersonlige egenskaper: • strukturert og nøye\n• serviceinnstilt, fleksibel og løsningsorientert\n• evne til å prioritere og levere innen fastsette frister\n• gode samarbeids- og kommunikasjonsevner\n• du bidrar til et godt arbeidsmiljø\n\nPersonlig egnethet vil bli tillagt stor vekt.\n\nVi tilbyr:• varierte og interessante arbeidsoppgaver i et godt arbeidsmiljø\n• moderne lokaler i Oslo sentrum med kantine, sykkelgarasje, treningsrom, garderobe og takterrasse\n• mulighet for å trene 1,5 time per uke i arbeidstiden\n• fleksitidsordning og fleksibel hjemmekontorordning\n• gode pensjons-, forsikrings- og låneordninger gjennom medlemskap i Statens pensjonskasse\n\nÅrslønn:\nSeniorkonsulent: kr 620 000 – 720 000\n\nGenerelt \nAnsatte i staten skal i størst mulig grad gjenspeile mangfoldet i befolkningen. Det er derfor et personalpolitisk mål å oppnå en balansert alders-, og kjønnssammensetning og rekruttere personer med minoritetsbakgrunn. Søkere med nedsatt funksjonsevne eller hull i CV-en, men som ellers fyller kvalifikasjonskravene til stillingen, oppfordres til å søke.   \n\nVi ber om at vitnemål/karakterutskrifter og relevante attester lastes opp som vedlegg til søknaden. \n\nSpørsmål om stillingen kan rettes til:\nAvdelingsdirektør Wibecke Høgsveen, tlf.nr. 952 68 734, e-post: wibecke.hogsveen@konfliktraadet.no\n\nKonfliktrådet er en del av strafferettspleien og er underlagt Justis- og beredskapsdepartementet. Konfliktrådet mekler mellom parter i en konflikt som følge av en straffbar handling eller mellom parter i sivile konflikter. Konfliktrådet har ansvar for straffereaksjonene ungdomsstraff, ungdomsoppfølging og oppfølging i konfliktråd, og har et spesielt ansvar for unge i konflikt med loven. Konfliktrådet skal videre bidra til å formidle og bygge kunnskap om kriminalitetsforebygging, med vekt på samhandling lokalt.\n\nStillingen er plassert i Sekretariatet for konfliktrådene (Sfk) som består av ca. 50 medarbeidere og er plassert sentralt i Oslo. Sfk har det faglige og administrative ansvaret for landets 12 konfliktråd som består av totalt 190 medarbeidere fordelt på 22 kontorsteder\n\nLes mer om organisasjonen her: https://konfliktraadet.no/om-konfliktradet/organisasjonen/"
-  },
-  {
-   "id": "nav-c9c158d0-831e-4754-b633-8ed003a1885a",
-   "uuid": "c9c158d0-831e-4754-b633-8ed003a1885a",
-   "title": "B2B Kundekonsulent & Selger | Høy provisjon og porteføljebasert fastlønn",
-   "jobtitle": "Selger B2B",
-   "employer": "Norico AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0581",
-   "published": "2026-11-06T13:31:58+01:00",
-   "updated": "2026-11-09T08:19:10.292465+01:00",
-   "expires": "2026-11-20T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://www.wka.no/jobs/7709698-b2b-kundekonsulent-selger-hoy-provisjon-og-portefoljebasert-fastlonn-oslo?promotion=2223102-trackable-share-link-nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c9c158d0-831e-4754-b633-8ed003a1885a",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Engasjement",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Vil du selge et produkt alle bedrifter allerede kjøper, i et selskap der du bygger din egen kundeportefølje og lønnen vokser med den? Norico Norge AS utvider salgsteamet og ser etter deg som er motivert, målbevisst og vil være med fra starten.\n\nOm stillingen\n\nSom kundekonsulent og selger hos Norico jobber du med salg av strømavtaler til bedrifter. Du finner aktuelle bedrifter, tar kontakt, presenterer hva Norico kan tilby og henter inn nye kunder. Kundene har allerede en strømleverandør, så jobben din er å vise dem at Norico er et bedre valg.\n\nHvordan du lukker salget, bestemmer du selv. Noen gjør det best på telefon, andre foretrekker e-post eller å møte kunden. Hos oss står du fritt til å jobbe på den måten du får best resultater med.\n\nDu får full opplæring i produktene, markedet og hvordan vi jobber med salg. Du trenger ikke kunne noe om strøm fra før. Det viktigste er at du er motivert, liker å snakke med folk og vil lære.\n\nArbeidsoppgaver\n\n• \nBygge din egen portefølje av bedriftskunder\n\n• \nRådgi bedrifter om strømavtaler og finne løsningen som passer dem best\n\n• \nDrive hele salgsprosessen, fra første kontakt til signert avtale\n\n• \nTa vare på kundene dine og utvikle relasjonen over tid\n\n• \nVære med å bygge Norico og salgsteamet i Trondheim\n\nVi ser etter deg som\n\n• \nHar ambisjoner og vil at innsatsen din skal synes på resultatene\n\n• \nLiker å ta kontakt med nye mennesker og bygge relasjoner\n\n• \nLar deg ikke stoppe av et nei, men ser det som en del av jobben\n\n• \nEr selvstendig og trives med å styre din egen arbeidsdag\n\n• \nSnakker og skriver flytende norsk\n\n• \nHar fylt 18 år\n\nSalgserfaring er en fordel, ikke et krav. Det viktigste for oss er hvem du er, ikke hva som står på CV-en. Har du solgt strøm, telefoni, forsikring eller finans tidligere, kommer du raskt i gang. Har du ikke det, lærer vi deg alt du trenger.\n\nVi tilbyr\n\n• \nFast ansettelse i 100 prosent stilling\n\n• \nHøy provisjon uten tak, og porteføljebasert fastlønn som vokser med kundene du henter inn.\n\n• \nGrundig opplæring fra dag en, i produkt, marked og salg. Du får det du trenger for å lykkes, uansett bakgrunn\n\n• \nFleksibel arbeidstid og frihet til å jobbe på den måten du selger best\n\n• \nSalgskonkurranser, premier og et sosialt miljø der vi feirer resultater sammen\n\n• \nEn tydelig vei videre. Vi vokser, og det vill være store muligehter fornye roller som teamledere og salgsledere\n\n• \nEt lite team der du blir sett, og der gode resultater merkes med en gang\n\nNorico Norge AS er en ny strømleverandør for bedriftsmarkedet med kontorer i Oslo og Trondheim.\n\nMålet er tydelig: bli en stor og seriøs aktør i det norske bedriftsmarkedet. Nå i høst utvider vi begge kontorene for å vokse på salg og kundebase."
-  },
-  {
-   "id": "nav-3ccae621-ac75-42a9-ae00-7f8f7ffe72ff",
-   "uuid": "3ccae621-ac75-42a9-ae00-7f8f7ffe72ff",
-   "title": "Vil du være med på å styrke vårt juridiske miljø på offentlige anskaffelser?",
-   "jobtitle": "Jurister (seniorrådgivere) - offentlige anskaffelser",
-   "employer": "DIREKTORATET FOR FORVALTNING OG ØKONOMISTYRING",
-   "location": "OSLO, OSLO",
-   "postalCode": "0580",
-   "published": "2026-11-06T13:31:47.074603+01:00",
-   "updated": "2026-11-09T08:13:26.945217+01:00",
-   "expires": "2026-11-22T22:59:59+01:00",
-   "applicationDue": "2026-11-22T00:00:00Z",
-   "applicationUrl": "https://direktoratet.contactrh.com/jobs/14035/44557465/nb_NO",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3ccae621-ac75-42a9-ae00-7f8f7ffe72ff",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Juridisk arbeid"
-   ],
-   "description": "DFØ er Norges fagorgan innen offentlige anskaffelser og har ansvaret for å utarbeide veiledning til anskaffelsesregelverket, forvalte og utvikle Statens standardavtaler og fremme viktige samfunnshensyn i offentlige anskaffelser. Vi skal bidra til effektive og innovative anskaffelser som bidrar til grønn omstilling og bærekraftig utvikling. Hos oss får du jobbe tett på politikk og praksis, med oppgaver som påvirker både næringsliv og samfunn.\n\nVil du være med på å styrke vårt juridiske miljø på offentlige anskaffelser?\n Jurister (seniorrådgiver) – offentlige anskaffelser\n\nDFØ får en økende mengde med oppgaver innenfor flere av våre ansvarsområder. Vi søker derfor etter faglig sterke og engasjerte medarbeidere med erfaring til å jobbe med interessante juridiske problemstillinger innen anskaffelsesretten og tilknyttede rettsområder. Vi kan tilby et svært godt kompetansemiljø på offentlige anskaffelser med mange spennende oppgaver.\n Om oss\n\nDu blir en del av seksjon for regelverk og prosess i anskaffelsesdivisjonen.\n\nSeksjonens viktigste ansvarsområder er å:• veilede om regelverket for offentlige anskaffelser\n• veilede om beste praksis i gjennomføring av offentlige anskaffelser\n• bistå Statens innkjøpssenter med juridisk rådgivning og kvalitetssikring\n• forvalte og videreutvikle Statens standardavtaler\n• fremme og ivareta viktige samfunnshensyn i offentlige anskaffelser, herunder sikkerhet og beredskap, lønns- og arbeidsvilkår og lærlinger\n• yte juridisk bistand til andre avdelinger i anskaffelsesdivisjonen og DFØ\n\n Arbeidsoppgaver\n\nVi kan tilby en rekke spennende arbeidsoppgaver:• utarbeide og videreutvikle DFØs veiledning til anskaffelsesregelverket, herunder lov og forskrift om offentlige anskaffelser\n• være juridisk rådgiver for Statens innkjøpssenter på store og komplekse statlige fellesavtaler\n• delta i arbeidet med å modernisere og videreutvikle Statens standardavtaler\n• jobbe med å fremme ivaretakelse av samfunnshensyn i offentlig anskaffelser, herunder å forvalte og videreutvikle Norgesmodellen og de nasjonale seriøsitetskravene\n• veilede om og gi juridisk rådgivning om sikkerhet og beredskap i offentlige anskaffelser\n• gi faglige innspill til departementene, blant annet i forbindelse med regelverksarbeid, høringer og utredninger\n• holde kurs og foredrag og representere DFØ i fagmiljøer både nasjonalt og internasjonalt\n\nØvrige oppgaver innenfor anskaffelsesdivisjonens og DFØs ansvarsområder kan også være aktuelt, avhengig av fortløpende behov og din kompetanse og interesse.\n\nArbeidsoppgavene vil bli tilpasset din kompetanse, erfaring og interesse. Som seniorrådgiver vil det kunne være aktuelt å være fagleder og lede faglige prosjekter innenfor seksjonens ansvarsområder.\n Kvalifikasjonskrav\n\nVi søker deg som har: • mastergrad i rettsvitenskap/juridisk embetseksamen\n• svært god muntlig og skriftlig fremstillingsevne på norsk, og gode engelskkunnskaper\n• minst 5 års relevant erfaring\n• god kunnskap om regelverket om offentlige anskaffelser\n• praktisk erfaring med offentlige anskaffelsesprosesser\n\nDet vil vektlegges positivt om du har:• kunnskap om kontraktsrett, IKT-rett eller EU-/EØS-rett\n• erfaring med å utarbeide veiledningstekster, maler, rutiner o.l.\n• erfaring med regelverksarbeid\n• erfaring med å holde kurs og foredrag\n• erfaring med å jobbe i tverrfaglige team\n• erfaring med prosjektledelse\n\n Vi søker deg som\n• har stort engasjement for og genuin interesse for offentlige anskaffelser\n• tar initiativ til forbedringer og bidrar til utvikling \n• jobber selvstendig og er analytisk og strukturert med fokus på mål og resultater\n• har sterk gjennomføringsevne, med evne til å prioritere i en hektisk hverdag\n• inngir tillit og bygger relasjoner til de du jobber sammen med\n• har evne til å formidle komplekse juridiske problemstillinger klart og presist\n\nVi vil legge vekt på personlig egnethet og faglige resultater.\n Vi tilbyr deg\n• spennende arbeidsoppgaver i en virksomhet med et viktig samfunnsoppdrag - hos oss er du med på å påvirke hvordan offentlige virksomheter gjør anskaffelser\n• et stort og godt fagmiljø med hyggelige og dyktige kollegaer\n• gode faglige utviklingsmuligheter, med muligheter for relevante kurs og sertifiseringer\n• en stabil arbeidsgiver med fleksibel arbeidstid (inkludert sommertid), gode velferdsordninger og mulighet for trening i arbeidstiden\n• gode muligheter for hjemmekontor\n• moderne lokaler med en sterk bærekraftprofil, spennende restaurantkonsepter og Nord-Europas største takhage – les mer om teknologibygget Økern Portal her: https://okernportal.no/\n• medlemskap i en av landets beste pensjonsordninger, Statens Pensjonskasse spk.no, som også tilbyr deg svært gode pensjons-, forsikrings- og boliglånsordninger\n\nLes mer om godene ved å jobbe i staten på Jobb i DFØ | DFØ. Stillingen lønnes som seniorrådgiver fra kr 800 000 til kr 1 100 000 per år, avhengig av kompetanse og erfaring. For spesielt godt kvalifiserte søkere kan vi vurdere noe høyere lønn. Ved ansettelse er det 6 måneders prøvetid\n Vi hører gjerne fra deg dersom du har spørsmål\n\nHar du spørsmål om stillingen? Ta kontakt med Tobias Perez Nielsen i Cruit på telefon 930 26 852 eller seksjonssjef Jan Henrik Skogen på telefon 909 50 085 eller e-post: JanHenrik.Skogen@dfo.no. Du finner mer informasjon om DFØ på dfo.no. Velkommen som søker hos oss i DFØ! \n\nMangfold i DFØ\nI DFØ tror vi at mangfold gir oss bredere perspektiver, og at medarbeidere med ulik livserfaring og bakgrunn gjør oss i stand til å skape enda bedre løsninger i samfunnsoppdraget vårt. Derfor oppfordrer vi alle til å søke jobb hos oss.\nDersom du har en funksjonsnedsettelse, innvandrerbakgrunn eller hull i CV-en, så kan du bli positivt særbehandlet dersom du krysser av for dette når du søker på stillingen. Vi inviterer alltid minst én kvalifisert søker fra hver av disse gruppene til intervju. Du kan lese mer om positiv særbehandling her: Positiv særbehandling når man søker jobb i staten | Statens arbeidsgiverportal (arbeidsgiver.dfo.no)\n\nSøkerlister\nNår søknadsfristen har gått ut lager vi offentlig søkerliste. Dersom du ønsker å reservere deg fra å bli oppført på denne, må du krysse av for og begrunne dette i søknaden din. Vi tar kontakt med deg hvis vi ikke kan imøtekomme ønsket ditt om å ikke bli oppført på søkerlista.\n\nOm oss\nDirektoratet for forvaltning og økonomistyring (DFØ) er statens fagorgan for økonomistyring, gode beslutningsgrunnlag for statlige tiltak, organisering og ledelse i staten, samt for anskaffelser i offentlig sektor. Vi leverer lønns- og regnskapstjenester til rundt 90 prosent av statsforvaltningen og har ansvaret for forvaltning og drift av statsregnskapet og statens konsernkontoordning.\nVi skal bidra til effektiv ressursbruk i offentlig sektor gjennom kompetansetiltak, rådgivning, fellestjenester og utvikling av metoder og verktøy. Vi har om lag 900 ansatte, fordelt på Oslo, Stavanger og Trondheim."
-  },
-  {
-   "id": "nav-e01772bd-34cf-4429-b472-d256f0ed4b1f",
-   "uuid": "e01772bd-34cf-4429-b472-d256f0ed4b1f",
-   "title": "Vil du være med på å bygge fremtidens digitale infrastruktur?",
-   "jobtitle": "Elektrikere til datasenterprosjekter i Norge / Electricians for Data Centre Projects Across Norway",
-   "employer": "Anonym arbeidsgiver",
-   "location": "OSLO, OSLO",
-   "postalCode": "0581",
-   "published": "2026-11-06T12:33:17.074726267+01:00",
-   "updated": "2026-11-06T12:33:17.292123+01:00",
-   "expires": "2027-01-18T01:00:00+01:00",
-   "applicationDue": "",
-   "applicationUrl": "https://cv.webtemp.no/apply?k=284&cvpt=3000047",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e01772bd-34cf-4429-b472-d256f0ed4b1f",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Annet",
-   "extent": "Heltid",
-   "sector": "",
-   "starttime": "18.01.2027",
-   "occupations": [
-    "Håndverkere / Elektriker/elektro"
-   ],
-   "description": "Vi søker dyktige elektrikere til spennende datasenterprosjekter flere steder i Norge. Datasenterbransjen er i sterk vekst, og dette er en unik mulighet til å bli en del av et fremtidsrettet marked med langsiktige karrieremuligheter !\n\n(english version under)\n\nØnskede kvalikasjoner:\n\n• Fagbrev som elektriker (Gr. L) \n• God erfaring fra industri, energianlegg eller større næringsprosjekter\n• Erfaring fra datasenter er en stor fordel\n• Kunnskap om nettverkskommunikasjon og fjernovervåkning\n• Erfaring med kraftinstallasjoner, tavleanlegg, kabelarbeid, UPS-anlegg, teknisk installasjon og dokumentasjon\n• Gode kommunikasjonsferdigheter på norsk, et annet skandinavisk språk eller engelsk\n\nHMS og sikkerhet:\n\n• DSB\n• FSE-kurs med førstehjelp\n• Fallsikringskurs \n\nPersonlige egenskaper:\n\n• Høy kvalitet i arbeidet\n• Nøyaktighet\n• Struktur\n• Gode samarbeidsevner\n• Evne til å følge prosedyrer og krav\n\nDette kan vi tilby deg:\n\n• Rotasjonsordning med gode arbeids- og fritidsperioder\n• Konkurransedyktig lønn og attraktive betingelser\n• Tett oppfølging gjennom hele ansettelsesforholdet\n• Rask og effektiv rekrutteringsprosesr\n• Faglig utvikling i en bransje med sterk vekst\n• Alt av verktøy og utstyr dekkes - du trenger ikke tenke på noe\n• Et godt arbeidsmiljø med fokus på kvalitet, sikkerhet og trivsel\n\nDatasenterbransjen er i sterk vekst, og behovet for dyktige elektrikere har aldri vært større. Hos oss får du muligheten til å jobbe på fremtidsrettede prosjekter, utvikle din kompetanse og være med på å bygge kritisk infrastruktur for morgendagens digitale samfunn. Dersom du ønsker spennende utfordringer, gode betingelser og en arbeidsgiver som følger deg tett opp, ønsker vi å høre fra deg.\n\nSend inn din søknad i dag!\n\nBygg fremtidens datasentre sammen med oss.\n\n--------------------------------------------------------------------\n\nSøk via knappen eller send din søknad til:\n\nArkadiusz Zuranski, arkadiusz.zuranski@manpower.no\n\n--------------------------------------------------------------------\n\n(english)\n\nElectricians for Data Centre Projects Across Norway\n\nWe are looking for skilled electricians for exciting data centre projects in several locations across Norway. The data centre industry is experiencing strong growth, making this a unique opportunity to become part of a future-oriented market with long-term career prospects.\n\nQualifications\n\n• Trade certificate as an Electrician (Group L)\n• Solid experience from industrial facilities, energy installations, or large commercial projects\n• Previous experience from data centre projects is a strong advantage\n• Knowledge of network communication and remote monitoring systems\n• Experience with power installations, switchgear, cable installation and termination, UPS systems, technical installations, and documentation\n• Good communication skills in Norwegian, another Scandinavian language, and/or English\n\nHSE and Safety Requirements:\n\n• DSB approval\n• FSE course with first aid certification\n• Fall protection course\n\nPersonal Qualities:\n\n• Strong focus on quality and workmanship\n• Attention to detail\n• Well-structured and organized approach to work\n• Good teamwork and communication skills\n• Ability to follow procedures, standards, and safety requirements\n\nWhat We Offer:\n\n• Attractive rotation schedules with a healthy work-life balance\n• Competitive salary and attractive employment conditions\n• Close support and follow-up throughout your employment\n• Fast and efficient recruitment process\n• Professional development opportunities within a rapidly growing industry\n• All necessary tools and equipment provided\n• A positive working environment focused on quality, safety, and employee well-being\n\nJoin Us\n\nTake the next step in your career and become part of one of Norway’s fastest-growing industries. If you are a motivated electrician looking for challenging projects, professional growth, and excellent working conditions, we would like to hear from you.\n\nApply via the button or send your application to:\n\nArkadiusz Zuranski, arkadiusz.zuranski@manpower.no"
-  },
-  {
-   "id": "nav-b4674e2f-4b89-4b1e-a1e8-ec653517d0e7",
-   "uuid": "b4674e2f-4b89-4b1e-a1e8-ec653517d0e7",
-   "title": "Eventselger til Susanne Sundfør. 2. December, Sentrum Scene",
-   "jobtitle": "Selger",
-   "employer": "Killnoise As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0181",
-   "published": "2026-11-06T12:03:39+01:00",
-   "updated": "2026-11-09T08:19:27.814986+01:00",
-   "expires": "2026-12-01T00:00:00+01:00",
-   "applicationDue": "2026-12-01",
-   "applicationUrl": "https://killnoise.com/nb/pages/jobs-at-killnoise",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b4674e2f-4b89-4b1e-a1e8-ec653517d0e7",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Annet",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "2026-12-02",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Liker du hendelser, møte folk mens du tjener penger? Er du god til å selge gode produkter? Da er EVENTSELGER på KILLNOISE den perfekte ekstra / sommer jobben for deg! Som en del av vårt team jobber du med salg av ørepropper på de største konsertene og festivalerna!\n\nVi leter etter noen som er en engajert og energisk person! Du har veldig lett kontakt med folk, du er ikke minst sjenert, og du elsker å selge gode produkter! Tidligere erfaring innen salg, sport og samarbeid er veldig verdig, men ingen krav. Din holdning og personlighet er viktigst!\n\nSend oss din søknad idag på https://killnoise.com/nb/pages/jobs-at-killnoise\n\nPersonlige egenskaper\n\n• Lykkelig\n• Energisk\n• Du kan enkelt snakke med folk\n• Liker å selge"
-  },
-  {
-   "id": "nav-589c9d27-493d-42bb-a470-7eddb1e1f068",
-   "uuid": "589c9d27-493d-42bb-a470-7eddb1e1f068",
-   "title": "Eventselger til Archspire, 18. November, Rockefeller",
-   "jobtitle": "Selger",
-   "employer": "Killnoise As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0183",
-   "published": "2026-11-06T12:00:01+01:00",
-   "updated": "2026-11-09T08:09:44.074754+01:00",
-   "expires": "2026-11-17T00:00:00+01:00",
-   "applicationDue": "2026-11-17",
-   "applicationUrl": "https://killnoise.com/nb/pages/jobs-at-killnoise",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/589c9d27-493d-42bb-a470-7eddb1e1f068",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Annet",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "2026-11-18",
-   "occupations": [
-    "Salg og service / Salg, butikk- og varehandel"
-   ],
-   "description": "Liker du hendelser, møte folk mens du tjener penger? Er du god til å selge gode produkter? Da er EVENTSELGER på KILLNOISE den perfekte ekstra / sommer jobben for deg! Som en del av vårt team jobber du med salg av ørepropper på de største konsertene og festivalerna!\n\nVi leter etter noen som er en engajert og energisk person! Du har veldig lett kontakt med folk, du er ikke minst sjenert, og du elsker å selge gode produkter! Tidligere erfaring innen salg, sport og samarbeid er veldig verdig, men ingen krav. Din holdning og personlighet er viktigst!\n\nSend oss din søknad idag på https://killnoise.com/nb/pages/jobs-at-killnoise\n\nPersonlige egenskaper\n\n• Lykkelig\n• Energisk\n• Du kan enkelt snakke med folk\n• Liker å selge"
-  },
-  {
-   "id": "nav-195da563-9485-4f1c-9766-2f0714c00838",
-   "uuid": "195da563-9485-4f1c-9766-2f0714c00838",
-   "title": "Klinikkassistent/Autorisert dyrepleier søkes til AniCura Lilleaker",
-   "jobtitle": "",
-   "employer": "AniCura Norge",
-   "location": "OSLO, OSLO",
-   "postalCode": "0283",
-   "published": "2026-11-06T11:33:05+01:00",
-   "updated": "2026-11-13T13:16:05.055347+01:00",
-   "expires": "2026-12-27T20:13:32.922+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://kollegia.no/jobs/qd7d3shczc0cdksbmjcf8eafxh8j3f80?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/195da563-9485-4f1c-9766-2f0714c00838",
-   "sourceurl": "https://kollegia.no/jobs/qd7d3shczc0cdksbmjcf8eafxh8j3f80?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Natur og miljø / Veterinærer og dyrepleiere"
-   ],
-   "description": "AniCura Lilleaker er et trygt og naturlig valg for dyreeiere i Oslo vest. Vårt erfarne team har kompetanse innenfor et bredt spekter av behandlinger og generell kirurgi. Vi er sertifisert katte vennlig klinikk og har spesialkompetanse på eksotiske dyr som fugler, reptiler og skilpadder. Klinikken holder til i nye, moderne lokaler i Mustads vei 1, rett ved CC Vest.\nAniCura Lilleaker er en moderne, velutstyrt klinikk med et bredt behandlingstilbud og høy faglig kompetanse og et tverrfaglig team som samarbeider tett for å gi pasientene den beste omsorgen.\nVi søker en autorisert dyrepleier eller klinikkassistent til ulike fagområder basert på din kompetanse. Samtidig ønsker vi også deg som trives i en allsidig hverdag, og som liker å bidra på tvers av fagfelt.\nStillingen er et 1 års vikariat med mulighet for forlengelse i 100 % stilling.\nHos oss blir du en sentral del av driften, og en viktig ressurs i arbeidet med å sikre trygg behandling av pasientene.\nHverdagen på klinikken er variert, og du vil være aktiv i hele kunde reisen.\nArbeidsoppgavene dine blir basert på din faglig kompetanse og autorisasjon og innebærer blant annet:\n* Resepsjons arbeid og kunde kontakt på telefon og mail\n* Ansvarlig for enkelte administrative oppgaver\n* Prøvetaking, klargjøring og overvåking av pasienter før, under og etter operasjon\n* Assistere ved behandlinger\n* Pleie og stell av inneliggende pasienter\n* Kjøre in-house laboratorieprøver, pakking og klargjøring av forsendelser\n* Hygiene- og renholds oppgaver i tråd med klinikkens rutiner\n* Eierkontakt og oppfølging\nØnskede kvalifikasjoner\n• Autorisert dyrepleier eller klinikkassistent med relevant bakgrunn er et ønske, men ikke et krav.\n\n• Gode norsk egenskaper på nivå B2\n\n• Autorisert dyrepleier: Erfaring fra arbeid med anestesi, overvåking og postoperativ pleie\n\n• Videreutdanning innen relevante fagområder er et pluss\n\nPersonlige egenskaper\n· Du trives både i team og med selvstendig ansvar\n· Du har en strukturert og fleksibel tilnærming til varierte arbeidsdager\n· Du kommuniserer godt på norsk og er trygg i møte med dyreeiere\n· Du har et ekte engasjement for dyrevelferd og kollegialt samarbeid\nVi tilbyr\n· Et sterkt fagmiljø\n· Gode kollegaer og inkluderende arbeidsmiljø\n· Moderne fasiliteter og avansert medisinsk utstyr\n· En variert arbeidshverdag\nLønn baseres på relevant yrkes ansiennitet og erfaring.\nSøknadsfrist: 26 november 2026\nTiltredelse så raskt som mulig. Søknad og CV sendes inn via vår søkerportal: Klinikkassistent/Autorisert dyrepleier søkes til AniCura Lilleaker\nVed spørsmål ang stillingen kan du ta kontakt med Klinikkleder og Veterinær Nina Morkemo på e-post: nina.morkemo@anicura.no"
-  },
-  {
-   "id": "nav-656391b4-d628-4807-9ba0-512fd1d6edbf",
-   "uuid": "656391b4-d628-4807-9ba0-512fd1d6edbf",
-   "title": "Klinikkassistent/Autorisert dyrepleier søkes til AniCura Lilleaker",
-   "jobtitle": "",
-   "employer": "AniCura Norge",
-   "location": "OSLO, OSLO",
-   "postalCode": "0283",
-   "published": "2026-11-06T11:33:05+01:00",
-   "updated": "2026-11-09T09:31:01.066838+01:00",
-   "expires": "2026-12-06T15:26:03+01:00",
-   "applicationDue": "",
-   "applicationUrl": "https://jobb.anicura.no/jobs/8680173-klinikkassistent-autorisert-dyrepleier-sokes-til-anicura-lilleaker/applications/new?promotion=2285426-nav-no",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/656391b4-d628-4807-9ba0-512fd1d6edbf",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Natur og miljø / Veterinærer og dyrepleiere"
-   ],
-   "description": "AniCura Lilleaker er et trygt og naturlig valg for dyreeiere i Oslo vest. Vårt erfarne team har kompetanse innenfor et bredt spekter av behandlinger og generell kirurgi. Vi er sertifisert katte vennlig klinikk og har spesialkompetanse på eksotiske dyr som fugler, reptiler og skilpadder. Klinikken holder til i nye, moderne lokaler i Mustads vei 1, rett ved CC Vest.\nAniCura Lilleaker er en moderne, velutstyrt klinikk med et bredt behandlingstilbud og høy faglig kompetanse og et tverrfaglig team som samarbeider tett for å gi pasientene den beste omsorgen.\nVi søker en autorisert dyrepleier eller klinikkassistent til ulike fagområder basert på din kompetanse. Samtidig ønsker vi også deg som trives i en allsidig hverdag, og som liker å bidra på tvers av fagfelt.\nStillingen er et 1 års vikariat med mulighet for forlengelse i 100 % stilling.\nHos oss blir du en sentral del av driften, og en viktig ressurs i arbeidet med å sikre trygg behandling av pasientene.\nHverdagen på klinikken er variert, og du vil være aktiv i hele kunde reisen.\nArbeidsoppgavene dine blir basert på din faglig kompetanse og autorisasjon og innebærer blant annet:\n* Resepsjons arbeid og kunde kontakt på telefon og mail \n* Ansvarlig for enkelte administrative oppgaver \n* Prøvetaking, klargjøring og overvåking av pasienter før, under og etter operasjon\n* Assistere ved behandlinger\n* Pleie og stell av inneliggende pasienter\n* Kjøre in-house laboratorieprøver, pakking og klargjøring av forsendelser\n* Hygiene- og renholds oppgaver i tråd med klinikkens rutiner\n* Eierkontakt og oppfølging\n\nØnskede kvalifikasjoner\n• Autorisert dyrepleier eller klinikkassistent med relevant bakgrunn er et ønske, men ikke et krav.\n\n• Gode norsk egenskaper på nivå B2\n\n• Autorisert dyrepleier: Erfaring fra arbeid med anestesi, overvåking og postoperativ pleie\n\n• Videreutdanning innen relevante fagområder er et pluss\n\nPersonlige egenskaper\n· Du trives både i team og med selvstendig ansvar \n· Du har en strukturert og fleksibel tilnærming til varierte arbeidsdager\n· Du kommuniserer godt på norsk og er trygg i møte med dyreeiere\n· Du har et ekte engasjement for dyrevelferd og kollegialt samarbeid\nVi tilbyr\n· Et sterkt fagmiljø\n· Gode kollegaer og inkluderende arbeidsmiljø\n· Moderne fasiliteter og avansert medisinsk utstyr\n· En variert arbeidshverdag\nLønn baseres på relevant yrkes ansiennitet og erfaring.\n\nTiltredelse så raskt som mulig. Søknad og CV sendes inn via vår søkerportal: Klinikkassistent/Autorisert dyrepleier søkes til AniCura Lilleaker\nVed spørsmål ang stillingen kan du ta kontakt med Klinikkleder og Veterinær Nina Morkemo på e-post: nina.moremo@anicura.no"
-  },
-  {
-   "id": "nav-a659b388-fd6d-4527-97c3-aad06d668863",
-   "uuid": "a659b388-fd6d-4527-97c3-aad06d668863",
-   "title": "Tannhelsesekretær, 40% stilling",
-   "jobtitle": "Tannhelsesekretær",
-   "employer": "Emaljen Tannklinikk As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0152",
-   "published": "2026-11-06T10:51:57+01:00",
-   "updated": "2026-11-09T08:10:11.2748+01:00",
-   "expires": "2026-12-31T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/a659b388-fd6d-4527-97c3-aad06d668863",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Vikariat",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Helse og sosial / Andre helseyrker"
-   ],
-   "description": "Emaljen tannklinikk er en klinikk med daglig drift i høyt tempo. Vi er to tannleger som utfører alle typer behandlinger, alt fra rens til kirurgi.\n\nVi ser etter en tannhelsesekretær som kan jobbe som 2 dager i uka, med mulighet for tilkalling ved ekstra behov. Vi kan i enkelte perioder trenge deg mer enn andre, så vaktene bestemmes etter avtale. Stillingen passer best for deg som ønsker en fleksible arbeidssituasjon og som trives med å bidra der det trengs.\n\nHva ser vi etter?\n\n• \nUtdanning som tannhelsesekretær er en fordel, men ikke et krav\n\n• \nErfaring fra arbeid i tannklinikk er et krav\n\n• \nKjennskap til Opus Dental journalsystem\n\n• \nGrunnleggende datakunnskaper\n\n• \nGode kommunikasjons- og samarbeidsevner\n\n• \nBehersker norsk godt, både muntlig og skriftlig\n\n• \nEvne til å jobbe selvstendig og i team\n\n• \nServiceinnstilt, blid og positiv med et sterkt pasientfokus\n\nArbeidsoppgaver\n\n• \nAssistere tannleger under behandling og kirurgiske inngrep\n\n• \nRengjøre og klargjøre behandlingsrom\n\n• \nSterilisere utstyr\n\n• \nAdministrative oppgaver, bl.a. timebooking og pasienthåndtering\n\n• \nSvare på tlf og e-post\n\n• \nHjelpe til med daglig drift av klinikk\n\nVi tilbyr\n\n• \nArbeid i lyse og fine lokaler midt i Oslo sentrum\n\n• \nEt inkluderende og hyggelig arbeidsmiljø\n\n• \nGod opplæring\n\n• \nKonkurransedyktige betingelser\n\nHøres dette interessant ut for deg? Send en CV på mailen i.d.alrawaf@hotmail.com, så tar vi kontakt med deg. Referanser må oppgis!"
-  },
-  {
-   "id": "nav-3fc016ef-f38f-47c4-983e-a207ab95c853",
-   "uuid": "3fc016ef-f38f-47c4-983e-a207ab95c853",
-   "title": "Business Partner - Agder",
-   "jobtitle": "",
-   "employer": "Burger King Norge",
-   "location": "OSLO, OSLO",
-   "postalCode": "0283",
-   "published": "2026-11-06T10:50:07+01:00",
-   "updated": "2026-11-06T15:21:35.536842+01:00",
-   "expires": "2026-12-06T11:46:17+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://burgerkingno.teamtailor.com/no/jobs/8679887-business-partner-agder/applications/new?promotion=2284456-nav-no",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3fc016ef-f38f-47c4-983e-a207ab95c853",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Kontor og økonomi / Ledelse, administrasjon og rådgivning"
-   ],
-   "description": "Er du vår nye Business Partner i Agder?\nEr du en kommersiell leder med lidenskap for drift og utvikling?\nBurger King søker en Business Partner i Agder og omegn – en nøkkelrolle for deg som ønsker å drive vekst, utvikle mennesker og sikre operasjonell kvalitet i samarbeid med våre selvstendige Partner Operators.\nSom Business Partner er du bindeleddet mellom King Food AS og våre Partner Operators. Rollen kombinerer forretningsforståelse med hands-on ledelse, og du får ansvar for å sikre at Partner Operators leverer på sin forretningsplan – samtidig som merkevarens standarder og langsiktige vekst ivaretas. 🚀\nHvem er vi?\nBurger King har vært en del av nordmenns hverdag siden 1988, og vi har alltid vært kjent for våre flammegrillede burgere og uforglemmelige smaker som hver dag serveres av våre fantastiske medarbeidere i våre 108 restauranter i Norge. Vi er ikke bare en QSR-kjede – vi er kongeriket av burgere, hvor innovasjon, kvalitet og en uforglemmelig gjesteopplevelse regjerer. Vi er stedet hvor Gjesten er Kongen, Whopperen er kronprinsen, og pommes frites er hoffet. Nå søker vi en Business Partner som kan hjelpe oss med å løfte samarbeidet med våre Partner Operators til nye, episke høyder. 🚀🍔👑\nDin rolle\nSom Business Partner i Burger King får du en sentral rolle i å utvikle og støtte våre Partner Operators i Agder og omegn. Du representerer hovedkontoret og jobber tett med partnerne for å sikre at deres restauranter leverer på både økonomiske mål og merkevarens standarder. Du leder business reviews, initierer tiltak for vekst og forbedring, og bidrar aktivt til utvikling av både drift og ledelse. Rollen kombinerer strategisk innsikt med operativ forståelse – og gir deg muligheten til å påvirke kvalitet, lønnsomhet og gjesteopplevelse i hele porteføljen.\nStillingens ansvarsområder:\n• Samarbeide med Partner Operator for å nå økonomiske og operasjonelle mål\n\n• Kvalitetssikre gjennomføring og oppfølging av business reviews og styremøter\n\n• Følge opp restaurantresultater og initiere forbedringstiltak\n\n• Sikre etterlevelse av Burger Kings konsept og standarder\n\n• Coache og utvikle lederteamet hos Partner Operator\n\n• Bidra til åpning av nye restauranter og investeringer i din region\n\nHvem er du?\nDu er en resultatorientert leder med sterk kommersiell forståelse og evne til å bygge tillitsbaserte relasjoner. Du trives med å jobbe både strategisk og operativt, og har erfaring fra retail, serveringsbransjen eller QSR. Du har høy gjennomføringskraft, god økonomisk sans og evner å utvikle sterke lederteam. Du er lojal mot merkevaren og inspirerer andre til å etterleve Burger Kings verdier – hver eneste dag.\nKvalifikasjoner og erfaring\n• Førerkort klasse B\n\n• Du har ledererfaring fra drift av flere enheter\n\n• Du har erfaring med økonomisk oppfølging, budsjettering og forretningsplanlegging\n\n• Du har god forståelse for operasjonelle rutiner og kvalitetsstandarder\n\n• Du har sterke kommunikasjons- og coachingferdigheter\n\n• Du behersker norsk eller et annet skandinavisk språk, både muntlig og skriftlig\n\n• Du behersker engelsk, både muntlig og skriftlig\n\n• Du har høy grad av motstandsdyktighet og trives med høyt tempo\n\nVi tilbyr:\nEn nøkkelrolle i et selskap i vekst, med stor påvirkningskraft og mulighet til å utvikle både mennesker og forretning. \nDu får:\n• Full opplæring og kontinuerlig støtte fra Operations teamet\n\n• Tett samarbeid med sentrale funksjoner som HR, markedsføring og økonomi\n\n• Mulighet til å jobbe med en av verdens mest ikoniske merkevarer\n\n• En variert og utviklende arbeidshverdag med stort ansvar og frihet\n\n• Gode utviklingsmuligheter for de som bygger en organisasjon som er klar for videre vekst!\n\n• Konkurransedyktig kompensasjonspakke \n\nKlar for å bli med på reisen?\nHøres dette spennende ut for deg? Da vil vi gjerne høre fra deg! \nSend inn din CV og søknad via vårt digitale rekrutteringssystem – og du vil høre fra oss så snart vi har vurdert din søknad.\nSøknader sendt på e-post vil ikke bli behandlet."
   }
  ]
 }
