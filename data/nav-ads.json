@@ -1,12 +1,37 @@
 {
- "generatedAt": "2026-11-15T17:42:42+00:00",
+ "generatedAt": "2026-11-15T23:22:42+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 419,
+ "count": 421,
  "ads": [
+  {
+   "id": "nav-328d36e4-3ad5-457b-880b-a8aa0d601795",
+   "uuid": "328d36e4-3ad5-457b-880b-a8aa0d601795",
+   "title": "BPA-assistent søkes til dag- og nattevakter",
+   "jobtitle": "",
+   "employer": "Medvind Assistanse AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0585",
+   "published": "2026-11-15T21:10:54+01:00",
+   "updated": "2026-11-15T21:12:16.151574+01:00",
+   "expires": "2026-12-18T00:00:00+01:00",
+   "applicationDue": "18.12.2026",
+   "applicationUrl": "https://jobb.medvindassistanse.no/147/sok?source=arbeidsplassen",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/328d36e4-3ad5-457b-880b-a8aa0d601795",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Deltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Helse og sosial / Hjemmehjelper og personlig assistent"
+   ],
+   "description": "Jeg er en dame med langt fremskreden ALS og søker trygge, omsorgsfulle og ansvarsbevisste assistenter til mitt BPA-team. Jeg har et stort hjelpebehov og trenger bistand til alt i hverdagen, både dag og natt. For meg er det viktig med stabile assistenter som kan bidra til trygghet, forutsigbarhet og verdighet i hverdagen.\nStillingen innebærer tett og helhetlig oppfølging i hjemmet gjennom hele døgnet. Det vil være behov for både faste stillinger og tilkallingsvikarer, med arbeid på dag, kveld, natt og helg etter turnus.\nArbeidet foregår hovedsakelig i hjemmet, og det er viktig at du trives med rolig arbeid, høy grad av tilstedeværelse og ansvar.\n• Personlig stell og pleie\n• Bistand ved matinntak og ernæring\n• Forflytning, blant annet mellom seng og stol\n• Massere for å opprettholde blodsirkulasjon\n• Støtte og assistanse meg under trening\n• Håndtering og tilsyn av medisinsk-teknisk utstyr (opplæring gis)\n• Husarbeid og matlaging\n• Observasjon og ivaretakelse av trygghet, spesielt på natt\n• Samarbeid med pårørende og helsepersonell\nJeg ser etter deg som:\n• Er rolig, tålmodig og trygg i møte med alvorlig sykdom\n• Har evne til å stå i nære og krevende omsorgssituasjoner\n• Er pålitelig, ansvarsbevisst og til stede i arbeidet ditt\n• Har respekt for brukerens integritet og behov\n• Trives med både rolige og krevende vakter, også nattevakter\n• Erfaring fra helse, pleie eller BPA er en fordel, men ikke et krav\n• Grundig opplæring vil bli gitt\n• Personlig egnethet vil bli tillagt stor vekt.\n• Er ansvarlig, punktlig og fleksibel\n• Er i aldersgruppen 25 – 55 og med et plettfritt rulleblad\n• God fysisk helse og riktig løfteteknikk\n• Sterk nok til å bistå ved forflytning\n• Mulighet for å arbeide både dag- og nattevakter\n• Behersker norsk godt og gjerne russisk eller ukrainsk.\nFordeler ved å jobbe med meg:\n• Et varmt og inkluderende arbeidsmiljø\n• Gode digitale rapporteringssystemer\n• Tarifflønn i henhold til BPA-tariffen\n• Dedikert kontaktperson i Medvind Assistanse\nJeg håper du kan starte raskt, og siden denne jobben har en personlig karakter, oppfordrer jeg spesielt kvinner til å søke.\nBli med og gjør en positiv forskjell i hverdagen min! Jeg ser frem til din søknad!\nMedvind Assistanse AS er et norskeid selskap som leverer likestillingsverktøyet BPA for mennesker med funksjonsvariasjon. For funksjonsvarierte skal BPA bidra til å til å gi mulighet til å leve et aktivt og selvstendig liv med fokus på selvrealisering og samfunnsdeltakelse. BPA handler like mye om friheten til å kunne velge hvilket liv man vil leve, og hvem man vil være. Med BPA skal man i størst mulig grad kunne ivareta plikter, interesser, behov og ønsker som alle andre samfunnsborgere. Medvind Assistanse AS ble stiftet i 2020 og har lokale kontorer i store deler av landet.\nKontaktperson\nNina Svensen\nKoordinator\nnsv@medvindassistanse.no\nFør eventuell ansettelse må det fremlegges politiattest, jf. helse- og omsorgstjenesteloven § 5-4. Attesten skal ikke være eldre enn tre måneder.\nMedvind Assistanse AS er et norskeid selskap som leverer likestillingsverktøyet BPA for mennesker med funksjonsvariasjon. For funksjonsvarierte skal BPA bidra til å gi mulighet til å leve et aktivt og selvstendig liv med fokus på selvrealisering og samfunnsdeltakelse. BPA handler like mye om friheten til å kunne velge hvilket liv man vil leve, og hvem man vil være. Med BPA skal man i størst mulig grad kunne ivareta plikter, interesser, behov og ønsker som alle andre samfunnsborgere. Medvind Assistanse AS ble stiftet i 2020 og har lokale kontorer i store deler av landet."
+  },
   {
    "id": "nav-2f6ce405-5658-48ab-b851-db41514fe2b7",
    "uuid": "2f6ce405-5658-48ab-b851-db41514fe2b7",
@@ -106,6 +131,79 @@
     "Reiseliv og mat / Kokk"
    ],
    "description": "Vi søker kokker og kjøkkenmedarbeidere til våre restauranter\nHelt Vilt Mathallen | Helt Vilt Stortingsgaten | Bistro Budapest\n\nHva vi ser etter\n\n• \nHar erfaring fra profesjonelt kjøkken\n\n• \nTrives i høyt tempo og liker operative dager\n\n• \nEr strukturert, pålitelig og løsningsorientert\n\n• \nHar stolthet for faget og et ønske om å levere høy kvalitet\n\n• \nSamarbeider godt med andre og bidrar til et positivt arbeidsmiljø\n\n• \nKommuniserer godt på engelsk. Behersker du et skandinavisk språk er det en fordel\n\n• \nBosatt i Norge\n\nArbeidsoppgaver\n\nDenne høsten åpner vi en ny restaurant i Oslo sentrum, og vi søker erfarne, engasjerte og positive medarbeidere til våre restauranter.\n\nVi tilbyr både heltids- og deltidsstillinger, og ønsker gjerne kandidater som ser for seg et langsiktig arbeidsforhold.\n\nArbeidsoppgver:\n\n• \nTilberedning og produksjon av mat\n\n• \nBidra til effektiv service og godt samarbeid på kjøkkenet\n\n• \nSikre kvalitet og god presentasjon av rettene\n\n• \nFølge rutiner for IK-mat, hygiene og matsikkerhet\n\n• \nHolde kjøkkenet og arbeidsområdet rent\n\n• \nVaremottak og enkel lagerhåndtering\n\nVi tilbyr\n\n• \nKonkurransedyktige betingelser\n\n• \nHeltids- og deltidsstillinger\n\n• \nEt godt og inkluderende arbeidsmiljø\n\n• \nMulighet til å jobbe med spennende råvarer og konsepter\n\n• \nVarierte arbeidsdager i et profesjonelt miljø\n\n• \nFaglig utvikling og mulighet for videre karrierevekst\n\n• \nMulighet til å være med på åpningen og utviklingen av vår nye restaurant i Oslo sentrum"
+  },
+  {
+   "id": "nav-88cafd62-a160-45e8-b2cd-7b7362dff917",
+   "uuid": "88cafd62-a160-45e8-b2cd-7b7362dff917",
+   "title": "Hos oss trenger du ikke være Brann-supporter, men viktig at du brenner for brannsikkerhet",
+   "jobtitle": "Servicetekniker Brann",
+   "employer": "OneCo Elektro AS",
+   "location": "OSLO, OSLO",
+   "postalCode": "0667",
+   "published": "2026-11-15T00:00:01+01:00",
+   "updated": "2026-11-15T22:02:14.254363+01:00",
+   "expires": "2026-12-15T23:59:59+01:00",
+   "applicationDue": "15.12.2026 (Søknader behandles fortløpende)",
+   "applicationUrl": "https://apply.recman.page/job_post.php?id=493161&path=nav&sub_id=542",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/88cafd62-a160-45e8-b2cd-7b7362dff917",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Bygg og anlegg / Andre ingeniører"
+   ],
+   "description": "Vil du bli en del av vårt team i Oslo? Vi søker Tekniker Brann og Sikkerhet\n\nOneCo Elektro i Oslo søker teknikere med spesiell kompetanse og interesse for brannsikkerhet. Hos oss får du jobbe med moderne løsninger innen brannalarm, nødlys, adgangskontroll, kamera og talevarsling - og samtidig bidra til trygghet og sikkerhet for kundene våre.\nDu styrer i stor grad arbeidsdagen din selv, men du står ikke alene: Vi jobber i team for å utveksle erfaringer, samarbeide når det trengs og sikre høy kvalitet i leveransene. Vi har et sterkt fagmiljø med fokus på HMS og struktur.\n\nOm stillingen\nSom tekniker får du en variert arbeidshverdag med blant annet disse arbeidsoppgavene:\n• montering, programmering og kontroll av brann- og sikkerhetssystemer\n• service og vedlikehold av brann- og nødlysanlegg, adgangskontroll, kamera og talevarsling\n• feilsøking og teknisk problemløsning\n• dokumentasjon og rapportering\n• kundekontakt og relasjonsbygging\n• ansvar for fremdrift og kvalitet i egne oppdrag\nKvalifikasjoner\nVi ser etter deg som har:\n• fagbrev som elektriker (gruppe L) eller telekom\n• erfaring med brannalarmsystemer\n• FG-750-sertifisering (en fordel), eller motivasjon for å ta sertifiseringen\n• førerkort klasse B\n• gode norskferdigheter, både muntlig og skriftlig\n• god vandel og evne til å sikkerhetsklareres\n• kjennskap til gjeldende regelverk (en fordel)\nPersonlige egenskaper\nVi ønsker en person som:\n• bryr seg om kunden og leverer som avtalt\n• arbeider selvstendig, nøyaktig og systematisk\n• er fleksibel og jobber målrettet\n• ønsker å videreutvikle seg og er åpen for varierte oppgaver\n• bidrar positivt til arbeidsmiljøet og er en god kollega\nVi tilbyr\n• et godt arbeidsmiljø med dyktige kollegaer og stor takhøyde\n• en trygg jobb i et solid selskap\n• en utfordrende og variert hverdag\n• mulighet for kurs, sertifiseringer (inkl. FG-750)\n• gode forsikringsordninger med blant annet behandlingsforsikring\nInteressert?\nOneCo Elektro har fokus på et godt og inkluderende arbeidsmiljø. Vi er opptatt av mangfold, og oppfordrer alle kvalifiserte kandidater til å søke.\nSøknader behandles fortløpende.\n\nSøknadsfrist: 15.12.2026\n\nHar du lyst til å høre mer om hvordan en hverdag hos oss vil være? Legg inn dine kontaktdetaljer, så hører du fra oss!\n\nVed spørsmål, ta kontakt med:\nAnders Engedal\nAvdelingsleder\nTlf +47 453 90 934\nE-post: anders.engedal@oneco.no"
+  },
+  {
+   "id": "nav-1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
+   "uuid": "1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
+   "title": "Fysioterapeut I for barn og unge ",
+   "jobtitle": "Fysioterapeut 1 for barn og unge ",
+   "employer": "Fysio/ergoterapi barn og unge, Oslo kommune, Bydel Østensjø",
+   "location": "OSLO, OSLO",
+   "postalCode": "0694",
+   "published": "2026-11-15T00:00:00+01:00",
+   "updated": "2026-11-15T22:51:43.394565+01:00",
+   "expires": "2026-11-29T00:00:00+01:00",
+   "applicationDue": "2026-11-29T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5208641617&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "",
+   "starttime": "",
+   "occupations": [],
+   "description": "Vi trenger to dyktige fysioterapeuter til Fysio- og ergoterapitjenesten 0 -18 i Bydel Østensjø. En av våre fysioterapeuter skal bytte felt, og vi ser derfor etter en ny kollega i fast stilling. Vi søker også etter en vikar, ettersom en av fysioterapeutene våre skal ut i svangerskapspermisjon. Vikariatet er på 100% fra 25.01.27-31.12.27. Spesifiser om du er interessert i begge stillingene, eller kun den faste stillingen. Tjenesten er lokalisert på Skullerud og er samlokalisert med mange av bydelens øvrige tjenester. Avdelingen består av 6,8 årsverk fysioterapi, 3 årsverk ergoterapi og 1 fagansvarlig barnekoordinator. Intervjuer gjennomføres i uke 49 og 50.\n\nArbeidsoppgaver\n• Undersøkelse, behandling og oppfølging av barn og unge på ulike arenaer\n• Oppfølging av barn med habiliteringsbehov\n• Ulike helsefremmende og forebyggende tiltak som for eksempel undervisning og veiledning i gruppe \n• Veiledning av og rådgivning til foreldre og øvrige involverte\n• Bidra i veiledning av studenter og turnuskandidater\n• Vurdering, formidling og oppfølging av tekniske hjelpemidler\n• Arbeid knyttet til barnekoordinator og individuell plan (IP) for innbyggere som er i behov av langvarige og koordinerte helse- og omsorgstjenester\n• Journalføring i CGM journal\n• Delta i endringsprosesser og utvikling av tjenesten\n• Ellers de arbeidsoppgaver som nærmeste leder tillegger stillingen\nKvalifikasjoner\n• Fysioterapeut med norsk autorisasjon\n• Bred erfaring med fysioterapitilbud til barn og unge, fortrinnsvis kommunehelstjenesten\n• Erfaring med oppfølging av barn med habiliteringsbehov\n• Kompetanse med hjelpemiddelformidling\n• Erfaring med tverrfaglig samarbeid og samhandling med eksterne og interne samarbeidspartene vektlegges\n• Erfaring med koordinatorarbeid og DIPS samspill\n• Fortrinnsvis erfaring med helsefremmende og forebyggende arbeid\n• Ønskelig med videreutdanning, eller tilsvarende, i fysioterapi for barn og unge, men erfaring kan kompensere\n• Ønskelig med erfaring fra endringsprosesser\n• Norskkunnskaper på bestått C1 nivå. God skriftlig og muntlig fremstillingsevne\n• Gode IKT ferdigheter\n• Gyldig politiattest må fremlegges før tiltredelse\n• Personlig egnethet vektlegges\nPersonlige egenskaper\n• Du trives med og har interesse for å arbeide med barn og unge\n• Du er positiv og har godt humør\n• Du er initiativrik og løsningsorientert\n• Du er effektiv og strukturert\n• Du har gode samrbeidsevner og liker å jobbe i team\nVi tilbyr\n• Faglig engasjerte kollegaer\n• Fleksitidsordning\n• Lønnstrinn 41 (685 600 kr), etter Oslo kommunes lønnstabell\nKontaktinformasjon\nEmmeli Eithun Skard, 21802180\n\nArbeidssted\nOlaf Helsets vei 6\n\n0694 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5208641617\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 29.11.2026"
+  },
+  {
+   "id": "nav-ba277e29-721d-4e96-b9ef-583a002fe677",
+   "uuid": "ba277e29-721d-4e96-b9ef-583a002fe677",
+   "title": "Pedagogisk leder - 30% vikariat",
+   "jobtitle": "Pedagogisk leder",
+   "employer": "Fjeldlund barnehage, Bydel Søndre Nordstrand",
+   "location": "OSLO, OSLO",
+   "postalCode": "1252",
+   "published": "2026-11-15T00:00:00+01:00",
+   "updated": "2026-11-15T22:38:44.852195+01:00",
+   "expires": "2026-11-30T00:00:00+01:00",
+   "applicationDue": "2026-11-30T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5209652297&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ba277e29-721d-4e96-b9ef-583a002fe677",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Vikariat",
+   "extent": "Deltid",
+   "sector": "",
+   "starttime": "2026-11-18",
+   "occupations": [
+    "Utdanning / Barnehagelærer"
+   ],
+   "description": "Vi søker deg som er engasjert, leken og som ønsker å skape hverdagsmagi sammen med barna.\n\nBarnehagen ligger like ved Holmlia senter med gode tog- og bussforbindelser. Vi har skogen, flotte grøntområder, parsellhagen og en besøks-bondegård i nærheten, som gir oss mange fine turmuligheter. I parsellhagen vår dyrker- og høster vi inn ulike råvarer sammen med barna, som vi bruker i egen matproduksjon. \n\nVi er en avdelingsbarnehage med tre avdelinger og en \"satelitt\", med totalt 40 barn. Vi er opptatt av å skape et godt fellesskap og trygghet for alle, med satsningsområdene språk, lek og voksenrollen. Vi har pedagoger på alle avdelinger (1 eller 2), i tillegg til styrket grunnbemanning med tre ekstra ansatte. Hos oss er vi opptatt av \"vi-et\", og avdelingene jobber tett sammen for å sikre kvalitet og organisatorisk drift – så gode samarbeidsevner og fleksibilitet er derfor viktig for oss. \n\nBarnehagen jobber aktivt med å kunne tilby ett godt leke- og språkmiljø, hvor vi voksne er varme, trygge og engasjerte med fokus på å være en viktig del av barnets- og familienes liv. Vi er også en barnehage som verdsetter felles samlingsstunder og en hverdag fylt med kreativ utfoldelse og musikk. \n\nVi har nå ledig et 30% vikariat som pedagogisk leder, så søk- og bli en del av vårt team! Vikariatet varer i utgangspunktet ut april 2027, med mulighet for forlengelse. Arbeidsdager er onsdager, og annenhver fredag - med fast arbeidstid kl.08.30-16.00. \n\nArbeidsoppgaver\n• Planlegge, gjennomføre og utvikle det pedagogiske arbeidet på avdelingen\n• Ansvar for å lede og veilede personalet på avdelingen\n• Holde deg faglig oppdatert, og være i utvikling\n• Bidra til et positivt leke - og læringsmiljø\n• Systematisk språkarbeid, med vekt på supplerende kommunikasjon og ASK\n• Ansvarlig for tverrfaglig samarbeid med eksterne instanser\n• Medvirke til- og sikre et godt foreldresamarbeid\n• Være aktiv bidragsyter til et positivt arbeidsmiljø\n• Være en del av lederteamet \nKvalifikasjoner\n• Godkjent barnehagelærer-/førskolelærerutdanning (Ved utdanning fra utlandet må det legges ved godkjenning. Bestått norskprøve B2- må dokumenteres i søknaden). Søkere med annen relevant erfaring kan bli vurdert til vikariatet. \n• Beherske, og være trygg på bruk av digitale verktøy og data\n• Det er ønskelig med erfaring innen visuell støtte og ASK\n• God skriftlig og muntlig fremstillingsevne på norsk, både muntlig og skriftlig\n• Godkjent politiattest må framvises ved ansettelse\n\nPersonlige egenskaper\n• Du har barns beste i fokus\n• Du har faglige ambisjoner og forventninger til deg selv og dine medarbeidere\n• Du er omsorgsfull, og en varm grensesetter\n• Du setter humor og glede høyt i samspill med andre mennesker\n• Du har gode kommunikasjons- og samarbeidsevner\n• Du liker å være ute i all slags vær, og holder deg i form til å håndtere en aktiv hverdag\n• Du har evnen til å inspirere, motivere og veilede dine kollegaer\n• Personlig egnethet vil vektlegges\nVi tilbyr\n• En hverdag som aldri er lik\n• En barnehage med fokus på faglig utvikling der alles bidrag er viktig\n• Veiledning for nyutdannede, både første og andre året etter endt utdannelse\n• 8 personalmøter og 5 fagdager pr år\n• Gode forsikrings - og pensjonsordninger\n• 100% styrer i barnehagen\n• Spennende barnehage og bydel med stort mangfold\n• Lønn etter Oslo kommunes lønnsregulativ etter lønnsramme 24, alternativ 9 i Ltr. 32-45 (for tiden kr. 614 600 - 767 500) etter dokumentert ansiennitet. \nKontaktinformasjon\nEmilie Bjerke, 21802180\n\nArbeidssted\nHolmliaveien 2\n\n1252 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5209652297\n\nStillingsprosent: 30%\n\nVikariat\n\nStartdato: 18.11.2026\n\nSluttdato: 30.04.2027\n\nSøknadsfrist: 30.11.2026"
   },
   {
    "id": "nav-d3c47ec1-f3e1-443b-b6ad-88dab46f6808",
@@ -10485,56 +10583,6 @@
     "Kontor og økonomi / Bank finans forsikring"
    ],
    "description": "Vi ser etter deg som liker faglige utfordringer og synes pensjon er spennende! \nVi forventer at du har lyst til å være med å sikre pensjonsrettighetene til medlemmene i POA, og vil bidra til videre utvikling og profesjonalisering av både investerings-virksomheten og pensjonsordningen som helhet. Som leder for forretningsmessig styring får du et bredt ansvarsområde og en variert og spennende arbeidshverdag. \nVi forventer at du vil motivere egne medarbeidere til å levere i tråd med ordningens mål, og at du vil bidra til et godt samarbeid med nøkkelressurser på ulike nivåer på tvers av SPKs organisasjon. Vi ser etter deg som tør å varsle om forbedringsområder, utfordre etablerte sannheter, og som evner å være en støttespiller for daglig leder. \n\nVi mener at inkludering og mangfold er en styrke. Vi ønsker medarbeidere med ulike kompetanser, fagkombinasjoner, livserfaring og perspektiver for å bidra til enda bedre oppgaveløsning. Vi vil tilrettelegge for medarbeidere som har behov for det. Aktuell tilrettelegging kan for eksempel være tekniske hjelpemidler, tilpasning av møbler eller endring av rutiner, arbeidsoppgaver og arbeidstid.\n\nArbeidsoppgaver\nPensjonsordningen for Apotekvirksomhet (POA) er en lovfestet pensjonsordning for ansatte ved apotek. Med nesten 31 000 medlemmer og over 18 milliarder til forvaltning er vi blant Norges største pensjonskasser. Ordningen driftes gjennoms Statens Pensjonskasse (SPK), og alle vesentlige driftsfunksjoner forvaltes internt. POA forvalter over 70 prosent av pensjonsmidlene internt og har en egen dedikert investeringsvirksomhet som både omfatter et forvalterteam og en investeringsstøtteoperasjon. \nSeksjon for forretningsmessig styring har en viktig rolle i å sikre en god og forsvarlig forvaltning av POA. Seksjonens ansvarsområde omfatter blant annet risikostyring og compliance, økonomi og målstyring, regnskap, analyse og rapportering. Investeringsstøtte knyttet til egen investeringsvirksomhet inngår som en betydelig del av ansvarsområdet til seksjonen og omfatter blant annet oppgjør, registrering, kontroll, prising og regnskapsføring av handler. Leder for seksjon forretningsmessig styring leder en seksjon som i dag teller fire medarbeidere og inngår i ledergruppen til POA.\n\nKvalifikasjoner\n• Du må ha høyere utdanning (mastergrad) innen økonomi/finans med gode resultater\n• Du må ha svært god kunnskap om finansielle instrumenter og risikostyring tilknyttet investeringsvirksomhet. Søkere som i tillegg har kunnskap om sentrale risikodrivere knyttet til pensjonsvirksomhet vil bli foretrukket. Det er også en fordel om du har noe kunnskap om regnskap og bokføring\n• Du må ha 5-10 års erfaring fra arbeide i finansvirksomhet. Søkere med erfaring fra pensjonsvirksomhet vil bli foretrukket. Du bør ha erfaring med personalledelse, og det vil være en fordel å ha praktisk kjennskap fra investeringsstøttevirksomhet\n• Du bør ha god kunnskap om regelverket som regulerer private og offentlige pensjonsordninger samt regelverk knyttet til verdipapirhandel. Det er også fint om du kjenner til virksomhetsregelverket for statlig sektor\n• Du må ha gode IT-kunnskaper og interesse for praktisk anvendelse av teknologi. Gode ferdigheter i excel er et krav. Det vil være en fordel om du har praktisk kjennskap til bruk av Bloomberg, og porteføljeforvaltningssystemer (POA bruker FA Solutions)\n• Du må kommunisere godt både skriftlig og muntlig på norsk og engelsk, og evne å tilpasse kommunikasjonen til ulike målgrupper\n\nPersonlige egenskaper\n• Du er positiv, omgjengelig og evner å samarbeide med ulike mennesketyper på tvers av nivåer og formell organisering\n• Du arbeider strukturert og har god gjennomføringsevne. Du leverer som avtalt og evner å drive prosesser fremover i tråd med plan\n• Du har sterke analytiske evner og høyt fokus – men når det kreves av deg har du også evne å dykke ned i detaljerte problemstillinger\n• Du har stå-på evne og høy arbeidskapasitet\n• Du har høy integritet\n\nVi tilbyr\n• Kolleger som vil at du skal trives og lykkes\n• Sterkt faglig og sosialt miljø med gode utviklingsmuligheter\n• En trygg og forutsigbar arbeidsplass med lite byråkrati\n• En jobb der du bidrar til et viktig samfunnsoppdrag\n• En av Norges beste pensjonsordninger, gode forsikringsordninger og mulighet for gunstig boliglån.\n• Gode og fleksible løsninger for hjemmekontor (hybrid)\n• Sentral plassering i moderne lokaler på Skøyen med kort vei til buss, trikk og tog\n• Kontorløsning med universell utforming og heis i bygget\n• Eget idrettslag, firmahytte og treningsrom\n• Sommertid\nSom ansatt hos oss vil du bli medlem i Statens pensjonskasse, som gir deg mange goder i tillegg til livsvarig alderspensjon og AFP. Du kan ha rett til økonomisk støtte hvis du blir syk eller ufør, familien din kan ha rett til økonomisk støtte når du dør, du blir forsikret mot yrkesskade eller yrkessykdom, og du får gode betingelser på boliglån. Du kan lese mer om ansattgodene dine på spk.no/medlemskap-i-spk.\nGenerell informasjon\n\nVi gjennomfører bakgrunnssjekk i utvalgte rekrutteringer. Bakgrunnssjekken gjennomføres av Semac AS, og blir utført etter samtykke fra deg som søker. Aktuelle søkere vil motta nærmere informasjon om dette.\nI enkelte rekrutteringer gjennomfører vi evne- og/eller personlighetstest. Aktuelle kandidater vil motta nærmere informasjon om dette. \nVi ber om at du legger ved alle relevante attester og vitnemål når du søker. \n\nI henhold til offentlighetsloven gjør vi oppmerksom på at om søkeren kan bli offentliggjort selv om søkeren har bedt om ikke å bli oppført på søkerlisten. Vedkommende vil i tilfelle bli varslet om dette på forhånd. \nKontaktinformasjon\nLiv Jorid Ødegård, Daglig leder POA, 918 35 785\n\nNøkkelinformasjon:\nArbeidsgiver: Statens pensjonskasse\n\nReferansenr.: 5203251333\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 22.11.2026"
-  },
-  {
-   "id": "nav-8f960047-1839-445d-878d-84bf741c22cf",
-   "uuid": "8f960047-1839-445d-878d-84bf741c22cf",
-   "title": "Drosjesjåfør på Tesla i Oslo – fast heltid, dag- eller nattskift",
-   "jobtitle": "Drosjesjåfør",
-   "employer": "Mohammed Amin ENK",
-   "location": "OSLO, OSLO",
-   "postalCode": "0973",
-   "published": "2026-11-07T21:54:53+01:00",
-   "updated": "2026-11-14T21:18:45.344706+01:00",
-   "expires": "2026-11-28T00:00:00+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/8f960047-1839-445d-878d-84bf741c22cf",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Transport og lager / Tog-, sporvogn- og vegtrafikk"
-   ],
-   "description": "Mohammed Amin ENK driver drosje i Oslo med Tesla elbiler. Vi søker 4 faste sjåfører på heltid, dagskift eller nattskift. Provisjon 42–48 % av netto + feriepenger, og alene bil for de som kjører mest.\n\nHva vi ser etter\n\nDu har gyldig kjøreseddel for drosje og førerkort klasse B. Du er punktlig, høflig og pålitelig. Du kjenner Oslo godt. Du snakker norsk eller engelsk. Erfaring som drosjesjåfør er en fordel.\n\nArbeidsoppgaver\n\nKjøre passasjerer trygt og punktlig i Oslo og til og fra Gardermoen. Ta imot turer fra drosjesentral og bestillingsapper. Hjelpe kundene med bagasje og gi god service. Holde bilen ren og i god stand gjennom skiftet. Følge taksameter, kvittering og rutiner for betaling.\n\nVi tilbyr\n\nFast heltidsstilling med eget skift: dagskift (05--17) eller nattskift (17--05).\n\nProvisjonslønn av netto innkjørt (etter app-avgift og mva), etter hvor mye du kjører inn per måned: under 70000 kr gir 42 %, 70000--100000 kr gir 45 %, over 100000 kr gir 48 %.\n\nI tillegg 10,2 % feriepenger og 2 % pensjon (OTP).\n\nAlene bil: kjører du over 100000 kr i tre måneder på rad, får du egen bil.\n\nTesla elbil med taksameter, Uber og Bolt. Mange turer hele uken.\n\nSkriftlig arbeidsavtale og ryddige forhold. Oppstart etter avtale."
-  },
-  {
-   "id": "nav-b73a6918-2b87-49f4-9180-479e3a691713",
-   "uuid": "b73a6918-2b87-49f4-9180-479e3a691713",
-   "title": "Advokatfullmektig søkes ",
-   "jobtitle": "Advokatfullmektig",
-   "employer": "Advokatfirma Nierzwicki & Bluszko As",
-   "location": "OSLO, OSLO",
-   "postalCode": "0166",
-   "published": "2026-11-07T19:00:40+01:00",
-   "updated": "2026-11-09T08:32:25.524011+01:00",
-   "expires": "2026-11-25T00:00:00+01:00",
-   "applicationDue": "2026-11-25",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b73a6918-2b87-49f4-9180-479e3a691713",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "Etter avtale",
-   "occupations": [
-    "Kontor og økonomi / Juridisk arbeid"
-   ],
-   "description": "Advokatfullmektig - eller juridisk talent som vil bli det\n\nDe fleste stillingsannonser for advokatfullmektiger ser ganske like ut. \"Vi søker en engasjert kandidat\", \"du er strukturert...\", \"vi tilbyr et godt fagmiljø ...\".\n\nDerfor sier vi det heller som det er.\n\nHvem vi er\n\nVi er et moderne og mangfoldig advokatfirma med dyktige, flerspråklige advokater og advokatfullmektiger, sentralt beliggende ved Slottsparken i Oslo.\n\nHos oss blir du en del av et engasjert og inkluderende fagmiljø hvor vi deler kunnskap og støtter hverandre. Vi tror på å gi medarbeiderne våre tillit og muligheter til å utvikle seg. Derfor får du tidlig ansvar, varierte og utfordrende arbeidsoppgaver og direkte kontakt med klienter. Samtidig har du erfarne kolleger å sparre med.\n\nDet som gjør oss annerledes, er vårt internasjonale miljø. Over 90 % av medarbeiderne våre har et annet morsmål enn norsk, og mange av klientene våre har internasjonal bakgrunn. Vi arbeider daglig på tvers av språk, kulturer og landegrenser, noe som gir en spennende og variert arbeidshverdag.\n\nHos oss er språkkunnskaper og kulturell forståelse en viktig del av vår identitet og arbeidshverdag. Vi stiller krav om at alle våre advokater og advokatfullmektiger, i tillegg til norsk, behersker minst ett av følgende språk: polsk, ukrainsk eller russisk.\n\nDenne kompetansen brukes aktivt i klientkontakt, juridisk rådgivning og saksbehandling. Den gjør oss i stand til å tilby en spesialisert og etterspurt tjeneste som skiller oss fra mange andre advokatfirmaer. Kombinasjonen av juridisk kompetanse, språkkunnskaper og kulturell forståelse gir klientene en særlig merverdi, som også kan gjenspeiles i verdien og prisingen av tjenestene våre.\n\nHvorfor vi lyser ut stillingen\n\nDe fleste av våre advokater startet hos oss som advokatfullmektiger og har fortsatt videre i firmaet etter bevilling. Når firmaet vokser, vokser også teamet vårt - derfor trenger vi nå en ny kollega.\n\nHvordan kan en vanlig dag hos oss se ut\n\n09:30 - du starter dagen litt senere fordi du har fleksitid. Du begynner på et prosesskriv du planla tidligere i uken.\n\n11:00 - Teams-møte med en entreprenør som står midt i en konflikt i et byggeprosjekt.\n\n12:00 - felles lunsj som gjerne varer i rundt 45 minutter.\n\n12:45 - du fortsetter arbeidet med prosesskrivet. Du diskuterer saken med prinsipal og en kollega, og dere finner et viktig poeng i saken.\n\n13:15 - du følger opp en eksisterende klient. Samtalen fører til et nytt oppdrag.\n\n15:00 - en ny klient kommer innom kontoret. Kanskje blir det en ny sak.\n\n17:30 - du går hjem med følelsen av at du faktisk har hjulpet noen - og med noen fakturerbare timer registrert som ofte fører til bonus.\n\nHva du vil jobbe med\n\nSakene våre ligger særlig innen:\n\n• \narbeidsrett\n\n• \nkontraktsrett\n\n• \nentreprise\n\n• \nfamilierett\n\n• \neiendom\n\n• \ntvisteløsning\n\n• \narv og familie\n\nMange av sakene våre har en polsk-norsk eller internasjonal dimensjon.\n\nHvem vi ser vi etter\n\nDen viktigste egenskapen er egentlig ganske enkel:\n\ndu må like mennesker og kunne skape tillit hos klienter.\n\nVi ser etter en person som\n\n• \nønsker å bidra til å utvikle klientrelasjoner\n\n• \netter hvert vil være med på å bygge egen klientportefølje\n\n• \narbeider selvstendig, men også trives i et lite team\n\nFormelle krav:\n\n• \ndu har fullført master i rettsvitenskap fra et norsk universitet, eller er i sluttfasen av studiet\n\n• \ndu behersker norsk godt, både muntlig og skriftlig\n\n• \ndu behersker minst ett av følgende språk: polsk, ukrainsk eller russisk\n\nNorsk er vårt arbeidsspråk, men språkkunnskaper og kulturell forståelse er en viktig del av vår virksomhet. Mange av klientene våre har internasjonal bakgrunn, og vi tilbyr juridisk bistand på deres eget språk. Kunnskaper i minst ett av de tre nevnte språkene er derfor et krav for stillingen, ikke bare en fordel.\n\nHva vi tilbyr\n\n• \nfast ansettelse, heltid eller deltid\n\n• \nfleksibel arbeidstid\n\n• \ngode muligheter til å oppfylle prosedyrekravet innen to år som advokatfullmektig\n\n• \neget kontor - hos oss jobber vi ikke i åpent kontorlandskap\n\n• \nhyggelige lokaler ved Slottsparken i Oslo\n\n• \nmulighet for delvis hjemmekontor\n\n• \net inkluderende og sosialt arbeidsmiljø\n\n• \nansvar for egne saker tidlig i karrieren\n\n• \ntett oppfølging og støtte til advokatbevilling\n\n• \nfirmaturer og sosiale arrangementer\n\n• \ngode pensjons- og forsikringsordninger\n\nLønn etter avtale, normalt i første ansettelsesår i intervallet NOK 700 000 - 980 000, avhengig av erfaring og evne til å utvikle klientrelasjoner. Lønnsmodellen hos oss består av fastlønn, resultatavhengig lønn og overtidsvederlag. Overtidsbetaling er hos oss en selvfølge når arbeid utføres utover normal arbeidstid.\n\nNeste steg\n\nVi trenger ikke et langt søknadsbrev.\n\nDet viktigste for oss er å bli kjent med deg som person.\n\nSend oss gjerne en kort e-post med CV eller ring oss direkte - så tar vi en prat og ser om dette kan være riktig for begge parter.\n\nKontaktperson\n\nNina Bluszko\n\nDaglig leder\n\nTelefon: 926 97 084\n\nE-post: nina.bluszko@nb-advokat.no"
   }
  ]
 }
