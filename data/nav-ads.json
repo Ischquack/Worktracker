@@ -1,12 +1,137 @@
 {
- "generatedAt": "2026-11-22T20:20:43+00:00",
+ "generatedAt": "2026-11-23T01:41:30+00:00",
  "tokenType": "public",
  "lookbackDays": 8,
  "municipalities": [
   "OSLO"
  ],
- "count": 388,
+ "count": 380,
  "ads": [
+  {
+   "id": "nav-1f0d6196-bcea-4d62-8bc3-2214078fb83a",
+   "uuid": "1f0d6196-bcea-4d62-8bc3-2214078fb83a",
+   "title": "Brenner du for matglede og har service i hjertet? Da kan du bli vår nye ferskvarekollega på Coop Mega Harbitz Torg!",
+   "jobtitle": "",
+   "employer": "Coop Mega Harbitz Torg",
+   "location": "OSLO, OSLO",
+   "postalCode": "0275",
+   "published": "2026-11-23T00:00:00+01:00",
+   "updated": "2026-11-23T00:00:00.439765+01:00",
+   "expires": "2026-12-03T00:00:00+01:00",
+   "applicationDue": "2026-12-03T00:00:00",
+   "applicationUrl": "https://iframe.coop.no/coop-ost-stillinger/?rmpage=apply&rmjob=3574&ref=nav.no&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1f0d6196-bcea-4d62-8bc3-2214078fb83a",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Salg og service / Salg, butikk- og varehandel"
+   ],
+   "description": "Er du genuint opptatt av mat, elsker å skape gode handleopplevelse og trives i et miljø med høyt tempo og godt humor? Da vil vi gjerne bli kjent med deg! Coop Mega Harbitz Torg søker en engasjert ferskvaremedarbeider i en 100 % stilling til vår fantastiske ferskvareavdeling. Vi ønsker oss en positiv og serviceinnstilt kollega som brenner for matglede og gode kundeopplevelser. Hos oss blir du en del av et hyggelig arbridsmiljø med varierte arbeidsoppgaver, høy tempo og mye godt humør. Du liker å ha en aktiv arbridshverdag, tar intiativ og trives med å gi kundene våre den beste servicen og de hyggeligste opplevelse.\n\nSøknadsfrist: 03.12.2026\n\nHva kan du få hos oss?\nDu får en gjeng med engasjerte og skikkelig gode kollegaer og en hyggelig leder. Ønsker du å utvikle deg har vi mange utviklingsmuligheter. Vi har et eget digitalt onboardingsprogram for alle nyansatte og du får selvsagt opplæring i butikk. Ellers får du lønn etter tariff og mulighet for ansattrabatt/kjøpeutbytte på 6% hvis du blir medlem. Vi har sko ordning, rabatt på trening og diverse andre fine ansattgoder. Vi tror det er bra å jobbe hos oss og vi vil ta godt vare på deg.\n\nHva skal du gjøre?\nFørst og fremst skal du gi superduper service til kundene våre når du selger våre lekre varer. Vi på Coop Mega Harbitz Torg skal være kjent for mat og matglede, så det er fint om du er opptatt av god mat og matkvalitet. Ellers vil du også jobbe med IK-Mat, periodisk renhold, varepåfylling, rutiner og annet forefallende butikkarbeid. Så er du litt interessert i mat og liker å gi gode tips og råd kan dette absolutt være noe:-)\n\nHva ønsker vi av deg?\n\n• Vi ønsker at du har interesse for mat og liker å gi råd:-)\n• Det er supert med kompetanse på kundebehandling og salg\n• Ikke minst er det flott om du har erfaring med IK-Mat, men opplæring vil gis.\n• Du trives med å ha mye å gjøre og liker praktisk arbeid.\n\nCoop Øst bruker sertifiserte arbeidspsykologiske testverktøy fra Assessio i rekrutteringsprosessen.\n\n Høres dette ut som noe for deg? Da gleder vi oss til å lese søknaden din! \n\nKundene våre gjenspeiler befolkingen og det vil vi at våre ansatte også skal gjøre. Vi er opptatt av mangfold og ønsker alle søkere velkommen, uansett bakgrunn, erfaring, funksjonsevne, kjønn, legning eller religion. Coop Øst ønsker å være en arbeidsgiver for alle."
+  },
+  {
+   "id": "nav-37e11c2b-293c-4c32-ae33-a58702f82fda",
+   "uuid": "37e11c2b-293c-4c32-ae33-a58702f82fda",
+   "title": "Vil du skape matglede og lede vår ferskvareavdeling til nye høyder?",
+   "jobtitle": "",
+   "employer": "Coop Mega Ullevål",
+   "location": "OSLO, OSLO",
+   "postalCode": "0855",
+   "published": "2026-11-23T00:00:00+01:00",
+   "updated": "2026-11-23T00:00:00.507324+01:00",
+   "expires": "2026-12-04T00:00:00+01:00",
+   "applicationDue": "2026-12-04T00:00:00",
+   "applicationUrl": "https://iframe.coop.no/coop-ost-stillinger/?rmpage=apply&rmjob=3576&ref=nav.no&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/37e11c2b-293c-4c32-ae33-a58702f82fda",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Sikkerhet og beredskap / Politi, fengsel og toll"
+   ],
+   "description": "Til vår flotte Coop Mega på Ullevål søker vi nå etter en matglad og engasjert ferskvaresjef. Ferskvareavdelingen er selve hjertet i butikken og vårt mål er å bli BEST på ferskvare. Med det så mener vi at vår ferskvareavdeling skal ose matglede og være det beste du finner i vårt område, det som gjør at gjestene våre kjører de ekstra minuttene for å komme til nettopp oss. Ambisiøst? Ja! Som ansvarlig for ferskvare er du ansvarlig for driften i din avdeling og for å skape gode kundeopplevelser:-) Høres dette ut som noe for deg er det bare å søke!\n\nSøknadsfrist: 04.12.2026\n\nHva kan du få hos oss?\nDu vil få god støtte og oppfølging i rollen. Du kommer inn i et godt onboardingsprogram og får en butikksjef og regionssjef som følger opp. Stillingen har mulighet for bonus, skaper du gode resultater får du igjen for det. I tillegg til lønn etter avtale selvsagt. Vi har helseforsikring, ansattrabatter/kjøpeubytte på 6% og du får tilgang til firmahytter og flere andre bra goder. Det er også muligheter for matfaglig utvikling. Ikke minst får du en gjeng med utrolig engasjerte og skikkelig gode kollegaer. Vi tror det er bra å jobbe hos oss og vi vil ta godt vare på deg.\n\nHva skal du gjøre?\nDu vil ha ansvar for den daglige driften av avdelingen for ferskvare og jobbe med å utvikle fagkunnskap og servicekvalitet i avdelingen din. Som leder av avdelingen vil du ha ansvar for kostnads- og inntektsstyring og også jobbe med varepåfylling og eksponering etter målbilde innenfor kjøtt, fisk og bakeoff. En viktig oppgave for å drive avdelingen på en god måte vil være å motivere medarbeidere for salg, service og teambygging slik at dere har best mulig forutsetninger for å jobbe med det aller viktigste - nemlig salg og kundeservice:-)\n\nHva ønsker vi av deg?\n\n• At du har relevant erfaring fra butikk og trives med å jobbe på gulvet. En strukturert og effektiv arbeidsform med evne til å få med deg medarbeidere og skape trivsel i avdelingen\n• Løsningsorientering og endringsvilje er viktig.\n• Evne til å sette kunden først og gå foran med et godt eksempel. Du ser hva som skal til for å drive god og lønnsom butikk\n• Vi ønsker oss en dedikert ferskvareansvarlig med stor arbeidskapasitet og fleksibilitet, som trives aller best i en hverdag med høyt tempo.\n• Fagbrev som kokk, butikkslakter, pølsemaker eller lignede er ønskelig. Relevant erfarign kan kompensere for dette. \n\nVi tenker også at;\n\n• Du automatisk skjønner at kunden alltid settes først og du gir det lille ekstra som de ikke forventer.\n• Du er både kreativ og strukturert.\n• Du er lidenskapelig opptatt av matglede.\n• Du vil bli RÅEST på ferskvare i vårt område :-) Derfor bruker du alle sesonger aktivt og følger bevegelsene i markedet.\n• En aktiv arbeidshverdag er det du liker aller best og du elsker å ta i et tak.\n• Din lederstil er inkluderende og engasjerende.\n\nCoop Øst bruker sertifiserte arbeidspsykologiske testverktøy fra Assessio i rekrutteringsprosessen.\n\nEr du den matinspirerende lederen vi leter etter? Da vil vi gjerne høre fra deg :-)\n\nKundene våre gjenspeiler befolkingen og det vil vi at våre ansatte også skal gjøre. Vi er opptatt av mangfold og ønsker alle søkere velkommen, uansett bakgrunn, erfaring, funksjonsevne, kjønn, legning eller religion. Coop Øst ønsker å være en arbeidsgiver for alle."
+  },
+  {
+   "id": "nav-ba4a4192-164b-4c3e-893d-5b004ec92edf",
+   "uuid": "ba4a4192-164b-4c3e-893d-5b004ec92edf",
+   "title": "Subway Tveita Senter Søker 2 kveldsvakt  og sommervikar ",
+   "jobtitle": "Butikkmedarbeider",
+   "employer": "Subway Tveita Senter",
+   "location": "OSLO, OSLO",
+   "postalCode": "0671",
+   "published": "2026-11-22T23:25:41+01:00",
+   "updated": "2026-11-22T23:26:20.492535+01:00",
+   "expires": "2026-11-29T00:00:00+01:00",
+   "applicationDue": "2026-11-29",
+   "applicationUrl": "",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ba4a4192-164b-4c3e-893d-5b004ec92edf",
+   "sourceurl": "",
+   "source": "Stillingsregistrering",
+   "engagementtype": "Fast",
+   "extent": "Deltid",
+   "sector": "Privat",
+   "starttime": "Etter avtale",
+   "occupations": [
+    "Salg og service / Salg, butikk- og varehandel"
+   ],
+   "description": "Vi søker deg som er utadvant, liker å jobber med mennesker og er service innstilt.\n\nVi tilbyr grundig opplæring både i restaurant og online -:)\n\nVi søker 2 kveld vakt 17:00-21:40\n\nVi søker også sommervikar, skal du på feire i sommer, da passer ikke sommer vikar stilling for deg.\n\nAldersgrense: 17år\n\nPersonlige egenskaper\n\n• \nLiker å jobbe med mennesker\n\n• \nService innstilt\n\n• \nblid og glad\n\n• \nVennligst sende epost. ikke ring."
+  },
+  {
+   "id": "nav-79235962-8c94-4560-b7b6-3fe54fcdd114",
+   "uuid": "79235962-8c94-4560-b7b6-3fe54fcdd114",
+   "title": "Vi søker engasjerte salgsmedarbeidere",
+   "jobtitle": "Vi søker avdelingsleder økonomi",
+   "employer": "Right Price Tiles",
+   "location": "OSLO, OSLO",
+   "postalCode": "0157",
+   "published": "2026-11-22T21:25:34.294614+01:00",
+   "updated": "2026-11-22T22:26:35.617014+01:00",
+   "expires": "2026-12-20T00:00:00+01:00",
+   "applicationDue": "20.12.2026",
+   "applicationUrl": "https://jobs.mojob.io/49110/?utm_id=35026&utm_campaign=35026&utm_medium=job_share&utm_source=nav&utm_term=Vi+s%C3%B8ker+avdelingsleder+%C3%B8konomi&utm_content=49110",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/79235962-8c94-4560-b7b6-3fe54fcdd114",
+   "sourceurl": "https://jobs.mojob.io/49109/",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Privat",
+   "starttime": "",
+   "occupations": [
+    "Salg og service / Personlig tjenesteyting"
+   ],
+   "description": "Helt siden 2005 har Right Price Tiles jobbet for at alle skal få realisert oppussingdrømmen. Vi er spesialist på flis og baderom, med stort produktutvalg og varer på lager. I tillegg tilbyr vi laminat, spileplater og tilbehør. Kvalitet og design trenger ikke å koste skjorta, derfor forhandler vi fram de råeste prisene over hele verden og følger nøye med på interiørtrendene. Med sterk vekst teller vi i dag 14 butikker og nettbutikk, og har fornøyde kunder over hele Norge.\n\nOm stillingen:\nSom avdelingsleder økonomi får du en sentral rolle i virksomhetens økonomi- og virksomhetsstyring. Du kombinerer operativ økonomistyring med strategisk utvikling, analyse og personalledelse. Rollen innebærer et helhetlig ansvar for å sikre god økonomisk kontroll, lønnsom vekst og et solid beslutningsgrunnlag for virksomhetens videre utvikling.\nDu vil være en viktig støttespiller og sparringspartner for ledelsen, innkjøpsavdelingen og organisasjonen for øvrig. Gjennom innsikt i tallene skal du bidra til å identifisere muligheter, utfordre etablerte sannheter og omsette analyser til konkrete tiltak.\nDu får ansvar for den daglige driften av økonomiavdelingen, personalledelse av medarbeidere i administrasjonen og videreutvikling av rutiner, arbeidsprosesser og systemer.\nVi ser etter en fremoverlent og nytenkende leder som evner å kombinere analytisk forståelse med forretningsmessig innsikt, tydelig ledelse og gjennomføringskraft.\n\nArbeidsoppgaver og ansvarsområder:\n• Økonomi og virksomhetsstyring\n\n• Analyse og forretningsutvikling\n\n• Kategoriutvikling og lønnsomhet\n\n• Butikkoppfølging\n\n• Ledelse og organisasjonsutvikling\n\n• Digitalisering, AI og fremtidsrettet utvikling\n\nKvalifikasjoner:\n• Høyere utdanning innen økonomi, regnskap, finans eller tilsvarende.\n\n• Relevant erfaring fra økonomistyring, controlling, virksomhetsstyring eller økonomiledelse innenfor retail\n\n• God systemforståelse og erfaring med økonomisystemer, rapporteringsverktøy og Excel.\n\n• Erfaring med personalledelse er en fordel.\n\n• Interesse for digitalisering, AI og nye arbeidsmetoder.\n\nVi ser etter deg som:\n• Er analytisk, strukturert og har sterk forretningsforståelse.\n\n• Er nysgjerrig på tallene og ønsker å forstå hvorfor resultatene utvikler seg som de gjør.\n\n• Har evne til å utfordre og stille gode spørsmål.\n\n• Er fremoverlent, nytenkende og opptatt av kontinuerlig forbedring.\n\n• Har gode samarbeidsevner og kommuniserer økonomisk innsikt på en forståelig måte.\n\n• Er en tydelig og motiverende leder.\n\n• Trives med både operative oppgaver og strategisk utviklingsarbeid.\n\n• Har gjennomføringskraft og evner å omsette analyser til handling.\n\nHva vi kan tilby:\nEn sentral lederrolle med stor påvirkningskraft på virksomhetens økonomiske utvikling og fremtidige vekst. Du får muligheten til å jobbe tett med ledelsen, innkjøpsavdelingen og butikkene våre.\nStillingen er nyopprettet og rapporterer til daglig leder.\nEr det deg vi ser etter? Eller er du nysgjerrig på å høre mer om stillingen? \nTa kontakt med Øivind Lunde hos Sentro Management på telefon 418 56 222 eller på mail oivind@sentro.no."
+  },
+  {
+   "id": "nav-ea6169b0-1d69-4eb4-8522-1c7399c84898",
+   "uuid": "ea6169b0-1d69-4eb4-8522-1c7399c84898",
+   "title": "Assisterende rektor",
+   "jobtitle": "Assisterende rektor",
+   "employer": "Trosterud skole, Oslo kommune, Utdanningsetaten",
+   "location": "OSLO, OSLO",
+   "postalCode": "0673",
+   "published": "2026-11-22T00:00:00+01:00",
+   "updated": "2026-11-22T22:58:08.810154+01:00",
+   "expires": "2026-12-07T00:00:00+01:00",
+   "applicationDue": "2026-12-07T00:00:00",
+   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5214159970&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
+   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ea6169b0-1d69-4eb4-8522-1c7399c84898",
+   "sourceurl": "",
+   "source": "IMPORTAPI",
+   "engagementtype": "Fast",
+   "extent": "Heltid",
+   "sector": "Offentlig",
+   "starttime": "",
+   "occupations": [
+    "Utdanning / Ledere av undervisning og utdanning"
+   ],
+   "description": "Trosterud skole og aktivitetsskole ligger på Haugerud i bydel Alna. Vi er en barneskole med rundt 400 elever på 1.–7. trinn. Trosterud skole har et stort språklig og kulturelt mangfold og engasjerte ansatte. Sammen arbeider vi for et inkluderende læringsmiljø, der alle elever skal oppleve tilhørighet, mestring og utvikling. \nVårt pedagogiske utviklingsarbeid er særlig rettet mot språkutviklende undervisning, grunnleggende ferdigheter, inkludering og sosial læring. Vi har et spesielt fokus på å styrke elevenes lese- og skriveferdigheter og utvikle deres språkforståelse. Vi arbeider systematisk og kunnskapsbasert med å videreutvikle undervisningspraksisen vår gjennom et profesjonsfellesskap preget av samarbeid, refleksjon og felles ansvar.\nVi søker nå en engasjert og utviklingsorientert assisterende rektor som ønsker å være med på å videreutvikle Trosterud skole. Som en del av skolens lederteam vil du få en sentral rolle i å lede pedagogisk utviklingsarbeid, styrke profesjonsfellesskapet og bidra til at alle elever opplever faglig og sosial mestring. Vi ser etter en leder som skaper engasjement, bygger gode relasjoner og bidrar til å omsette felles ambisjoner til god praksis.\nBli med på laget!\n\nArbeidsoppgaver\n• Rektors stedfortreder og en aktiv bidragsyter i skolens ledergruppe\n• Lede og videreutvikle skolens pedagogiske utviklingsarbeid i samarbeid med ledergruppen\n• Ha pedagogisk ansvar, personalansvar og oppfølging av tildelte trinn\n• Følge opp elevenes læringsresultater og bidra til systematisk kvalitetsutvikling\n• Ivareta oppgaver som fordeles i ledergruppen, som for eksempel timeplanlegging, oppfølging av Elevundersøkelsen, GSI-rapportering etc.\n• Legge til rette for et godt samarbeid mellom ansatte, elever, foresatte og øvrige samarbeidspartnere for å fremme elevenes faglige og sosiale utvikling\nKvalifikasjoner\n• Relevant pedagogisk utdanning fra universitet eller høyskole\n• Fullført eller påbegynt skolelederutdanning\n• Erfaring fra skoleledelse med personalansvar og pedagogisk ledelse\n• God systemforståelse, samt erfaring og gode resultater fra å lede utviklings- og endringsinnsatser\n• God innsikt i forskning og kunnskap om skoleutvikling og elevenes læring\n\n• Meget god skriftlig og muntlig fremstillingsevne på norsk\nPersonlige egenskaper\n• Du er en engasjert, ambisiøs og utviklingsorientert leder \n• Du er en tydelig og trygg leder som skaper engasjement, felles retning og oppslutning om mål\n• Du er analytisk og strategisk, arbeider strukturert og systematisk og har god gjennomføringsevne\n• Du er fleksibel, løsningsorientert og trives med en variert arbeidshverdag med høyt tempo\n• Du har høy arbeidskapasitet, gode kommunikasjonsevner og evne til å prioritere og ta beslutninger\n• Du har gode relasjonelle ferdigheter og bidrar aktivt til et godt arbeidsmiljø og en positiv samarbeidskultur preget av raushet og godt humør\n• Du har et grunnleggende positivt elevsyn og et sterkt engasjement for elevenes læring, utvikling og inkludering\n\nPersonlig egnethet vil bli tillagt stor vekt\nVi tilbyr\n• En spennende og utfordrende lederstilling med varierte oppgaver\n• Et inkluderende og godt arbeidsmiljø med engasjerte og kompetente medarbeidere\n• Et tett og utviklingsorientert lederteam med høye ambisjoner på elevenes vegne\n• Gode muligheter for faglig og personlig utvikling\n• En profesjonell skoleeier med gode støttefunksjoner og muligheter for kompetanseutvikling\n• Lønns- og arbeidsvilkår etter gjeldende lov- og avtaleverk\nKontaktinformasjon\nIda Skaare, Rektor, 97690723, ida.skaare@osloskolen.no\n\nArbeidssted\nTvetenveien 181\n\n0673 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5214159970\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 07.12.2026"
+  },
   {
    "id": "nav-eea0fc4f-0b1e-41ef-a67d-d09aae1cbe74",
    "uuid": "eea0fc4f-0b1e-41ef-a67d-d09aae1cbe74",
@@ -181,29 +306,6 @@
     "Kontor og økonomi / Megling"
    ],
    "description": "Salgskonsulent - B2B\n\nVil du kickstarte karrieren din innen salg og bli en del av et ledende Telecom-selskap i Norge?\n\nVi søker nå etter ambisiøse og dyktige salgskonsulenter som ønsker å bli en del av vårt salgsteam i Oslo. Enten du har et friår fra skolen og ønsker å tjene penger, eller du er en naturlig relasjonsbygger med lidenskap for salg -- dette kan være den perfekte muligheten for deg!\n\nHva tilbyr vi deg?\n\n• \nVeldig god lønn basert på provisjons- og bonusordning uten tak for inntjeningen, med solid grunnlønn i bunn. Hvis du leverer enligt budsjett, vil du kunne tjene godt -- mange av våre ansatte tjener 50.000kr/mnd og oppover.\n\n• \nFelles jobbing med oppslag og varme leads, som gir deg et godt utgangspunkt for å lykkes.\n\n• \nSalg av Norges mest fremoverlente Telecom-løsninger fra Unifon -- en bransje som alle \"har et forhold til\" og vil være mulige kunder av.\n\n• \nProfesjonell opplæring, coaching og kontinuerlig oppfølging fra erfarne salgsledere som vet hva som skal til for å lykkes i bransjen.\n\n• \nKarrieremuligheter både internt og eksternt -- våre salgsledere har selv startet på samme måte som deg og bygd sine karrierer hos oss.\n\n• \nEt motiverende, hyggelig og dedikert arbeidsmiljø, med kollegaer du vil like å \"gå i krigen\" sammen med, og kanskje ta en fortjent fredagspils etter en god uke!\n\n• \nModerne kontorfasiliteter i Nydalsveien 36 B, 0484 Oslo, med delikate lokaler og et miljø som legger til rette for både trivsel og produktivitet.\n\nHva ser vi etter i deg?\n\n• \nDu har en positiv innstilling og er motivert til å ta fatt på nye utfordringer.\n\n• \nMotivert av å påvirke egen lønn gjennom provisjon, og er selvgående nok til å styre din egen hverdag.\n\n• \nDu er over 18 år og behersker norsk meget godt, både skriftlig og muntlig.\n\n• \nTidligere salgserfaring kan være en fordel, men er ikke et krav -- innsatsvilje og motivasjon veier tyngre enn erfaring!\n\nArbeidstid og arbeidsplass:\n\nMandag -- fredag fra kl 09:00 -- 16:00 på kontoret i Nydalsveien 36 B, 0484 Oslo.\n\nHøres dette ut som noe for deg?\n\nKult! Send din CV/søknad i dag, så finner vi ut om dette er en god match!\n\nVi behandler alle henvendelser konfidensielt og fortløpende.\n\nFor ytterligere informasjon eller spørsmål:\n\nTa kontakt med: Rasmus Johansson\n\nEpost: rj@salent.no\n\nMobil: +47 46 30 54 32"
-  },
-  {
-   "id": "nav-0ce13c59-1a92-4538-94ea-4da576eea1f3",
-   "uuid": "0ce13c59-1a92-4538-94ea-4da576eea1f3",
-   "title": "Er du aktiv i lek med barn? Vil du ta del i et inkluderende og godt arbeidsmiljø? Bli vår nye kollega!",
-   "jobtitle": "",
-   "employer": "Stiftelsen Kanvas",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-11-20T14:38:21.57+01:00",
-   "updated": "2026-11-20T18:08:43.200811+01:00",
-   "expires": "2026-12-20T22:59:00+01:00",
-   "applicationDue": "2026-12-20",
-   "applicationUrl": "https://kollegia.no/jobs/qd77sgkc4ssza1qvvrt64cb86d8jkz73?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/0ce13c59-1a92-4538-94ea-4da576eea1f3",
-   "sourceurl": "https://kollegia.no/jobs/qd77sgkc4ssza1qvvrt64cb86d8jkz73?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Heltid",
-   "sector": "",
-   "starttime": "",
-   "occupations": [],
-   "description": "Har du lyst til å gi barn en god oppvekst og fantastiske barnehagehverdager? Både erfarne og uerfarne kandidater er velkomne til å søke.\n\nMølleplassen Kanvas-barnehage er en del av den ideelle barnehagestiftelsen Kanvas. Vi holder til sentralt på Røa, og det er fem minutter å gå til både buss og t-bane. Personalgruppen vår består av faglig sterke, engasjerte og inkluderende medarbeidere, som jobber kontinuerlig for at både barn og kollegaer skal trives og utvikle seg. \n\nI Mølleplassen har vi lek som hovedfokus. Leken innebærer stort sett alt barna foretar seg som en del av fellesskapet. Når barna leker får de brukt sin fantasi og kreativitet, sine motoriske ferdigheter, matematiske begreper. De viser hensyn og håndterer konflikter samtidig som de får øvd seg på impulskontroll.\n\nVi jobber mye med barnehagens rom. For å skape trygghet, ro, og å kunne møte barna der de er, jobber vi hele tiden med utformingen av barnehagens rom. Vi er lydhøre ovenfor barnas innspill når det gjelder innredning og det fysiske lekemiljøet og tilrettelegger rommene deretter. Denne bevegelige praksisen gjør at lekens egenverdi blir ivaretatt på barnas egne premisser.\n\nVi oppfordrer menn til å søke!\n\nSom pedagogisk medarbeider i Mølleplassen Kanvas-barnehage vil du kunne bidra til å gi barn en god barnehagehverdag og en god start på livet. Lek og omsorg for barn er en naturlig del av arbeidshverdagen. Du vil få varierte og aktive arbeidshverdager, og samarbeide med kollegaer om det pedagogiske arbeidet. Hvis du har relevante ferdigheter eller interesser, er det mulighet for å bidra med dette inn i barnehagehverdagen.\n\nVi har behov for et fast vikariat fra 1.12.26 - 31.7.27, med mulighet for forlengelse.\n\nArbeidsoppgaver \n\n• \n\n• Bidra til omsorg av hvert enkelt barn og barnegruppen\n• \n\n• Bidra til et godt fysisk og psykososialt barnehagemiljø\n• \n\n• Bidra til å et godt foreldresamarbeid\n• \n\n• Aktivt medvirke til et godt og sikkert arbeidsmiljø\n• \n\nKvalifikasjoner:\n\n• \n\n• Hvis du har annet førstespråk enn norsk må du ha bestått følgende: \n• \n\n• Delprøve A2 i skriftlig fremstilling\n• \n\n• Delprøve B1 i lese- og lytteforståelse og muntlig kommunikasjon\n• \n\n• \n\n• Du må kunne vise politiattest\n• \n\nPersonlige egenskaper: \n\n• \n\n• Du liker å jobbe med barn\n• \n\n• Du trives med en fysisk aktiv hverdag\n• \n\n• Du kan kommunisere og samarbeide godt med barn, kolleger og foreldre\n• \n\n• Du ser verdien av å være i utvikling\n• \n\nVi tilbyr gode pensjons- og forsikringsordninger og lønn i henhold til PBLs tariffavtale. Lønn for fagarbeidere (barne- og ungdomsarbeidere) er i dag fra kr. 478.400,- til kr. 559.900,- (fra 0 til 16 års ansiennitet). Lønn som pedagogisk medarbeider er for tiden fra kr. 420.500,- til kr. 519.300,- (fra 0 til 16 års ansiennitet).\n\nSøknader og innkalling til intervju vurderes fortløpende. Tiltredelse etter avtale.\n\n Kanvas ble stiftet som et foreldreinitiativ i 1986, og er i dag Norges største barnehagestiftelse med ideelle formål. Vi har over 60 barnehager i 11 kommuner i Norge. Kanvas har ingen eiere, og et eventuelt overskudd fra barnehagedriften føres tilbake til stiftelsen - til det beste for barna og de ansatte i våre barnehager.Kanvas' ideelle formål er todelt. Vi skal bidra til å bedre barns oppvekstsvilkår og foreldrenes hverdag gjennom drift av gode barnehager. Samtidig skal vi øke kvaliteten og statusen i barnehagesektoren gjennom nytenking og kompetanseutvikling som deles internt og eksternt. Slik bidrar Kanvas til å videreutvikle barnehagesektoren. \n\nLes mer om Kanvas her."
   },
   {
    "id": "nav-d679ed44-eacc-41e2-94b5-2289bac8a6ea",
@@ -2417,31 +2519,6 @@
     "Helse og sosial / Miljøarbeidere"
    ],
    "description": "Aurora Omsorg Oslo er i god drift. Vi har dyktige medarbeidere, etablerte tjenester og et godt fundament å bygge videre på.\nNå søker vi en institusjonsleder som ikke bare ønsker å forvalte det som fungerer, men som motiveres av å utvikle mennesker, fag og tjenester videre.\nVi ser etter deg som er sosialarbeider i hjertet og leder i praksis. Du er ærekjær på fagets vegne, har høye ambisjoner for tjenestene og forstår samtidig at god kvalitet krever god drift. Du har gjerne en gründermentalitet, ser muligheter og evner å omsette ideer til handling.\nOm rollen\nSom institusjonsleder får du et helhetlig ansvar for Auroras barnevernsvirksomhet i ditt område, med overordnet ansvar for personal, kvalitet og økonomi. Rollen innebærer både fagledelse, strategisk ledelse og ansvar for god ressursstyring. \nDu leder gjennom avdelingslederne og skal skape retning, utviklingskraft og gode rammer for dem som hver dag leverer tjenestene våre.\nEn viktig del av oppdraget blir å:\n• videreutvikle tjenestene med utgangspunkt i faglig kvalitet og behovene i markedet\n\n• utvikle lederne våre og bygge sterke og robuste team\n\n• sikre forsvarlige tjenester og høy faglig kvalitet\n\n• ha god styring på økonomi, bemanning og ressurser\n\n• følge opp HMS, kvalitetssystemer og avvik\n\n• bidra aktivt til strategi og virksomhetsutvikling\n\n• se nye muligheter for hvordan Aurora kan utvikle og styrke sitt tilbud\n\n• bygge gode relasjoner med oppdragsgivere, myndigheter og samarbeidspartnere\n\nStillingen har også overordnet ansvar for blant annet inntak, institusjonsplaner og oppfølging av tilsyn.\nHvem ser vi etter?\nVi ser etter en trygg og tydelig leder med sosialfaglig utdanning og forståelse og et sterkt engasjement for barnevernsfeltet.\nMen erfaring og utdanning alene er ikke det som vil avgjøre om du lykkes hos oss.\nVi tror du kjenner deg igjen i dette:\n• Du har sterk faglig integritet og høye ambisjoner for tjenestene.\n\n• Du har ledererfaring og trives med å utvikle andre ledere.\n\n• Du kombinerer sosialfaglig forståelse med økonomisk og kommersiell teft.\n\n• Du ser utviklingsmuligheter og tenker lenger enn den daglige driften.\n\n• Du er trygg nok til å utfordre etablerte løsninger når det er nødvendig.\n\n• Du tar ansvar, prioriterer og får ting gjennomført.\n\n• Du bygger tillit og gode relasjoner både internt og eksternt.\n\n• Du evner å stå stødig også når beslutningene er krevende.\n\nFor oss handler forretningsforståelse ikke om å sette økonomi foran fag. Det handler om å forstå hvordan god faglighet, riktige prioriteringer, gode medarbeidere og bærekraftig drift henger sammen.\nHvorfor Aurora?\nDu kommer til en virksomhet med stødig drift og et godt fundament. Din oppgave blir å ta vare på det som fungerer, samtidig som du løfter blikket og utfordrer oss på hva neste steg skal være.\nDu får derfor både ansvar og handlingsrom. Vi ønsker en leder som kommer med initiativ, som tør å tenke nytt og som har lyst til å være med på å forme den videre utviklingen av Aurora Omsorg i Oslo.\nI Aurora arbeider vi etter våre RAUSS-prinsipper: Respekt for alle, Aldri gi opp, Uformell men profesjonell, Stol på andre og vær til å stole på, og Se løsninger, ikke problemer.\nEr du den som ser muligheter der andre ser begrensninger?\nDa kan dette være lederrollen for deg.\nVi gleder oss til å høre fra deg."
-  },
-  {
-   "id": "nav-df82a23b-975d-4488-9878-983a269c9dc9",
-   "uuid": "df82a23b-975d-4488-9878-983a269c9dc9",
-   "title": "- Vi søker tømrere / We are hiring carpenters",
-   "jobtitle": "Tømrere / Carpenters",
-   "employer": "Personellgruppen",
-   "location": "OSLO, OSLO",
-   "postalCode": "0668",
-   "published": "2026-11-19T00:00:01+01:00",
-   "updated": "2026-11-20T08:23:14.823884+01:00",
-   "expires": "2026-11-22T23:59:59+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://apply.recman.page/job_post.php?id=493692&path=nav&sub_id=890",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/df82a23b-975d-4488-9878-983a269c9dc9",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Annet",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Håndverkere / Tømrer og snekker"
-   ],
-   "description": "Vi søker tømrere til prosjekter over hele Norge\n\nVi søker dyktige tømrere til oppdrag med snarlig oppstart. Arbeidet vil foregå på prosjekter flere steder i landet.\nEr dette aktuelt for deg? Send søknad eller ta kontakt på e-post: markus@personellgruppen.no\n\nØnskede kvalifikasjoner:\n• Fagbrev som tømrer er en fordel, men lang erfaring kan kompensere for manglende fagbrev\n• Erfaring fra arbeid i Norge er en stor fordel\n• Erfaring med konstruksjon, montering, innvendig og utvendig arbeid\n• Evne til å jobbe selvstendig og effektivt\n• Gode kommunikasjonsevner og forståelse av norsk og/eller engelsk\n\nVi tilbyr:\n• Et godt arbeidsmiljø med hyggelige kolleger\n• Oppdrag med gode muligheter for forlengelse\n• Gode betingelser, forsikringer og pensjonsordning\n• Hjelp til å skaffe bolig ved behov\n\nSøk snarest – ansettelser skjer fortløpende.\n\nPersonellgruppen ansetter kontinuerlig kandidater til flere typer stillinger og prosjekter over hele landet. Dersom du har erfaring fra tekniske fag eller prosjektarbeid, oppfordrer vi deg til å ta kontakt.\n\nJoin our job board on WhatsApp: Link\n______________________\n\nWe are hiring Carpenters for projects across Norway\n\nWe are looking for skilled carpenters for projects with immediate start. The work will take place on projects in different locations across Norway.\nInterested? Send your application or contact us by email: markus@personellgruppen.no\n\nDesired qualifications:\n• Trade certificate as a carpenter is an advantage, but long experience can compensate for lack of formal certification\n• Experience working in Norway is a strong advantage\n• Experience with construction, installation, and interior/exterior work\n• Ability to work independently and efficiently\n• Good communication skills and understanding of Norwegian and/or English\n\nWe offer:\n• A good working environment with friendly colleagues\n• Projects with good possibilities for extension\n• Competitive conditions, insurance, and pension scheme\n• Assistance with accommodation if needed\n\nApply as soon as possible – hiring takes place on an ongoing basis.\n\nPersonellgruppen continuously recruits candidates for several types of positions and projects across Norway. If you have experience in technical trades or project-based work, we encourage you to get in touch.\n\nJoin our job board on WhatsApp: Link"
   },
   {
    "id": "nav-618fa0cd-9a4a-4d50-9e2b-cbc9700df9a6",
@@ -5299,31 +5376,6 @@
    "description": "Mestergruppen søker nå en teknisk produktleder til Headless Commerce plattformen vår, et av våre strategiske satsingsområder innen digitalisering. Omnium er en Headless Commerce plattform som er en sentral del av netthandelsplattformen vår, der vi forvalter og bygger netthandelstjenester til alle kjedekonseptene i Mestergruppen.\n\nVi styrker nå vårt Headless Commerce team som er sentralt på alle virksomhetskritiske områder for digitale kanaler. Vi har mange initiativer på gang, blant annet forvaltning og utvikling av skybaserte løsninger; som dataplattform, masterdataplattform, identitetsplattform og netthandelsplattform (inkl. Headless Commerce).\n\nVi har en mikrotjeneste basert systemarkitektur av distribuerte systemer i sky og med DevOps som prinsipp. Vi bruker Google Cloud Platform, og jobber med Infrastruktur as code og automatisert deployment med Pipelines. Vi benytter komponenter som Elasticsearch og Kafka i dataplattformen vår, Auth0 i identitetsplattformen og Omnium og Sanity i netthandelsplattformen; på backend koder vi i Kotlin og Python, og på frontend koder vi i React. Claude Code har også blitt en naturlig del av arbeidshverdagen vår det siste året.\n\nHos oss vil du få\n\n• \n\n• Være med å videreutvikle det sterkeste fagmiljøet innen systemutvikling i byggebransjen\n• \n\n• Være med å påvirke produktvisjon, veikart og prioriteringer for Omnium og netthandelsplattformen\n• \n\n• Jobbe tett med utviklerne på domenedrevet design og arkitekturvalg \n• \n\n• Bruke data og brukerinnsikt til å prioritere backlog og måle effekten av det vi leverer\n• \n\n• Jobbe i team basert på smidig metodikk\n• \n\n• Utvikle deg innen ny teknologi og mulighet til å jobbe med noe som angår oss alle – hjemmene våre\n• \n\nVi søker\n\n• \n\n• Du har erfaring som produktleder, produkteier eller tilsvarende rolle for tekniske plattformer eller systemer innen Headless Commerce / eCommerce\n• \n\n• Har god forståelse for systemarkitektur og kan kommunisere godt med utviklingsteam, uten nødvendigvis å kode selv\n• \n\n• Vi ser etter deg som brenner for det du holder på med, er ambisiøse og liker høyt tempo.\n• \n\n• Du tenker helhetlig og er opptatt av å forstå og levere på behovene til brukerne av produktene vi utvikler.\n• \n\n• Har god kjennskap til Order Management-systemer for digital handel, gjerne fra byggebransjen.\n• \n\n• Erfaring med Omnium er en fordel\n• \n\n Vi kan tilby\n\n• \n\n• Interessante faglige utfordringer og utviklingsmuligheter\n• \n\n• Et svært godt tverrfaglig og sosialt miljø\n• \n\n• Du blir del av boligbransjens fremste og største kompetansemiljø\n• \n\n• Gode muligheter for kurs og årlige midler til egenutvikling\n• \n\n• Fleksibel arbeidstidsordning, konkurransedyktige betingelser og personalordninger\n• \n\nSynes du dette høres spennende ut og har lyst til å være med på å forme fremtiden til en av Norges viktigste bransjer og arbeidsplasser? Da vil vi gjerne høre fra deg! Ta kontakt for en uformell prat.\n\n I Mestergruppen mener vi at mangfold gjør oss sterkere. Vi verdsetter medarbeidere med ulike perspektiver, erfaringer og bakgrunner, og jobber aktivt for å skape et inkluderende miljø der alle føler seg velkomne og respektert. Vi oppfordrer derfor alle kvalifiserte kandidater til å søke. Bli en del av vårt team - og bidra til å forme en fremtid hvor mangfold er vår styrke og inkludering er vår standard."
   },
   {
-   "id": "nav-412fc330-edf3-4561-915a-d027c618b0de",
-   "uuid": "412fc330-edf3-4561-915a-d027c618b0de",
-   "title": "Rådgiver VA Prosess, Oslo",
-   "jobtitle": "",
-   "employer": "Sweco",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-11-17T08:37:53.679+01:00",
-   "updated": "2026-11-18T08:37:38.958752+01:00",
-   "expires": "2026-12-18T22:59:00+01:00",
-   "applicationDue": "2026-12-18",
-   "applicationUrl": "https://kollegia.no/jobs/qd701cyj45evcjazw6we4ae1n58jdvt9?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/412fc330-edf3-4561-915a-d027c618b0de",
-   "sourceurl": "https://kollegia.no/jobs/qd701cyj45evcjazw6we4ae1n58jdvt9?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Bygg og anlegg / Ingeniør bygg"
-   ],
-   "description": "Når vi i Sweco valgte plasseringen av vårt nye hovedkontor, var det alt annet enn tilfeldig at vi endte opp midt i bykjernen. Byens puls og stadig endringstakt forblir en av våre viktigste inspirasjonskilder når vi utvikler morgendagens samfunn. Som Europas største arkitekt- og ingeniørvirksomhet planlegger vi ikke bare hvordan vi skal bygge – vi planlegger hvordan vi skal leve. Nå søker vi en rådgiver innen vann og avløp som deler vår drøm om å sette sitt preg på samfunnsutviklingen!\n\nSom VA-rådgiver i Sweco får du muligheten til å jobbe med utfordrende prosjekter fra dag én, alltid i samarbeid med engasjerte kolleger og med trygg veiledning fra erfarne fagspesialister. Du får betydelig ansvar, men vi gir deg mye frihet i retur. Vi forstår at jobben ikke er hele livet, og at du også trenger tid til å gå toppturer, sykle i skogen, levere i barnehagen eller jobbe hjemmefra når det passer deg.\n\nPå vår VA-avdeling i Oslo vil du være en del av et av Norges største og fremste VA-miljøer med ekspertise innen VA-prosessanlegg, VA-transportanlegg, overvann og klimatilpasning. Vi har et bredt spekter av ulike prosjekttyper, avhengig av dine interesser. Avdelingen består av sosiale og faglig dyktige kollegaer med en god blanding av juniorer, middelkarriere og seniorer. «Bidra til fellesskapet» står sterkt i vår avdeling, og alle våre ansatte føler et ansvar for å ivareta dette – det betyr alt fra å bidra til at alle føler sosial tilhørighet i teamet, til at våre mer erfarne medarbeidere hjelper med å utvikle og løfte de mindre erfarne medarbeiderne til å bli dyktige rådgivere. Nå gleder vi oss stort til å ønske nettopp DEG velkommen for å styrke vårt allerede godt etablerte fagmiljø innen vann- og avløpsteknikk.\n\nDette er deg: \n\n• \n\n• Du har en master/ bachelorgrad innen vann- og avløpsteknikk, vann- og miljøteknikk, eller maskin- og prosessteknikk. Relevant erfaring kan kompensere for manglende formell utdanning. Erfaring fra prosessleverandør er en stor fordel.\n• \n\n• Du har minimum 3 års relevant erfaring med tidligfasevurderinger eller detaljprosjektering av avløpsrenseanlegg, vannbehandlingsanlegg eller pumpestasjoner og trykkøker. Erfaring med 3D-modellering er ønskelig.\n• \n\n• Du er kreativ og har evne til å tenke både innenfor og utenfor boksen\n• \n\n• Du blir inspirert av kolleger som er engasjerte og dyktige\n• \n\n• Du har gode kommunikasjons- og relasjonsegenskaper\n• \n\n• Du er proaktiv og oppsøker muligheter både internt og eksternt\n• \n\n• Du trives med samarbeid, og setter pris på mangfold i tankegang og perspektiver\n• \n\nDette er jobben: \n\n• \n\n• Konseptutvikling, tidligfasevurderinger og rådgivning innen VA-prosessanlegg\n• \n\n• Prosjektering og utarbeidelse av beskrivelser i alle prosjektfaser\n• \n\n• 3D modellering\n• \n\n• Tett samarbeid med både eksisterende og nye kunder\n• \n\n• Prosjektoppfølging i henhold til vårt brukervennlige kvalitetsstyringssystem\n• \n\n• Eventuelt oppdragsledelse for små enfaglige og mellomstore tverrfaglige prosjekter, basert på dine ønsker og ansiennitet\n• \n\n• Eventuelt disiplinledelse innen VA-prosessanlegg, basert på ansiennitet\n• \n\nI 2024 flyttet vi inn i vårt nye hovedkontor på Grønland – vi kan nesten ikke tro hvor fantastisk vi har det i hjertet av byens mest livlige bydel! Vi vil påstå at dette er et av byens grønneste og mest moderne kontorbygg, med alt du kan drømme om av velferdsgoder og tekniske løsninger for å gjøre arbeidsdagen både effektiv og morsom. Hvis du lurer på hvor du finner bransjens beste treningsrom, kantine, kaffebar eller takterrasse, har vi svaret!\n\nHos Sweco garanterer vi et engasjerende og utviklende arbeidsmiljø i tett samarbeid med dyktige fagfolk som virkelig brenner for jobben de gjør! Vi har et aktivt og levende bedriftsidrettslag, et humorlag som arrangerer utflukter og sosiale begivenheter på tvers av organisasjonen, og ikke minst et fagmiljø i verdensklasse. Videre tilbyr vi konkurransedyktige betingelser, svært gode forsikringsordninger, solid pensjonssparing, og en sikker og pålitelig stilling i Europas ledende ingeniørvirksomhet .\n\nFor spørsmål om stillingen kan du kontakte gruppeleder for VA Prosess og Utredning i Oslo, Topi Vaarala, på telefon 481 998 57. Vi ser frem til å høre fra deg!"
-  },
-  {
    "id": "nav-1f0aeeda-05db-4255-a6bb-ef785d82c8b4",
    "uuid": "1f0aeeda-05db-4255-a6bb-ef785d82c8b4",
    "title": "Servicemedarbeider i Oslo",
@@ -7053,7 +7105,7 @@
    "location": "OSLO, OSLO",
    "postalCode": "0687",
    "published": "2026-11-16T23:09:27+01:00",
-   "updated": "2026-11-17T09:57:40.890079+01:00",
+   "updated": "2026-11-23T01:31:46.708365+01:00",
    "expires": "2026-11-23T00:00:00+01:00",
    "applicationDue": "Snarest",
    "applicationUrl": "",
@@ -7143,31 +7195,6 @@
     "Salg og service / Salg, butikk- og varehandel"
    ],
    "description": "Achive Quality\nMohamed Cleaning\nEtablerer Lion Squad – vår dedikerte elitesatsing for oppsøkende B2B-salg, møtebooking og oppdragssikring i Oslo og Trondheim.\n\nHva vi ser etter\n\nDu har erfaring fra eller brenner for oppsøkende B2B-salg, telefonkontakt og møtebooking.\n\n​Du kjennetegnes av utholdenhet, sterk gjennomføringsevne og leverer kompromissløse resultater.\n\n​Du har utmerkede kommunikasjonsevner på norsk, både skriftlig og muntlig.\n\n​Tilstedeværelse: Du kan gjennomføre faste, fysiske samarbeidsmøter med CEO i Oslo eller Trondheim. Førerkort klasse B er en fordel, men ikke et krav.\n\n​Du har profesjonell fremtreden og nulltoleranse mot rasisme, diskriminering og uetisk oppførsel.\n\nArbeidsoppgaver\n\nMøtebooking & Telefonkontakt: Identifisere, kartlegge og kontakte potensielle B2B-kunder og utleieverter via telefon, prospektering og oppsøkende salg.\n\n​Fysiske møter med CEO & Evalueringsmøter: Delta i tette, fysiske arbeids- og strategimøter med CEO Said Ahmed Mohamed for planlegging, måloppnåelse og salgsstrategi.\n\n​Befaringer & Kundekontakt: Planlegge og avtale befaringsmøter. CEO deltar som hovedregel på befaringsmøter og sluttforhandlinger. Ved forfall har du full tillit og ansvar for å gjennomføre befaringen selvstendig.\n\n​Kundeoppfølging & Portefølje: Ha operativ kundekontakt og bygge langsiktige relasjoner mot markedet.\n\nVi tilbyr\n\nVi stiller høye krav til innsats og belønner resultatstørrelse med en forutsigbar og attraktiv avtalestruktur uten øvre provisjonstak:\n\n​Fast grunnlønn: 5 000 kr/mnd (Fast månedlig godtgjørelse for forutsigbarhet)\n\n​Provisjon -- Liten avtale: 2 500 kr pr. avtale\n\n​Provisjon -- Middels avtale: 3 500 kr pr. avtale\n\n​Provisjon -- Større avtale: 5 000 kr pr. avtale\n\n​Provisjon -- Størst avtale: 10 000 kr pr. avtale\n\n​Provisjon -- Vertsavtale: 1 500 kr pr. avtale\n\n​Karrierestige mot fast stilling: Ved 10 landede kontrakter innkalles du til evalueringsmøte med CEO for overgang til fast stilling (f.eks. Salgsleder / Key Account Manager) med nye betingelser."
-  },
-  {
-   "id": "nav-f3753644-91c1-45b0-b840-401cddb6f490",
-   "uuid": "f3753644-91c1-45b0-b840-401cddb6f490",
-   "title": "Vil du bruke din fagkompetanse til å gi barn en trygg og god start på livet? Da har vi jobben for deg!",
-   "jobtitle": "",
-   "employer": "Stiftelsen Kanvas",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-11-16T17:38:03.752+01:00",
-   "updated": "2026-11-17T12:13:01.046577+01:00",
-   "expires": "2026-12-01T22:59:00+01:00",
-   "applicationDue": "2026-12-01",
-   "applicationUrl": "https://kollegia.no/jobs/qd7cx4zxa4m4tymac6yrbj2rr58jaasm?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f3753644-91c1-45b0-b840-401cddb6f490",
-   "sourceurl": "https://kollegia.no/jobs/qd7cx4zxa4m4tymac6yrbj2rr58jaasm?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Utdanning / Barnehagelærer"
-   ],
-   "description": "Tinkern Kanvas-barnehage søker en engasjert og faglig sterk pedagogisk leder i fast stilling. \n\nTinkern Kanvas-barnehage er en del av den ideelle barnehagestiftelsen Kanvas. Tinkern åpnet i 2010 og ligger sentralt til på Skillebekk i Frogner bydel. Barnehagen har plass til 127 barn fordelt på sju avdelinger, og tilbyr varierte og inspirerende omgivelser med blant annet gymsal, vannrom, formingsrom og grupperom. \n\nVi har en inkluderende personalgruppe med faglig sterke og engasjerte medarbeidere som kontinuerlig jobber for at både barn og kollegaer skal trives og utvikle seg. 43 % av personalet er pedagogiske ledere.\n\nDette barnehageåret er vårt fokus å utvikle et inkluderende språkmiljø, der alle barn får uttrykke seg, bli lyttet til og oppleve tilhørighet, samtidig som flerspråklighet verdsettes og språklig mangfold synliggjøres i hverdagen. Parallelt jobber vi med barnehagens fysiske leke- og læringsmiljø for å fremme lek, trivsel og utvikling.\n\nSom pedagogisk leder i Tinkern Kanvas-barnehage får du hovedansvaret for en barnegruppe og det pedagogiske arbeidet på avdelingen. Du vil jobbe tett sammen med resten av teamet for å planlegge, gjennomføre og videreutvikle det pedagogiske arbeidet på avdelingen. Som pedagogisk leder vil du være en rollemodell, veilede det øvrige personalet og bidra til at hele personalet arbeider målrettet i tråd med barnehagens verdier og mål. Vi ønsker både erfarne og nyutdannede pedagogiske ledere velkommen.\n\nVi sørger for en myk start gjennom vårt onboarding-program, og nyutdannede barnehagelærere følger Kanvas’ veiledningsprogram det første året som ansatt. I tillegg gir vi deg tilbud om jevnlig individuell veiledning i barnehagen. Det er også mulighet for å delta på Kanvas’ utviklingsprogram for barnehagelærere (KUL).\n\nOppstart etter avtalte. Vi behandler søknader fortløpende. \n\nArbeidsoppgaver: \n\n• \n\n• Planlegge, gjennomføre, dokumentere og evaluere det pedagogiske arbeidet\n• \n\n• Sørge for den helhetlige omsorgen for hvert enkelt barn og barnegruppen\n• \n\n• Bidra til et godt fysisk og psykososialt barnehagemiljø\n• \n\n• Bidra til et godt foreldresamarbeid\n• \n\n• Være en god rollemodell og veilede øvrig personale\n• \n\n• Aktivt medvirke til et godt og sikkert arbeidsmiljø\n• \n\n• Delta på møter, kurs og veiledning, samt holde seg faglig oppdatert\n• \n\nAbsolutte kvalifikasjoner og krav: \n\n• \n\n• Du må ha godkjent utdannelse som barnehagelærer.\n• \n\n• Hvis du har utenlandsk yrkeskvalifikasjon, med unntak av skandinavisk, må du ha norsk godkjenning\n• \n\n• \n\n• Du må vise politiattest før oppstart.\n• \n\nPersonlige egenskaper: \n\n• \n\n• Du trives med en fysisk aktiv hverdag hvor lek med barn står i sentrum\n• \n\n• Du kan kommunisere og samarbeide godt med barn, kolleger og foreldre.\n• \n\n• Du er strukturert og opptatt av kvalitet i arbeidet ditt\n• \n\n• Du ser verdien av å være i utvikling\n• \n\n• Du er varm og inkluderende i møte med barn, foreldre og kollegaer\n• \n\nVi tilbyr: \n\n• \n\n• Onboarding-program for nyansatte\n• \n\n• 1 års veiledning for nyutdannede barnehagelærere\n• \n\n• Mulighet for å delta på Kanvas’ utviklingsprogram for barnehagelærere (KUL)\n• \n\n• Arbeidstid: 7,5 timers-vakter (inkludert betalt lunsjpause)\n• \n\n• Relevant tilleggsutdanning gir følgende tillegg:\n• \n\n• 30 stp. kr 13.000,-\n• \n\n• 60 stp. kr 26.000,-\n• \n\n• 90 stp. kr 30.000,-\n• \n\n• Master kr 40.000,-\n• \n\n• \n\n• God pensjonsavtale med AFP\n• \n\n• Firmahytte på Geilo\n• \n\n• Et godt arbeidsmiljø \n• \n\n• Vikar ved behov \n• \n\n Kanvas ble stiftet som et foreldreinitiativ i 1986, og er i dag Norges største barnehagestiftelse med ideelle formål. Vi har over 60 barnehager i 11 kommuner i Norge. Kanvas har ingen eiere, og et eventuelt overskudd fra barnehagedriften føres tilbake til stiftelsen - til det beste for barna og de ansatte i våre barnehager.Kanvas' ideelle formål er todelt. Vi skal bidra til å bedre barns oppvekstsvilkår og foreldrenes hverdag gjennom drift av gode barnehager. Samtidig skal vi øke kvaliteten og statusen i barnehagesektoren gjennom nytenking og kompetanseutvikling som deles internt og eksternt. Slik bidrar Kanvas til å videreutvikle barnehagesektoren. \n\nLes mer om Kanvas her."
   },
   {
    "id": "nav-0f1cf4f3-2e8c-4cf3-998f-6b5d27fc41ee",
@@ -7456,7 +7483,7 @@
    "location": "OSLO, OSLO",
    "postalCode": "1182",
    "published": "2026-11-16T12:24:02+01:00",
-   "updated": "2026-11-16T13:54:55.953314+01:00",
+   "updated": "2026-11-23T01:31:47.77787+01:00",
    "expires": "2026-11-23T00:00:00+01:00",
    "applicationDue": "Snarest",
    "applicationUrl": "",
@@ -7471,31 +7498,6 @@
     "Utdanning / Barnehage- og skolefritidsassistenter"
    ],
    "description": "Vi søker deg som barnehageassistent med følgende kvaliteter:\n\n• \nEngasjert og nysgjerrig\n\n• \nLeken og barnslig\n\n• \nAnsvarsbevisst og tilpasningsdyktig.\n\n• \nLojal og tillitsfull\n\n• \nEvne til å arbeide selvstendig å se arbeidsoppgaver, men samtidig god til å samarbeide for å skape et trygt lærings-/ og arbeidsmiljø.\n\n• \nKrav til kompetanse\n\n• \nØnsket kompetanse\n\n• \nPersonlige egenskaper\n\nAlle søknader sendes e-post.\n\nSykdomsvikariatet varer frem f.o.m. 23.11.26 t.o.m. 18.12.2026. Med mulighet for videre vikariat på nyåret."
-  },
-  {
-   "id": "nav-c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "uuid": "c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "title": "BPA rådgiver",
-   "jobtitle": "BPA rådgiver",
-   "employer": "Aberia Omsorg & Assistanse AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0250",
-   "published": "2026-11-16T11:48:05.745649+01:00",
-   "updated": "2026-11-16T12:49:11.36335+01:00",
-   "expires": "2026-11-22T00:00:00+01:00",
-   "applicationDue": "22.11.2026",
-   "applicationUrl": "https://jobs.mojob.io/48738/?utm_id=34804&utm_campaign=34804&utm_medium=job_share&utm_source=nav&utm_term=BPA+r%C3%A5dgiver&utm_content=48738",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c29ad225-941a-470f-a3b6-4492be9c0bde",
-   "sourceurl": "https://jobs.mojob.io/48737/",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Miljøarbeidere"
-   ],
-   "description": "Vi søker en BPA-rådgiver til et seks måneders vikariat, med oppstart så snart som mulig.\n\nHva som møter deg hos oss? En jobb med mennesker. Mange mennesker. Arbeidsledere, assistenter, kolleger og samarbeidspartnere. Du får «egne» BPA-ordninger å følge opp og ansvar innen blant annet personal, kvalitet, bemanning, økonomi og drift.\n\nDu får også kolleger som kommer til å blande seg inn. På den gode måten. For hos oss skal du ikke sitte alene med utfordringene. Vi deler kunnskap, sparrer, utfordrer og hjelper hverandre. Vi spiller hverandre gode, feirer når vi lykkes og har lav terskel for både spørsmål og latter. Best sammen er ikke ment som pynt på en vegg. Det skal merkes i arbeidsdagen.\nDu trenger ikke kunne alt fra dag én – men du har god kjennskap til BPA. Du liker ansvar, du er god med mennesker, du er strukturert - og du leter etter løsningen når noe ikke går helt etter planen.\nVikariatet varer i utgangspunktet i seks måneder. Det kan bli aktuelt med forlengelse, men vi lover ikke mer enn det vi vet vi kan holde. Og - vi kan love at du blir ordentlig med på laget mens du er her.\nSkal vi holde av en plass til deg?\nPersonlige egenskaper\n• Strukturert med høy gjennomføringsevne\n\n• Ansvarsfull\n\n• Fleksibel\n\n• Problemløser\n\n• Tålmodig\n\n• Kunne yte service og være fleksibel\n\n• Jobbe i team, samtidig som du trives med å jobbe selvstendig\n\nVi tilbyr\n• En spennende og utfordrende stilling i et dynamisk selskap i vekst.\n\n• En mulighet til å være en del av et selskap og arbeidsgruppe som strekker seg langt for at våre arbeidsledere og assistenter skal få den beste hjelp og støtte.\n\n• Konkurransedyktige betingelser.\n\nGyldig politiattest må leveres før tiltredelse."
   },
   {
    "id": "nav-1b27b89f-74fc-4d0a-b8a6-27d6d0977a31",
@@ -7723,31 +7725,6 @@
    "description": "The Kitchen søker kokk til fast stilling på Ammerud\n\nHar du en rett du gleder deg til å servere andre? Hos The Kitchen får du være med å forme bistromenyen og sette ditt preg på maten vi serverer. Vi bygger opp bistro og catering på Ammerud i Oslo og ser etter en kokk som har lyst til å bli med.\n\nHos oss får du jobbe med alt fra å teste en ny rett til å lage mat til selskaper og arrangementer. Vi ser etter deg som er glad i å lage mat, tar initiativ og vil ta ansvar på kjøkkenet. Vi er nysgjerrige på hva du kan og hva du har lyst til å skape sammen med oss.\n\nArbeidssted -- Ammerud, Oslo\n\nAnsettelse -- Fast stilling, [100%]\n\nOppstart -- [etter avtale]\n\nHøres dette ut som noe for deg? Send oss CV-en din via link eller til Lavrans.lilleland@hotmail.com\n\nSkriv gjerne et par linjer om hvorfor du har lyst til å jobbe hos oss."
   },
   {
-   "id": "nav-14089fc7-fd35-4af0-97ec-777eed812728",
-   "uuid": "14089fc7-fd35-4af0-97ec-777eed812728",
-   "title": "Heltid KASSAMEDARBEIDERE / SERVITØRER!",
-   "jobtitle": "Servitør",
-   "employer": "Grills ville",
-   "location": "OSLO, OSLO",
-   "postalCode": "0257",
-   "published": "2026-11-16T10:22:21+01:00",
-   "updated": "2026-11-22T01:31:49.860808+01:00",
-   "expires": "2026-11-22T00:00:00+01:00",
-   "applicationDue": "2026-11-22",
-   "applicationUrl": "",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/14089fc7-fd35-4af0-97ec-777eed812728",
-   "sourceurl": "",
-   "source": "Stillingsregistrering",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "2026-11-23",
-   "occupations": [
-    "Reiseliv og mat / Restaurant"
-   ],
-   "description": "🍔 SØKER 2 KASSAMEDARBEIDERE / SERVITØRER!\n\nEr du blid, effektiv og liker å jobbe med mennesker?\n\nGrills Ville på Frogner i Oslo søker 2 engasjerte og serviceinnstilte medarbeidere i 100 % stilling.\n\nVi ser etter deg som trives i et hektisk arbeidsmiljø, har godt humør og ønsker å gi kundene våre en fantastisk opplevelse.\n\nArbeidsoppgaver\n\n• \nTa imot bestillinger og betjene kassen\n\n• \nYte god kundeservice\n\n• \nServere mat og håndtere takeaway-bestillinger\n\n• \nHolde restauranten ren, ryddig og innbydende\n\n• \nSamarbeide med kollegaer for å sikre effektiv drift\n\nHvem ser vi etter?\n\n• \nDu er rask, effektiv og arbeidsom\n\n• \nDu er blid, positiv og serviceinnstilt\n\n• \nDu takler stress og høyt arbeidstempo\n\n• \nDu har gode samarbeidsevner\n\nVi tilbyr\n\n• \n100 % fast stilling\n\n• \nFull opplæring og god oppfølging\n\n• \nEt hyggelig og sosialt arbeidsmiljø\n\n• \nEn moderne og spennende arbeidsplass\n\n📍 Arbeidssted\n\nGrills Ville\n\nFrognerveien 9C, 0257 Oslo\n\n📩 Slik søker du\n\nSend en kort søknad og CV til:\n\ngrills-ville@hotmail.com\n\nVi gleder oss til å høre fra deg!"
-  },
-  {
    "id": "nav-50b5f059-6b98-47d9-82f3-f34c888311fd",
    "uuid": "50b5f059-6b98-47d9-82f3-f34c888311fd",
    "title": "Apotera.no søker en dyktig lagermedarbeider!",
@@ -7873,56 +7850,6 @@
    "description": "About the role\nNovanet is a specialised technology consultancy with deep expertise in .NET, architecture and advisory services. You will work with experienced colleagues and recognised Norwegian customers on complex technology challenges.\nWhat you will do\n• Develop modern backend and full-stack solutions with .NET, C# and React.\n• Advise customers on architecture, technology choices and delivery.\n• Work with Azure, DevOps pipelines and modern engineering practices.\n• Take responsibility in customer-facing teams and contribute to knowledge sharing.\nWho we are looking for\n• At least three to four years of professional development experience and strong .NET and C# skills.\n• Experience with Azure, DevOps and modern JavaScript frameworks.\n• Commercial understanding and confidence in customer dialogue.\n• Motivation to learn Norwegian over time.\nWhat we offer\n• An experienced .NET environment, employee ownership and dedicated development budgets.\n• Five weeks of vacation, 6% pension and strong insurance coverage.\n• Total compensation typically around 1–1.2 MNOK.\n• Hybrid working with normally one to two office days per week.\nApplications are reviewed on a rolling basis, and interviews are held continuously. The role may be filled before the deadline, so we encourage you to apply as early as possible.\nApply directly through the application form"
   },
   {
-   "id": "nav-d8437a0e-a1c7-43ea-b95f-38d64db7e495",
-   "uuid": "d8437a0e-a1c7-43ea-b95f-38d64db7e495",
-   "title": "Vi søker teamleder og miljøterapeut til nyoppstartet omsorgsbolig i Oslo",
-   "jobtitle": "",
-   "employer": "Medvind Assistanse",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-11-16T08:38:35.053+01:00",
-   "updated": "2026-11-16T12:36:12.957009+01:00",
-   "expires": "2026-12-16T22:59:00+01:00",
-   "applicationDue": "2026-12-16",
-   "applicationUrl": "https://kollegia.no/jobs/qd7f2n45c24ktycgz90w0mhxa58jamxa?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d8437a0e-a1c7-43ea-b95f-38d64db7e495",
-   "sourceurl": "https://kollegia.no/jobs/qd7f2n45c24ktycgz90w0mhxa58jamxa?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Miljøarbeidere"
-   ],
-   "description": "Arbeidssted: Dalsroa, Oslo (1285)\nStilling: Teamleder (100 %) og miljøterapeut i medleverturnus (100 %)\nAnsettelsesform: Fast ansettelse\nOppstart: 1. januar 2027, eller etter avtale\n\nVil du være med på å videreutvikle en ny avdeling og skape gode hverdager for mennesker med behov for tilrettelagte tjenester?\n\nViken Bo og Omsorg søker en engasjert teamleder og en miljøterapeut medlever til vår avdeling Dalsroa i Oslo. Vi ser etter deg som ønsker å bidra til faglig utvikling, trygge rammer og gode tjenester for mennesker med sammensatte bistandsbehov.\n\nHos oss får du muligheten til å være med på å videreutvikle en ny avdeling, bidra til et godt arbeidsmiljø og gjøre en forskjell i hverdagen til våre tjenestemottakere.\n\nOm avdelingen\n\nDalsroa er en av Viken Bo og Omsorgs nyeste avdelinger. Boligen er utviklet i tett samarbeid med pårørende, som har vært involvert i utformingen av både leiligheter og fellesarealer.\n\nAvdelingen består av moderne, individuelt tilrettelagte leiligheter med tilgang til felles oppholdsarealer og hage. Her tilbyr vi helse- og omsorgstjenester til syv unge voksne, med mål om å skape en trygg, forutsigbar og meningsfull hverdag med fokus på mestring, trivsel og livskvalitet.\n\nI forbindelse med at en ny beboer flytter inn 1. januar 2027, ønsker vi å styrke personalgruppen med flere dyktige medarbeidere.\n\nOm stillingene\n\nTeamleder – 100 % fast stilling\n\nSom teamleder får du en sentral rolle i å bidra til struktur, kvalitet og god samhandling i avdelingen. Stillingen kombinerer miljøterapeutisk arbeid med operativ koordinering og faglig oppfølging.\n\nStillingen består av omtrent 80–85 % brukerrettet arbeid i langvaktsturnus, mens resterende tid benyttes til teamlederoppgaver.\n\nTeamleder samarbeider tett med avdelingsleder og øvrige fagressurser om den daglige driften og kvaliteten på tjenestene. Rollen innebærer ikke personalansvar.\n\nMiljøterapeut – 100 % fast stilling i medleverturnus\n\nSom miljøterapeut blir du en viktig del av det daglige miljøterapeutiske arbeidet. Du skal bidra til trygghet, stabilitet og forutsigbarhet for beboerne gjennom målrettet oppfølging og individuelt tilpassede tiltak.\n\nMedleverturnusen gir mulighet for kontinuitet i relasjonsarbeidet og sammenhengende friperioder.\n\nArbeidsoppgaver\n\nTeamleder:\n\n• \n\n• \nOperativ koordinering og strukturering av det daglige arbeidet\n\n• \n\n• \nFordeling og oppfølging av arbeidsoppgaver i teamet\n\n• \n\n• \nVeiledning og faglig støtte til medarbeidere\n\n• \n\n• \nBidra til at tiltak, rutiner og faglige føringer følges\n\n• \n\n• \nOppfølging av dokumentasjon og tiltaksarbeid\n\n• \n\n• \nSamarbeid med avdelingsleder og øvrige fagressurser\n\n• \n\n• \nBidra til fagutvikling, kvalitetssikring og et godt arbeidsmiljø\n\n• \n\n• \nIdentifisere og melde behov for forbedringer og oppfølging\n\n• \n\nMiljøterapeut:\n\n• \n\n• \nMålrettet miljøterapeutisk arbeid og individuell oppfølging\n\n• \n\n• \nBistand og veiledning i daglige gjøremål og aktiviteter\n\n• \n\n• \nSkape trygghet, struktur og forutsigbarhet i hverdagen\n\n• \n\n• \nGjennomføre og evaluere individuelle tiltak\n\n• \n\n• \nDokumentasjon, rapportering og avvikshåndtering\n\n• \n\n• \nSamarbeid med kolleger, pårørende og relevante samarbeidspartnere\n\n• \n\n• \nBidra til faglig utvikling og kvalitet i tjenestene\n\n• \n\nKvalifikasjoner\n\n• \n\n• \nBachelor innen vernepleie eller annen relevant helse- og sosialfaglig utdanning på minimun bachelornivå\n\n• \n\n• \nGode norskkunnskaper, både muntlig og skriftlig\n\n• \n\n• \nEvne til å arbeide selvstendig og i team\n\n• \n\n• \nTilfredsstillende politiattest må fremvises før oppstart\n\n• \n\nDet er en fordel med:\n\n• \n\n• \nErfaring fra arbeid med mennesker med psykisk utviklingshemming\n\n• \n\n• \nKjennskap til målrettet miljøarbeid og helse- og omsorgstjenesteloven kapittel 9\n\n• \n\n• \nErfaring med dokumentasjon og tiltaksarbeid\n\n• \n\n• \nErfaring med koordinering eller faglig veiledning, særlig for teamlederstillingen\n\n• \n\nTidligere erfaring er en fordel, men ikke et krav.\n\nPersonlige egenskaper\n\nVi ser etter deg som:\n\n• \n\n• \nEr trygg, ansvarsbevisst og relasjonsorientert\n\n• \n\n• \nHar gode samarbeidsevner og bidrar positivt til arbeidsmiljøet\n\n• \n\n• \nEr strukturert og løsningsorientert\n\n• \n\n• \nEvner å bevare roen og gjøre gode vurderinger i krevende situasjoner\n\n• \n\n• \nHar interesse for faglig utvikling og kvalitetsarbeid\n\n• \n\n• \nEr fleksibel og tilpasningsdyktig\n\n• \n\n• \nMotiveres av å bidra til mestring og gode hverdager for andre\n\n• \n\nPersonlig egnethet vil bli vektlagt.\n\nVi tilbyr\n\n• \n\n• \nMulighet til å være med på å videreutvikle en ny avdeling\n\n• \n\n• \nEn meningsfull jobb med faglige utfordringer\n\n• \n\n• \nEt arbeidsmiljø med fokus på samarbeid og utvikling\n\n• \n\n• \nSystematisk opplæring og faglig veiledning\n\n• \n\n• \nTett samarbeid med engasjerte kolleger og ledere\n\n• \n\n• \nLønn etter gjeldende tariffavtale og ansiennitet\n\n• \n\n• \nGode pensjons- og forsikringsordninger\n\n• \n\nHvem er vi?\n\nViken Bo og Omsorg er en privat tilbyder av helse- og omsorgstjenester, med solid fagkompetanse innen helhetlige og individuelt tilpassede tilbud.\n\nVi arbeider med voksne tjenestemottakere med sammensatte utfordringer knyttet til blant annet psykisk utviklingshemming, psykisk helse og rus. Vårt arbeid er forankret i strukturert og målrettet miljøterapi, med mål om å skape trygge rammer, meningsfulle hverdager og opplevelse av mestring for den enkelte. Med over 250 ansatte og avdelinger i Oslo, Akershus, Bergen og Østfold er vi i kontinuerlig utvikling.\n\nØnsker du å bidra til å utvikle gode tjenester og et sterkt fagmiljø? Vi ser frem til å motta din søknad!"
-  },
-  {
-   "id": "nav-554b2e17-d434-4c56-b983-129305b8b4cb",
-   "uuid": "554b2e17-d434-4c56-b983-129305b8b4cb",
-   "title": "Vi søker miljøarbeidere til faste langvaktstillinger i Oslo",
-   "jobtitle": "",
-   "employer": "Medvind Assistanse",
-   "location": "OSLO",
-   "postalCode": null,
-   "published": "2026-11-16T08:38:21.456+01:00",
-   "updated": "2026-11-16T12:21:12.739205+01:00",
-   "expires": "2026-12-16T22:59:00+01:00",
-   "applicationDue": "2026-12-16",
-   "applicationUrl": "https://kollegia.no/jobs/qd7e2z6v9y084r618nsnt78gn18ja4yf?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/554b2e17-d434-4c56-b983-129305b8b4cb",
-   "sourceurl": "https://kollegia.no/jobs/qd7e2z6v9y084r618nsnt78gn18ja4yf?utm_source=arbeidsplassen&utm_medium=nav&utm_campaign=ats",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Deltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Andre helseyrker"
-   ],
-   "description": "Stillingsprosent: Ca. 82 %\nArbeidssted: Oslo, 1290\nTurnus: Langvakter\nOppstart: Etter avtale\n\nHvem vi er\n\nViken Bo og Omsorg er en privat tilbyder av helse- og omsorgstjenester, med solid fagkompetanse innen helhetlige og individuelt tilpassede behandlings- og oppfølgingstilbud.\n\nVi arbeider med voksne mennesker som har sammensatte bistandsbehov, og vårt arbeid er forankret i strukturert og målrettet miljøarbeid. Målet er å skape trygge rammer, meningsfulle hverdager og opplevelse av mestring for den enkelte.\n\nHos oss blir du en del av et fagmiljø med fokus på samarbeid, kvalitet og individuelt tilpassede tjenester.\n\nOm stillingene\n\nVi søker tre engasjerte og trygge miljøarbeidere til faste deltidsstillinger på ca. 82 % i Oslo.\n\nStillingene inngår i langvaktsturnus, og passer for deg som ønsker å arbeide lengre vakter med sammenhengende friperioder.\n\nSom miljøarbeider vil du bidra til å skape trygghet, struktur og gode hverdager for mennesker med psykisk utviklingshemming og behov for tett oppfølging.\n\nArbeidet innebærer praktisk bistand, relasjonsbygging, miljøarbeid og oppfølging av individuelle tiltak.\n\nVi ser etter deg som trives med å arbeide tett på mennesker, er trygg i møte med utfordrende situasjoner og ønsker å bidra til gode og forsvarlige tjenester.\n\nArbeidsoppgaver\n\n• \n\n• \nUtføre målrettet miljøarbeid og individuell oppfølging av tjenestemottakere\n\n• \n\n• \nBidra til trygghet, struktur, mestring og meningsfulle aktiviteter\n\n• \n\n• \nGi praktisk bistand og støtte i daglige gjøremål\n\n• \n\n• \nGjennomføre tiltak i tråd med gjeldende vedtak og tiltaksplaner\n\n• \n\n• \nArbeide etter rutiner og relevante bestemmelser i helse- og omsorgstjenesteloven kapittel 9\n\n• \n\n• \nDokumentere og rapportere i tråd med gjeldende rutiner\n\n• \n\n• \nSamarbeide tett med kolleger og ledelse\n\n• \n\n• \nBidra til et trygt og godt arbeidsmiljø\n\n• \n\n• \nMelde fra om avvik og behov for oppfølging\n\n• \n\nKvalifikasjoner\n\n• \n\n• \nErfaring fra arbeid med mennesker med psykisk utviklingshemming\n\n• \n\n• \nErfaring med arbeid etter helse- og omsorgstjenesteloven kapittel 9\n\n• \n\n• \nGode norskkunnskaper, både muntlig og skriftlig\n\n• \n\n• \nPolitiattest må fremlegges før oppstart\n\n• \n\nPersonlige egenskaper\n\nVi ser etter deg som:\n\n• \n\n• \nEr trygg, omsorgsfull og relasjonsorientert\n\n• \n\n• \nHar god omstillingsevne og trives med varierte arbeidsoppgaver\n\n• \n\n• \nBidrar til tillit og trygghet i møte med tjenestemottakere\n\n• \n\n• \nEr tydelig og rolig i krevende situasjoner\n\n• \n\n• \nEvner å arbeide selvstendig og ta ansvar\n\n• \n\n• \nHar gode samarbeidsevner og bidrar positivt i personalgruppen\n\n• \n\n• \nEr opptatt av kvalitet og gode tjenester\n\n• \n\nPersonlig egnethet vil bli vektlagt.\n\nVi tilbyr\n\n• \n\n• \nEn variert og meningsfull arbeidshverdag\n\n• \n\n• \nLangvaktsturnus med sammenhengende friperioder\n\n• \n\n• \nSystematisk opplæring og faglig veiledning\n\n• \n\n• \nEt inkluderende arbeidsmiljø med fokus på samarbeid og kvalitet\n\n• \n\n• \nLønn etter gjeldende tariffavtale og ansiennitet\n\n• \n\n• \nPensjons- og forsikringsordninger\n\n• \n\nSøknader vurderes fortløpende."
-  },
-  {
    "id": "nav-3b7679f9-7e98-4c22-b1e8-05b15c293ef5",
    "uuid": "3b7679f9-7e98-4c22-b1e8-05b15c293ef5",
    "title": "Business controller",
@@ -7996,31 +7923,6 @@
     "Salg og service / Salg, butikk- og varehandel"
    ],
    "description": "Salgskonsulent\nHar du lyst å tjene veldig godt og er sulten på suksess?\nLiker du å snakke med mennesker og elsker følelsen av å vinne?\n\nGodt å høre, for nå ser vi etter selgere til å styrke laget. Vi er en god gjeng som jobber på ulike team, noen team er på stand/felt og andre på dør, noen jobber med klassisk tjenstesalg andre med fundraising/veldedighet, så her har du mulighet å velge det som passer deg best.\n\nVi legger vekt på at du skal bli en del av teamet og at vi skal ha en bra arbeidsmiljø, slik at du trives godt, har det gøy og får prestert på ditt beste. Uansett om du har lang fartstid i salgsbransjen eller er helt fersk, vil vi ta godt vare på deg, sørge for at du utvikler deg videre, og leverer skikkelig gode resultater.\n\nDu får tilgang til vårt helt eget salgsakademi, grundig personlig opplæring og coaching, og vi har en kultur hvor vi sørger for å lære og utvikle oss sammen, slik at vi blir de beste menneskene og selgerne vi kan. Ved å mestre salg ansikt til ansikt vil du bygge en ekstremt god erfaring som du kan bruke videre i karrieren uansett hvor du ender, i relasjoner, nettverking, presentasjoner, taler osv.\n\nDet skal sies at de fleste av våre ansatte fikk høre om oss fra en venn som allerede jobber her, mange har valgt å bytte fra andre salgsbyråer til oss, og vi har fått sertifisering fra \"Great Place To Work\" - så det virker som vi er en veldig god plass å være på.\n\nHos oss har du muligheten å tjene veldig godt og ha gøy, samtidig som du utvikler deg og bygger karriere. Så lenge du har en lyst å få det til, så hjelper vi deg å komme dit.\n\nVi tilbyr deg:\n• Attraktiv lønn og belønninger: Vi tilbyr en svært konkurransedyktig provisjonsmodell med mulighet for garantilønn i starten. Vi skal ha de beste modellene i bransjen, ettersom det gjør at våre selgere er førnøyde og blir, win-win. Våre selgere, enten de jobber full- eller deltids, har en gjennomsnittslønn på 42.000 kr/mnd, 60.000 kr/mnd for heltidsansatte. Våre beste selgere tjener fort over 100.000 kr hver måned. Vi arrangerer også konkurranser med premier som kinobilletter, reiser og vår årlige Rolex-konkurranse.\n• Verdifulle produkter: Jobb med produkter og tjenester som gir verdi til kundene og som du kan være stolt av å selge. Vi samarbeider med noen av Norges største merkevarer inkludert Fortum og anerkjente veldedighet via norske veldedighetsorganisasjoner. \n• Utviklingsmuligheter: Få faglig og personlig utvikling gjennom vårt eget salgsakademi. Du vil også ha tett oppfølging og coaching fra erfarne salgsledere som vet hva som skal til for å lykkes i bransjen..\n• Inspirerende arbeidsmiljø: Vi vet hvor viktig et godt arbeidsmiljø er for at vi alle skal lykkes med salget. Mye sosial og levende bedrift, alt ifra bordtennis og billiard på kontoret, til folk som trener sammen, samt middager og afterwork, her tar vi vare på hverandre og sørger for at vi har det bra. Vi lever etter prinsippet \"frihet under ansvar\", vi har selgere som jobber full- og deltid, stand teamet jobber ca 10-18, dørteamet 14-21, det er også mulig å jobbe helger etter eget ønske.\n• Karrieremuligheter: Se for deg en karrierevei som starter her og fører til spennende muligheter. Våre teamledere og salgssjefer har steget opp fra egne rekker, og våre gründere begynte som selgere akkurat som deg. Karrieremuligheter over tid - noen av de vi jobbet sammen med gjennom årene har blitt Salgssjefer, Rekrutteringsrådgivere, Finansmeglere, Account Manager innenfor IT og HR, startet egne bedrifter osv.\n• Lokasjon: Vi har hovedkontoret sentralt ved Helsfyr i Oslo, med avdelinger sentralt i Bergen og Stavanger. For de som ønsker er det også mulighet å reise rundt i Norge på salgsreiser.\n\nKrav:\n• Flytende muntlig norsk/skandinavisk: Siden våre kunder er Norske privatpersoner\n• Erfaring: Tidligere salgserfaring er meritterende, men langt ifra påkrevd, vi er vant til å lære opp folk fra grunn og opp\n• Et \"Hvorfor\": Vi er interessert i å vite hva som driver og motiverer deg. Det kan være karriereambisjoner, personlig utvikling, salgserfaring, inntjening eller andre mål, slik at du er motivert til jobben, og vi kan hjelpe deg på veien.\n\nHøres dette ut som noe for deg?\nKult, du kan ta kontakt eller sende CV/søknad så finner vi ut hvis dette er en god match. Vi ansetter fortløpende, og har mulighet å vente på deg med riktige evner.\n\nFor ytterligere informasjon eller spørsmål:\nTa kontakt med meg, så hjelper jeg til. Du kan også besøke vår hjemmeside: https://www.abmarketing.no/\n\nKontaktinformasjon\nEpost: rasmus@abmarketing.no, mobil: +47 46 30 54 32\nLinkedIn: https://www.linkedin.com/in/perrasmusjohansson/\nSøknad og CV kan også sendes via vår rekrutteringsportal:\nhttps://abmarketing.recman.no/register.php\n\nGleder meg til å høre fra deg! :)"
-  },
-  {
-   "id": "nav-ddb64c77-1ddf-4f1a-9ed4-4f9e248a6704",
-   "uuid": "ddb64c77-1ddf-4f1a-9ed4-4f9e248a6704",
-   "title": "- Vi søker tømrere / We are hiring carpenters",
-   "jobtitle": "Tømrere / Carpenters",
-   "employer": "Personellgruppen",
-   "location": "OSLO, OSLO",
-   "postalCode": "0668",
-   "published": "2026-11-16T00:00:01+01:00",
-   "updated": "2026-11-16T16:03:26.94401+01:00",
-   "expires": "2026-11-22T23:59:59+01:00",
-   "applicationDue": "Snarest",
-   "applicationUrl": "https://apply.recman.page/job_post.php?id=493248&path=nav&sub_id=890",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ddb64c77-1ddf-4f1a-9ed4-4f9e248a6704",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Annet",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Håndverkere / Tømrer og snekker"
-   ],
-   "description": "Vi søker tømrere til prosjekter over hele Norge\n\nVi søker dyktige tømrere til oppdrag med snarlig oppstart. Arbeidet vil foregå på prosjekter flere steder i landet.\nEr dette aktuelt for deg? Send søknad eller ta kontakt på e-post: markus@personellgruppen.no\n\nØnskede kvalifikasjoner:\n• Fagbrev som tømrer er en fordel, men lang erfaring kan kompensere for manglende fagbrev\n• Erfaring fra arbeid i Norge er en stor fordel\n• Erfaring med konstruksjon, montering, innvendig og utvendig arbeid\n• Evne til å jobbe selvstendig og effektivt\n• Gode kommunikasjonsevner og forståelse av norsk og/eller engelsk\n\nVi tilbyr:\n• Et godt arbeidsmiljø med hyggelige kolleger\n• Oppdrag med gode muligheter for forlengelse\n• Gode betingelser, forsikringer og pensjonsordning\n• Hjelp til å skaffe bolig ved behov\n\nSøk snarest – ansettelser skjer fortløpende.\n\nPersonellgruppen ansetter kontinuerlig kandidater til flere typer stillinger og prosjekter over hele landet. Dersom du har erfaring fra tekniske fag eller prosjektarbeid, oppfordrer vi deg til å ta kontakt.\n\nJoin our job board on WhatsApp: Link\n______________________\n\nWe are hiring Carpenters for projects across Norway\n\nWe are looking for skilled carpenters for projects with immediate start. The work will take place on projects in different locations across Norway.\nInterested? Send your application or contact us by email: markus@personellgruppen.no\n\nDesired qualifications:\n• Trade certificate as a carpenter is an advantage, but long experience can compensate for lack of formal certification\n• Experience working in Norway is a strong advantage\n• Experience with construction, installation, and interior/exterior work\n• Ability to work independently and efficiently\n• Good communication skills and understanding of Norwegian and/or English\n\nWe offer:\n• A good working environment with friendly colleagues\n• Projects with good possibilities for extension\n• Competitive conditions, insurance, and pension scheme\n• Assistance with accommodation if needed\n\nApply as soon as possible – hiring takes place on an ongoing basis.\n\nPersonellgruppen continuously recruits candidates for several types of positions and projects across Norway. If you have experience in technical trades or project-based work, we encourage you to get in touch.\n\nJoin our job board on WhatsApp: Link"
   },
   {
    "id": "nav-fd66793d-26a8-4cb5-8187-47a23ec5bcfd",
@@ -9362,31 +9264,6 @@
    "description": "Vårt slagord er Joker – Den gode naboen. Det er fordi gode naboer og godt naboskap er positive begreper for oss alle. \nVi søker deg som vil jobbe hos den gode naboen, du må bry deg, hjelpe til, like å slå av en prat og være en pådriver for det gode naboskapet.\nVi søker nå:\n• 2 x butikkmedarbeidere - heltid\n\n Sentrale arbeidsoppgaver:\n• Kassaarbeid\n• Kundebehandling\n• Varepåfylling\n• ​Annet forefallende arbeid\n Ønskede kvalifikasjoner:\n• Du er fleksibel og kan stå på når det trengs; ​må kunne jobbe morgenskift, kveldsskift og helger, da butikkene er åpne hver dag hele året\n• Du er rask, har godt humør og er serviceinnstilt\n• Du er selvstendig, men likevel god til å samarbeide\n• ​Er punktlig og ryddig\n• Er ærlig, ansvarsbevisst og til å stole på\n• Trives med å være synlig ovenfor kunder og sikre at de får service utover det de forventer\n• Søkere må være over 18 år. \n Vi kan tilby:\n• Opplæring og videreutvikling gjennom kjedens utviklingsprogrammer\n• Du må kunne jobbe helger og kvelder\n• Det er ønskelig med snarlig tiltredelse.\nVi kan foreta bakgrunnskontroller fra Semac AS ved rekruttering til våre butikker.\nVi ser frem til å høre fra deg!"
   },
   {
-   "id": "nav-01507cd8-7357-4429-aa25-50bf0e66d15c",
-   "uuid": "01507cd8-7357-4429-aa25-50bf0e66d15c",
-   "title": "Spesialutdannet vernepleier",
-   "jobtitle": "Spesialutdannet vernepleier",
-   "employer": "Behandlingsenhet 2, Oslo universitetssykehus HF",
-   "location": "OSLO, OSLO",
-   "postalCode": "0450",
-   "published": "2026-11-16T00:00:00+01:00",
-   "updated": "2026-11-16T08:51:38.33408+01:00",
-   "expires": "2026-11-22T00:00:00+01:00",
-   "applicationDue": "2026-11-22T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5210187938&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/01507cd8-7357-4429-aa25-50bf0e66d15c",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Deltid",
-   "sector": "Offentlig",
-   "starttime": "2026-12-14",
-   "occupations": [
-    "Helse og sosial / Vernepleier"
-   ],
-   "description": "Vil du bli med i utviklingen av et spennende fagfelt, i tett samarbeid med dyktige kolleger?\nBehandlingsenhet 2 ved Seksjon rus- og avhengighetsbehandling voksen søker nå deg som er en engasjert spesialutdannet vernepleier til et halvt års vikariat.\nHer arbeider vi tverrfaglig i team sammen med gode kolleger for å kunne tilby våre pasienter best mulig behandling.\nTil det beste for pasienten – Bli vår kollega!\nSom spesialutdannet vernepleier har du en viktig funksjon hos oss, og du spiller en avgjørende rolle i å sikre trygge og gode pasientopplevelser. Vi søker en engasjert spesialutdannet vernepleier som ønsker å være med på å forme et sunt, inkluderende og positivt arbeidsmiljø. Du er en person som både kan jobbe selvstendig og som setter pris på godt samarbeid i team. Du har evnen til å bygge relasjoner, ta initiativ og bidra aktivt til arbeidsprosesser som fremmer både pasientenes og kollegenes trivsel.\nAvdeling rus- og avhengighetsbehandling ved Klinikk psykisk helse og avhengighet har ansvar for tverrfaglig spesialisert rusbehandling for innbyggerne i Oslo. Avdelingen er landets største enhet for tverrfaglig spesialisert rusbehandling. Rus- og avhengighetsmedisin er et fagfelt i rivende utvikling. Seksjon rus- og avhengighetsbehandling voksen har ansvaret for behandling av voksne rusmiddelavhengige pasienter og tilbyr et differensiert tilbud til pasientgruppen. Ved våre 2 enheter tilbyr vi døgnbehandling og det kliniske arbeidet ved seksjonen er tverrfaglig bemannet med leger, sykepleiere, vernepleiere, psykologer, sosionomer og annet helse- og sosialfaglig personell. Vi har stort fokus på fysisk aktivitet, og har det siste året startet opp med traumesensitiv behandling. Dette arbeidet er noe alle medarbeidere deltar i.\nVi søker spesialutdannet vernepleier til vikariat i en 80% stilling ved Behandlingsenhet 2. Stillingen innebærer arbeid hver tredje helg p.t. Vikariatet har oppstart 14.12.26 og avsluttes 13.06.27. Det vil kunne bli mulighet for forlengelse. \n\nVi ser etter deg som er opptatt av høy faglig kvalitet og god kommunikasjon i møte med pasienter og kolleger. Du møter et bredt spekter av pasienter med sammensatt problematikk innenfor rus og avhengighet, sosiale problemer, samt somatiske og psykiske lidelser. God elektronisk dokumentasjon er en viktig del av hverdagen, og tverrfaglig samarbeid er avgjørende for å få til ønsket kvalitet på behandlingen vi tilbyr. Dette er derfor noe du må være interessert i, og ønske å ha fokus på. \nVi ønsker at du trives med å jobbe i en stor, kompleks organisasjon som er i stadig utvikling, og at du ser muligheter i endringene vi møter. Sammen kan vi skape et trygt og inkluderende arbeidsmiljø som gir både ansatte og pasienter den støtten og tryggheten de trenger.\nVirker vi som en arbeidsplass du vil være en del av? Vi ser frem til å høre fra deg og håper du vil bli en viktig del av vårt team!\n\nOslo universitetssykehus er en arbeidsplass med stort mangfold. Vi mener dette er avgjørende for å løse våre oppgaver på best mulig måte. Vi ønsker at dette mangfoldet skal gjenspeiles blant søkerne til våre stillinger, og oppfordrer alle kvalifiserte kandidater, uavhengig bakgrunn, til å søke!\n\nArbeidsoppgaver\nHvordan ser en arbeidshverdag ut? \n• Ivareta det vernepleiefaglige ansvar og oppgaver i tverrfaglig spesialisert rusbehandling.\n• Benytte anerkjente metoder i kartlegging, vurdering, utredning og behandling av pasienter og i møte med pårørende.\n• Assistere og koordinere medisinsk og annen helsefaglig behandlingsvirksomhet, herunder medikamenthåndtering.\n• Bidra til videreutvikling av det helsefaglige arbeidet på enheten.\n• Mottak av pasienter.\n• Primærkontaktansvar.\n• Observasjon og oppfølging av pasienter ihht behandlingsplaner.\n• Dokumentasjon av behandling gitt og virkning av denne.\n• Miljøterapeutiske intervensjoner, motivasjons- og støttesamtaler.\n• Veiledning av kolleger og studenter.\n• Undervisning for pasienter og kolleger.\n• Fagutvikling og ansvar for utvalgte ansvarsområder, f.eks dokumentasjon og fysisk aktivitet.\nKvalifikasjoner\nFor å trives med arbeidsoppgaver hos oss, ser vi etter deg som:\n• Norsk autorisasjon som vernepleier.\n• Videreutdanning i rus og avhengighetsproblematikk eller psykisk helse.\n• Erfaring med miljøterapi.\n• Erfaring fra arbeid med pasientgruppen.\n• Kjennskap til motiverende intervju og kognitiv terapi.\n• Gode IKT kunnskaper.\n• Gode muntlige og skriftlige norskkunnskaper (minimum B2/C1).\n• Attester, tjenestebevis og dokumentasjon på tidligere arbeidserfaring og relevant utdanning legges ved søknaden. Dette danner grunnlag for vurdering av kompetanse og fastsettelse av lønn.\nPersonlige egenskaper\n• Du er faglig og personlig trygg, og arbeider selvstendig, strukturert og ansvarsbevisst.\n• Du har gode evner til kontaktetablering.\n• Du er engasjert og strukturert, med god evne til å holde oversikt.\n• Du har evnen til tett og forpliktende lagsamarbeid på tvers av ulike fagmiljøer.\n• Du har gode kommunikasjons- og samarbeidsevner, og kan bygge relasjoner med pasienter, pårørende og kolleger.\n• Du har et ønske om faglig utvikling, og tar initiativ til din egen opplæring og utvikling.\n• Du er en aktiv bidragsyter for å skape et godt arbeidsmiljø, og bygge gode relasjoner og nettverk i sykehuset.\n• Du er en synlig ambassadør for pasientgruppen, og arbeider for å fremme deres interesser og behov.\n• God muntlig og skriftlig fremstillingsevne og gode dokumentasjonsferdigheter.\nVi tilbyr\nSom verepleier er du en attraktiv og viktig medarbeider for oss! \nOslo universitetssykehus har et viktig samfunnsoppdrag i det å tilby gode og likeverdige helsetjenester til befolkningen. Som vernepleier ved sykehuset vil du ha en sentral rolle i å innfri dette. Du har stor betydning for pasientsikkerhet, trivsel på arbeidsplassen og utvikling av en trygg, åpen og inkluderende kultur. \n\nVi er opptatt av at du skal trives og utvikle deg, les under hva vi kan tilby deg:\n\n• Du blir en del av en faglig sterk arbeidsplass og stolte fagpersoner. \n• Du blir en del av et viktig samfunnsoppdrag, hvor du er tett på pasienter og pårørende.\n• Du får en utfordrende, variert og spennende hverdag i en kompleks organisasjon som er i kontinuerlig utvikling.\n• Du blir en del av et tverrfaglig arbeidsmiljø med høy kompetanse, og et utstrakt samarbeid med dedikerte kolleger som er ledende innenfor sine fagområder.\n• Du blir gitt gode muligheter for faglig og personlig utvikling. Du får god opplæring og det vil være mulighet for interne kurs og årlige seminarer, samt faglig påfyll underveis.\n• Vi tar vare på våre nye medarbeidere og støtter deg gjennom oppstartsfasen med vårt sentrale nyansattprogram, les mer: https://www.oslo-universitetssykehus.no/om-oss/jobb-og-utdanning/arbeidsplassen-var/velkommen-med-pa-laget/\n\n• Vi har velferdstilbud for våre medarbeidere, f. eks. teaterbilletter, bedriftskor, bedriftsidrettslag m.m.\nI Oslo universitetssykehus driver vi med avansert pasientbehandling, forskning, utprøvende behandling, undervisning og innovasjon på et høyt internasjonalt nivå. Vi er derfor hele Norges bakvakt! Vi trenger deg med på laget!\n\nHøres dette ut som en stilling for deg? Vi gleder oss til å lese din søknad. \n\nVil du vite mer om oss? \nLes om dine muligheter som sykepleier ved Norges største helsefaglige arbeidsplass: https://www.oslo-universitetssykehus.no/om-oss/jobb-og-utdanning/sykepleier \nKontaktinformasjon\nHelene Lange Herstad, Enhetsleder, +4723020807, helehe@ous-hf.no\n\nArbeidssted\nKirkeveien 166\n\n0450 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo universitetssykehus HF\n\nReferansenr.: 5210187938\n\nStillingsprosent: 80%\n\nVikariat\n\nStartdato: 14.12.2026\n\nSluttdato: 13.06.2027\n\nSøknadsfrist: 22.11.2026"
-  },
-  {
    "id": "nav-d6cee6c5-c551-4ef2-baaf-64b32c085c53",
    "uuid": "d6cee6c5-c551-4ef2-baaf-64b32c085c53",
    "title": "Vi søker miljøarbeidere til faste langvaktstillinger i Oslo",
@@ -9685,83 +9562,6 @@
     "Reiseliv og mat / Kokk"
    ],
    "description": "Vi søker kokker og kjøkkenmedarbeidere til våre restauranter\nHelt Vilt Mathallen | Helt Vilt Stortingsgaten | Bistro Budapest\n\nHva vi ser etter\n\n• \nHar erfaring fra profesjonelt kjøkken\n\n• \nTrives i høyt tempo og liker operative dager\n\n• \nEr strukturert, pålitelig og løsningsorientert\n\n• \nHar stolthet for faget og et ønske om å levere høy kvalitet\n\n• \nSamarbeider godt med andre og bidrar til et positivt arbeidsmiljø\n\n• \nKommuniserer godt på engelsk. Behersker du et skandinavisk språk er det en fordel\n\n• \nBosatt i Norge\n\nArbeidsoppgaver\n\nDenne høsten åpner vi en ny restaurant i Oslo sentrum, og vi søker erfarne, engasjerte og positive medarbeidere til våre restauranter.\n\nVi tilbyr både heltids- og deltidsstillinger, og ønsker gjerne kandidater som ser for seg et langsiktig arbeidsforhold.\n\nArbeidsoppgver:\n\n• \nTilberedning og produksjon av mat\n\n• \nBidra til effektiv service og godt samarbeid på kjøkkenet\n\n• \nSikre kvalitet og god presentasjon av rettene\n\n• \nFølge rutiner for IK-mat, hygiene og matsikkerhet\n\n• \nHolde kjøkkenet og arbeidsområdet rent\n\n• \nVaremottak og enkel lagerhåndtering\n\nVi tilbyr\n\n• \nKonkurransedyktige betingelser\n\n• \nHeltids- og deltidsstillinger\n\n• \nEt godt og inkluderende arbeidsmiljø\n\n• \nMulighet til å jobbe med spennende råvarer og konsepter\n\n• \nVarierte arbeidsdager i et profesjonelt miljø\n\n• \nFaglig utvikling og mulighet for videre karrierevekst\n\n• \nMulighet til å være med på åpningen og utviklingen av vår nye restaurant i Oslo sentrum"
-  },
-  {
-   "id": "nav-88cafd62-a160-45e8-b2cd-7b7362dff917",
-   "uuid": "88cafd62-a160-45e8-b2cd-7b7362dff917",
-   "title": "Hos oss trenger du ikke være Brann-supporter, men viktig at du brenner for brannsikkerhet",
-   "jobtitle": "Servicetekniker Brann",
-   "employer": "OneCo Elektro AS",
-   "location": "OSLO, OSLO",
-   "postalCode": "0667",
-   "published": "2026-11-15T00:00:01+01:00",
-   "updated": "2026-11-16T08:27:47.901405+01:00",
-   "expires": "2026-12-15T23:59:59+01:00",
-   "applicationDue": "15.12.2026 (Søknader behandles fortløpende)",
-   "applicationUrl": "https://apply.recman.page/job_post.php?id=493161&path=nav&sub_id=542",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/88cafd62-a160-45e8-b2cd-7b7362dff917",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Privat",
-   "starttime": "",
-   "occupations": [
-    "Bygg og anlegg / Andre ingeniører",
-    "Håndverkere / Elektriker/elektro",
-    "Sikkerhet og beredskap / Brann-, utryknings- og redningspersonell"
-   ],
-   "description": "Vil du bli en del av vårt team i Oslo? Vi søker Tekniker Brann og Sikkerhet\n\nOneCo Elektro i Oslo søker teknikere med spesiell kompetanse og interesse for brannsikkerhet. Hos oss får du jobbe med moderne løsninger innen brannalarm, nødlys, adgangskontroll, kamera og talevarsling - og samtidig bidra til trygghet og sikkerhet for kundene våre.\nDu styrer i stor grad arbeidsdagen din selv, men du står ikke alene: Vi jobber i team for å utveksle erfaringer, samarbeide når det trengs og sikre høy kvalitet i leveransene. Vi har et sterkt fagmiljø med fokus på HMS og struktur.\n\nOm stillingen\nSom tekniker får du en variert arbeidshverdag med blant annet disse arbeidsoppgavene:\n• montering, programmering og kontroll av brann- og sikkerhetssystemer\n• service og vedlikehold av brann- og nødlysanlegg, adgangskontroll, kamera og talevarsling\n• feilsøking og teknisk problemløsning\n• dokumentasjon og rapportering\n• kundekontakt og relasjonsbygging\n• ansvar for fremdrift og kvalitet i egne oppdrag\nKvalifikasjoner\nVi ser etter deg som har:\n• fagbrev som elektriker (gruppe L) eller telekom\n• erfaring med brannalarmsystemer\n• FG-750-sertifisering (en fordel), eller motivasjon for å ta sertifiseringen\n• førerkort klasse B\n• gode norskferdigheter, både muntlig og skriftlig\n• god vandel og evne til å sikkerhetsklareres\n• kjennskap til gjeldende regelverk (en fordel)\nPersonlige egenskaper\nVi ønsker en person som:\n• bryr seg om kunden og leverer som avtalt\n• arbeider selvstendig, nøyaktig og systematisk\n• er fleksibel og jobber målrettet\n• ønsker å videreutvikle seg og er åpen for varierte oppgaver\n• bidrar positivt til arbeidsmiljøet og er en god kollega\nVi tilbyr\n• et godt arbeidsmiljø med dyktige kollegaer og stor takhøyde\n• en trygg jobb i et solid selskap\n• en utfordrende og variert hverdag\n• mulighet for kurs, sertifiseringer (inkl. FG-750)\n• gode forsikringsordninger med blant annet behandlingsforsikring\nInteressert?\nOneCo Elektro har fokus på et godt og inkluderende arbeidsmiljø. Vi er opptatt av mangfold, og oppfordrer alle kvalifiserte kandidater til å søke.\nSøknader behandles fortløpende.\n\nSøknadsfrist: 15.12.2026\n\nHar du lyst til å høre mer om hvordan en hverdag hos oss vil være? Legg inn dine kontaktdetaljer, så hører du fra oss!\n\nVed spørsmål, ta kontakt med:\nAnders Engedal\nAvdelingsleder\nTlf +47 453 90 934\nE-post: anders.engedal@oneco.no"
-  },
-  {
-   "id": "nav-ba277e29-721d-4e96-b9ef-583a002fe677",
-   "uuid": "ba277e29-721d-4e96-b9ef-583a002fe677",
-   "title": "Pedagogisk leder - 30% vikariat",
-   "jobtitle": "Pedagogisk leder",
-   "employer": "Fjeldlund barnehage, Bydel Søndre Nordstrand",
-   "location": "OSLO, OSLO",
-   "postalCode": "1252",
-   "published": "2026-11-15T00:00:00+01:00",
-   "updated": "2026-11-16T08:29:18.12869+01:00",
-   "expires": "2026-11-30T00:00:00+01:00",
-   "applicationDue": "2026-11-30T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5209652297&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ba277e29-721d-4e96-b9ef-583a002fe677",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Vikariat",
-   "extent": "Deltid",
-   "sector": "Offentlig",
-   "starttime": "2026-11-18",
-   "occupations": [
-    "Utdanning / Barnehagelærer"
-   ],
-   "description": "Vi søker deg som er engasjert, leken og som ønsker å skape hverdagsmagi sammen med barna.\n\nBarnehagen ligger like ved Holmlia senter med gode tog- og bussforbindelser. Vi har skogen, flotte grøntområder, parsellhagen og en besøks-bondegård i nærheten, som gir oss mange fine turmuligheter. I parsellhagen vår dyrker- og høster vi inn ulike råvarer sammen med barna, som vi bruker i egen matproduksjon. \n\nVi er en avdelingsbarnehage med tre avdelinger og en \"satelitt\", med totalt 40 barn. Vi er opptatt av å skape et godt fellesskap og trygghet for alle, med satsningsområdene språk, lek og voksenrollen. Vi har pedagoger på alle avdelinger (1 eller 2), i tillegg til styrket grunnbemanning med tre ekstra ansatte. Hos oss er vi opptatt av \"vi-et\", og avdelingene jobber tett sammen for å sikre kvalitet og organisatorisk drift – så gode samarbeidsevner og fleksibilitet er derfor viktig for oss. \n\nBarnehagen jobber aktivt med å kunne tilby ett godt leke- og språkmiljø, hvor vi voksne er varme, trygge og engasjerte med fokus på å være en viktig del av barnets- og familienes liv. Vi er også en barnehage som verdsetter felles samlingsstunder og en hverdag fylt med kreativ utfoldelse og musikk. \n\nVi har nå ledig et 30% vikariat som pedagogisk leder, så søk- og bli en del av vårt team! Vikariatet varer i utgangspunktet ut april 2027, med mulighet for forlengelse. Arbeidsdager er onsdager, og annenhver fredag - med fast arbeidstid kl.08.30-16.00. \n\nArbeidsoppgaver\n• Planlegge, gjennomføre og utvikle det pedagogiske arbeidet på avdelingen\n• Ansvar for å lede og veilede personalet på avdelingen\n• Holde deg faglig oppdatert, og være i utvikling\n• Bidra til et positivt leke - og læringsmiljø\n• Systematisk språkarbeid, med vekt på supplerende kommunikasjon og ASK\n• Ansvarlig for tverrfaglig samarbeid med eksterne instanser\n• Medvirke til- og sikre et godt foreldresamarbeid\n• Være aktiv bidragsyter til et positivt arbeidsmiljø\n• Være en del av lederteamet \nKvalifikasjoner\n• Godkjent barnehagelærer-/førskolelærerutdanning (Ved utdanning fra utlandet må det legges ved godkjenning. Bestått norskprøve B2- må dokumenteres i søknaden). Søkere med annen relevant erfaring kan bli vurdert til vikariatet. \n• Beherske, og være trygg på bruk av digitale verktøy og data\n• Det er ønskelig med erfaring innen visuell støtte og ASK\n• God skriftlig og muntlig fremstillingsevne på norsk, både muntlig og skriftlig\n• Godkjent politiattest må framvises ved ansettelse\n\nPersonlige egenskaper\n• Du har barns beste i fokus\n• Du har faglige ambisjoner og forventninger til deg selv og dine medarbeidere\n• Du er omsorgsfull, og en varm grensesetter\n• Du setter humor og glede høyt i samspill med andre mennesker\n• Du har gode kommunikasjons- og samarbeidsevner\n• Du liker å være ute i all slags vær, og holder deg i form til å håndtere en aktiv hverdag\n• Du har evnen til å inspirere, motivere og veilede dine kollegaer\n• Personlig egnethet vil vektlegges\nVi tilbyr\n• En hverdag som aldri er lik\n• En barnehage med fokus på faglig utvikling der alles bidrag er viktig\n• Veiledning for nyutdannede, både første og andre året etter endt utdannelse\n• 8 personalmøter og 5 fagdager pr år\n• Gode forsikrings - og pensjonsordninger\n• 100% styrer i barnehagen\n• Spennende barnehage og bydel med stort mangfold\n• Lønn etter Oslo kommunes lønnsregulativ etter lønnsramme 24, alternativ 9 i Ltr. 32-45 (for tiden kr. 614 600 - 767 500) etter dokumentert ansiennitet. \nKontaktinformasjon\nEmilie Bjerke, 21802180\n\nArbeidssted\nHolmliaveien 2\n\n1252 Oslo\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5209652297\n\nStillingsprosent: 30%\n\nVikariat\n\nStartdato: 18.11.2026\n\nSluttdato: 30.04.2027\n\nSøknadsfrist: 30.11.2026"
-  },
-  {
-   "id": "nav-1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
-   "uuid": "1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
-   "title": "Fysioterapeut I for barn og unge ",
-   "jobtitle": "Fysioterapeut 1 for barn og unge ",
-   "employer": "Fysio/ergoterapi barn og unge, Oslo kommune, Bydel Østensjø",
-   "location": "OSLO, OSLO",
-   "postalCode": "0694",
-   "published": "2026-11-15T00:00:00+01:00",
-   "updated": "2026-11-16T08:27:49.516734+01:00",
-   "expires": "2026-11-29T00:00:00+01:00",
-   "applicationDue": "2026-11-29T00:00:00",
-   "applicationUrl": "https://candidate.webcruiter.com/cv?advertid=5208641617&language=nb&link_source_id=17&utm_medium=talentech_publishing&utm_source=nav",
-   "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1b2ab4b5-ecf9-4afc-8262-ff4a9c91fd9a",
-   "sourceurl": "",
-   "source": "IMPORTAPI",
-   "engagementtype": "Fast",
-   "extent": "Heltid",
-   "sector": "Offentlig",
-   "starttime": "",
-   "occupations": [
-    "Helse og sosial / Fysioterapeut"
-   ],
-   "description": "Vi trenger to dyktige fysioterapeuter til Fysio- og ergoterapitjenesten 0 -18 i Bydel Østensjø. En av våre fysioterapeuter skal bytte felt, og vi ser derfor etter en ny kollega i fast stilling. Vi søker også etter en vikar, ettersom en av fysioterapeutene våre skal ut i svangerskapspermisjon. Vikariatet er på 100% fra 25.01.27-31.12.27. Spesifiser om du er interessert i begge stillingene, eller kun den faste stillingen. Tjenesten er lokalisert på Skullerud og er samlokalisert med mange av bydelens øvrige tjenester. Avdelingen består av 6,8 årsverk fysioterapi, 3 årsverk ergoterapi og 1 fagansvarlig barnekoordinator. Intervjuer gjennomføres i uke 49 og 50.\n\nArbeidsoppgaver\n• Undersøkelse, behandling og oppfølging av barn og unge på ulike arenaer\n• Oppfølging av barn med habiliteringsbehov\n• Ulike helsefremmende og forebyggende tiltak som for eksempel undervisning og veiledning i gruppe \n• Veiledning av og rådgivning til foreldre og øvrige involverte\n• Bidra i veiledning av studenter og turnuskandidater\n• Vurdering, formidling og oppfølging av tekniske hjelpemidler\n• Arbeid knyttet til barnekoordinator og individuell plan (IP) for innbyggere som er i behov av langvarige og koordinerte helse- og omsorgstjenester\n• Journalføring i CGM journal\n• Delta i endringsprosesser og utvikling av tjenesten\n• Ellers de arbeidsoppgaver som nærmeste leder tillegger stillingen\nKvalifikasjoner\n• Fysioterapeut med norsk autorisasjon\n• Bred erfaring med fysioterapitilbud til barn og unge, fortrinnsvis kommunehelstjenesten\n• Erfaring med oppfølging av barn med habiliteringsbehov\n• Kompetanse med hjelpemiddelformidling\n• Erfaring med tverrfaglig samarbeid og samhandling med eksterne og interne samarbeidspartene vektlegges\n• Erfaring med koordinatorarbeid og DIPS samspill\n• Fortrinnsvis erfaring med helsefremmende og forebyggende arbeid\n• Ønskelig med videreutdanning, eller tilsvarende, i fysioterapi for barn og unge, men erfaring kan kompensere\n• Ønskelig med erfaring fra endringsprosesser\n• Norskkunnskaper på bestått C1 nivå. God skriftlig og muntlig fremstillingsevne\n• Gode IKT ferdigheter\n• Gyldig politiattest må fremlegges før tiltredelse\n• Personlig egnethet vektlegges\nPersonlige egenskaper\n• Du trives med og har interesse for å arbeide med barn og unge\n• Du er positiv og har godt humør\n• Du er initiativrik og løsningsorientert\n• Du er effektiv og strukturert\n• Du har gode samrbeidsevner og liker å jobbe i team\nVi tilbyr\n• Faglig engasjerte kollegaer\n• Fleksitidsordning\n• Lønnstrinn 41 (685 600 kr), etter Oslo kommunes lønnstabell\nKontaktinformasjon\nEmmeli Eithun Skard, 21802180\n\nArbeidssted\nOlaf Helsets vei 6\n\n0694 OSLO\n\nNøkkelinformasjon:\nArbeidsgiver: Oslo kommune\n\nReferansenr.: 5208641617\n\nStillingsprosent: 100%\n\nFast\n\nSøknadsfrist: 29.11.2026"
   }
  ]
 }
